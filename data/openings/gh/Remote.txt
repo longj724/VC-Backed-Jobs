@@ -1,8 +1,0 @@
-
-  <a data-mapped="true" href="/remote/jobs/1998150">Software Engineering Immersive Instructor</a>
-  <br>
-  <span class="location">Remote</span>
-
-  <a data-mapped="true" href="/remote/jobs/2000297">Software Engineering Immersive Instructor</a>
-  <br>
-  <span class="location">Detroit</span>

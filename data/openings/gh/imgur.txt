@@ -1,4 +1,0 @@
-
-  <a data-mapped="true" href="/imgur/jobs/4394246003">Senior Product Designer</a>
-  <br>
-  <span class="location">Remote</span>

@@ -1,4 +1,0 @@
-
-  <a data-mapped="true" href="/skysafe/jobs/4278434002">Signals Reverse Engineer</a>
-  <br>
-  <span class="location">San Diego</span>
