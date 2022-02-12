@@ -1,0 +1,1011 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+    <head>
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=pVuxf-9azKeyfolE6sbsvw&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PCPVL84');</script>
+<!-- End Google Tag Manager -->
+<script type="application/javascript" src="https://wise.com/cookie-consent.js"></script>
+
+<!-- Reddit Pixel -->
+<script>
+!function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_be8wv67u');rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Reddit Pixel -->
+
+<!-- Activity name for this tag: Transferwide21 -->
+<script>
+  (function() {
+    var a = String(Math.random()) * 10000000000000;
+    new Image().src = 'https://pubads.g.doubleclick.net/activity;xsp=4796942;ord='+ a +'?';
+  })();
+</script>
+<noscript>
+  <img src='https://pubads.g.doubleclick.net/activity;xsp=4796942;ord=1?' width=1 height=1 border=0>
+</noscript>
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','o5zsx');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+        <title>Wise Careers</title>
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Careers at Wise. A global tech company, with a big mission and a startup heart. View our open jobs and help us build money without borders." />
+	<link rel="canonical" href="https://www.wise.jobs/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Wise Careers" />
+	<meta property="og:description" content="Careers at Wise. A global tech company, with a big mission and a startup heart. View our open jobs and help us build money without borders." />
+	<meta property="og:url" content="https://www.wise.jobs/" />
+	<meta property="og:site_name" content="Wise Careers" />
+	<meta property="article:modified_time" content="2022-01-03T10:24:03+00:00" />
+	<meta property="og:image" content="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2020/01/17001028/resized-meta-image-1-e1579219849175.jpg" />
+	<meta property="og:image:width" content="1400" />
+	<meta property="og:image:height" content="934" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="msvalidate.01" content="0D662B3F65C0D381C0B6D3FC6BD960AA" />
+	<meta name="yandex-verification" content="3077892c87464c72" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.wise.jobs' />
+<link rel='stylesheet' id='style-css'  href='https://www.wise.jobs/app/themes/transferwise-careers/assets/css/main.min.css?ver=1644404673' type='text/css' media='screen' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.wise.jobs/app/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='prismatic-blocks-css'  href='https://www.wise.jobs/app/plugins/prismatic/css/styles-blocks.css?ver=7aa38066dd8b8ff3ec7cdefe415d46c5' type='text/css' media='all' />
+<link rel='shortlink' href='https://www.wise.jobs/' />
+<link href="https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.wise.jobs/app/themes/transferwise-careers/assets/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.wise.jobs/app/themes/transferwise-careers/assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.wise.jobs/app/themes/transferwise-careers/assets/favicons/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.wise.jobs/app/themes/transferwise-careers/assets/favicons/favicon.ico">
+<link rel="mask-icon" href="https://www.wise.jobs/app/themes/transferwise-careers/assets/favicons/safari-pinned-tab.svg" color="#00b9ff">
+<link rel="manifest" href="https://www.wise.jobs/app/themes/transferwise-careers/assets/favicons/site.webmanifest">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+<meta name="facebook-domain-verification" content="z92s7zqsi8gq4n7pw0v4483n88tbyo" />
+<script src="https://www.youtube.com/iframe_api"></script>    </head>
+    <body class="home page-template-default page page-id-8">
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCPVL84&gtm_auth=pVuxf-9azKeyfolE6sbsvw&gtm_preview=env-1&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->        <header class="c-global-header c-global-header--home">
+    <div class="c-global-header__row l-container">
+        <button class="o-hamburger js-navigation-trigger" aria-label="Menu" aria-controls="navigation">
+            <span class="o-hamburger__box">
+                <span class="o-hamburger__inner"></span>
+            </span>
+        </button>
+            <div class="c-global-header__logo">
+        <a href="https://www.wise.jobs" title="Wise Careers" rel="home">
+            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2021/02/24125247/wise-careers-jobs-logo.svg" alt="Wise Careers logo" class="u-visible-lg">
+                            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2021/02/24125253/wise-careers-jobs-logo-mobile.svg" alt="Wise Careers logo" class="u-visible-lg-max">
+                    </a>
+    </div>
+        
+    <div class="c-global-header__navigation">
+
+        <nav class="c-navigation js-main-navigation" aria-label="Main Navigation">
+
+            <ul class="c-navigation__menu" role="menubar" aria-label="Main Navigation">
+
+                
+                    
+                    <li class="c-navigation__item has-submenu" role="none">
+
+                        <button class="c-navigation__link "aria-haspopup="true" aria-expanded="false" tabindex="0">Working here<svg class="icon"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-down-thick"></use></svg></button>
+                        
+                            
+                                <ul class="c-flyout" role="menu" aria-label="Working here">
+
+                                    <li class="c-flyout__item" role="none">
+            <div class="c-flyout__image">
+            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/12/submenu-icon-about.svg" alt="">
+        </div>
+        <a href="https://www.wise.jobs/what-we-do/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        What we do        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+            <p class="c-flyout__message">We’re focused on one mission: money without borders. Read about working here.</p>
+    </li>
+<li class="c-flyout__item" role="none">
+        <a href="https://www.wise.jobs/what-we-do/how-we-work/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        How we work        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+    </li>
+<li class="c-flyout__item" role="none">
+        <a href="https://www.wise.jobs/what-we-do/how-we-act/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        How we act        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+    </li>
+<li class="c-flyout__item" role="none">
+        <a href="https://www.wise.jobs/what-we-do/our-offer/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        Our offer        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+    </li>
+
+                                </ul>
+                            
+                            
+                        
+                    </li>
+
+                
+                    
+                    <li class="c-navigation__item has-submenu" role="none">
+
+                        <button class="c-navigation__link "aria-haspopup="true" aria-expanded="false" tabindex="0">Our business<svg class="icon"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-down-thick"></use></svg></button>
+                        
+                            
+                                <ul class="c-flyout" role="menu" aria-label="Our business">
+
+                                    <li class="c-flyout__item" role="none">
+            <div class="c-flyout__image">
+            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/logo-illustration-placeholdeer.svg" alt="">
+        </div>
+        <a href="https://www.wise.jobs/what-we-do/our-story/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        Our story        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+            <p class="c-flyout__message">We now have over 3,000 people working in 17 locations across the world.</p>
+    </li>
+<li class="c-flyout__item" role="none">
+        <a href="https://www.wise.jobs/teams/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        Explore our teams        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+    </li>
+<li class="c-flyout__item" role="none">
+        <a href="https://www.wise.jobs/offices/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        Explore our offices        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+    </li>
+
+                                </ul>
+                            
+                            
+                        
+                    </li>
+
+                
+                    
+                    <li class="c-navigation__item has-submenu" role="none">
+
+                        <button class="c-navigation__link "aria-haspopup="true" aria-expanded="false" tabindex="0">Early careers<svg class="icon"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-down-thick"></use></svg></button>
+                        
+                            
+                                <ul class="c-flyout" role="menu" aria-label="Early careers">
+
+                                    <li class="c-flyout__item" role="none">
+            <div class="c-flyout__image">
+            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/12/submenu-icon-students.svg" alt="">
+        </div>
+        <a href="https://www.wise.jobs/early-careers/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        Overview        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+            <p class="c-flyout__message">Join us to develop your skills and take on real-world projects.</p>
+    </li>
+<li class="c-flyout__item" role="none">
+        <a href="https://www.wise.jobs/early-careers/programs/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        Programs        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+    </li>
+<li class="c-flyout__item" role="none">
+        <a href="https://www.wise.jobs/students-grads/events/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        Events        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+    </li>
+<li class="c-flyout__item" role="none">
+        <a href="https://www.wise.jobs/students-grads/how-to-apply/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        How to apply        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+    </li>
+
+                                </ul>
+                            
+                            
+                        
+                    </li>
+
+                
+                    
+                    <li class="c-navigation__item has-submenu" role="none">
+
+                        <a href="https://www.wise.jobs/what-we-do/blog/" class="c-navigation__link c-navigation__link--boo"aria-haspopup="true" aria-expanded="false" tabindex="0">Blogs<svg class="icon"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-down-thick"></use></svg></a>
+                        
+                            <ul class="c-flyout c-flyout--lg" role="menu" aria-label="Blogs">
+                                <li class="c-flyout__item"><div class="l-row">
+<div class="c-card c-card--link c-card--flyout l-col-lg-6">
+        <a href="https://www.wise.jobs/2021/01/26/hybrid-model-of-flexible-working-at-transferwise/" title="Why we introduced a hybrid model of flexible working at Wise" target="_self">
+                    <div class="c-card__image">
+                <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/ny-1-27-1-600x340.jpg" alt="Two team members working together">
+            </div>
+                <div class="c-card__inner">
+            <h3 class="o-btn o-btn--chevron-link-navy c-card__title ">
+                <span class="o-btn__label">
+                    Why we introduced a hybrid model of flexible working at Wise                </span>
+                <svg class="o-btn__icon ">
+                    <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"/>
+                </svg>
+            </h3>
+                    </div>
+    </a>
+</div>
+
+<div class="c-card c-card--link c-card--flyout l-col-lg-6">
+        <a href="https://www.wise.jobs/2021/04/01/when-its-not-just-a-job-career-development-at-wise/" title="When it&#8217;s not just a job: Career development at Wise" target="_self">
+                    <div class="c-card__image">
+                <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/bud-selects-2-7-600x340.jpg" alt="A team member looking at a whiteboard">
+            </div>
+                <div class="c-card__inner">
+            <h3 class="o-btn o-btn--chevron-link-navy c-card__title ">
+                <span class="o-btn__label">
+                    When it&#8217;s not just a job: Career development at Wise                </span>
+                <svg class="o-btn__icon ">
+                    <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"/>
+                </svg>
+            </h3>
+                    </div>
+    </a>
+</div>
+</div></li>
+                                <li class="c-flyout__item" role="none">
+        <a href="https://www.wise.jobs/what-we-do/blog/" class="o-btn o-btn--chevron-link-navy c-flyout__link o-btn--icon-right">
+        View all blogs        <svg class="o-btn__icon o-btn__icon--xs">
+            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></use>
+        </svg>
+    </a>
+    </li>
+
+                            </ul>
+                        
+                        
+                    </li>
+
+                
+            </ul>
+
+        </nav>
+
+    </div>
+
+                <a href="https://www.wise.jobs/search/" class="c-global-header__action o-btn o-btn--primary o-btn--primary-xs">Search roles</a>
+    </div>
+</header>
+        <main class="l-main" role="main">
+            
+
+
+    
+        
+            
+            
+    
+        <section class="c-home-hero c-home-hero--image-pr">
+
+    <div class="c-home-hero__image" style="background-image: url(https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/hero-image-two-women-sitting-meeting.jpg);">
+        <div class="c-home-hero__title__container">
+            <h1 class="o-heading o-heading--emphasis o-heading--emphasis-navy o-heading--h1 c-home-hero__title o-heading--emphasis-white">For <span data-typed='["ideas sharing","curious","we\u0027re fixing finance","open-minded","entrepreneurial","what next?","so long status quo","work-life balanced","break the mould"]' class='js-typed u-text-green'></span> people</h1>        </div>
+    </div>
+
+    <div class="vue-app">
+    <global-search
+        v-bind:offices='[{"label":"All Offices"},{"code":"us","country":"U.S","label":"Austin","term_id":58,"slug":"austin"},{"code":"th","country":"Thailand","label":"Bangkok","term_id":54,"slug":"bangkok"},{"code":"be","country":"Belgium","label":"Brussels","term_id":7,"slug":"brussels"},{"code":"hu","country":"Hungary","label":"Budapest","term_id":6,"slug":"budapest"},{"code":"ua","country":"Ukraine","label":"Cherkasy","term_id":8,"slug":"cherkasy"},{"code":"ae","country":"UAE","label":"Dubai","term_id":9,"slug":"dubai"},{"code":"hk","country":"Hong Kong","label":"Hong Kong","term_id":10,"slug":"hong-kong"},{"code":"id","country":"Indonesia","label":"Jakarta","term_id":50,"slug":"jakarta"},{"code":"my","country":"Malaysia","label":"Kuala Lumpur","term_id":11,"slug":"kuala-lumpur"},{"code":"gb","country":"United Kingdom","label":"London","term_id":2,"slug":"london"},{"code":"au","country":"Australia ","label":"Melbourne","term_id":12,"slug":"melbourne"},{"code":"in","country":"India","label":"Mumbai","term_id":53,"slug":"mumbai"},{"code":"us","country":"U.S.","label":"New York","term_id":13,"slug":"new-york"},{"code":"sa","country":"Saudi Arabia","label":"Riyadh","term_id":56,"slug":"riyadh"},{"code":"kr","country":"South Korea","label":"Seoul","term_id":52,"slug":"seoul"},{"code":"cn","country":"China","label":"Shanghai","term_id":55,"slug":"shanghai"},{"code":"sg","country":"Singapore","label":"Singapore","term_id":14,"slug":"singapore"},{"code":"au","country":"Australia","label":"Sydney","term_id":49,"slug":"sydney"},{"code":"br","country":"Brazil","label":"S\u00e3o Paulo","term_id":36,"slug":"sao-paulo"},{"code":"ee","country":"Estonia","label":"Tallinn","term_id":15,"slug":"tallinn"},{"code":"us","country":"U.S.","label":"Tampa","term_id":16,"slug":"tampa"},{"code":"jp","country":"Japan","label":"Tokyo","term_id":17,"slug":"tokyo"},{"code":"ch","country":"Switzerland","label":"Z\u00fcrich","term_id":51,"slug":"zurich"}]'
+        v-bind:teams='[{"label":"All Teams"},{"code":false,"country":false,"label":"Analytics","term_id":19,"slug":"analytics"},{"code":false,"country":false,"label":"Banking and Expansion","term_id":23,"slug":"banking-and-expansion"},{"code":false,"country":false,"label":"Business Development","term_id":25,"slug":"business-development"},{"code":false,"country":false,"label":"Compliance","term_id":28,"slug":"compliance"},{"code":false,"country":false,"label":"Customer Support","term_id":29,"slug":"customer-support"},{"code":false,"country":false,"label":"Design","term_id":20,"slug":"design"},{"code":false,"country":false,"label":"Early Careers","term_id":48,"slug":"early-careers"},{"code":false,"country":false,"label":"Engineering","term_id":21,"slug":"engineering"},{"code":false,"country":false,"label":"Finance","term_id":31,"slug":"finance"},{"code":false,"country":false,"label":"Government Relations","term_id":27,"slug":"government-relations"},{"code":false,"country":false,"label":"Legal","term_id":30,"slug":"legal"},{"code":false,"country":false,"label":"Marketing","term_id":24,"slug":"marketing"},{"code":false,"country":false,"label":"Operations","term_id":33,"slug":"operations"},{"code":false,"country":false,"label":"People","term_id":32,"slug":"people"},{"code":false,"country":false,"label":"Product","term_id":22,"slug":"product"},{"code":false,"country":false,"label":"Public Relations","term_id":26,"slug":"pr"}]'
+        open-roles='308'
+        open-roles-route='https://www.wise.jobs/search/'
+    ></global-search>
+</div>
+
+</section>
+
+    
+
+            
+        
+    
+        
+                        
+                <section class="c-section c-section--bg-grey">
+
+                    <div class="l-container">
+
+            
+            
+    
+        
+
+        <div class="l-row">
+        <div class="l-col-xs-8 l-col-xs-offset-2 u-ac-xs">
+            <div class="u-text-lead u-mb-xs-30 u-mb-sm-80 s-cms-content">
+                <p>We’re people without borders. Building money without borders.</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="c-carousel c-carousel--logos js-carousel" data-carousel-type="logo">
+        <div class="c-carousel__container swiper-container">
+            <div class="c-carousel__wrapper swiper-wrapper">
+                                                                            <div class="c-carousel__slide swiper-slide">
+                            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2020/01/27132733/work-estonia-eas-1.jpg" alt="Work estonia, Enterprise Estonia logo">
+                        </div>
+                                            <div class="c-carousel__slide swiper-slide">
+                            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2020/09/29111044/hired-brand-health-badge-top10-london-alpha-e1601378064870.png" alt="London Top 10 employer brand 2019 award by Hired">
+                        </div>
+                                            <div class="c-carousel__slide swiper-slide">
+                            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/top-work-places-tampa-bay-times-2019.png" alt="Top workplaces 2019, tampa bay times award">
+                        </div>
+                                            <div class="c-carousel__slide swiper-slide">
+                            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2021/09/21123339/atp-badge-2021-web-eng-37.png" alt="Attractive employer 2021 award">
+                        </div>
+                                                </div>
+            <div class="c-carousel__pagination swiper-pagination"></div>
+        </div>
+    </div>
+
+    
+
+                        
+                    </div>
+
+                </section>
+            
+            
+        
+    
+        
+                        
+                <section class="c-section c-section--bg-white">
+
+                    <div class="l-container">
+
+            
+            
+    
+        <div class="c-section__row l-row u-flex-center u-flex-center-v">
+    <div class="l-col-sm-10 l-col-md-5  u-mb-xs-32 u-mb-md-0 u-ac-xs u-al-md">
+    <h2 class="o-heading o-heading--emphasis  o-heading--h1">Money without borders</h2>            <div class="s-cms-content u-mb-xs-24 u-mb-md-0">
+            <p>Instant, convenient, transparent and (eventually) free — something we like to call — money without borders. Whether you want to pay, get paid, spend, in any currency, wherever you are, whatever you’re doing &#8211; we’ve got you covered.</p>
+        </div>
+                <div class="c-block-cta u-mt-xs-0 u-mt-xs-24">
+            <div class="c-block-cta__row">
+                
+    
+    <a class="o-btn o-btn--chevron-link-navy" href="https://www.wise.jobs/what-we-do/" target="_self"><span class="o-btn__label">Learn about what we do</span><svg class="o-btn__icon o-btn__icon--xs"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#chevron-right-thick"></svg></a>
+    
+            </div>
+        </div>
+        </div>
+        <div class="l-col-md-6  l-col-md-offset-1">
+                <div class="c-mosaic">
+        <div class="c-mosaic__container">
+            <div class="c-mosaic__column">
+                                    <img class="c-mosaic__image-1" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-47-300x300.jpg" alt="Sign welcoming new employees">
+                                    <img class="c-mosaic__image-2" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-49-1-300x300.jpg" alt="Team members working together">
+                                    <img class="c-mosaic__image-3" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-10-300x300.jpg" alt="Printed pictures of london team members">
+                                    <img class="c-mosaic__image-4" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-15-300x300.jpg" alt="Team member outside">
+                            </div>
+            <div class="c-mosaic__column">
+                                    <img class="c-mosaic__image-1" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/screen-shot-2019-11-27-at-63716-pm-300x300.png" alt="All company gathering with a balloon saying Be without borders">
+                                    <img class="c-mosaic__image-2" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-1-300x300.jpg" alt="Team member in the office">
+                                    <img class="c-mosaic__image-3" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-4-300x300.jpg" alt="Wise logo">
+                            </div>
+            <div class="c-mosaic__column">
+                                    <img class="c-mosaic__image-1" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-34-300x300.jpg" alt="A team member coding">
+                                    <img class="c-mosaic__image-2" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/screen-shot-2019-11-27-at-63716-pm-300x300.png" alt="All company gathering with a balloon saying Be without borders">
+                                    <img class="c-mosaic__image-3" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-51-300x300.jpg" alt="A team member working">
+                                    <img class="c-mosaic__image-4" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/ldn-profile-photos-17-scaled-e1574871468666-300x300.jpg" alt="Team members pointing at a board">
+                                    <img class="c-mosaic__image-5" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-13-300x300.jpg" alt="Team member working alone">
+                                    <img class="c-mosaic__image-6" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/tln-1-26-300x300.jpg" alt="Team member sitting on a beanbag in the office">
+                                    <img class="c-mosaic__image-7" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/tln-1-39-300x300.jpg" alt="Team member sitting on a swing in the office">
+                                    <img class="c-mosaic__image-8" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/london-31-1-300x300.jpg" alt="Team member coding">
+                            </div>
+            <div class="c-mosaic__column">
+                                    <img class="c-mosaic__image-1" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/ldn-profile-photos-25-300x300.jpg" alt="Team member on a laptop">
+                                    <img class="c-mosaic__image-2" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/stunt-1-300x300.jpg" alt="Wise publicity stunt in London saying “we’re owed £5.6 billion” of money lost in hidden fees">
+                                    <img class="c-mosaic__image-3" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/singapore-8-300x300.jpg" alt="Team member in the office">
+                                    <img class="c-mosaic__image-4" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/ny-1-4-300x300.jpg" alt="Design brainstorming notes on a wall">
+                            </div>
+            <div class="c-mosaic__column">
+                                    <img class="c-mosaic__image-1" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/singapore-17a-1-300x300.jpg" alt="team members in singapore">
+                                    <img class="c-mosaic__image-2" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/bud-selects-8-300x300.jpg" alt="Team member working on a laptop">
+                                    <img class="c-mosaic__image-3" src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/11/ny-1-17-300x300.jpg" alt="Team members having coffee together">
+                            </div>
+            <div class="c-mosaic__shadow"></div>
+        </div>
+    </div>
+            </div>
+    </div>
+
+    
+
+                        
+                    </div>
+
+                </section>
+            
+            
+        
+    
+        
+                        
+                <section class="c-section c-section--bg-grey">
+
+                    <div class="l-container">
+
+            
+            
+    
+        <div class="c-section__row">
+
+    <div class="c-block-cta u-ac-xs">
+
+        <div class="l-row">
+
+            <div class="l-col-md-8 l-col-md-offset-2 l-col-sm-10 l-col-sm-offset-1">
+
+                <h3 class="o-heading o-heading--emphasis  o-heading--h2">Don't just take our word for it</h3>
+            </div>
+
+        </div>
+
+        
+            <div class="c-block-cta__lead s-cms-content u-mb-xs-32">
+                <p>We’re humbled by what our people have to say about us &#8211; read all the reviews on <a href="https://www.glassdoor.co.uk/Overview/Working-at-TransferWise-EI_IE637715.11,23.htm" target="_blank" rel="noopener">Glassdoor</a>.</p>
+            </div>
+        
+    </div>
+
+    
+        <div class="l-row">
+
+            
+                <div class="c-card l-col-sm-4 c-card--ratings">
+    <div class="c-card__inner">
+        <div class="c-card__ratings">
+            <svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg>        </div>
+                    <h4 class="c-card__title">May, 2021</h4>
+                        <div class="c-card__body">
+            <p>"The autonomous culture allows a single person to have massive impact on customers and the company. You’re encouraged to take risks and learn in a safe framework."</p>
+        </div>
+            </div>
+</div>
+                
+            
+                <div class="c-card l-col-sm-4 c-card--ratings">
+    <div class="c-card__inner">
+        <div class="c-card__ratings">
+            <svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg>        </div>
+                    <h4 class="c-card__title">August, 2021</h4>
+                        <div class="c-card__body">
+            <p>"A very customer focused company with a clear drive to improve international money movement. Amazing culture built around empowering people to be creative to drive impact."</p>
+        </div>
+            </div>
+</div>
+                
+            
+                <div class="c-card l-col-sm-4 c-card--ratings">
+    <div class="c-card__inner">
+        <div class="c-card__ratings">
+            <svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg><svg class="c-card__rating"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#star-filled"></use></svg>        </div>
+                    <h4 class="c-card__title">August, 2021</h4>
+                        <div class="c-card__body">
+            <p>"Great culture and values, Wise is very inclusive as a company and very attached to its values. The environment and the market are dynamic, which makes it a thrilling place to be."</p>
+        </div>
+            </div>
+</div>
+                
+            
+        </div>
+
+    
+</div>
+
+    
+
+                        
+                    </div>
+
+                </section>
+            
+            
+        
+    
+        
+                        
+                <section class="c-section c-section--bg-white">
+
+                    <div class="l-container">
+
+            
+            
+    
+        <div class="c-section__row">
+    <div class="l-row">
+        <div class="l-col-md-8 l-col-md-offset-2 l-col-sm-10 l-col-sm-offset-1">
+            <h2 class="o-heading o-heading--emphasis o-heading--emphasis-navy o-heading--h2 u-ac-xs u-mb-xs-40 u-mb-md-80">Hear from our <span class="u-text-blue">Vloggers</span></h2>        </div>
+    </div>
+        <div class="c-carousel c-carousel--full-width js-carousel">
+        <div class="c-carousel__container swiper-container">
+            <div class="c-carousel__wrapper swiper-wrapper">
+                                    <div  class='c-carousel__slide swiper-slide' data-label=''>
+    <div class="c-collage c-collage--jumbo c-collage--accent c-collage--accent-blue">
+                <div  class="c-collage__image">
+                        <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2020/01/20100656/screenshot-2020-01-17-at-144223-600x600.png" alt="Team member Omar in the office">
+
+                    </div>
+        <div class="c-collage__inner">
+            <div class="c-collage__body">
+                                    <p class="o-heading o-heading--h2">“What keeps me here is the total belief in what I’m doing.” </p>
+                                                    <div class="s-cms-content">
+                        <p>Omar, Tech Lead, Tallinn</p>
+                    </div>
+                                
+    
+        <div class="u-mt-xs-30">
+    
+    
+    <button class="o-btn o-btn--ghost o-btn--icon o-btn--icon-left js-modal-trigger" data-embed="mh74o4zp7n8"><span class="o-btn__label">Watch Omar’s vlog</span><svg class="o-btn__icon"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#play"></svg></button>
+    
+        </div>
+    
+    
+            </div>
+        </div>
+    </div>
+</div>
+                                    <div  class='c-carousel__slide swiper-slide' data-label=''>
+    <div class="c-collage c-collage--jumbo c-collage--accent c-collage--accent-purple">
+                <div  class="c-collage__image">
+                        <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2020/01/20101114/screenshot-2020-01-17-at-123309-600x600.png" alt="Team member Christine smiling">
+
+                    </div>
+        <div class="c-collage__inner">
+            <div class="c-collage__body">
+                                    <p class="o-heading o-heading--h2">“What I love about working here is the autonomy. It allows you to deliver the impact that you want to make.” </p>
+                                                    <div class="s-cms-content">
+                        <p>Christine, Product Manager, Singapore</p>
+                    </div>
+                                
+    
+        <div class="u-mt-xs-30">
+    
+    
+    <button class="o-btn o-btn--ghost o-btn--icon o-btn--icon-left js-modal-trigger" data-embed="-Amc0Fcu40U"><span class="o-btn__label">Watch Christine’s vlog</span><svg class="o-btn__icon"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#play"></svg></button>
+    
+        </div>
+    
+    
+            </div>
+        </div>
+    </div>
+</div>
+                                    <div  class='c-carousel__slide swiper-slide' data-label=''>
+    <div class="c-collage c-collage--jumbo">
+                <div  class="c-collage__image">
+                        <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2020/01/20095704/screenshot-2020-01-16-at-104834-600x600.png" alt="Team member Alex eating cake">
+
+                    </div>
+        <div class="c-collage__inner">
+            <div class="c-collage__body">
+                                    <p class="o-heading o-heading--h2">“We make videos for social media to grow our customer base. The more customers we have, the closer we get to our mission of being free.”
+</p>
+                                                    <div class="s-cms-content">
+                        <p>Alex, Video Lead, London</p>
+                    </div>
+                                
+    
+        <div class="u-mt-xs-30">
+    
+    
+    <button class="o-btn o-btn--ghost o-btn--icon o-btn--icon-left js-modal-trigger" data-embed="JwIfoQWicPU"><span class="o-btn__label">Watch Alex's vlog</span><svg class="o-btn__icon"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#play"></svg></button>
+    
+        </div>
+    
+    
+            </div>
+        </div>
+    </div>
+</div>
+                                    <div  class='c-carousel__slide swiper-slide' data-label=''>
+    <div class="c-collage c-collage--jumbo">
+                <div  class="c-collage__image">
+                        <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2020/01/20101342/screenshot-2020-01-17-at-142326-e1579515366984-600x600.png" alt="Team member Juliana in the office">
+
+                    </div>
+        <div class="c-collage__inner">
+            <div class="c-collage__body">
+                                    <p class="o-heading o-heading--h2">“I studied journalism so my side project here with the marketing team allows me to do what I love.” </p>
+                                                    <div class="s-cms-content">
+                        <p>Juliana, Social Media Customer Support, Tampa</p>
+                    </div>
+                                
+    
+        <div class="u-mt-xs-30">
+    
+    
+    <button class="o-btn o-btn--ghost o-btn--icon o-btn--icon-left js-modal-trigger" data-embed="Q-v5IX4owLg"><span class="o-btn__label">Watch Juliana’s vlog</span><svg class="o-btn__icon"><use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#play"></svg></button>
+    
+        </div>
+    
+    
+            </div>
+        </div>
+    </div>
+</div>
+                            </div>
+            <div class="c-carousel__pagination swiper-pagination"></div>
+        </div>
+    </div>
+    </div>
+
+    
+
+                        
+                    </div>
+
+                </section>
+            
+            
+        
+    
+        
+                        
+                <section class="c-section c-section--bg-dark-navy c-section--bg-pattern">
+
+                    <div class="l-container">
+
+            
+            
+    
+        <div class="c-section__row c-instagram">
+
+    <div class="l-row">
+
+        <div class="l-col-md-8 l-col-md-offset-2 l-col-sm-10 l-col-sm-offset-1">
+
+            <h3 class="o-heading o-heading--emphasis o-heading--emphasis-white o-heading--h1 u-ac-xs">Follow us <span class="u-text-blue">@wisecareers</span></h3>
+        </div>
+
+    </div>
+
+            <div class="c-instagram__feed u-mb-xs-24">
+            
+<div id="sb_instagram" class="sbi sbi_col_4  sbi_width_resp" style="padding-bottom: 20px;width: 100%;" data-feedid="sbi_#4" data-res="auto" data-cols="4" data-num="4" data-shortcode-atts="{}"  data-postid="8" data-locatornonce="4882d7f7d2" data-sbi-flags="resizeDisable">
+	
+	<div id="sbi_images" style="padding: 10px;">
+			</div>
+
+	<div id="sbi_load">
+
+	
+	
+</div>
+
+		<span class="sbi_resized_image_data" data-feed-id="sbi_#4" data-resized="[]">
+	</span>
+	</div>
+
+        </div>
+    
+        <div class="c-block-cta">
+        <div class="c-block-cta__row u-flex-center">
+            
+    
+    <a class="o-btn o-btn--ghost" href="https://www.instagram.com/wisecareers/" target="_blank" title="Follow @wisecareers on Instagram"><span class="o-btn__label">Follow us on Instagram</span></a>
+    
+        </div>
+    </div>
+    
+</div>
+
+    
+
+                        
+                    </div>
+
+                </section>
+            
+            
+        
+    
+
+        </main>
+
+        <footer class="c-global-footer">
+    <div class="l-container">
+        <div class="c-global-footer__primary-links">
+            <div class="l-row">
+                
+    
+        
+        <div class="l-col-sm-6 l-col-md-3">
+
+                            <div class="c-global-footer__heading">
+                    About us                </div>
+            
+            
+                <ul class="c-global-footer__menu">
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/what-we-do/">What we do</a>
+                        </li>
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/what-we-do/how-we-work/">How we work</a>
+                        </li>
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/what-we-do/how-we-act/">How we act</a>
+                        </li>
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/what-we-do/our-offer/">Our offer</a>
+                        </li>
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/what-we-do/our-story/">Our story</a>
+                        </li>
+
+                    
+                </ul>
+
+            
+        </div>
+
+    
+        
+        <div class="l-col-sm-6 l-col-md-3">
+
+                            <div class="c-global-footer__heading">
+                    Inside Wise                </div>
+            
+            
+                <ul class="c-global-footer__menu">
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/teams/">Teams</a>
+                        </li>
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/offices/">Offices</a>
+                        </li>
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/what-we-do/blog/">Blog</a>
+                        </li>
+
+                    
+                </ul>
+
+            
+        </div>
+
+    
+        
+        <div class="l-col-sm-6 l-col-md-3">
+
+                            <div class="c-global-footer__heading">
+                    Early careers                </div>
+            
+            
+                <ul class="c-global-footer__menu">
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/students-grads/">Overview</a>
+                        </li>
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/early-careers/programs/">Programs</a>
+                        </li>
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/students-grads/events/">Events</a>
+                        </li>
+
+                    
+                        
+                        <li>
+                            <a href="https://www.wise.jobs/students-grads/how-to-apply/">How to apply</a>
+                        </li>
+
+                    
+                </ul>
+
+            
+        </div>
+
+    
+                <div class="l-col-sm-6 l-col-md-3">
+            <div class="c-global-footer__heading">
+            Keep in touch        </div>
+                <ul class="c-social-bar c-social-bar--white c-social-bar--sm">
+                                            <li class="c-social-bar__item">
+                    <a href="https://www.facebook.com/wise/" target="_blank" title="Facebook" class="c-social-bar__link">
+                        <svg class="c-social-bar__icon">
+                            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#facebook"></use>
+                        </svg>
+                    </a>
+                </li>
+                                            <li class="c-social-bar__item">
+                    <a href="https://twitter.com/wise" target="_blank" title="Twitter" class="c-social-bar__link">
+                        <svg class="c-social-bar__icon">
+                            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#twitter"></use>
+                        </svg>
+                    </a>
+                </li>
+                                            <li class="c-social-bar__item">
+                    <a href="https://www.linkedin.com/company/wiseaccount" target="_blank" title="LinkedIn" class="c-social-bar__link">
+                        <svg class="c-social-bar__icon">
+                            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#linkedin"></use>
+                        </svg>
+                    </a>
+                </li>
+                                            <li class="c-social-bar__item">
+                    <a href="https://www.instagram.com/wiseaccount/" target="_blank" title="Instagram" class="c-social-bar__link">
+                        <svg class="c-social-bar__icon">
+                            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#insta"></use>
+                        </svg>
+                    </a>
+                </li>
+                                            <li class="c-social-bar__item">
+                    <a href="https://www.youtube.com/c/wiseaccount" target="_blank" title="YouTube" class="c-social-bar__link">
+                        <svg class="c-social-bar__icon">
+                            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#youtube"></use>
+                        </svg>
+                    </a>
+                </li>
+                                            <li class="c-social-bar__item">
+                    <a href="https://www.glassdoor.co.uk/Overview/Working-at-TransferWise-EI_IE637715.11,23.htm" target="_blank" title="Glassdoor" class="c-social-bar__link">
+                        <svg class="c-social-bar__icon">
+                            <use xlink:href="https://www.wise.jobs/app/themes/transferwise-careers/assets/svg/icons.svg#glassdoor"></use>
+                        </svg>
+                    </a>
+                </li>
+                    </ul>
+    </div>
+            </div>
+        </div>
+        <hr class="c-global-footer__divider">
+        <div class="c-global-footer__secondary-links">
+            <div class="l-row">
+                        <div class="l-col-sm-3 u-mb-xs-15 u-mb-sm-0">
+        <a href="https://wise.com" title="Wise">
+            <img src="https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2021/02/24125306/wise-com-logo.svg" alt="Wise logo">
+        </a>
+    </div>
+                
+    
+                    
+        <div class="l-col-sm-3 u-mb-xs-15 u-mb-sm-0">
+            <a href="https://transferwise.com/gb/press">Press</a>
+        </div>
+
+    
+                    
+        <div class="l-col-sm-3 u-mb-xs-15 u-mb-sm-0">
+            <a href="https://www.wise.jobs/privacy-policy/">Privacy policy</a>
+        </div>
+
+    
+                    
+        <div class="l-col-sm-3 u-mb-xs-15 u-mb-sm-0">
+            <a href="https://www.wise.jobs/cookie-policy">Cookie policy</a>
+        </div>
+
+    
+            </div>
+        </div>
+            <div class="c-global-footer__message">
+        <p style="text-align: center;">© Wise Payments Limited 2021</p>
+<p style="text-align: center;">Wise is authorised by the Financial Conduct Authority under the Electronic Money Regulations 2011, Firm Reference 900507, for the issuing of electronic money.</p>
+    </div>
+    </div>
+</footer>
+
+        <div class="vue-app">
+
+            <video-modal></video-modal>
+                <job-alert-modal
+        v-bind:offices-options='[{"code":"us","country":"U.S","label":"Austin","term_id":58,"slug":"austin"},{"code":"th","country":"Thailand","label":"Bangkok","term_id":54,"slug":"bangkok"},{"code":"be","country":"Belgium","label":"Brussels","term_id":7,"slug":"brussels"},{"code":"hu","country":"Hungary","label":"Budapest","term_id":6,"slug":"budapest"},{"code":"ua","country":"Ukraine","label":"Cherkasy","term_id":8,"slug":"cherkasy"},{"code":"ae","country":"UAE","label":"Dubai","term_id":9,"slug":"dubai"},{"code":"hk","country":"Hong Kong","label":"Hong Kong","term_id":10,"slug":"hong-kong"},{"code":"id","country":"Indonesia","label":"Jakarta","term_id":50,"slug":"jakarta"},{"code":"my","country":"Malaysia","label":"Kuala Lumpur","term_id":11,"slug":"kuala-lumpur"},{"code":"gb","country":"United Kingdom","label":"London","term_id":2,"slug":"london"},{"code":"au","country":"Australia ","label":"Melbourne","term_id":12,"slug":"melbourne"},{"code":"in","country":"India","label":"Mumbai","term_id":53,"slug":"mumbai"},{"code":"us","country":"U.S.","label":"New York","term_id":13,"slug":"new-york"},{"code":"sa","country":"Saudi Arabia","label":"Riyadh","term_id":56,"slug":"riyadh"},{"code":"kr","country":"South Korea","label":"Seoul","term_id":52,"slug":"seoul"},{"code":"cn","country":"China","label":"Shanghai","term_id":55,"slug":"shanghai"},{"code":"sg","country":"Singapore","label":"Singapore","term_id":14,"slug":"singapore"},{"code":"au","country":"Australia","label":"Sydney","term_id":49,"slug":"sydney"},{"code":"br","country":"Brazil","label":"S\u00e3o Paulo","term_id":36,"slug":"sao-paulo"},{"code":"ee","country":"Estonia","label":"Tallinn","term_id":15,"slug":"tallinn"},{"code":"us","country":"U.S.","label":"Tampa","term_id":16,"slug":"tampa"},{"code":"jp","country":"Japan","label":"Tokyo","term_id":17,"slug":"tokyo"},{"code":"ch","country":"Switzerland","label":"Z\u00fcrich","term_id":51,"slug":"zurich"}]' 
+        v-bind:teams-options='[{"code":false,"country":false,"label":"Analytics","term_id":19,"slug":"analytics"},{"code":false,"country":false,"label":"Banking and Expansion","term_id":23,"slug":"banking-and-expansion"},{"code":false,"country":false,"label":"Business Development","term_id":25,"slug":"business-development"},{"code":false,"country":false,"label":"Compliance","term_id":28,"slug":"compliance"},{"code":false,"country":false,"label":"Customer Support","term_id":29,"slug":"customer-support"},{"code":false,"country":false,"label":"Design","term_id":20,"slug":"design"},{"code":false,"country":false,"label":"Early Careers","term_id":48,"slug":"early-careers"},{"code":false,"country":false,"label":"Engineering","term_id":21,"slug":"engineering"},{"code":false,"country":false,"label":"Finance","term_id":31,"slug":"finance"},{"code":false,"country":false,"label":"Government Relations","term_id":27,"slug":"government-relations"},{"code":false,"country":false,"label":"Legal","term_id":30,"slug":"legal"},{"code":false,"country":false,"label":"Marketing","term_id":24,"slug":"marketing"},{"code":false,"country":false,"label":"Operations","term_id":33,"slug":"operations"},{"code":false,"country":false,"label":"People","term_id":32,"slug":"people"},{"code":false,"country":false,"label":"Product","term_id":22,"slug":"product"},{"code":false,"country":false,"label":"Public Relations","term_id":26,"slug":"pr"}]' 
+        v-bind:offices-preselected='[]' 
+        v-bind:teams-preselected='[]' 
+    ></job-alert-modal>
+            
+        </div>
+
+        <div class="o-overlay js-overlay"></div>
+
+        <!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.wise.jobs/wp/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript' id='core-js-extra'>
+/* <![CDATA[ */
+var twData = {"CURRENT_DOMAIN":"https:\/\/www.wise.jobs","BOARD_TOKEN":"transferwise","RECAPTCHA_PUBLIC_KEY":"6LeKOcMUAAAAACya4Q96Pjl6rvoMMil13niQoW95"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wise.jobs/app/themes/transferwise-careers/assets/js/main.min.js?ver=1644404673' id='core-js'></script>
+<script type='text/javascript' src='https://www.wise.jobs/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.wise.jobs/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='sb_instagram_scripts-js-extra'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/www.wise.jobs\/app\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/www.wise.jobs\/app\/plugins\/instagram-feed\/img\/placeholder.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wise.jobs/app/plugins/instagram-feed/js/sbi-scripts.min.js?ver=2.9.8' id='sb_instagram_scripts-js'></script>
+<script type="text/javascript">
+_linkedin_partner_id = "3370154";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3370154&fmt=gif" />
+</noscript>
+    </body>
+
+</html>

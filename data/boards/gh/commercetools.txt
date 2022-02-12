@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at commercetools</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+        <link rel="stylesheet" media="screen" href="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/custom_css_files/400/315/000/original/Modern.css?1634041935" />
+
+
+
+    <meta property="og:title" content="commercetools"></meta>
+    <meta property="og:description" content="We are a passionate bunch of coders, marketers and thought leaders, but we are also amateur gourmet cooks, marathon enthusiasts, and (even) stand-up comedians! At commercetools, our differences are not seen as challenges but rather the fuel of our teamwork. We are bonded by a clear company vision and a well-defined value compass.
+By giving our customers and partners the most flexible commerce platform, which is based on a Microservices, API-first, true Cloud and Headless architecture (we call it the MACH architecture*), we are not only helping them maintain their competitive advantage but we are also changing the e-commerce platform market. Today, Fortune Global 500 companies across industries rely on commercetools and the commercetools platform.  Founded in Germany in 2006, our international expansion has reached Europe (Munich, Berlin, Amsterdam, London, and Switzerland), the US (Durham, NC), and Asia Pacific (Singapore, Australia). In October 2019, with a $145M investment from global venture capital and private equity firm Insight Partners, commercetools is in full gear going forward. We are firm believers in our core values: Purpose, Trust, and Lifelong Learning. More than ever we need passionate talents who believe in these values and in a better future of e-commerce. Awaiting you is an employer that cares and an accomplished international team full of like-minded and friendly individuals operating from across the globe. Check out our LinkedIn as well as our company blog and tech blog to get to know us better and we look forward to hearing from you!"></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/commercetools"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/315/000/original/1.commercetools_primary-logo_vertical_RGB.png?1598271891"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><a target="_blank" href="https://commercetools.com/"><img alt="commercetools Logo" src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/315/000/resized/1.commercetools_primary-logo_vertical_RGB.png?1598271891" width="126" height="75" /></a></div>
+
+  <h1>commercetools</h1>
+
+  <div id="content">
+    <p class="p1">We are a passionate bunch of coders, marketers and thought leaders, but we are also amateur gourmet cooks, marathon enthusiasts, and (even) stand-up comedians! At commercetools, our differences are not seen as challenges but rather the fuel of our teamwork. We are bonded by a clear company vision and a well-defined value compass.</p>
+<p class="p1">By giving our customers and partners the most flexible commerce platform, which is based on a Microservices, API-first, true Cloud and Headless architecture (we call it the MACH architecture*), we are not only helping them maintain their competitive advantage but we are also changing the e-commerce platform market. Today, Fortune Global 500 companies across industries rely on commercetools and the commercetools platform. &nbsp;<br><br>Founded in Germany in 2006, our international expansion has reached Europe (Munich, Berlin, Amsterdam, London, and Switzerland), the US (Durham, NC), and Asia Pacific (Singapore, Australia). In October 2019, with a <a href="https://commercetools.com/news/2019/commercetools-signs-145-million-deal-with-insight-partners-to-accelerate-global-growth.html"><span class="s1">$145M investment from global venture capital and private equity firm Insight Partners</span></a>, commercetools is in full gear going forward.&nbsp;<br><br>We are firm believers in our core values:&nbsp;<strong>Purpose</strong>,&nbsp;<strong>Trust,&nbsp;</strong>and&nbsp;<strong>Lifelong Learning</strong>. More than ever we need passionate talents who believe in these values and in a better future of e-commerce. Awaiting you is an employer that cares and an accomplished international team full of like-minded and friendly individuals operating from across the globe. Check out our <a href="https://www.linkedin.com/company/commercetools/"><span class="s1">LinkedIn</span></a> as well as our <a href="https://commercetools.com/blog"><span class="s1">company blog</span></a> and <a href="https://techblog.commercetools.com/"><span class="s1">tech blog</span></a> to get to know us better and we look forward to hearing from you!</p>
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+    <div class="filter-container">
+      <label class="filter-label" for="departments-select">Department</label>
+
+    <select name="departments-select" id="departments-select">
+      <option value="">All Departments</option>
+      
+
+<option value="4045655003">
+  Checkout Anywhere
+</option>
+
+
+
+<option value="4016095003">
+  Customer Success
+</option>
+
+
+
+<option value="4016103003">
+  Data Security 
+</option>
+
+
+
+<option value="4043100003">
+  Initiative Application
+</option>
+
+
+
+<option value="4016104003">
+  Legal 
+</option>
+
+
+
+<option value="4016090003">
+  Marketing 
+</option>
+
+
+
+<option value="4016106003">
+  Office Management
+</option>
+
+
+
+<option value="4021290003">
+  Partner Management
+</option>
+
+
+
+<option value="4016100003">
+  People and Organization 
+</option>
+
+
+
+<option value="4016097003">
+  Platform
+</option>
+
+
+
+<option value="4016093003">
+  Pre-Sales
+</option>
+
+
+
+<option value="4016107003">
+  Product 
+</option>
+
+
+
+<option value="4016101003">
+  Professional Services
+</option>
+
+
+
+<option value="4016092003">
+  Sales
+</option>
+
+
+
+<option value="4016098003">
+  Support, Training and Documentation
+</option>
+
+
+    </select>
+  </div>
+
+  <div class="filter-container">
+      <label class="filter-label" for="offices-select">Office</label>
+
+    <select name="offices-select" id="offices-select">
+      <option value="">All Offices</option>
+      
+
+<option value="4026377003">
+  APAC
+</option>
+
+
+<option value="4025400003">
+  &#160;&#160;Melbourne
+</option>
+
+
+
+
+<option value="4026375003">
+  Europe
+</option>
+
+
+<option value="4022376003">
+  &#160;&#160;Amsterdam
+</option>
+
+
+
+<option value="4009295003">
+  &#160;&#160;Berlin
+</option>
+
+
+
+<option value="4009297003">
+  &#160;&#160;Jena
+</option>
+
+
+
+<option value="4021247003">
+  &#160;&#160;London
+</option>
+
+
+
+<option value="4009296003">
+  &#160;&#160;Munich
+</option>
+
+
+
+<option value="4032756003">
+  &#160;&#160;Paris
+</option>
+
+
+
+<option value="4029923003">
+  &#160;&#160;Valencia
+</option>
+
+
+
+<option value="4009302003">
+  &#160;&#160;Zurich
+</option>
+
+
+
+
+<option value="4026378003">
+  Remote
+</option>
+
+
+<option value="4026374003">
+  &#160;&#160;Europe (Remote)
+</option>
+
+
+
+<option value="4012633003">
+  &#160;&#160;Germany (Remote)
+</option>
+
+
+
+<option value="4012114003">
+  &#160;&#160;US (Remote)
+</option>
+
+
+
+
+<option value="4026376003">
+  US
+</option>
+
+
+<option value="4009301003">
+  &#160;&#160;Durham
+</option>
+
+
+
+    </select>
+  </div>
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4045655003">Checkout Anywhere</h3>
+
+  <div class="opening" department_id="4045655003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4045655003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4931909003">Back End Developer - Checkout Experience Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4045655003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4045655003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4934498003">Back End Developer - Checkout Integrations Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4045655003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4045655003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4931900003">Front End Developer - Checkout Experience Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4045655003" office_id="4026375003,4029923003" data-office-4026375003="true" data-office-4029923003="true" data-department-4045655003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4922747003">Senior QA Engineer (m/f/x) </a>
+  <br/>
+  <span class="location">Valencia, Spain</span>
+</div><div class="opening" department_id="4045655003" office_id="4026375003,4029923003" data-office-4026375003="true" data-office-4029923003="true" data-department-4045655003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4922822003">Site Reliability Engineer - Checkout Team (m/f/x)</a>
+  <br/>
+  <span class="location">Valencia, Spain</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016095003">Customer Success</h3>
+
+  <div class="opening" department_id="4016095003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016095003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4896069003">Director, Enterprise Customer Success, Americas</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016095003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016095003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4884890003">Enterprise Customer Success Manager</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016095003" office_id="4026375003,4009295003" data-office-4026375003="true" data-office-4009295003="true" data-department-4016095003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4966996003">Enterprise Customer Success Manager (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016095003" office_id="4026375003,4009296003" data-office-4026375003="true" data-office-4009296003="true" data-department-4016095003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4919020003">Head of Customer Success - Growth Segment (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016103003">Data Security </h3>
+
+  <div class="opening" department_id="4016103003" office_id="4026376003,4009301003" data-office-4026376003="true" data-office-4009301003="true" data-department-4016103003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4910181003">Information Security Intern (Summer 2022)</a>
+  <br/>
+  <span class="location">Durham, North Carolina, United States</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4043100003">Initiative Application</h3>
+
+  <div class="opening" department_id="4043100003" office_id="4026375003,4009296003" data-office-4026375003="true" data-office-4009296003="true" data-department-4043100003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4810441003">Initiative Application (m/f/x)</a>
+  <br/>
+  <span class="location">Valencia, Spain</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016104003">Legal </h3>
+
+  <div class="opening" department_id="4016104003" office_id="4026375003,4009295003,4026375003,4009296003" data-office-4026375003="true" data-office-4009295003="true" data-office-4009296003="true" data-department-4016104003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4795319003">Compliance Manager - Legal (m/f/x)</a>
+  <br/>
+  <span class="location">München, Bayern, Germany</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016090003">Marketing </h3>
+
+  <div class="opening" department_id="4016090003" office_id="4026377003,4025400003" data-office-4026377003="true" data-office-4025400003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4830691003">Business Development Representative - APAC (m/f/x)</a>
+  <br/>
+  <span class="location">Melbourne, Victoria, Australia</span>
+</div><div class="opening" department_id="4016090003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4923238003">Business Development Representative - Benelux (m/f/x)</a>
+  <br/>
+  <span class="location">London, England, United Kingdom</span>
+</div><div class="opening" department_id="4016090003" office_id="4026375003,4009295003,4026375003,4009296003,4026375003,4021247003" data-office-4026375003="true" data-office-4009295003="true" data-office-4009296003="true" data-office-4021247003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4831449003">Business Development Representative - DACH (m/f/x)</a>
+  <br/>
+  <span class="location">Berlin, Berlin, Germany</span>
+</div><div class="opening" department_id="4016090003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4925378003">Business Development Representative - France (m/f/x)</a>
+  <br/>
+  <span class="location">London, England, United Kingdom</span>
+</div><div class="opening" department_id="4016090003" office_id="4026376003,4009301003" data-office-4026376003="true" data-office-4009301003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4870336003">Business Development Representative - Spanish Speaking</a>
+  <br/>
+  <span class="location">Durham, North Carolina, United States</span>
+</div><div class="opening" department_id="4016090003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4831462003">Business Development Representative - UKI (m/f/x)</a>
+  <br/>
+  <span class="location">London, England, United Kingdom</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4850572003">Corporate Journalist / Storyteller</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4026374003,4026376003,4026375003,4026375003,4009296003" data-office-4026378003="true" data-office-4026374003="true" data-office-4026376003="true" data-office-4026375003="true" data-office-4009296003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4918903003">Director of Pricing &amp; Monetization Strategy (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4026374003,4026376003,4026375003,4026375003,4009296003" data-office-4026378003="true" data-office-4026374003="true" data-office-4026376003="true" data-office-4026375003="true" data-office-4009296003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4922610003">Director of Pricing &amp; Monetization Strategy (m/f/x)</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026376003,4009301003" data-office-4026376003="true" data-office-4009301003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4154653003">Enterprise Business Development Representative </a>
+  <br/>
+  <span class="location">Durham, North Carolina, United States</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4960474003">Enterprise Business Development Representative </a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4803002003">Field Marketing Manager</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4921501003">Global Campaign Marketing Manager</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026376003,4009301003,4026378003,4026374003" data-office-4026376003="true" data-office-4009301003="true" data-office-4026378003="true" data-office-4026374003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4795206003">Global Customer Marketing Manager (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4819604003">Marketing Manager UK &amp; Northern Europe (m/f/x)</a>
+  <br/>
+  <span class="location">London, England, United Kingdom</span>
+</div><div class="opening" department_id="4016090003" office_id="4026375003,4009296003" data-office-4026375003="true" data-office-4009296003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4851620003">Marketing Operations Manager EMEA (m/f/x)</a>
+  <br/>
+  <span class="location">München, Bayern, Germany</span>
+</div><div class="opening" department_id="4016090003" office_id="4026375003,4009296003" data-office-4026375003="true" data-office-4009296003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4834212003">Online Marketing Manager – Email Marketing (m/f/x)</a>
+  <br/>
+  <span class="location">München, Bayern, Germany</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4717057003">Partner Marketing Manager</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4012114003,4026378003,4026374003" data-office-4026378003="true" data-office-4012114003="true" data-office-4026374003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4866035003">Senior Product Marketing Manager (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026375003" data-office-4026375003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4920158003">Technical SEO Manager (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4917095003">Website Developer (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016090003" office_id="4026378003,4012633003" data-office-4026378003="true" data-office-4012633003="true" data-department-4016090003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4935250003">Working Student Partner Marketing (m/f/x)</a>
+  <br/>
+  <span class="location">Germany (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016106003">Office Management</h3>
+
+  <div class="opening" department_id="4016106003" office_id="4026375003,4009296003" data-office-4026375003="true" data-office-4009296003="true" data-department-4016106003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4735166003">Office Manager - Part Time (m/f/x)</a>
+  <br/>
+  <span class="location">München, Bayern, Germany</span>
+</div><div class="opening" department_id="4016106003" office_id="4026375003,4009296003" data-office-4026375003="true" data-office-4009296003="true" data-department-4016106003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4818910003">Office Manager - Teilzeit (m/f/x)</a>
+  <br/>
+  <span class="location">München, Bayern, Germany</span>
+</div><div class="opening" department_id="4016106003" office_id="4026375003,4009296003" data-office-4026375003="true" data-office-4009296003="true" data-department-4016106003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4872448003">Werkstudent für Office Management München (m/f/x)</a>
+  <br/>
+  <span class="location">München, Bayern, Germany</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4021290003">Partner Management</h3>
+
+  <div class="opening" department_id="4021290003" office_id="4026375003" data-office-4026375003="true" data-department-4021290003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4921604003">Director GSI Partnerships (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016100003">People and Organization </h3>
+
+  <div class="opening" department_id="4016100003" office_id="4026375003" data-office-4026375003="true" data-department-4016100003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4820810003">Global Talent Acquisition Manager (Business) (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016100003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016100003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4967262003">People Operations Manager (m/f/x)</a>
+  <br/>
+  <span class="location">London, England, United Kingdom</span>
+</div><div class="opening" department_id="4016100003" office_id="4026375003,4009295003,4026375003,4009296003" data-office-4026375003="true" data-office-4009295003="true" data-office-4009296003="true" data-department-4016100003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4820820003">Talent Acquisition Manager - Tech (m/f/x)</a>
+  <br/>
+  <span class="location">Berlin, Berlin, Germany</span>
+</div><div class="opening" department_id="4016100003" office_id="4026375003,4029923003" data-office-4026375003="true" data-office-4029923003="true" data-department-4016100003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4825947003">Tech Talent Acquisition Manager (m/f/x) - Spain</a>
+  <br/>
+  <span class="location">Valencia, Spain</span>
+</div><div class="opening" department_id="4016100003" office_id="4026378003,4012633003" data-office-4026378003="true" data-office-4012633003="true" data-department-4016100003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4962585003">Working Student Learning and Development</a>
+  <br/>
+  <span class="location">Germany (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016097003">Platform</h3>
+
+  <div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4872150003">Agile Coach (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4781210003">Agile Product Enterprise Coach (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026375003,4009295003" data-office-4026375003="true" data-office-4009295003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4967178003">Data Engineer - Pipelines (m/f/x)</a>
+  <br/>
+  <span class="location">Berlin, Berlin, Germany</span>
+</div><div class="opening" department_id="4016097003" office_id="4026375003,4009295003,4026378003,4026374003" data-office-4026375003="true" data-office-4009295003="true" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4840358003">Director of Tech Leadership  (m/f/x) - Europe Remote</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026376003,4009301003" data-office-4026376003="true" data-office-4009301003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4785224003">Engineering Intern (Summer 2022)</a>
+  <br/>
+  <span class="location">Durham, North Carolina, United States</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4762753003">Engineering Manager</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003,4026375003,4009295003" data-office-4026378003="true" data-office-4026374003="true" data-office-4026375003="true" data-office-4009295003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4814979003">Engineering Manager  - Europe Remote (m/f/x) </a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4510031003">Front End Developer - Discounts Team</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4919170003">Front End Developer - First Contact (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4875163003">Front End Developer - Import/Export (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4894775003">Front End Developer Merchant Center - Customers Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4864354003">Front End Developer Merchant Center - Product Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003,4026375003,4009295003" data-office-4026378003="true" data-office-4026374003="true" data-office-4026375003="true" data-office-4009295003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4864907003">Head of Engineering  (m/f/x) - Europe Remote</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003,4026375003,4009295003" data-office-4026378003="true" data-office-4026374003="true" data-office-4026375003="true" data-office-4009295003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4925588003">Principal Engineer Service Architecture (m/f/x) - Europe Remote</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026376003,4009301003" data-office-4026376003="true" data-office-4009301003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4396422003">QA Test Engineer</a>
+  <br/>
+  <span class="location">Durham, North Carolina, United States</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4012633003" data-office-4026378003="true" data-office-4012633003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4886439003">Scala Engineer - Checkout Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4152070003">Scala Engineer - Discounts</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4681433003">Scala Engineer - Stores and Channels Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4672688003">Search Backend Engineer - Priceless Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4012633003" data-office-4026378003="true" data-office-4012633003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4886535003">(Senior) Scala Engineer - Customers Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026375003,4009295003" data-office-4026375003="true" data-office-4009295003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4771091003">(Senior) Scala Engineer - Event Store Team (m/f/x)</a>
+  <br/>
+  <span class="location">Berlin, Berlin, Germany</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4931995003">(Senior) Scala Engineer - Product Team (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4748030003">(Senior) Scala Engineer - TeamQL (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4825593003">Site Reliability Engineer - Cloud Infrastructure (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016097003" office_id="4026376003,4009301003,4026378003,4012114003" data-office-4026376003="true" data-office-4009301003="true" data-office-4026378003="true" data-office-4012114003="true" data-department-4016097003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4755467003">Site Reliability Engineer - Deployment Infrastructure</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016093003">Pre-Sales</h3>
+
+  <div class="opening" department_id="4016093003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016093003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4966389003">Pre-Sales Solution Architect</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016093003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016093003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4218103003">Solutions Engineer EMEA (m/f/x) - Pre-sales</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016093003" office_id="4026378003,4012114003,4026376003,4009301003" data-office-4026378003="true" data-office-4012114003="true" data-office-4026376003="true" data-office-4009301003="true" data-department-4016093003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4298871003">Sr. Solutions Engineer </a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016107003">Product </h3>
+
+  <div class="opening" department_id="4016107003" office_id="4026375003" data-office-4026375003="true" data-department-4016107003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4872464003">Checkout Business Lead (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016107003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016107003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4925350003">Principal UX Designer (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016107003" office_id="4026375003" data-office-4026375003="true" data-department-4016107003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4830362003">Product Manager - B2B (Workflows) (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016107003" office_id="4026378003,4012633003" data-office-4026378003="true" data-office-4012633003="true" data-department-4016107003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4745347003">Product Manager - Deployment Infrastructure - (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016101003">Professional Services</h3>
+
+  <div class="opening" department_id="4016101003" office_id="4026376003,4009301003" data-office-4026376003="true" data-office-4009301003="true" data-department-4016101003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4785203003">Development Intern (Summer 2022)</a>
+  <br/>
+  <span class="location">Durham, North Carolina, United States</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016092003">Sales</h3>
+
+  <div class="opening" department_id="4016092003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4257295003">Commercial Account Executive</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4022376003" data-office-4026375003="true" data-office-4022376003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4823704003">Commercial Account Executive (Benelux) (m/f/x)</a>
+  <br/>
+  <span class="location">Amsterdam</span>
+</div><div class="opening" department_id="4016092003" office_id="4026378003,4012633003,4026375003" data-office-4026378003="true" data-office-4012633003="true" data-office-4026375003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4834311003">Commercial Account Executive DACH (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016092003" office_id="4026378003,4012633003,4026375003" data-office-4026378003="true" data-office-4012633003="true" data-office-4026375003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4853428003">Commercial Account Executive DACH (m/f/x)</a>
+  <br/>
+  <span class="location">Germany (Remote)</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4032756003,4026378003,4026374003" data-office-4026375003="true" data-office-4032756003="true" data-office-4026378003="true" data-office-4026374003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4853434003">Commercial Account Executive (m/f/x) France </a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4032756003,4026378003,4026374003" data-office-4026375003="true" data-office-4032756003="true" data-office-4026378003="true" data-office-4026374003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4851329003">Commercial Account Executive (m/f/x) France </a>
+  <br/>
+  <span class="location">Paris, Paris, France</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4853429003">Commercial Account Executive (Nordics)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4693037003">Commercial Account Executive (Nordics)</a>
+  <br/>
+  <span class="location">London, England, United Kingdom</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4692951003">Commercial Account Executive (UK)</a>
+  <br/>
+  <span class="location">London, England, United Kingdom</span>
+</div><div class="opening" department_id="4016092003" office_id="4026378003,4012114003" data-office-4026378003="true" data-office-4012114003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4257301003">Enterprise Account Executive</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4016092003" office_id="4026377003,4025400003" data-office-4026377003="true" data-office-4025400003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4687379003">Enterprise Account Executive (APAC)</a>
+  <br/>
+  <span class="location">Melbourne, Victoria, Australia</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4022376003" data-office-4026375003="true" data-office-4022376003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4823633003">Enterprise Account Executive - Benelux (m/f/x)</a>
+  <br/>
+  <span class="location">Amsterdam</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4009295003,4026378003,4012633003,4026375003,4009296003,4026375003,4009302003" data-office-4026375003="true" data-office-4009295003="true" data-office-4026378003="true" data-office-4012633003="true" data-office-4009296003="true" data-office-4009302003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4810272003">Enterprise Account Executive DACH (m/f/x)</a>
+  <br/>
+  <span class="location">Germany (Remote)</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4009295003,4026378003,4012633003,4026375003,4009296003,4026375003,4009302003" data-office-4026375003="true" data-office-4009295003="true" data-office-4026378003="true" data-office-4012633003="true" data-office-4009296003="true" data-office-4009302003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4834297003">Enterprise Account Executive DACH (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4032756003,4026378003,4026374003" data-office-4026375003="true" data-office-4032756003="true" data-office-4026378003="true" data-office-4026374003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4783857003">Enterprise Account Executive - France (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4032756003,4026378003,4026374003" data-office-4026375003="true" data-office-4032756003="true" data-office-4026378003="true" data-office-4026374003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4753000003">Enterprise Account Executive - France (m/f/x)</a>
+  <br/>
+  <span class="location">Paris, Paris, France</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4921592003">Enterprise Account Executive (Nordics) </a>
+  <br/>
+  <span class="location">London, England, United Kingdom</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4009302003" data-office-4026375003="true" data-office-4009302003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4787418003">Enterprise Account Executive Switzerland (m/f/x)</a>
+  <br/>
+  <span class="location">Zürich, Zürich, Switzerland</span>
+</div><div class="opening" department_id="4016092003" office_id="4026375003,4021247003" data-office-4026375003="true" data-office-4021247003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4878735003">Enterprise Account Executive (UK)</a>
+  <br/>
+  <span class="location">London, England, United Kingdom</span>
+</div><div class="opening" department_id="4016092003" office_id="4026376003,4009301003" data-office-4026376003="true" data-office-4009301003="true" data-department-4016092003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4938067003">Sales Intern (Summer 2022)</a>
+  <br/>
+  <span class="location">Durham, North Carolina, United States</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4016098003">Support, Training and Documentation</h3>
+
+  <div class="opening" department_id="4016098003" office_id="4026375003,4021247003,4026375003,4022376003,4026375003,4009297003,4026375003,4009296003,4026375003,4009295003" data-office-4026375003="true" data-office-4021247003="true" data-office-4022376003="true" data-office-4009297003="true" data-office-4009296003="true" data-office-4009295003="true" data-department-4016098003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4951582003">Program Manager Self-Learning (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016098003" office_id="4026378003,4026374003,4026375003,4009296003,4026375003,4021247003,4026378003,4012633003,4026375003,4009295003,4026375003,4022376003" data-office-4026378003="true" data-office-4026374003="true" data-office-4026375003="true" data-office-4009296003="true" data-office-4021247003="true" data-office-4012633003="true" data-office-4009295003="true" data-office-4022376003="true" data-department-4016098003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4759276003">(Senior) Front End Developer - Docs and Platform Management (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016098003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016098003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4851637003">Senior Technical Writer (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016098003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016098003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4958604003">Technical Trainer (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div><div class="opening" department_id="4016098003" office_id="4026378003,4026374003" data-office-4026378003="true" data-office-4026374003="true" data-department-4016098003="true">
+  <a data-mapped="true" href="/commercetools/jobs/4931905003">Technical Writer (m/f/x)</a>
+  <br/>
+  <span class="location">Europe (Remote)</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

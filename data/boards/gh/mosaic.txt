@@ -1,0 +1,800 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v17.9 (Yoast SEO v17.9) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Mosaic Careers - Work With Us</title>
+	<meta name="description" content="We’re on a mission to empower millions of people to prosper from clean energy. Want to help make it happen? Apply to join us today." />
+	<link rel="canonical" href="https://joinmosaic.com/about-us/careers/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Mosaic Careers - Work With Us" />
+	<meta property="og:description" content="We’re on a mission to empower millions of people to prosper from clean energy. Want to help make it happen? Apply to join us today." />
+	<meta property="og:url" content="https://joinmosaic.com/about-us/careers/" />
+	<meta property="og:site_name" content="Mosaic" />
+	<meta property="article:publisher" content="https://www.facebook.com/joinmosaic" />
+	<meta property="article:modified_time" content="2022-01-26T14:21:34+00:00" />
+	<meta property="og:image" content="http://joinmosaic.com/wp-content/uploads/2021/05/Careers-1920x800-1.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="800" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Mosaic Careers - Work With Us" />
+	<meta name="twitter:description" content="We’re on a mission to empower millions of people to prosper from clean energy. Want to help make it happen? Apply to join us today." />
+	<meta name="twitter:image" content="https://joinmosaic.com/wp-content/uploads/2021/05/Careers-1920x800-1.jpg" />
+	<meta name="twitter:site" content="@joinmosaic" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://joinmosaic.com/#organization","name":"Mosaic","url":"https://joinmosaic.com/","sameAs":["https://www.facebook.com/joinmosaic","https://www.instagram.com/joinmosaic","https://www.linkedin.com/company/joinmosaic","https://www.youtube.com/user/JoinMosaic1","https://en.wikipedia.org/wiki/Mosaic_Inc.","https://twitter.com/joinmosaic"],"logo":{"@type":"ImageObject","@id":"https://joinmosaic.com/#logo","inLanguage":"en-US","url":"http://joinmosaic.com/wp-content/uploads/2021/05/Mosaic-Logo-Gray-Registered.png","contentUrl":"http://joinmosaic.com/wp-content/uploads/2021/05/Mosaic-Logo-Gray-Registered.png","width":321,"height":58,"caption":"Mosaic"},"image":{"@id":"https://joinmosaic.com/#logo"}},{"@type":"WebSite","@id":"https://joinmosaic.com/#website","url":"https://joinmosaic.com/","name":"Mosaic","description":"","publisher":{"@id":"https://joinmosaic.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://joinmosaic.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://joinmosaic.com/about-us/careers/#primaryimage","inLanguage":"en-US","url":"https://joinmosaic.com/wp-content/uploads/2021/05/Careers-1920x800-1.jpg","contentUrl":"https://joinmosaic.com/wp-content/uploads/2021/05/Careers-1920x800-1.jpg","width":1920,"height":800,"caption":"Careers"},{"@type":"WebPage","@id":"https://joinmosaic.com/about-us/careers/#webpage","url":"https://joinmosaic.com/about-us/careers/","name":"Mosaic Careers - Work With Us","isPartOf":{"@id":"https://joinmosaic.com/#website"},"datePublished":"2021-03-24T12:46:56+00:00","dateModified":"2022-01-26T14:21:34+00:00","description":"We\u2019re on a mission to empower millions of people to prosper from clean energy. Want to help make it happen? Apply to join us today.","breadcrumb":{"@id":"https://joinmosaic.com/about-us/careers/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://joinmosaic.com/about-us/careers/"]}]},{"@type":"BreadcrumbList","@id":"https://joinmosaic.com/about-us/careers/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"About Us","item":"https://joinmosaic.com/about-us/"},{"@type":"ListItem","position":2,"name":"Careers"}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Mosaic &raquo; Feed" href="https://joinmosaic.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mosaic &raquo; Comments Feed" href="https://joinmosaic.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/joinmosaic.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://joinmosaic.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-bxslider-css'  href='https://joinmosaic.com/wp-content/plugins/bb-plugin/css/jquery.bxslider.css?ver=2.5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-19-css'  href='https://joinmosaic.com/wp-content/uploads/bb-plugin/cache/19-layout.css?ver=db92b1a05e741b9ab89dec4a959907b7' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://joinmosaic.com/wp-content/themes/wpbstarter/style.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/css/bootstrap.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/css/fontawesome-all.css?ver=5.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbstarter-defaultcss-css'  href='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/css/default.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbstarter-customcss-css'  href='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/css/custom.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sinanav-css'  href='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/css/sina-nav.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbstarter-responsive-css'  href='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/css/responsive.css?ver=2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbstarter-style-css'  href='https://joinmosaic.com/wp-content/themes/wpbstarter-child/style.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://joinmosaic.com/wp-includes/css/dashicons.min.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-google-fonts-eb4f42f8a4006ed1c4c43b21cc685d9c-css'  href='//fonts.googleapis.com/css?family=Lora%3A400%7CMontserrat%3A700&#038;ver=5.8.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://joinmosaic.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/js/html5.js?ver=3.7.0' id='html5hiv-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://joinmosaic.com/wp-json/" /><link rel="alternate" type="application/json" href="https://joinmosaic.com/wp-json/wp/v2/pages/19" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://joinmosaic.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://joinmosaic.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://joinmosaic.com/?p=19' />
+<link rel="alternate" type="application/json+oembed" href="https://joinmosaic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjoinmosaic.com%2Fabout-us%2Fcareers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://joinmosaic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjoinmosaic.com%2Fabout-us%2Fcareers%2F&#038;format=xml" />
+
+<script>
+piAId = '695253';
+piCId = '1885';
+piHostname = 'pi.pardot.com';
+
+(function() {
+    function async_load(){
+        var s = document.createElement('script'); s.type = 'text/javascript';
+        s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+        var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+    }
+    if(window.attachEvent) { window.attachEvent('onload', async_load); }
+    else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150039131-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-150039131-1');
+</script>
+
+<!-- Google Tag Manager -->
+
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+  })(window,document,'script','dataLayer','GTM-5J5H42N');</script>
+
+  <!-- End Google Tag Manager -->
+<meta name="google-site-verification" content="c89yNmyercuNHRX-a0jOsw1FhFtUf0IxGYCq56jd-hc">
+
+<meta name="facebook-domain-verification" content="tkuynfo7n5cq3534ts2n1vmju6iuyn" />
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0107/5528.js" async="async" ></script>
+
+<style type="text/css">
+.author .btn-back { display: none; }
+.post-template-default .post-navigation { display: none; }
+</style>
+
+
+    <style type="text/css">
+        .blog-title { background-color: #333; 
+         }
+
+        .archive-title { background-color: #333; 
+         }
+
+        .search-title { background-color: #333; 
+         }
+
+        .nfound-title { background-color: #333; 
+         }
+    </style>
+    <link rel="icon" href="https://joinmosaic.com/wp-content/uploads/2020/06/cropped-Mosaic_Mark-color-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://joinmosaic.com/wp-content/uploads/2020/06/cropped-Mosaic_Mark-color-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://joinmosaic.com/wp-content/uploads/2020/06/cropped-Mosaic_Mark-color-180x180.png" />
+<meta name="msapplication-TileImage" content="https://joinmosaic.com/wp-content/uploads/2020/06/cropped-Mosaic_Mark-color-270x270.png" />
+</head>
+
+<body class="page-template-default page page-id-19 page-child parent-pageid-17 wp-custom-logo fl-builder no-sidebar">
+	
+<div id="page" class="site sscroll">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    	<header id="mastheadx" class="site-header navbar-static-top" role="banner">
+        <!-- menu works -->
+       <div class="nav-container">
+                    <nav class="sina-nav mobile-sidebar navbar-fixed" data-top="0">
+                        <div class="container-full">
+                    
+                                            <div class="sina-nav-header">
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                                                            <a class="sina-brand" href="https://joinmosaic.com/" rel="home" itemprop="url">
+                                    <img src="https://joinmosaic.com/wp-content/uploads/2021/05/Mosaic-Logo-Gray-Registered-300x58.png" alt="Mosaic">
+                                </a>
+                                                </div><!-- .sina-nav-header -->
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div id="navbar-menu" class="collapse navbar-collapse"><ul id="menu-header" class="sina-menu sina-menu-right"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6798" class="d-lg-none menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-6798 nav-item"><a title="Home" href="https://joinmosaic.com/" class="nav-link">Home</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-37 nav-item"><a title="Contractors" href="https://joinmosaic.com/contractors/">Contractors</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4785 nav-item"><a title="Home Improvement Financing" href="https://joinmosaic.com/contractors/home-improvement-financing/" class="dropdown-item">Home Improvement Financing</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6978 nav-item"><a title="Solar Financing" href="https://joinmosaic.com/contractors/solar-financing/" class="dropdown-item">Solar Financing</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4788 nav-item"><a title="Contractor FAQs" href="https://joinmosaic.com/contractors/contractor-faqs/" class="dropdown-item">Contractor FAQs</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-100 nav-item"><a title="How It Works" href="https://joinmosaic.com/technology/">Technology</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4800 nav-item"><a title="Portal 2X" href="https://joinmosaic.com/technology/portal-2x/" class="dropdown-item">Portal 2X</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4799 nav-item"><a title="SwiftLink" href="https://joinmosaic.com/technology/swiftlink/" class="dropdown-item">SwiftLink</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7135 nav-item"><a title="Developers" href="https://joinmosaic.com/technology/developers/" class="dropdown-item">Developers</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36 nav-item"><a title="Homeowners" href="https://joinmosaic.com/homeowners/" class="nav-link">Homeowners</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children dropdown active menu-item-35 nav-item"><a title="About Us" href="https://joinmosaic.com/about-us/">About Us</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6179 nav-item"><a title="Meet the Team" href="https://joinmosaic.com/about-us/meet-the-team/" class="dropdown-item">Meet the Team</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5713 nav-item"><a title="Press" href="https://joinmosaic.com/about-us/press/" class="dropdown-item">Press</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4708" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-19 current_page_item active menu-item-4708 nav-item"><a title="Careers" href="https://joinmosaic.com/about-us/careers/" class="dropdown-item" aria-current="page">Careers</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97 nav-item"><a title="Contact Us" href="https://joinmosaic.com/contact-us/" class="nav-link">Contact Us</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-46" class="btn-become-a-partner menu-item menu-item-type-custom menu-item-object-custom menu-item-46 nav-item"><a title="Become a Partner" target="_blank" href="https://partner.joinmosaic.com/?utm_source=header&#038;utm_medium=cta-button&#038;utm_campaign=website-direct&#038;utm_content=become-a-partner" class="nav-link">Become a Partner</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43" class="btn-login menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-43 nav-item"><a title="Login" href="#">Login</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6896 nav-item"><a title="Borrower Loan Servicing Portal" target="_blank" href="https://joinmosaic.myaccountinfo.com/Account/LogOn" class="dropdown-item">Borrower Loan Servicing Portal</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44 nav-item"><a title="Borrower Loan Portal" target="_blank" href="https://hero.joinmosaic.com/sign-in" class="dropdown-item">Borrower Loan Documents Portal</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45 nav-item"><a title="Partner Portal" target="_blank" href="https://login.financing.joinmosaic.com/sign-in" class="dropdown-item">Partner Portal</a></li>
+</ul>
+</li>
+</ul></div>                        <div class="extension-nav">
+                        <ul>
+                        
+                
+                        
+                        </ul>
+                    </div><!-- .extension-nav Right Side button-->
+                </div> <!-- .container -->
+
+            
+            
+            </nav> <!-- .navend -->
+        </div> <!-- .nav-container -->       <!-- .menu work ends -->
+	</header><!-- #masthead -->
+    
+	<div id="content" class="site-content">
+                
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+			<div class="container-full">
+				<div class="row">
+					<div class="col-12">
+						
+<article id="post-19" class="post-19 page type-page status-publish hentry">
+
+	
+	<div class="entry-content">
+		<div class="fl-builder-content fl-builder-content-19 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="19"><div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-608c15ec52237 fl-row-custom-height fl-row-align-center" data-node="608c15ec52237">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-608c15ec52363" data-node="608c15ec52363">
+			<div class="fl-col fl-node-608c15ec52366" data-node="608c15ec52366">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c15ec52367" data-node="608c15ec52367">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Come join our team</span>
+	</h3>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-61df3443beb2f" data-node="61df3443beb2f">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-61df346ad8562" data-node="61df346ad8562">
+			<div class="fl-col fl-node-61df346ad85f3" data-node="61df346ad85f3">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-61df3475c7615" data-node="61df3475c7615">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">We’re creating a way to empower millions of people to prosper from clean energy.</span>
+	</h3>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-61df34b00922b body-normal" data-node="61df34b00922b">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>We’re on a mission to revolutionize two of the biggest industries in the world: energy and finance. We’re looking for purpose-driven individuals to help make it happen.</p>
+<p>We focus on the integration of doing good (for the planet) and doing well (financially). We value the well-being of our colleagues, and provide benefits that help us work with joy. These benefits include generous paid time off policies, 100% employee health coverage, an annual stipend for professional development and home office equipment, and virtual events such as painting sessions and ergonomic workshops.</p>
+<p>But above all else, we are passionate about using the power of business to have a significant impact on climate change, one of the biggest challenges of our lifetime.</p>
+<p>Let’s work on it together.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-606cd72c2fa43" data-node="606cd72c2fa43">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-606cd72c327ca" data-node="606cd72c327ca">
+			<div class="fl-col fl-node-606cd72c32906" data-node="606cd72c32906">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-html fl-node-606cd72c2f751" data-node="606cd72c2f751">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<div id="grnhse_app"></div>
+<script src="https://boards.greenhouse.io/embed/job_board/js?for=mosaic"></script></div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-608c17b0b4df5" data-node="608c17b0b4df5">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-608c17b0b54e6" data-node="608c17b0b54e6">
+			<div class="fl-col fl-node-608c17b0b54eb" data-node="608c17b0b54eb">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17b0b54ee" data-node="608c17b0b54ee">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Our Values</span>
+	</h3>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-608c17b0b54ef fl-col-group-equal-height fl-col-group-align-top" data-node="608c17b0b54ef">
+			<div class="fl-col fl-node-608c17b0b54f1 fl-col-small" data-node="608c17b0b54f1">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17b0b54f3" data-node="608c17b0b54f3">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Teamwork is the Dreamwork</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c17b0b54f5 body-big" data-node="608c17b0b54f5">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>We trust each other and build honest relationships. Great work can’t be done alone.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-608c17b0b54f7 fl-col-small" data-node="608c17b0b54f7">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17b0b54f9" data-node="608c17b0b54f9">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Courageous Creativity</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c17b0b54fb body-big" data-node="608c17b0b54fb">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>We are creating the future. Innovation requires us to take risks, learn from our mistakes, and approach problems with fresh perspective and childlike curiosity.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-608c17b0b54fd fl-col-small" data-node="608c17b0b54fd">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17b0b54ff" data-node="608c17b0b54ff">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Look for the Win-Win</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c17b0b5501 body-big" data-node="608c17b0b5501">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>The best solutions create abundance for all stakeholders.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-608c17b0b5503 fl-col-group-equal-height fl-col-group-align-top" data-node="608c17b0b5503">
+			<div class="fl-col fl-node-608c17b0b5505 fl-col-small" data-node="608c17b0b5505">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17b0b5507" data-node="608c17b0b5507">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Work With Joy</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c17b0b5509 body-big" data-node="608c17b0b5509">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Happy people are more creative, collaborative, and effective. We are committed to making a company people love to work at and with.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-608c17b0b550b fl-col-small" data-node="608c17b0b550b">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17b0b550d" data-node="608c17b0b550d">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Be in Service and Empower Others</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c17b0b550f body-big" data-node="608c17b0b550f">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Our customers are heroes. We’re driven to help them succeed. Leadership is not defined by what others do for you, but what you do for others.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-608c17b0b5510 fl-col-small" data-node="608c17b0b5510">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17b0b5513" data-node="608c17b0b5513">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Openness and Transparency</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c17b0b5515 body-big" data-node="608c17b0b5515">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>To open up the finance and energy markets to millions of people, we must be open with ourselves. We earn trust by communicating honestly about our products, policies and decisions.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-608c1a58747f2 fl-col-group-equal-height fl-col-group-align-top" data-node="608c1a58747f2">
+			<div class="fl-col fl-node-608c1a4ec0d7b fl-col-small" data-node="608c1a4ec0d7b">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c1a4ec0e90" data-node="608c1a4ec0e90">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Be a Steward of the Environment and of Our Customers</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c1a4ec0e93 body-big" data-node="608c1a4ec0e93">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>We want to leave the world a better place than we found it. That means we take care of our customers, the Earth, and each other.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-608c1a5e518c7 fl-col-small" data-node="608c1a5e518c7">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c1a5e519d8" data-node="608c1a5e519d8">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">We Are a Mosaic</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c1a5e519db body-big" data-node="608c1a5e519db">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Like a tile mosaic, we are greater than the sum of our parts. We value diversity of backgrounds, perspectives, and experience. We believe in fairness and respect for all.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-608c1a61ca57a fl-col-small fl-visible-desktop" data-node="608c1a61ca57a">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-608c17bc72339" data-node="608c17bc72339">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-608c17bc72962" data-node="608c17bc72962">
+			<div class="fl-col fl-node-608c17bc72965" data-node="608c17bc72965">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17bc72967" data-node="608c17bc72967">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Benefits</span>
+	</h3>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-60a27779202fe" data-node="60a27779202fe">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>We are always on the lookout for thoughtful, passionate people trying to make a positive impact. We care about our people and work hard to ensure our team has the support they need to be happy at and outside of work.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-separator fl-node-60a277bdb2576" data-node="60a277bdb2576">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-608c17bc72969 fl-col-group-equal-height fl-col-group-align-top" data-node="608c17bc72969">
+			<div class="fl-col fl-node-608c17bc7296b fl-col-small" data-node="608c17bc7296b">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17bc7296d" data-node="608c17bc7296d">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Compensation</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c17bc7296f body-big" data-node="608c17bc7296f">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Salaries are competitive with other tech companies — and you are making a real impact in clean energy solutions. We also help you invest in your future with a 401k match as well as equity.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-608c18fd459f8 fl-col-small" data-node="608c18fd459f8">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c18fd45b0a" data-node="608c18fd45b0a">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Time Off</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c18fd45b0d body-big" data-node="608c18fd45b0d">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Mosaic offers generous PTO plans. We encourage employees to lead a balanced life by taking time off when needed.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-608c19216185d fl-col-small" data-node="608c19216185d">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c19216196c" data-node="608c19216196c">
+	<div class="fl-module-content fl-node-content">
+		<h5 class="fl-heading">
+		<span class="fl-heading-text">Health Insurance</span>
+	</h5>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608c19216196f body-big" data-node="608c19216196f">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>We provide medical, vision and dental insurance that covers 100% of employee premiums and 60% of dependent premiums.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-61bcd3345c612" data-node="61bcd3345c612">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-61bcd34c9fbd2 fl-col-group-equal-height fl-col-group-align-center" data-node="61bcd34c9fbd2">
+			<div class="fl-col fl-node-61bcd41f79c9f fl-col-small" data-node="61bcd41f79c9f">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-61bcd4290a8c0" data-node="61bcd4290a8c0">
+	<div class="fl-module-content fl-node-content">
+		<h4 class="fl-heading">
+		<span class="fl-heading-text">Purpose driven, people and planet focused</span>
+	</h4>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-61bcd489e1ddb" data-node="61bcd489e1ddb">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>We want to make it as simple as possible for millions to make their homes cleaner, smarter and more resilient — and reduce their impact on the environment.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-61bcd34c9fc52 video-container" data-node="61bcd34c9fc52">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-video fl-node-61bcd34c9fb53 video-container" data-node="61bcd34c9fb53">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="fl-video fl-embed-video">
+	<iframe loading="lazy" title="Why Mosaic?" width="640" height="360" src="https://www.youtube.com/embed/s_l8y3koHHU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-608c17cb92534" data-node="608c17cb92534">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-608c17cb926c6" data-node="608c17cb926c6">
+			<div class="fl-col fl-node-608c17cb926c9" data-node="608c17cb926c9">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-608c17cb926cb" data-node="608c17cb926cb">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">What our employees say...</span>
+	</h3>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-608c17cb926cd" data-node="608c17cb926cd">
+			<div class="fl-col fl-node-608c17cb926ce" data-node="608c17cb926ce">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-post-slider fl-node-608c17cb926d0 testimonials-slider" data-node="608c17cb926d0">
+	<div class="fl-module-content fl-node-content">
+		
+	<div class="fl-post-slider" itemscope="itemscope" itemtype="https://schema.org/Blog">
+		<div class="fl-post-slider-wrapper">
+
+			<div class="fl-post-slider-post fl-post-slider-no-thumb swiper-slide post-7242 post type-post status-publish format-standard hentry category-employee-testimonials"  itemscope="itemscope" itemtype="https://schema.org/BlogPosting" > 	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://joinmosaic.com/2021/11/08/colin-young/" content="Colin Young" /><meta itemprop="datePublished" content="2021-11-08" /><meta itemprop="dateModified" content="2021-11-08" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Mosaic"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://joinmosaic.com/wp-content/uploads/2021/05/Mosaic-Logo-Gray-Registered.png"></div></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://joinmosaic.com/author/chris-kirk-contractor/" /><meta itemprop="name" content="Chris Kirk" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>
+	<div class="fl-post-slider-content">
+
+		<h4 class="fl-post-slider-title" itemprop="headline"><a href="https://joinmosaic.com/2021/11/08/colin-young/" rel="bookmark" title="Colin Young">Colin Young</a></h4>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+							<blockquote class="wp-block-quote is-style-large">
+<p>It’s important to me to work on something that matters. Mosaic combines two passions of mine — climate action and home improvement — in a way that will meaningfully reduce carbon emissions. As a parent, I can’t think of anything more important to work on every day.</p>
+<p><cite>Colin Young, manager, UX engineering</cite></p></blockquote>
+								</div>
+		
+	</div>
+
+</div>
+<div class="fl-post-slider-post fl-post-slider-no-thumb swiper-slide post-7241 post type-post status-publish format-standard hentry category-employee-testimonials"  itemscope="itemscope" itemtype="https://schema.org/BlogPosting" > 	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://joinmosaic.com/2021/11/08/wei-wu/" content="Wei Wu" /><meta itemprop="datePublished" content="2021-11-08" /><meta itemprop="dateModified" content="2021-11-08" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Mosaic"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://joinmosaic.com/wp-content/uploads/2021/05/Mosaic-Logo-Gray-Registered.png"></div></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://joinmosaic.com/author/chris-kirk-contractor/" /><meta itemprop="name" content="Chris Kirk" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>
+	<div class="fl-post-slider-content">
+
+		<h4 class="fl-post-slider-title" itemprop="headline"><a href="https://joinmosaic.com/2021/11/08/wei-wu/" rel="bookmark" title="Wei Wu">Wei Wu</a></h4>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+							<blockquote class="wp-block-quote is-style-large">
+<p>I enjoy working with a group of passionate, mission-driven people. It’s also very cool that I can make a positive impact on the environment through my daily work.</p>
+<p><cite>Wei Wu, senior product manager, finance</cite></p></blockquote>
+								</div>
+		
+	</div>
+
+</div>
+<div class="fl-post-slider-post fl-post-slider-no-thumb swiper-slide post-7240 post type-post status-publish format-standard hentry category-employee-testimonials"  itemscope="itemscope" itemtype="https://schema.org/BlogPosting" > 	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://joinmosaic.com/2021/11/08/gus-isaac/" content="Gus Isaac" /><meta itemprop="datePublished" content="2021-11-08" /><meta itemprop="dateModified" content="2021-11-09" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Mosaic"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://joinmosaic.com/wp-content/uploads/2021/05/Mosaic-Logo-Gray-Registered.png"></div></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://joinmosaic.com/author/chris-kirk-contractor/" /><meta itemprop="name" content="Chris Kirk" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>
+	<div class="fl-post-slider-content">
+
+		<h4 class="fl-post-slider-title" itemprop="headline"><a href="https://joinmosaic.com/2021/11/08/gus-isaac/" rel="bookmark" title="Gus Isaac">Gus Isaac</a></h4>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+							<blockquote class="wp-block-quote is-style-large">
+<p>There is something very special and unique about the culture that starts from the top. I wake up excited every day to work. I love that my team is multicultural, and I get to focus closely on their professional development. I appreciate and love Mosaic for trusting me to support and hold this operation closely.</p>
+<p><cite>Gus Isaac, supervisor, customer experience</cite></p></blockquote>
+								</div>
+		
+	</div>
+
+</div>
+		</div>
+			<div class="fl-post-slider-navigation" aria-label="post slider buttons">
+			<a class="slider-prev" href="#" aria-label="previous" role="button"><div class="fl-post-slider-svg-container"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<path d="M398.572,104.287L246.857,256.001l151.715,151.714c3.617,3.618,5.428,7.904,5.428,12.856c0,4.953-1.811,9.238-5.428,12.857 l-47.428,47.428c-3.619,3.619-7.904,5.428-12.857,5.428s-9.238-1.809-12.857-5.428l-212-212c-3.619-3.618-5.428-7.904-5.428-12.856 c0-4.953,1.81-9.238,5.428-12.857l212-212c3.619-3.618,7.904-5.428,12.857-5.428s9.238,1.81,12.857,5.428l47.428,47.429 C402.189,82.19,404,86.476,404,91.428c0,4.953-1.811,9.238-5.428,12.857V104.287z"/>
+</svg>
+</div></a>
+			<a class="slider-next" href="#" aria-label="next" role="button"><div class="fl-post-slider-svg-container"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<path d="M113.428,407.713l151.715-151.714L113.428,104.285c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857 l47.428-47.428c3.619-3.619,7.904-5.428,12.857-5.428s9.238,1.809,12.857,5.428l212,212c3.619,3.618,5.429,7.904,5.429,12.856 c0,4.953-1.81,9.238-5.429,12.857l-212,212c-3.619,3.618-7.904,5.428-12.857,5.428s-9.238-1.81-12.857-5.428l-47.428-47.429 c-3.617-3.618-5.428-7.904-5.428-12.856c0-4.953,1.811-9.238,5.428-12.857V407.713z"/>
+</svg>
+</div></a>
+		</div>
+		</div>
+	<div class="fl-clear"></div>
+
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div>	</div><!-- .entry-content -->
+
+	</article><!-- #post-19 -->
+					</div>
+				</div>
+			</div>
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+	<footer>
+            <div id="footer-widget" class="row m-0">
+            <div class="container">
+                <div class="row">
+                                            <div class="col-12"><div id="block-2" class="widget"><p><a href="https://www.google.com/maps/place/Solar+Mosaic+Inc/@37.8041566,-122.2762882,17z/data=!3m1!5s0x87459a389d449295:0xd7de4eb0aa7d5f75!4m7!3m6!1s0x808f80b24e46d281:0x75a0d9f539aa2dbb!8m2!3d37.8038653!4d-122.2762147!9m1!1b1?hl=en" target="_blank" title="Solar Mosaic Google Reviews"></a></p>
+<p><a href="https://www.google.com/maps/place/Solar+Mosaic+Inc/@37.8041566,-122.2762882,17z/data=!3m1!5s0x87459a389d449295:0xd7de4eb0aa7d5f75!4m7!3m6!1s0x808f80b24e46d281:0x75a0d9f539aa2dbb!8m2!3d37.8038653!4d-122.2762147!9m1!1b1?hl=en" target="_blank" title="Solar Mosaic Google Reviews"></a></p>
+<p><a href="https://www.google.com/maps/place/Solar+Mosaic+Inc/@37.8041566,-122.2762882,17z/data=!3m1!5s0x87459a389d449295:0xd7de4eb0aa7d5f75!4m7!3m6!1s0x808f80b24e46d281:0x75a0d9f539aa2dbb!8m2!3d37.8038653!4d-122.2762147!9m1!1b1?hl=en" target="_blank" title="Solar Mosaic Google Reviews"></a></p>
+<p><a href="https://www.google.com/maps/place/Solar+Mosaic+Inc/@37.8041566,-122.2762882,17z/data=!3m1!5s0x87459a389d449295:0xd7de4eb0aa7d5f75!4m7!3m6!1s0x808f80b24e46d281:0x75a0d9f539aa2dbb!8m2!3d37.8038653!4d-122.2762147!9m1!1b1?hl=en" target="_blank" title="Solar Mosaic Google Reviews"></a></p><a href="https://www.google.com/maps/place/Solar+Mosaic+Inc/@37.8041566,-122.2762882,17z/data=!3m1!5s0x87459a389d449295:0xd7de4eb0aa7d5f75!4m7!3m6!1s0x808f80b24e46d281:0x75a0d9f539aa2dbb!8m2!3d37.8038653!4d-122.2762147!9m1!1b1?hl=en" target="_blank" title="Solar Mosaic Google Reviews">
+<div id="google-rating">
+<div id="logo">
+        <img style="width:100px;" src="/wp-content/themes/wpbstarter-child/assets/images/google-logo.svg">
+    </div>
+<div id="rating">4.5</div>
+<div id="stars">
+<div class="star"><i class="fa fa-star"></i></div>
+<div class="star"><i class="fa fa-star"></i></div>
+<div class="star"><i class="fa fa-star"></i></div>
+<div class="star"><i class="fa fa-star"></i></div>
+<div class="star"><i class="fa fa-star-half"></i></div>
+</div>
+<div id="reviews">308 Reviews</div>
+</div>
+</a><p><a href="https://www.google.com/maps/place/Solar+Mosaic+Inc/@37.8041566,-122.2762882,17z/data=!3m1!5s0x87459a389d449295:0xd7de4eb0aa7d5f75!4m7!3m6!1s0x808f80b24e46d281:0x75a0d9f539aa2dbb!8m2!3d37.8038653!4d-122.2762147!9m1!1b1?hl=en" target="_blank" title="Solar Mosaic Google Reviews"></a></p>
+<p><a href="https://www.google.com/maps/place/Solar+Mosaic+Inc/@37.8041566,-122.2762882,17z/data=!3m1!5s0x87459a389d449295:0xd7de4eb0aa7d5f75!4m7!3m6!1s0x808f80b24e46d281:0x75a0d9f539aa2dbb!8m2!3d37.8038653!4d-122.2762147!9m1!1b1?hl=en" target="_blank" title="Solar Mosaic Google Reviews"></a></p>
+<p><a href="https://www.google.com/maps/place/Solar+Mosaic+Inc/@37.8041566,-122.2762882,17z/data=!3m1!5s0x87459a389d449295:0xd7de4eb0aa7d5f75!4m7!3m6!1s0x808f80b24e46d281:0x75a0d9f539aa2dbb!8m2!3d37.8038653!4d-122.2762147!9m1!1b1?hl=en" target="_blank" title="Solar Mosaic Google Reviews"></a></p></div></div>
+                                                                <div class="col-12"><div class="row"><div id="nav_menu-3" class="widget widget_nav_menu col-sm-6 col-md-3"><h6 class="widget-title">Logo</h6><div class="menu-footer-about-container"><ul id="menu-footer-about" class="menu"><li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-107"><a href="https://joinmosaic.com/about-us/">About Mosaic</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-19 current_page_item menu-item-109"><a href="https://joinmosaic.com/about-us/careers/" aria-current="page">Careers</a></li>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://joinmosaic.com/about-us/press/">Press</a></li>
+<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://joinmosaic.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="https://joinmosaic.com/blog/">Blog</a></li>
+</ul></div></div><div id="nav_menu-4" class="widget widget_nav_menu col-sm-6 col-md-3"><h6 class="widget-title">Contractors</h6><div class="menu-footer-contractors-container"><ul id="menu-footer-contractors" class="menu"><li id="menu-item-112" class="sign-up-with-mosaic menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a target="_blank" rel="noopener" href="https://partner.joinmosaic.com/apply/start?utm_source=footer&#038;utm_medium=sign-up-link&#038;utm_campaign=website-direct&#038;utm_content=sign-up-with-mosaic">Sign Up with Mosaic</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a title="Partner Login" target="_blank" rel="noopener" href="https://login.financing.joinmosaic.com/sign-in">Partner Login</a></li>
+<li id="menu-item-5152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5152"><a href="https://joinmosaic.com/contractors/contractor-faqs/">Contractor FAQs</a></li>
+<li id="menu-item-6728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6728"><a href="https://joinmosaic.com/participation-agreement/">Participation Agreement</a></li>
+</ul></div></div><div id="nav_menu-5" class="widget widget_nav_menu col-sm-6 col-md-3"><h6 class="widget-title">Technology</h6><div class="menu-footer-technology-container"><ul id="menu-footer-technology" class="menu"><li id="menu-item-5146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5146"><a href="https://joinmosaic.com/technology/portal-2x/">Portal 2X</a></li>
+<li id="menu-item-5147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5147"><a href="https://joinmosaic.com/technology/swiftlink/">SwiftLink</a></li>
+<li id="menu-item-7134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7134"><a href="https://joinmosaic.com/technology/developers/">Developers</a></li>
+</ul></div></div><div id="nav_menu-6" class="widget widget_nav_menu col-sm-6 col-md-3"><h6 class="widget-title">Homeowners</h6><div class="menu-footer-homeowners-container"><ul id="menu-footer-homeowners" class="menu"><li id="menu-item-120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120"><a title="Borrower Login" target="_blank" rel="noopener" href="https://hero.joinmosaic.com/sign-in">Borrower Login</a></li>
+</ul></div></div><div id="nav_menu-7" class="widget widget_nav_menu col-sm-6 col-md-3"><h6 class="widget-title">Connect with us</h6><div class="menu-footer-connect-with-us-container"><ul id="menu-footer-connect-with-us" class="menu"><li id="menu-item-124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124"><a title="LinkedIn" target="_blank" rel="noopener" href="https://www.linkedin.com/company/joinmosaic"><i class="fab fa-linkedin-in"></i></a></li>
+<li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125"><a title="Facebook" target="_blank" rel="noopener" href="https://www.facebook.com/joinmosaic"><i class="fab fa-facebook-f"></i></a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a title="Twitter" target="_blank" rel="noopener" href="https://twitter.com/joinmosaic"><i class="fab fa-twitter"></i></a></li>
+</ul></div></div></div></div>
+                                                                <div class="col-12"><div id="text-5" class="widget widget_text">			<div class="textwidget"><p class="accessibility">Accessibility: We strive to make our website content accessible and user-friendly. If you are having difficulty viewing the content on this website or navigating the site, please call our Customer Service Team toll-free at <a href="tel:8557467849">(855) 746-7849</a> or email our team at <a href="mailto:support@joinmosaic.com" target="_blank" rel="noopener">support@joinmosaic.com</a> and we will be happy to assist you.</p>
+</div>
+		</div></div>
+                                                                <div class="col-12"><div id="nav_menu-8" class="widget widget_nav_menu"><div class="menu-footer-legal-container"><ul id="menu-footer-legal" class="menu"><li id="menu-item-127" class="btn-bbb menu-item menu-item-type-custom menu-item-object-custom menu-item-127"><a title="Better Business Bureau" target="_blank" rel="noopener" href="https://www.bbb.org/us/ca/oakland/profile/financial-services/mosaic-inc-1116-444414"><img src="/wp-content/uploads/2021/12/darkgray-seal-200-42-whitetxt-bbb-122121.png" alt="Better Business Bureau"/></a></li>
+<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://joinmosaic.com/terms/">Terms</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-129"><a href="https://joinmosaic.com/privacy/">Privacy Policy/GLBA</a></li>
+<li id="menu-item-6701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6701"><a href="https://joinmosaic.com/politica-de-privacidad/">Política de Privacidad/GLBA</a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://joinmosaic.com/solar-mosaic-llc-licenses/">Solar Mosaic LLC Licenses</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="https://joinmosaic.com/modern-home-llc-licenses/">Modern Home LLC Licenses</a></li>
+</ul></div></div></div>
+                                                                <div class="col-12"><div id="text-6" class="widget widget_text">			<div class="textwidget"><p class="third-parties">Mosaic and third parties, including installers, are independent contractors, and not agents, representatives, or partners of each other. Neither Mosaic nor any third party has any right, power or authority to enter into any agreement of any kind for or on behalf of, incur any obligation or liability of, or other otherwise bind, the other party. Mosaic provides third party offers solely as a convenience, and the inclusion of any third party offer does not imply endorsement by Mosaic. Information about any installer or other third party on the Website shall not be interpreted or construed to create an association, joint venture, agency, partnership, franchise, sale representative or employment relationship between the parties or to impose any partnership obligation or liability upon either Mosaic or any third party.</p>
+</div>
+		</div></div>
+                                                                <div class="col-12"><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="row">
+<div class="col-9 col-sm-10 col-md-11">
+<p class="financing-applied">
+Financing applied for and processed through the Mosaic platform is originated by Solar Mosaic LLC or one of its <a href="/lending-financing-partners/"><u>lending/financing partners</u></a>. Refer to transaction specific disclosures
+and loan documents for details and additional information.
+</p>
+<p class="copyright">&copy; <span class="year">2021</span> SOLAR MOSAIC LLC, ALL RIGHTS RESERVED. CA FINANCE LENDERS LICENSE 6054631 NMLS ID 1295934</p>
+</div>
+<div class="col-3 col-sm-2 col-md-1 equal-housing-lender"><a href="#" target="_blank" rel="noopener"><img src="/wp-content/uploads/2021/03/Equal_Housing_Lender-white.png" alt="Equal Housing Lender"/></a></div>
+</div>
+</div></div></div>
+                                    </div>
+            </div>
+        </div>
+
+	</footer>
+</div><!-- #page -->
+
+
+<!-- Social Media Share Posts JS -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="1F1GbqBv"></script>
+
+
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2' id='jquery-fitvids-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/plugins/bb-plugin/js/jquery.easing.min.js?ver=1.4' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/plugins/bb-plugin/js/jquery.bxslider.min.js?ver=2.5.1.1' id='jquery-bxslider-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/uploads/bb-plugin/cache/19-layout.js?ver=12f1dd29720c4e0bfd3a5e75737aa7bc' id='fl-builder-layout-19-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/js/sina-nav.js?ver=2.1.0' id='sinanavjs-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/js/bootstrap.bundle.min.js?ver=4.4.1' id='bootstrap-bundled-js-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/js/navigation.js?ver=1.0' id='wpbstarter-navigationjs-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/js/theme-script.js?ver=5.8.3' id='wpbstarter-themejs-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/js/skip-link-focus-fix.js?ver=1.0' id='wpbstarter-skip-link-focus-fix-js-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-content/themes/wpbstarter/assets/js/main.js?ver=1.0' id='wpbstarter-main-js-js'></script>
+<script type='text/javascript' src='https://joinmosaic.com/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>
+
+</body>
+</html>

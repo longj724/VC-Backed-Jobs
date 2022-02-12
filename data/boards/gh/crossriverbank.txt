@@ -1,0 +1,1462 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"fc1faab322",applicationID:"73174165"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<meta name="title" content="Careers | Cross River Bank" />
+<link rel="icon" sizes="192x192" href="https://www.crossriver.com/sites/default/files/icon-192x192.png" />
+<meta property="og:image:url" content="https://www.crossriver.com/sites/default/files/2019-09/cross-river.jpg" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.crossriver.com/sites/default/files/apple-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.crossriver.com/sites/default/files/apple-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.crossriver.com/sites/default/files/apple-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.crossriver.com/sites/default/files/apple-icon-180x180.png" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/crossriver/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://www.crossriver.com/careers" />
+<link rel="shortlink" href="https://www.crossriver.com/node/28" />
+<link rel="revision" href="https://www.crossriver.com/careers" />
+
+    <title>Careers | Cross River Bank</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_XK0xw5LwZelOGGpmF_GxcIOzGFVl3tHHVOwmj2yxu4o.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_n5Y1otzItan_3P_pq8SybI4JedysYdc2vCUnvclBk3I.css" />
+<link rel="stylesheet" media="all" href="//unpkg.com/aos@next/dist/aos.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_hTsYPahYnvk4LGxHBV0rTNf6Mwg46ZOgx0GtLwZl3QE.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5VM4N83');</script>
+    <!-- End Google Tag Manager -->
+
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Corporation",
+      "name": "Cross River Bank",
+      "alternateName": "Cross River",
+      "url": "https://www.crossriver.com",
+      "logo": "https://www.crossriver.com/", 
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Cross_River_Bank",       
+        "https://www.linkedin.com/company/cross-river-bank",
+        "https://twitter.com/crossriverbank",
+        "https://www.instagram.com/crossriver_",
+        "https://www.bloomberg.com/profile/company/2989905Z:US",
+        "https://pitchbook.com/profiles/company/101194-84",
+        "https://www.cbinsights.com/company/cross-river-bank",
+        "https://www.nytimes.com/2020/06/23/business/paycheck-protection-program-cross-river-bank.html",
+        "https://www.crossriversba.com/unitedservicing-a",
+        "https://www.nytimes.com/2020/06/23/business/paycheck-protection-program-cross-river-bank.html",
+        "https://banks.data.fdic.gov/bankfind-suite/bankfind/details/58410"
+      ],
+      "mainEntityOfPage": [
+        "https://www.cnbc.com/2019/02/15/small-banks-youve-never-heard-of-quietly-power-the-booming-fintech-industry--.html",        
+        "https://knowledge.wharton.upenn.edu/article/banking-platform-propels-cross-river-bank/",
+        "https://news.yahoo.com/alexis-ohanian-backed-betterfin-acquired-191234863.html",
+        "https://www.bloomberg.com/news/articles/2021-11-02/cross-river-bank-acquires-ohanian-backed-fintech-betterfin?sref=zH1oCchf",
+        "https://www.mckinsey.com/industries/financial-services/our-insights/at-the-intersection-of-banking-and-technology-a-conversation-with-cross-river-bank",
+        "https://techcrunch.com/2019/03/01/mitzvah-minded-unicorn-cross-river-is-on-holy-mission-to-foster-bank-fintech-harmony/",
+        "https://www.cnbc.com/2019/02/15/small-banks-youve-never-heard-of-quietly-power-the-booming-fintech-industry--.html",
+        "https://video.foxbusiness.com/v/6169957020001#sp=show-clips",
+        "https://www.americanbanker.com/news/cross-river-chief-prepares-for-ppp-encore",
+        "https://www.cnbc.com/video/2020/08/03/cross-river-bank-ceo-says-he-hopes-to-see-extension-of-ppp-program.html",
+        "https://www.bankingdive.com/news/company-of-year-cross-river-bank-2020/589524/",
+        "https://www.roi-nj.com/2021/09/16/finance/cross-river-launches-making-waves-campaign-to-help-small-businesses-entrepreneurs/"                            
+      ]
+    }
+    </script>
+
+  </head>
+  <body class="path-careers path-node page-node-type-page-landing">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VM4N83"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  <section class="page-admin clearfix">
+    <div class="container">
+        <!-- <div class="region region-page-admin"> -->
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  <!-- </div> -->
+
+    </div>
+  </section>
+
+<div id="page" class="page">
+
+  <header class="rooftop clearfix" role="banner">
+    <div class="container">
+        <!-- <div class="region region-rooftop"> -->
+    <div id="block-mobilemenu" class="block block-block-content block-block-contente2710157-810e-4319-ab98-6e9ec0e0ab1f">
+  
+    
+      
+  </div>
+
+  <!-- </div> -->
+
+    </div>
+  </header>
+
+  <header class="header clearfix" role="banner">
+    <div class="container">
+        <!-- <div class="region region-header"> -->
+    <div id="block-crossriver-branding" class="block block-system block-system-branding-block">
+  
+    
+              <h1 class="site-name">
+        Cross River Bank
+      </h1>
+        <a href="/" title="Home" rel="home" class="site-logo">
+      <img src="/sites/default/files/logo-crossriver.png" alt="Home" />
+    </a>
+    </div>
+<nav role="navigation" aria-labelledby="block-crossriver-main-menu-menu" id="block-crossriver-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-crossriver-main-menu-menu">Main Navigation</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded menu-item--active-trail">
+        <a href="" class="nolink">About</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/overview" data-drupal-link-system-path="node/5">Overview</a>
+              </li>
+                <li class="menu-item">
+        <a href="/newsroom" target="_self" data-drupal-link-system-path="node/26">Newsroom</a>
+              </li>
+                <li class="menu-item menu-item--active-trail">
+        <a href="/careers" data-drupal-link-system-path="node/28" class="is-active">Careers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contact-us" data-drupal-link-system-path="node/27">Contact</a>
+              </li>
+                <li class="menu-item">
+        <a href="/digital-ventures" data-drupal-link-system-path="node/751">Digital Ventures</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="" class="nolink covid-response">COVID-19 Response</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/covid-19-community-affairs" data-drupal-link-system-path="node/516">Community Support</a>
+              </li>
+                <li class="menu-item">
+        <a href="/paycheck-protection-program" data-drupal-link-system-path="node/551">Paycheck Protection Program</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="" class="nolink">Services</a>
+                                <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="">Partner</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/banking-services" data-drupal-link-system-path="node/30">Banking Services</a>
+              </li>
+                <li class="menu-item">
+        <a href="/crypto-payments">Crypto</a>
+              </li>
+                <li class="menu-item">
+        <a href="/payments" data-drupal-link-system-path="node/31">Payments</a>
+              </li>
+                <li class="menu-item">
+        <a href="/marketplace-lending" data-drupal-link-system-path="node/29">Marketplace Lending</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="">Direct</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/capital-markets" data-drupal-link-system-path="node/54">Capital Markets</a>
+              </li>
+                <li class="menu-item">
+        <a href="/depositscds" target="_self" data-drupal-link-system-path="node/33">Deposits/CDs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/commercial-lending" data-drupal-link-system-path="node/34">Commercial Lending</a>
+              </li>
+                <li class="menu-item">
+        <a href="/small-business-lending" data-drupal-link-system-path="node/35">Small Business Lending</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lender-finance" data-drupal-link-system-path="node/581">Lender Finance</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/compliance" data-drupal-link-system-path="node/36">Compliance</a>
+              </li>
+                <li class="menu-item">
+        <a href="/developers" data-drupal-link-system-path="node/8">Developers</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="" class="nolink">Making Waves</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/making-waves/about" data-drupal-link-system-path="node/901">About</a>
+              </li>
+                <li class="menu-item">
+        <a href="/making-waves/get-involved" data-drupal-link-system-path="node/906">Get Involved</a>
+              </li>
+                <li class="menu-item">
+        <a href="/making-waves/media" data-drupal-link-system-path="node/911">Media</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="https://web1.secureinternetbank.com/ebc_ebc1151/Login/021214273/77" target="_self">Login - Business</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://web1.secureinternetbank.com/pbi_pbi1151/login/021214273" target="_self">Login - Personal</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-accountlogin-menu" id="block-accountlogin" class="block block-menu navigation menu--crossriver-account">
+      
+  <h2 id="block-accountlogin-menu">Account Login</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://web1.secureinternetbank.com/pbi_pbi1151/login/021214273" target="_self">Personal Account</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://web1.secureinternetbank.com/ebc_ebc1151/Login/021214273/77">Business Account</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  <!-- </div> -->
+
+    </div>
+  </header>
+
+  <section role="main" class="main clearfix">
+    <div id="main-content" tabindex="-1">
+      
+        <!-- <div class="region region-content"> -->
+    
+  
+            
+
+<!-- Background Image -->
+      
+    
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-topc" >
+    
+    <div class="bg-img" style="background-image: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25) ), url('/sites/default/files/component/background/kathys%20team%20website%20photo%20edited_0_0.jpg')"></div>
+    <div class="container">
+      
+            <div class="field field-page-title field__item">CAREERS</div>
+      
+<h2 class="field field-headline">
+      <span>We are writing the future of banking.</span>
+  </h2>
+
+            <div class="field field-cta-link field__item"><a href="/careers#careers-listing">Current Opportunities</a></div>
+      
+    </div>
+  </div>
+
+
+          
+
+<!-- Background Image -->
+
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-n" >
+    
+    
+    <div class="container">
+      
+<h3 class="field field-title">
+      Authentic. Purposeful. Responsible. 
+  </h3>
+
+
+            <div class="field field-body-text field__item">At Cross River, we have a strong commitment to our partners. Our knowledge serves, fuels, and enables them to grow. We are perennially tenacious, always striving to improve. This separates us from larger banks. <br />
+<br />
+Our philosophy of financial inclusion helps us open barriers for others, and drives everything we do. We believe in the power of community, creativity, and true talent. We constantly push the innovation curve by fostering an incubation mentality. </div>
+      
+    </div>
+  </div>
+
+
+          
+
+<!-- Background Image -->
+
+<!-- Background Video -->
+
+<!-- J Components -->
+  
+<!-- G Components -->
+  <div class="component com-j shadow cite" >
+    
+    
+    <div class="container">
+      
+            <div class="field field-animated-image- field__item">  <img src="/sites/default/files/2020-08/bestplacestowork_0.gif" width="400" height="400" alt="" typeof="foaf:Image" />
+
+</div>
+      
+<div  class="group">
+      
+<blockquote class="field field-body-text">
+      &quot;Best Place to Work in Financial Technology&quot; for Four Consecutive Years
+  </blockquote>
+
+            <div class="field field-credit field__item">American Banker, 2021</div>
+      
+  </div>
+    </div>
+  </div>
+
+
+          
+
+<!-- Background Image -->
+
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-blank" >
+    
+    
+    <div class="container">
+      
+            <div class="clearfix text-formatted field field-body-html field__item"><div class="current-openings-title">Current Openings</div>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+.current-openings-title {
+    font-size: 3rem;
+    font-weight: bold;
+color: #007cba;
+line-height: 110%;
+padding-top: 25px;
+}
+
+/*--><!]]>*/
+</style></div>
+      
+    </div>
+  </div>
+
+
+          
+
+<!-- Background Image -->
+
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-blank" >
+    
+    
+    <div class="container">
+      
+            <div class="clearfix text-formatted field field-body-html field__item"><div id="openings"></div>
+</div>
+      
+    </div>
+  </div>
+
+
+          
+
+<!-- Background Image -->
+
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-blank" >
+    
+    
+    <div class="container">
+      
+            <div class="clearfix text-formatted field field-body-html field__item"><div id="crossriver_careers">blank</div>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js"></script><script src="/themes/crossriver/js/careers.js"></script><style>
+<!--/*--><![CDATA[/* ><!--*/
+
+
+article#careers-listing {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 !important;
+  margin: 3rem 0;
+}
+
+@media (max-width:425px) {
+  article#careers-listing {
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column
+  }
+}
+
+article#careers-listing aside {
+  padding: 0 3% 0 0;
+  -webkit-box-flex: 0 0 30%;
+  -ms-flex: 0 0 30%;
+  flex: 0 0 30%
+}
+
+@media (max-width:425px) {
+  article#careers-listing aside {
+    -webkit-box-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    padding: 0
+  }
+}
+
+article#careers-listing aside input {
+  cursor: pointer;
+  margin: 0.1875rem 0 0 0;
+}
+
+article#careers-listing aside input+span {
+  cursor: pointer
+}
+
+article#careers-listing aside input:disabled {
+  cursor: not-allowed;
+  pointer-events: none
+}
+
+article#careers-listing aside input:disabled+span {
+  pointer-events: none;
+  cursor: not-allowed;
+  color: #ccc
+}
+
+article#careers-listing aside input+span {
+  padding-left: 0.5rem;
+}
+
+article#careers-listing aside section.filter-wrapper {
+  margin: 0 0 3rem 0;
+  background: #f7f7f7;
+}
+
+article#careers-listing aside section.filter-wrapper header {
+  font-weight: 400;
+  text-align: center;
+  padding: 0.75rem;
+  background: rgba(0,0,0,0.05);
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+article#careers-listing aside section.filter-wrapper .filter-items {
+  padding: 1.5rem;
+}
+
+article#careers-listing aside section.filter-wrapper .filter-group {
+  margin: 1.5rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid #ccc
+}
+
+article#careers-listing aside section.filter-wrapper .filter-group .group-name {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 0 0 1rem 0
+}
+
+article#careers-listing aside section.filter-wrapper label {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: bold;
+  font-weight: normal;
+  margin: 0 0 0.375rem;
+  line-height: 1.25;
+}
+
+article#careers-listing section.job-list {
+  -webkit-box-flex: 0 0 60%;
+  -ms-flex: 0 0 60%;
+  flex: 0 0 60%;
+  padding: 1.5rem 0;
+}
+
+@media (max-width:425px) {
+  article#careers-listing section.job-list {
+    -webkit-box-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%
+  }
+}
+
+article#careers-listing section.job-list .filter-details {
+  font-weight: 500;
+}
+
+article#careers-listing section.job-list .filter-details .match {
+    position: relative;
+    display: inline-block;
+    border: 1px solid rgba(0,0,0,0.05);
+    border-radius: 0.1875rem;
+    padding: 0.1875rem 0.75rem;
+    margin: 0.375rem;
+    background: rgba(0,0,0,0.05);
+    font-weight: normal;
+    line-height: 1.25;
+}
+
+article#careers-listing section.job-list .filter-details .match .clear, article#careers-listing section.job-list .filter-details .match.reset {
+  cursor: pointer;
+  color: #d9542b;
+  vertical-align: middle;
+  font-size: 1.2rem
+}
+
+article#careers-listing section.job-list .filter-details .match .clear, article#careers-listing section.job-list .filter-details .match.reset {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+    padding: 0.1875rem 0.75rem;
+}
+
+article#careers-listing section.job-list .job-item {
+  margin: 1.5rem 0;
+  opacity: 1;
+}
+
+
+article#careers-listing section.job-list .job-item .job-location {
+  color: #666;
+  font-size: 0.875rem;
+}
+/*--><!]]>*/
+</style></div>
+      
+    </div>
+  </div>
+
+
+          
+
+<!-- Background Image -->
+      
+    
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-g3 light" >
+    
+    <div class="bg-img" style="background-image: url('/sites/default/files/component/g3/career-Life%20at%20Cross%20River%20copy.jpg')"></div>
+    <div class="shape">
+      <div class="container">
+        
+<div  class="group">
+      
+<h2 class="field field-headline">
+      <span>Life at Cross River</span>
+  </h2>
+
+            <div class="field field-body-text field__item">We make sure all our employees receive a competitive salary and comprehensive benefits package. At Cross River, we believe in team work and creative collaboration, powered by an inclusive company culture, and a friendly, family environment.<br />
+</div>
+      
+  </div>
+      </div>
+    </div>
+  </div>
+
+<!-- R Components -->
+
+
+          
+
+<!-- Background Image -->
+      
+    
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-g4 light" >
+    
+    <div class="bg-img" style="background-image: url('/sites/default/files/component/g4/career-What%20we%20stand%20for2.jpg')"></div>
+    <div class="shape">
+      <div class="container">
+        
+<div  class="group">
+      
+<h2 class="field field-headline">
+      <span>What we stand for.</span>
+  </h2>
+
+            <div class="field field-body-text field__item">Behind our work lies a deep sense of purpose. Our core values reflect who we are as a company: we are strongly focused on finding new, smarter solutions for our clients and their customers.</div>
+      
+  </div>
+      </div>
+    </div>
+  </div>
+
+<!-- R Components -->
+
+
+          
+
+<!-- Background Image -->
+
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-h shadow" >
+    
+    
+    <div class="container">
+      
+<h3 class="field field-title">
+      OUR VALUES
+  </h3>
+
+
+      <div class="field field-icons field__items">
+              <div class="field__item">  <div class="paragraph paragraph--type--icons-h paragraph--view-mode--default">
+          
+            <div class="field field-animated-image field__item">  <img src="/sites/default/files/2017-07/CR__value-solutions.gif" width="100" height="100" alt="" typeof="foaf:Image" />
+
+</div>
+      
+            <div class="field field-body field__item">We strive for solutions.</div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--icons-h paragraph--view-mode--default">
+          
+            <div class="field field-animated-image field__item">  <img src="/sites/default/files/2017-07/CR__value-lead.gif" width="100" height="100" alt="" typeof="foaf:Image" />
+
+</div>
+      
+            <div class="field field-body field__item">We lead responsibly.</div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--icons-h paragraph--view-mode--default">
+          
+            <div class="field field-animated-image field__item">  <img src="/sites/default/files/2017-07/CR__value-authentic.gif" width="100" height="100" alt="" typeof="foaf:Image" />
+
+</div>
+      
+            <div class="field field-body field__item">We are authentic.</div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--icons-h paragraph--view-mode--default">
+          
+            <div class="field field-animated-image field__item">  <img src="/sites/default/files/2017-07/CR__value-purpose.gif" width="100" height="100" alt="" typeof="foaf:Image" />
+
+</div>
+      
+            <div class="field field-body field__item">We work with purpose.</div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--icons-h paragraph--view-mode--default">
+          
+            <div class="field field-animated-image field__item">  <img src="/sites/default/files/2017-07/CR__value-confortable.gif" width="100" height="100" alt="" typeof="foaf:Image" />
+
+</div>
+      
+            <div class="field field-body field__item">We never get comfortable.</div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--icons-h paragraph--view-mode--default">
+          
+            <div class="field field-animated-image field__item">  <img src="/sites/default/files/2017-07/CR__value-skills.gif" width="100" height="100" alt="" typeof="foaf:Image" />
+
+</div>
+      
+            <div class="field field-body field__item">We look for talent above skills.</div>
+      
+      </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+
+          
+
+<!-- Background Image -->
+
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-v shadow" >
+    
+    
+    <div class="container">
+      
+<h3 class="field field-title">
+      FEATURED
+  </h3>
+
+
+      <div class="field field-featured field__items">
+              <div class="field__item">
+
+  <div class="paragraph paragraph--type--featured paragraph--view-mode--default">
+          <div class="field field-image field__item">
+              <a href="/overview" />
+            <img src="/sites/default/files/2019-02/websitephotoedited1_1.jpg" width="4516" height="3011" alt="" typeof="foaf:Image" />
+
+
+        </a>
+            </div>
+      
+            <div class="field field-sub field__item">COMPANY OVERVIEW</div>
+      
+      <div class="field field-cta-link field__items">
+              <div class="field__item"><a href="/overview">A reliable partner for business.</a></div>
+          </div>
+  
+      </div>
+</div>
+              <div class="field__item">
+
+  <div class="paragraph paragraph--type--featured paragraph--view-mode--default">
+          <div class="field field-image field__item">
+              <a href="/compliance" />
+            <img src="/sites/default/files/2021-06/compliance%20tile.jpg" width="383" height="383" alt="" typeof="foaf:Image" />
+
+
+        </a>
+            </div>
+      
+            <div class="field field-sub field__item">COMPLIANCE FRAMEWORK</div>
+      
+      <div class="field field-cta-link field__items">
+              <div class="field__item"><a href="/compliance">Where knowledge meets responsibility.</a></div>
+          </div>
+  
+      </div>
+</div>
+              <div class="field__item">
+
+  <div class="paragraph paragraph--type--featured paragraph--view-mode--default">
+          <div class="field field-image field__item">
+              <a href="/contact-us" />
+            <img src="/sites/default/files/2019-02/denise%20edited%20website%20photo_0.jpg" width="4494" height="2996" alt="" typeof="foaf:Image" />
+
+
+        </a>
+            </div>
+      
+            <div class="field field-sub field__item">CONTACT US</div>
+      
+      <div class="field field-cta-link field__items">
+              <div class="field__item"><a href="/contact-us">Get in touch with us.</a></div>
+          </div>
+  
+      </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+
+          
+
+<!-- Background Image -->
+
+<!-- Background Video -->
+
+<!-- J Components -->
+
+<!-- G Components -->
+  <div class="component com-sidelink" >
+    
+    
+    <div class="container">
+      
+            <div class="field field-sidelink field__item"><a href="/contact-us">Contact</a></div>
+      
+    </div>
+  </div>
+
+
+      
+
+
+  <!-- </div> -->
+
+
+          </div>
+
+  </section>
+
+      <section role="contentinfo" class="footer clearfix">
+      <div class="container">
+          <!-- <div class="region region-footer"> -->
+    <nav role="navigation" aria-labelledby="block-crossriver-footer-menu" id="block-crossriver-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-crossriver-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/overview" data-drupal-link-system-path="node/5">Company Overview</a>
+              </li>
+                <li class="menu-item">
+        <a href="/newsroom" target="_self" data-drupal-link-system-path="node/26">Newsroom</a>
+              </li>
+                <li class="menu-item">
+        <a href="/compliance" data-drupal-link-system-path="node/36">Compliance</a>
+              </li>
+                <li class="menu-item menu-item--active-trail">
+        <a href="/careers" target="_self" data-drupal-link-system-path="node/28" class="is-active">Careers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contact-us" data-drupal-link-system-path="node/27">Contact</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://crossriver.com/faqs">FAQs</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-servicesthirdparty-menu" id="block-servicesthirdparty" class="block block-menu navigation menu--footer-2nd">
+      
+  <h2 id="block-servicesthirdparty-menu">Services &gt; Third-Party</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/marketplace-lending" data-drupal-link-system-path="node/29">Marketplace Lending</a>
+              </li>
+                <li class="menu-item">
+        <a href="/banking-services" data-drupal-link-system-path="node/30">Cross River Operating System</a>
+              </li>
+                <li class="menu-item">
+        <a href="/payments" data-drupal-link-system-path="node/31">Payments</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-servicesdirect-menu" id="block-servicesdirect" class="block block-menu navigation menu--footer-3rd">
+      
+  <h2 id="block-servicesdirect-menu">Services &gt; Direct</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/capital-markets" data-drupal-link-system-path="node/54">Capital Markets</a>
+              </li>
+                <li class="menu-item">
+        <a href="/depositscds" data-drupal-link-system-path="node/33">Deposits / CDs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/commercial-lending" data-drupal-link-system-path="node/34">Commercial Real Estate</a>
+              </li>
+                <li class="menu-item">
+        <a href="/small-business-lending" data-drupal-link-system-path="node/35">Small Business Lending</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-legal-menu" id="block-legal" class="block block-menu navigation menu--footer-4th">
+            
+  <h2 class="visually-hidden" id="block-legal-menu">Legal</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/privacy-policy" data-drupal-link-system-path="node/38">Privacy Policy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/privacy-notice" data-drupal-link-system-path="node/60">Privacy Notice</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fdic" data-drupal-link-system-path="node/58">FDIC</a>
+              </li>
+                <li class="menu-item">
+        <a href="/eqh" data-drupal-link-system-path="node/59">EQH</a>
+              </li>
+                <li class="menu-item">
+        <a href="/heter-iska" data-drupal-link-system-path="node/61">Heter Iska</a>
+              </li>
+                <li class="menu-item">
+        <a href="/accessibility" data-drupal-link-system-path="node/64">Accessibility</a>
+              </li>
+                <li class="menu-item">
+        <a href="/regulation-e-protections" target="_self" data-drupal-link-system-path="node/181">Regulation E Protections</a>
+              </li>
+                <li class="menu-item">
+        <a href="/business-security" target="_self" data-drupal-link-system-path="node/186">Business Security</a>
+              </li>
+                <li class="menu-item">
+        <a href="/consumer-security" target="_self" data-drupal-link-system-path="node/191">Consumer Security</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://crossriver.com/customer-notice">Customer Notice</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.crossriver.com/mortgage-servicing" target="_self">Mortgage Servicing</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-socialmedialinks" class="block block-block-content block-block-content1f312eb3-e1b1-4961-bccb-9dac218a5f83">
+  
+      <h2 class="block-title" >Connect With Us</h2>
+    
+      
+      <div class="field field-icons field__items">
+              <div class="field__item">
+
+  <a href="https://twitter.com/crossriverbank" target="_blank" />
+     
+            <div class="field field-icon-image field__item">  <img src="/sites/default/files/2018-12/twitter-white-circle%403x_0_0.png" width="96" height="96" alt="Cross River Bank on Twitter" typeof="foaf:Image" />
+
+</div>
+      
+  </a>
+</div>
+              <div class="field__item">
+
+  <a href="https://www.linkedin.com/company/cross-river-bank" target="_blank" />
+     
+            <div class="field field-icon-image field__item">  <img src="/sites/default/files/2018-12/linkedin-logo-250%403x_0.png" width="96" height="90" alt="Cross River Bank on LinkedIn" typeof="foaf:Image" />
+
+</div>
+      
+  </a>
+</div>
+              <div class="field__item">
+
+  <a href="https://www.facebook.com/crossriversocial/" target="_blank" />
+     
+            <div class="field field-icon-image field__item">  <img src="/sites/default/files/2019-02/facebook-logo-png-white-i6.png" width="512" height="512" alt="Facebook" typeof="foaf:Image" />
+
+</div>
+      
+  </a>
+</div>
+              <div class="field__item">
+
+  <a href="https://www.instagram.com/crossriver_/" target="_blank" />
+     
+            <div class="field field-icon-image field__item">  <img src="/sites/default/files/2019-11/instagramicon_200_.png" width="200" height="200" alt="Instagram" typeof="foaf:Image" />
+
+</div>
+      
+  </a>
+</div>
+          </div>
+  
+  </div>
+<div id="block-css" class="block block-block-content block-block-content44bb9a0b-3828-4549-9760-1b390f88bc4f">
+  
+      <h2 class="block-title" >CSS</h2>
+    
+      
+            <div class="clearfix text-formatted field body field__item"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+
+@media screen and (min-width: 769px) {
+a#accordion-COVID-19-Response-toggle {
+    background: #180739;
+}
+}
+
+div#block-css {
+    display: none;
+}
+
+.view-resources.view-display-id-block_1 .views-row {
+    height: inherit !important;
+}
+
+.com-topc .container .field-body-text {
+    border-top: 2px solid rgba(255,255,255,.3);
+    padding-top: 20px;
+    width: 42.02899%;
+    float: left;
+    margin-right: 1.44928%;
+    margin-left: 7.24638%;
+}
+
+.com-topc .container .field-body-text {
+    color: #ffffff;
+    font-size: 1.3rem;
+    border: none;
+}
+
+@media screen and (max-width: 768px) {
+  .com-topc .container .field-body-text {
+    width: 100%;
+    margin: 0;
+    clear: both;
+  }
+}
+
+.copyright .container {
+    border-top: 1px solid #8f80a0;
+    width: 100%;
+}
+
+.copyright .container #block-copyright, .copyright .container #block-banklinks {
+    float: left;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    border: none;
+    position: relative;
+}
+
+.copyright .container #block-banklinks .field-icon-image {
+    float: right;
+    width: 70px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: auto;
+    display: block;
+}
+
+.copyright .container #block-banklinks .field__item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.copyright .container #block-copyright {
+    padding-left: 7.24638%;
+}
+
+.copyright .container #block-banklinks {
+    padding-top: 1.5rem;
+    padding-right: 7.24638%;
+}
+
+/* iPad portrait and smaller ----------- */
+@media screen and (max-width: 768px) {
+  .copyright .container #block-copyright, .copyright .container #block-banklinks {
+    width: 100%;
+    margin: 1.5rem 0;
+    padding: 0;
+    text-align: left;
+  }
+
+  .copyright .container #block-banklinks .field-icon-image {
+    float: left;
+  }
+}
+
+
+div#cycle-wrapper {
+    margin-left: 7.24638%;
+    margin-right: 1.44928%;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 100;
+    font-size: 2.5rem;
+    letter-spacing: -.05rem;
+}
+
+/* iPad portrait and smaller ----------- */
+@media screen and (max-width: 768px) {
+  div#cycle-wrapper {
+    margin: 20px 0;
+    font-size: 2rem;
+  }
+}
+
+
+body:not(.path-frontpage) .component.com-e {
+    color: inherit;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+body:not(.path-frontpage) .com-e .container {
+    padding: 0;
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+body:not(.path-frontpage) .com-e .field-body-format, body:not(.path-frontpage) .com-e .field-body-plain {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    padding: 0;
+    border: none;
+}
+
+
+.page-node-type-api .header {
+    min-height: inherit;
+    background: #03a0ef;
+}
+
+.page-node-type-api .main {
+    margin: 150px auto 0;
+}
+
+.page-node-type-api .rooftop #block-mobilemenu {
+    background: #03a0ef;
+}
+
+.page-node-type-api .main .node--type-api {
+    margin-top: 0;
+}
+
+.page-node-type-api .rooftop #block-mobilemenu #bg {
+    min-height: inherit;
+}
+
+header.header {
+    min-height: 128px;
+    z-index: 99 !important;
+}
+
+.com-topb.topB2 .group {
+    z-index: 97;
+}
+
+.com-e .field-body-format a:link, .com-e .field-body-format a:visited, .com-e .field-body-plain a:link, .com-e .field-body-plain a:visited {
+    color: #222;
+    text-decoration: underline;
+}
+
+.com-blank, .com-blank .container {
+    min-height: inherit;
+}
+
+.com-blank .container a {
+    color: #326891;
+}
+
+.notice-loans {
+    text-align: center;
+    padding: 30px;
+}
+
+.toolbar-horizontal.user-logged-in .menu--main>.menu .menu-item a {
+    padding: 10px 10px 15px;
+}
+
+
+@media screen and (max-width: 768px) {
+  .com-topb.topB2 .group {
+    /* z-index: 999; */
+  }
+  .rooftop #block-mobilemenu #bg {
+    min-height: 84px;
+  }
+  .com-e .container {
+    padding: 0 30px;
+  }
+}
+
+
+.footer .container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer .block.menu--footer-3rd {
+    width: 20.28986%;
+    float: left;
+    margin-right: 0;
+}
+
+.footer .block.menu--footer-4th {
+    width: 28.98552%;
+    columns: 2;
+    margin-right: 0;
+}
+
+/* iPad portrait and smaller ----------- */
+@media screen and (max-width: 768px) {
+  .footer .block.menu--footer-3rd, .footer .block.menu--footer-4th {
+    width: 100%;
+    float: none;
+    margin: 0 0 1.5rem;
+    columns: 1;
+  }
+}
+
+.footer .block a, .footer .block a.is-active, .footer .block h2 {
+    line-height: 1.5;
+}
+
+.footer .block ul.menu li.menu-item, .footer .block h2 {
+    padding: 0;
+    line-height: 1.2;
+    margin: 0 0 0.75rem 0;
+}
+
+.footer .block a, .footer .block a.is-active, .footer .block h2 {
+    font-size: 0.75rem;
+}
+
+
+
+.menu--main ul.menu>.menu-item:nth-last-child(2) {
+    display: none;
+}
+
+.menu--main ul.menu ul.menu .menu-item {
+    display: block;
+}
+
+/* iPad portrait and smaller ----------- */
+@media screen and (max-width: 768px) {
+
+.copyright .container #block-banklinks {
+    position: relative;
+    clear: both;
+    float: none;
+    height: inherit;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0.375rem 0 0.75rem;
+}
+
+.copyright .container #block-banklinks>.field-icons {
+    text-align: left;
+}
+
+.com-topc .container {
+    text-shadow: 0 0 1px rgba(0,0,0,0.5);
+}
+
+.com-topc .container {
+    text-shadow: 0 0 1px rgba(0,0,0,0.5);
+}
+
+.rooftop #block-mobilemenu #mobile-header-wrap .mean-bar .mean-nav ul li.menu-item--expanded li a,.rooftop #block-mobilemenu #mobile-header-wrap .mean-bar .mean-nav ul li.menu-item--expanded li ul li a {
+    font-size: 0.75rem;
+}
+
+.main .container table {
+    font-size: 0.75rem;
+}
+
+table.bt tfoot th::before, table.bt tfoot td::before, table.bt tbody td::before {
+    width: 50%;
+}
+
+.com-q .container .field-body-table table tr td .bt-content, .com-q .container .field-body-table table tr th .bt-content {
+    width: 50%;
+}
+
+table.bank-holidays-table td::before {
+    display: none !important;
+}
+
+.com-q .container .field-body-table table.bank-holidays-table tr td, .com-q .container .field-body-table table.bank-holidays-table tr th {
+    width: 50%;
+}
+
+.com-q .container .field-body-table table.bank-holidays-table tr td span, .com-q .container .field-body-table table.bank-holidays-table tr th span {
+    padding: 0;
+}
+
+.com-q .container .field-body-table table.bank-holidays-table tr td, .com-q .container .field-body-table table.bank-holidays-table tr th {
+    width: 50% !important;
+    margin: 0;
+    display: table-cell;
+    padding: 0.5rem;
+    line-height: 1.5;
+}
+
+.mean-bar ul.menu ul.menu a.mean-expand.mean-clicked {
+    display: none;
+}
+
+.com-q .container .field-title {
+    font-size: 2rem;
+    width: 100%; 
+}
+
+.com-topc .container .field-headline {
+    font-size: 2.25rem;
+    width: 100%; 
+}
+
+}
+
+@media screen and (min-width: 769px) {
+  .menu--main {
+    height: 127px;
+  }
+  .menu--main {
+    width: 62.27536%;
+  }
+}
+
+
+/*--><!]]>*/
+</style></div>
+      
+  </div>
+
+  <!-- </div> -->
+
+      </div>
+    </section>
+  
+      <footer class="copyright clearfix">
+      <div class="container">
+          <!-- <div class="region region-copyright"> -->
+    <div id="block-brixdirect" class="block block-block-content block-block-content7012eab2-2818-4438-b4de-0ca413f3b75f">
+  
+    
+      
+            <div class="clearfix text-formatted field body field__item"><p align="center">BrixDirect by Cross River Bank is a brand of Cross River Bank. All loans and deposit products are provided by Cross River Bank.</p></div>
+      
+  </div>
+<div id="block-copyright" class="block block-block-content block-block-content77001c9b-7a65-415f-b006-dd0aac79e58d">
+  
+    
+      
+            <div class="clearfix text-formatted field body field__item"><p>Banking Untangled<br />
+Copyright © 2021 Cross River Bank. All Rights Reserved.</p>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+
+.copyright .container #block-copyright {
+line-height: 20px;
+}
+
+/*--><!]]>*/
+</style></div>
+      
+  </div>
+<div id="block-banklinks" class="block block-block-content block-block-content4ac414fe-0b48-452f-a469-7e63e58c7cde">
+  
+    
+      
+      <div class="field field-icons field__items">
+              <div class="field__item">
+
+  
+            <div class="field field-icon-image field__item">  <img src="/sites/default/files/2019-03/equal-housing-lender.png" width="45" height="45" alt="Equal Housing Lender" typeof="foaf:Image" />
+
+</div>
+      
+</div>
+              <div class="field__item">
+
+  
+            <div class="field field-icon-image field__item">  <img src="/sites/default/files/2019-03/member_fdic.png" width="140" height="88" alt="Member FDIC" typeof="foaf:Image" />
+
+</div>
+      
+</div>
+          </div>
+  
+  </div>
+
+  <!-- </div> -->
+
+      </div>
+    </footer>
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/28","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"classy\/base,classy\/messages,core\/html5shiv,core\/normalize,crossriver\/basictable,crossriver\/global-css,crossriver\/meanmenu,crossriver\/stellar,paragraphs\/drupal.paragraphs.unpublished,system\/base","theme":"crossriver","theme_token":null},"ajaxTrustedUrl":[],"field_group":{"html_element":{"mode":"default","context":"view","settings":{"id":"","classes":"group","element":"div","show_label":false,"label_element":"h3","attributes":"","effect":"none","speed":"fast"}}},"user":{"uid":0,"permissionsHash":"13c8836b1763f73529abaf22a0201699deab39b4ad709133df0c71d2f48a502f"}}</script>
+<script src="/sites/default/files/js/js_zbC43qo-1XVrYyC4-DE9ogNHfaKlrwtzi0fLablkiA0.js"></script>
+<script src="//unpkg.com/aos@next/dist/aos.js"></script>
+<script src="/sites/default/files/js/js_-QuTz6OrupVryLrWE21Ru0r1GLJpFWdrZg5Vgq0N8Rk.js"></script>
+<script src="/themes/crossriver/lib/ableplayer/build/ableplayer.min.js?v=8.9.20"></script>
+<script src="/sites/default/files/js/js_fF-u58NYmkXV_VzXAUxJnLoo64XFBCECuftXiO1M0ZI.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc1faab322","applicationID":"73174165","transactionName":"NgQEbURYWRFXBRZbVw9OJ1pCUFgMGSIQR0gADTpXWV1SPnUJDEZKDg0KXERleQ1SAzRbXRYiCVdCS1gOWgMQHwYXCANO","queueTime":0,"applicationTime":258,"atts":"GkMHGwxCSh8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

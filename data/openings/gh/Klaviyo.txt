@@ -1,0 +1,820 @@
+
+  <a data-mapped="true" href="/klaviyo/jobs/4959935003">Senior Business Intelligence Engineer</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4890444003">Business Intelligence Engineer </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4865055003">Business Intelligence Analyst </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4838053003">Customer Education Program Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4843170003">Customer Education Specialist</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4790553003">Customer Education Specialist</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4790391003">Customer Education Specialist, French Speaking</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4815563003">Customer Success Manager (Mid-Market)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4801672003">Customer Success Manager (SMB)</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4826710003">Customer Success Systems Analyst</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4861613003">Growth Success Manager</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4822185003">Manager, Customer Education</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4803289003">Manager, Customer Success (Mid-Market+)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4803296003">Manager, Customer Success (Mid-Market+)</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4803112003">Manager, Customer Success (Mid-Market+)</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4642786003">Manager, Growth Onboarding</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4823637003">Mid-Touch Customer Success Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4904113003">Onboarding Specialist - SMS</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4903943003">Onboarding Specialist - SMS</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4903885003">Onboarding Specialist - SMS</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4867537003">Partner Success Manager, French Speaking</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4797863003">Principal Customer Success Manager</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4950564003">Principal Implementation Specialist</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4925952003">Principal Onboarding Specialist</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4834451003">Senior Deliverability Analyst</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4822508003">Technical Writer</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4899703003">Customer Support Specialist</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4899702003">Customer Support Specialist</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4906592003">Customer Support Specialist, West Coast (Saturday - Wednesday)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4946737003">Deliverability Strategist</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4928833003">Manager, Customer Support EMEA</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4893513003">Product Expert</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4957013003">Product Expert </a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4893538003">Product Expert</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4948967003">Product Expert, West Coast (Saturday - Wednesday)</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4906614003">Product Expert, West Coast (Saturday - Wednesday)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4782301003">Data Scientist</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4903283003">Engineering Manager, Data Science</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4682232003">Full Stack Data Scientist</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4931260003">Data Scientist - Deliverability &amp; Compliance</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4932167003">Senior Data Scientist - Security and Trust</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4819468003">Senior Machine Learning Engineer - SMS</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4711707003">Senior Software Engineer, Data Science</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4952917003">Senior Software Engineer, Data Science - Creative Guidance</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4942443003">Senior Software Engineer, Data Science - Experiments Platform</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4713582003">Software Engineer, Data Science</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4923489003">Software Engineer, Data Science - Ecosystem Intelligence</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4930986003">Software Engineer, Data Science - Experiments Platform </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4776907003">Director, Product Design</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4776978003">Lead Product Designer</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4885861003">Product Design Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4952142003">Senior Behavioral Designer</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4942320003">Senior Content Strategist</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4780467003">Senior Product Designer</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4906772003">Senior Design Researcher</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4907310003">Senior Product Designer, Data Intelligence</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4949939003">Senior Product Designer, Design Systems</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4923618003">Senior Product Designer, Onsite</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4907306003">Senior Product Designer, Reporting</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4924875003">Senior Product Designer, Templates</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4661826003">Senior Visual Designer, Design Systems</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4853519003">New Grad Inbound Business Development Representative  (May 2022 Grad)</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4696013003">Software Engineering Co-Op - July 2022  </a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4947011003">New Grad Inbound Business Development Representative  (May 2022 Grad)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4821539003">Summer Internship 2022 Accounting</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4940232003">Summer Internship 2022 Agency Partnership </a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4865626003">Summer Internship 2022 Emerging Talent Recruiting</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4877377003">Summer Internship 2022 Benefits </a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4860261003">Summer Internship 2022 Employment Branding</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4821431003">Summer Internship 2022 Financial Operations</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4866357003">Summer Internship 2022 Learning &amp; Development</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4897397003">Summer Internship 2022 People Operations</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4875177003">Summer Internship 2022 People Technology </a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4821382003">Summer IT Internship 2022</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4805529003">Summer MBA Internship 2022 Business Analytics</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4805326003">Summer MBA Internship 2022 FP&amp;A Strategic Analyst</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4805391003">Summer MBA Internship 2022 Investor Relations Analyst</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4870358003">Summer MBA Internship 2022 People Analytics </a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4804067003">Summer MBA Internship 2022 Strategic Finance</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4805437003">Summer MBA Internship 2022 Product Marketing Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4838584003">Summer Office Operations Internship 2022</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4834988003">Summer Sales Internship 2022</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4852737003">Summer UX Design Internship 2022 </a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4741240003">Engineering Manager - Events Pipeline</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4779036003">Engineering Manager</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4929510003">Engineering Manager - Subscriptions </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4938389003">Engineer Manager - Email (Campaigns)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4771331003">Lead Software Engineer</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4949752003">Lead Software Engineer - Data Exchange Framework</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4799943003">Lead Software Engineer (Email MTA)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4939495003">Lead Software Engineer II - Messaging Channels</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4769712003">Senior Site Reliability Engineer - Security </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4774119003">Senior Software Engineer</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4771761003">Senior Software Engineer - Application Security</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4902055003">Senior Software Engineer - Billing </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4773971003">Senior Software Engineer - Developer Experience </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4787873003">Senior Software Engineer- Email Campaign</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4766620003">Senior Software Engineer - Email Campaign Pipeline</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4921495003">Senior Software Engineer - Email Delivery</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4889322003">Senior Software Engineer - Onboarding</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4939522003">Senior Software Engineer - SMS Deliverability &amp; Compliance </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4939518003">Senior Software Engineer - SMS Message Pipeline</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4771477003">Site Reliability Engineering Manager - Services</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4769770003">Site Reliability Engineering Manager - Velocity</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4771565003">Site Reliability Engineer - Security </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4792917003">Lead Software Engineer</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4792942003">Senior Software Engineer</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4792914003">Senior Software Engineer</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4964411003">Billing Specialist</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4901794003">Billing Specialist</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4930349003">Director of Corporate FP&amp;A</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4922917003">Financial Systems Analyst</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4922911003">Financial Systems Analyst</a>
+  <br>
+  <span class="location">Los Angeles, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4889792003">Financial Systems Analyst</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4922913003">Financial Systems Analyst</a>
+  <br>
+  <span class="location">New York, NY</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4909569003">Procurement Analyst</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4905151003">Director of Enterprise Applications</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4924424003">IT Specialist II</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4788033003">Lead Security Risk Architect</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4788893003">Security Operations Engineering Manager (Detection &amp; Response)</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4788931003">Senior Security Operations Engineer</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4935274003">VP of Global Customer Success and Support</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4795800003">Corporate Counsel</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4960448003">Equity Administrator</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4952124003">Senior Privacy Counsel</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4765094003">Director, (LOB) Line of Business Marketing</a>
+  <br>
+  <span class="location">Boston, MA | San Francisco, CA | Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4927122003">Director, Pricing Strategy</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4795687003">Director, Segment Marketing</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4930512003">Ecosystem Marketing Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4957294003">Email Marketing Manager, EMEA</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4956975003">Events Manager</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4934067003">Growth Marketing Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4940352003">Lead Klaviyo Solutions Architect</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4931689003">Marketing Systems Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4926601003">Market Research &amp; Strategy Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4939108003">Paid Media Manager, EMEA</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4962923003">Senior Analyst, Web</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4919858003">Senior Growth Analyst</a>
+  <br>
+  <span class="location">New York, NY</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4919856003">Senior Growth Analyst</a>
+  <br>
+  <span class="location">Los Angeles, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4919865003">Senior Growth Analyst</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4919863003">Senior Growth Analyst</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4892186003">Senior Growth Analyst</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4814767003">Senior Partner Marketing Manager - EMEA&nbsp;</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4930113003">Senior Product Marketing Manager, SMS</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4807108003">Senior Producer, Digital Properties</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4956957003">Senior SEO Analyst</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4901648003">Paid Media Partner Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4848980003">Partner Development Representative</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4760754003">Sales Enablement Specialist (Partnerships)</a>
+  <br>
+  <span class="location">Boston, MA | Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4844355003">Senior Partner Account Manager - EMEA</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4916956003">Senior Partner Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4846688003">SMS Partner Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4937530003">Strategic Partner Manager</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4956863003">Strategic Partnerships Manager (Technology Partners), EMEA</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4712405003">Director, HRBP- Go to Market</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4854293003">Recruiter</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4930729003">Recruiting Coordination Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4807651003">Sr. Benefits Analyst</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4798417003">Technical Recruiter</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4822204003">Group Product Manager - Data Integrations &amp; Infrastructure</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4924773003">Group Product Manager - Data Understanding &amp; Insights</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4898167003">Group Product Manager - Onsite App Experience</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4958161003">Lead Product Manager - Orchestrate</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4776713003">Product Analyst</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4822193003">Senior Director, Product </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4949285003">Senior Manager, Product Operations</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4771990003">Senior Product Manager</a>
+  <br>
+  <span class="location">Boston, MA | Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4918015003">Senior Product Manager - Onsite App Experience</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4773830003">Technical Product Manager</a>
+  <br>
+  <span class="location">Boston, MA | Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4962575003">Technical Product Manager - MTA</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4962603003">Technical Product Manager - Pipeline</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4782474003">Account Executive, Enterprise/Mid Market </a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4789643003">Account Executive, Lower-SMB</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4762272003">Account Executive, Entrepreneur</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4876195003">Account Executive - Mid-Market</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4256940003">Account Executive, SMB</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4450198003">Account Executive, SMB</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4790024003">Account Executive , Upper-SMB</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4910650003">Business Systems Team Lead </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4842843003">Customer Growth Specialist SMS </a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4928688003">Director, Business Development EMEA</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4930286003">Director of GTM Compensation</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4908956003">Director of Revenue Ops, EMEA</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4796627003">Inbound Business Development Representative</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4770830003">Inbound Business Development Representative</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4790430003">Inbound Business Development Representative</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4941236003">Inbound Business Development Representative, French Speaking</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4796641003">Inbound Business Development Representative</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4790447003">Manager, Outbound Business Development </a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4741466003">Order Administrator</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4782327003">Outbound Business Development Representative</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4782329003">Outbound Business Development Representative</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4854661003">Outbound Business Development Representative</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4934949003">Outbound Business Development Representative, French Speaking</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4952663003">Partner Solution Architect</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4893321003">Product Specialist </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4737656003">Sales Compensation Analyst</a>
+  <br>
+  <span class="location">Boston, MA | Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4924771003">Sales Enablement Specialist - Product (Email &amp; SMS)</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4925971003">Sales Manager</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4937879003">Sales Operations Manager</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4814853003">SMB Account Executive - SMS</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4790263003">Solution Architect</a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4935876003">Solution Architect</a>
+  <br>
+  <span class="location">London, UK</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4943328003">Systems Analyst </a>
+  <br>
+  <span class="location">Boston, MA</span>
+
+  <a data-mapped="true" href="/klaviyo/jobs/4905184003"> Systems Architect</a>
+  <br>
+  <span class="location">Boston, MA</span>

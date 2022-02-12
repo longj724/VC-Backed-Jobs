@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Socure</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+        <link rel="stylesheet" media="screen" href="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/custom_css_files/400/092/700/original/socure-career.css?1578068973" />
+
+
+
+    <meta property="og:title" content="Socure"></meta>
+    <meta property="og:description" content=""></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/socure"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/092/700/original/Primary_Logo_RGB.png?1595261524"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><img alt="Socure Logo" src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/092/700/resized/Primary_Logo_RGB.png?1595261524" width="146" height="75" /></div>
+
+  <h1>Socure</h1>
+
+  <div id="content">
+    
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+  
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4003153003">Compliance</h3>
+
+  <div class="opening" department_id="4003153003" office_id="4001687003" data-office-4001687003="true" data-department-4003153003="true">
+  <a data-mapped="true" href="/socure/jobs/4881903003">GRC Assessments Officer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003153003" office_id="4001687003" data-office-4001687003="true" data-department-4003153003="true">
+  <a data-mapped="true" href="/socure/jobs/4946439003">GRC Operations Officer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003153003" office_id="4001688003" data-office-4001688003="true" data-department-4003153003="true">
+  <a data-mapped="true" href="/socure/jobs/4950920003">GRC Operations Officer</a>
+  <br/>
+  <span class="location">Chennai / Remote</span>
+</div><div class="opening" department_id="4003153003" office_id="4001687003" data-office-4001687003="true" data-department-4003153003="true">
+  <a data-mapped="true" href="/socure/jobs/4966170003">Internal Audit Lead</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003153003" office_id="4001687003" data-office-4001687003="true" data-department-4003153003="true">
+  <a data-mapped="true" href="/socure/jobs/4873866003">Senior Privacy Engineer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003152003">Data Science</h3>
+
+  <div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4621218003">Data Engineer (All-Levels) </a>
+  <br/>
+  <span class="location">Remote (USA)</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4716213003">Data Science Manager - Consortium Network</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4865805003">Data Science Operations Engineer</a>
+  <br/>
+  <span class="location">Remote (USA)</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4737680003">Data Scientist, Big Data R&amp;D (All levels)</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4183098003">Data Scientist, Client Analysis (All levels)</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4738567003">Data Scientist - Computer Vision (All levels)</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4683075003">ML Engineer - ML Platform  </a>
+  <br/>
+  <span class="location">USA (remote) </span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4299196003">Senior Data Scientist - Fraud </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4477691003">Senior Data Scientist - Identity Graph</a>
+  <br/>
+  <span class="location">Remote (USA)</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4876536003">Senior/Lead Data Engineer - Computer Vision </a>
+  <br/>
+  <span class="location">Remote (USA)</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4877966003">Senior Machine Learning Engineer </a>
+  <br/>
+  <span class="location">Remote (USA)</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4785838003">Sr. Data Science Engineer - Fraud</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003152003" office_id="4001687003" data-office-4001687003="true" data-department-4003152003="true">
+  <a data-mapped="true" href="/socure/jobs/4555320003">Staff Data Engineer - Automation </a>
+  <br/>
+  <span class="location">USA (remote) </span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003150003">Engineering</h3>
+
+  <div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4876535003">Chief of Staff - for SVP of Technology</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001688003,4001687003" data-office-4001688003="true" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4950945003">SDET</a>
+  <br/>
+  <span class="location">Remote/Chennai</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4855349003">SDET Manager</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4883134003">Senior Android Engineer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003,4001688003" data-office-4001687003="true" data-office-4001688003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4944738003">Senior Android Engineer</a>
+  <br/>
+  <span class="location">Chennai / Remote</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003,4001688003" data-office-4001687003="true" data-office-4001688003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4950959003">Senior DevOps Engineer</a>
+  <br/>
+  <span class="location">Chennai - Remote</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4842766003">Senior Engineering Manager</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4883745003">Senior Frontend Engineer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4928245003">Senior Full-Stack Engineer - Developer Experience </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4883156003">Senior iOS Engineer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001688003,4001687003" data-office-4001688003="true" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4950930003">Senior Software Development Engineer in Test (SDET)</a>
+  <br/>
+  <span class="location">Chennai / Remote</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4569740003">Senior Software Development Engineer in Test (SDET) </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001688003" data-office-4001688003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4950961003">Senior Software Engineer</a>
+  <br/>
+  <span class="location">Chennai </span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4767826003">Senior Software Engineer - Backend Services</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4668331003">Senior Software Engineer - DevOps</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4965191003">Senior Software Engineer - Public Sector</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4566469003">Senior Software Engineer - Service Platform</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001688003" data-office-4001688003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4905389003">Senior Technical Program Manager </a>
+  <br/>
+  <span class="location">Chennai, India</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4685251003">Sr. Data Engineer - BI/Reporting</a>
+  <br/>
+  <span class="location">Remote (USA)</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4176414003">Sr. Data Engineer - Data Platform </a>
+  <br/>
+  <span class="location">Remote (USA)</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4236842003"> Sr Data Engineer (Machine Learning)</a>
+  <br/>
+  <span class="location">Remote USA </span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4726028003">Sr. Software Engineer - Full Stack</a>
+  <br/>
+  <span class="location">Remote (USA)</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4880565003">Staff Android Engineer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4922146003">Staff Backend Engineer - Device</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4490124003">Staff DevOps Engineer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003,4001688003" data-office-4001687003="true" data-office-4001688003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4956699003">Staff DevOps Engineer - CI/CD</a>
+  <br/>
+  <span class="location">Chennai, Tamil Nadu, India, REMOTE</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4878219003">Staff Frontend Engineer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4767812003">Staff Full-Stack Engineer - Developer Experience </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4880524003">Staff iOS Engineer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4569766003">Staff Software Development Engineer in Test (SDET) </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4965107003">Staff Software Engineer - Public Sector</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4950175003">Staff Software Engineer - Service Platform</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4747528003">Technical Program Manager </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003150003" office_id="4001687003" data-office-4001687003="true" data-department-4003150003="true">
+  <a data-mapped="true" href="/socure/jobs/4624627003">VP Engineering, Platform</a>
+  <br/>
+  <span class="location">Remote, USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003159003">Finance/Operations</h3>
+
+  <div class="opening" department_id="4003159003" office_id="4001687003" data-office-4001687003="true" data-department-4003159003="true">
+  <a data-mapped="true" href="/socure/jobs/4822744003">Business Operations, Program Manager</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003159003" office_id="4001687003" data-office-4001687003="true" data-department-4003159003="true">
+  <a data-mapped="true" href="/socure/jobs/4882328003">Financial Analyst </a>
+  <br/>
+  <span class="location">Remote USA (Eastern time zone preferred)</span>
+</div><div class="opening" department_id="4003159003" office_id="4001687003" data-office-4001687003="true" data-department-4003159003="true">
+  <a data-mapped="true" href="/socure/jobs/4882277003">Senior Manager, Commercial FP&amp;A</a>
+  <br/>
+  <span class="location">Remote USA (Eastern time zone preferred)</span>
+</div><div class="opening" department_id="4003159003" office_id="4001687003" data-office-4001687003="true" data-department-4003159003="true">
+  <a data-mapped="true" href="/socure/jobs/4961086003">Senior Revenue Accountant</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003154003">Growth</h3>
+
+  <div class="opening" department_id="4003154003" office_id="4001687003" data-office-4001687003="true" data-department-4003154003="true">
+  <a data-mapped="true" href="/socure/jobs/4696411003">Developer Support Engineer</a>
+  <br/>
+  <span class="location">Remote USA (Eastern Time Zone)</span>
+</div><div class="opening" department_id="4003154003" office_id="4001687003" data-office-4001687003="true" data-department-4003154003="true">
+  <a data-mapped="true" href="/socure/jobs/4957034003">Director, Strategic Account Management</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003154003" office_id="4001687003" data-office-4001687003="true" data-department-4003154003="true">
+  <a data-mapped="true" href="/socure/jobs/4819511003">Director, Technical Support </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003154003" office_id="4001687003" data-office-4001687003="true" data-department-4003154003="true">
+  <a data-mapped="true" href="/socure/jobs/4611887003">Enterprise Account Manager </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003154003" office_id="4001687003" data-office-4001687003="true" data-department-4003154003="true">
+  <a data-mapped="true" href="/socure/jobs/4003949003">Solutions Consultant (Pre-sales Engineer)</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003154003" office_id="4001687003" data-office-4001687003="true" data-department-4003154003="true">
+  <a data-mapped="true" href="/socure/jobs/4003948003">Strategic Account Manager </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003155003">Legal</h3>
+
+  <div class="opening" department_id="4003155003" office_id="4001687003" data-office-4001687003="true" data-department-4003155003="true">
+  <a data-mapped="true" href="/socure/jobs/4553432003">Commercial Counsel </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003155003" office_id="4001687003" data-office-4001687003="true" data-department-4003155003="true">
+  <a data-mapped="true" href="/socure/jobs/4551646003">Director, Senior Corporate Counsel </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003155003" office_id="4001687003" data-office-4001687003="true" data-department-4003155003="true">
+  <a data-mapped="true" href="/socure/jobs/4846607003">Legal Strategy and Operations Manager</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003155003" office_id="4001687003" data-office-4001687003="true" data-department-4003155003="true">
+  <a data-mapped="true" href="/socure/jobs/4893057003">Product Counsel </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003160003">Marketing</h3>
+
+  <div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4816275003">Account Based Marketing Manager</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4968915003">Customer Marketing Manager</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4897371003">Director, Demand Generation Campaigns/Programs</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4725845003">Director, Marketing Operations</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4817713003">Manager, Content Evangelist </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4902667003">Paid Media Manager</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4806723003">Senior Director of Product Marketing - First Party Fraud Suite</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4916853003">Senior Field Marketing and Trade Show Manager</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4749548003">Senior Manager, Internal Communications </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003160003" office_id="4001687003" data-office-4001687003="true" data-department-4003160003="true">
+  <a data-mapped="true" href="/socure/jobs/4934080003">Vice President, Corporate Communications</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003156003">People Operations</h3>
+
+  <div class="opening" department_id="4003156003" office_id="4001687003" data-office-4001687003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4733152003">Director, Commercial HR Business Partner</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003156003" office_id="4001687003" data-office-4001687003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4934054003">Recruiting Coordinator</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003156003" office_id="4001688003" data-office-4001688003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4737534003">Recruiting Coordinator</a>
+  <br/>
+  <span class="location">Chennai</span>
+</div><div class="opening" department_id="4003156003" office_id="4001687003" data-office-4001687003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4814970003">Recruiting Manager - Commercial</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003156003" office_id="4001687003" data-office-4001687003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4967814003">Senior Compensation Analyst</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4003156003" office_id="4001687003" data-office-4001687003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4735055003">Senior Director, Organizational Effectiveness</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003156003" office_id="4001687003" data-office-4001687003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4845958003">Senior People Business Partner</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003156003" office_id="4001688003" data-office-4001688003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4817098003">Senior Recruiter </a>
+  <br/>
+  <span class="location">Chennai / Remote</span>
+</div><div class="opening" department_id="4003156003" office_id="4001687003" data-office-4001687003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4721703003">Senior Recruiter - Commercial</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003156003" office_id="4001687003" data-office-4001687003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4733053003">Talent Acquisition Operations Manager</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003156003" office_id="4001687003" data-office-4001687003="true" data-department-4003156003="true">
+  <a data-mapped="true" href="/socure/jobs/4733140003">VP People Ops, Systems and Services</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003157003">Product Management</h3>
+
+  <div class="opening" department_id="4003157003" office_id="4001687003" data-office-4001687003="true" data-department-4003157003="true">
+  <a data-mapped="true" href="/socure/jobs/4876627003">Director of Product Management, AML/CTF</a>
+  <br/>
+  <span class="location">REMOTE USA</span>
+</div><div class="opening" department_id="4003157003" office_id="4001687003" data-office-4001687003="true" data-department-4003157003="true">
+  <a data-mapped="true" href="/socure/jobs/4876621003">Director of Product Management, CIP</a>
+  <br/>
+  <span class="location">REMOTE USA</span>
+</div><div class="opening" department_id="4003157003" office_id="4001687003" data-office-4001687003="true" data-department-4003157003="true">
+  <a data-mapped="true" href="/socure/jobs/4871573003">Director/Senior Director of Product Management, Device intelligence &amp; SDKs</a>
+  <br/>
+  <span class="location">REMOTE USA</span>
+</div><div class="opening" department_id="4003157003" office_id="4001687003" data-office-4001687003="true" data-department-4003157003="true">
+  <a data-mapped="true" href="/socure/jobs/4845066003">Senior Manager of Product, Risk Insights</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003157003" office_id="4001687003" data-office-4001687003="true" data-department-4003157003="true">
+  <a data-mapped="true" href="/socure/jobs/4758703003">Senior Product Manager, Document Verification Platform</a>
+  <br/>
+  <span class="location">REMOTE U.S.</span>
+</div><div class="opening" department_id="4003157003" office_id="4001687003" data-office-4001687003="true" data-department-4003157003="true">
+  <a data-mapped="true" href="/socure/jobs/4829494003">Senior Product Manager, DocV Capture</a>
+  <br/>
+  <span class="location">REMOTE U.S.</span>
+</div><div class="opening" department_id="4003157003" office_id="4001687003" data-office-4001687003="true" data-department-4003157003="true">
+  <a data-mapped="true" href="/socure/jobs/4711417003">Senior Product Manager - Internal Tools</a>
+  <br/>
+  <span class="location">Remote US</span>
+</div><div class="opening" department_id="4003157003" office_id="4001687003" data-office-4001687003="true" data-department-4003157003="true">
+  <a data-mapped="true" href="/socure/jobs/4867974003">Senior Product UI/UX Designer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003158003">Sales</h3>
+
+  <div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4610303003">Account Executive Director</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4904490003">Competitive Intelligence Manager - Emerging Markets</a>
+  <br/>
+  <span class="location">REMOTE USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4122615003">Director, Business Development - Partnerships</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4868093003">Growth Director, Emerging Markets</a>
+  <br/>
+  <span class="location">REMOTE USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4903961003">Launch Associate, Emerging Markets (Sales Development)</a>
+  <br/>
+  <span class="location">REMOTE USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4588821003">RVP Sales</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4565183003">RVP Sales, West</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4792417003">Senior Director, Strategic Alliances</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4953182003">Senior Salesforce Systems Analyst</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4798602003">State and Local Sales Director - Public Sector</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4847573003">Strategy Director - Emerging Markets</a>
+  <br/>
+  <span class="location">REMOTE USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4775538003">Training Program Design Manager </a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div><div class="opening" department_id="4003158003" office_id="4001687003" data-office-4001687003="true" data-department-4003158003="true">
+  <a data-mapped="true" href="/socure/jobs/4766408003">VP, Government Relations</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4037402003">Security</h3>
+
+  <div class="opening" department_id="4037402003" office_id="4001687003" data-office-4001687003="true" data-department-4037402003="true">
+  <a data-mapped="true" href="/socure/jobs/4953252003">Integration and Automation Engineer</a>
+  <br/>
+  <span class="location">Remote USA</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

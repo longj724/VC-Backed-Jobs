@@ -1,0 +1,420 @@
+
+  <a data-mapped="true" href="/clickup/jobs/4136910004">Director of EMEA Channels</a>
+  <br>
+  <span class="location">Dublin, Ireland, or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4136908004">Director of Partner Marketing</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4235978004">Partner Strategy and Operations Analyst</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4117290004">Professional Services</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4136905004">Director of Partner Enablement</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4223494004">Professional Services Consultant, EMEA</a>
+  <br>
+  <span class="location">Dublin, Ireland</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4249434004">Professional Services Manager, EMEA</a>
+  <br>
+  <span class="location">EMEA</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4116697004">Solutions Engineer</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4223238004">Solutions Engineer, ANZ</a>
+  <br>
+  <span class="location">Sydney or Remote in Australia</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4222623004">Solutions Engineer, EMEA</a>
+  <br>
+  <span class="location">Dublin, Ireland</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4306284004">Vice President Customer Success </a>
+  <br>
+  <span class="location">San Diego or  Salt Lake City</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4170113004">Director of Platform Engineering</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4143767004">Engineering Manager</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4140498004">Frontend Engineer, Growth</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4289775004">Lead Backend Engineer, Dashboards</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4304729004">Lead Backend Engineer, Docs</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4192907004">Lead Backend Engineer, Platform</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4332952004">Lead Backend Engineer, Work Management</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4234905004">Lead Software Engineer, Web Content</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4147484004">Security Response Engineer</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4337189004">Senior Backend Engineer</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4143764004">Senior Backend Engineer </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4143773004">Senior Full Stack Engineer</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4185796004">Senior Software Engineer, Web Content</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4170126004">Software Architect </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4234894004">Software Engineer, UI &amp; UX</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4170131004">VP of Engineering, Platform</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4191008004">VP of Engineering, Work Management</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4124334004">Director of North American Channels</a>
+  <br>
+  <span class="location">Salt Lake City, Utah, United States, San Diego, California, United States</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4304453004">Customer Support Systems Manager (Zendesk)</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4304463004">Head of Go To Market Systems</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4290110004">Marketing Technology Lead (Marketo)</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4308647004">People Technology Lead (Workday)</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4290115004">Senior MuleSoft Engineer</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4288239004">Senior Systems Engineer</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4318934004">Global Payroll Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4309428004">Procurement Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4307687004">Senior Payroll Analyst</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4313020004">Financial, Business Intelligence Analyst</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4317920004">GTM, Business Intelligence Analyst</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4308762004">Manager, Global GTM Analytics</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4317933004">Marketing, Business Intelligence Analyst</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4328361004">Manager, FP&amp;A (Corporate)</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4328368004">Manager, FP&amp;A (G&amp;A)</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4339717004">Senior Analyst, FP&amp;A (Sales/CX)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4235426004">Order Management &amp; Deal Desk Lead, EMEA</a>
+  <br>
+  <span class="location">Dublin, Ireland</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4331631004">Sr Director, FP&amp;A (R&amp;D and G&amp;A)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4306161004">Revenue Operations Analyst, Tools and Productivity</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4305503004">Revenue Strategy Manager, Enterprise </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4313111004">Revenue Strategy Manager, Solutions and Professional Services</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4342246004">Sales Compensation Manager</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4180035004">Senior Analyst, Order Operations, ANZ </a>
+  <br>
+  <span class="location">Sydney, Australia, Melbourne, Australia</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4124346004">Senior Analyst, Revenue Strategy</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4124352004">Senior Data Analyst, Revenue Analytics </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4276567004">Director of Segment - Work Management </a>
+  <br>
+  <span class="location">Remote or Hybrid</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4137610004">Director, Product Marketing</a>
+  <br>
+  <span class="location">Remote or Hybrid </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4117475004">Email Marketing Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4229655004">Head of Field/Demand Gen Marketing- APAC</a>
+  <br>
+  <span class="location">Remote or Hybrid </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4117477004">Paid Marketing Coordinator</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4278133004">Product Marketing Manager</a>
+  <br>
+  <span class="location">Remote or Hybrid</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4275388004">Product Marketing Manager - Segment Service Mgmt</a>
+  <br>
+  <span class="location">Remote or Hybrid</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4324160004">Revenue and Enablement Manager</a>
+  <br>
+  <span class="location">Remote or Hybrid</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4244085004">Senior Content Marketing Manager</a>
+  <br>
+  <span class="location">San Diego, California, United States</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4117473004">Writer, ClickUp Blog</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4147468004">Director, Corporate Communications</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4117503004">Lead Brand Designer</a>
+  <br>
+  <span class="location">Salt Lake City, Utah, United States, San Diego, California, United States</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4117412004">Graphic Designer (mid-level or senior)</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4319224004">Human Resources Business Partner,  G&amp;A</a>
+  <br>
+  <span class="location">San Diego, CA or Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4319213004">Human Resources Business Partner, Support</a>
+  <br>
+  <span class="location">San Diego, CA or Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4311943004">International People Partner</a>
+  <br>
+  <span class="location">Ireland or UK</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4226395004">Senior Technical Recruiter </a>
+  <br>
+  <span class="location">Poland OR Remote </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4181344004">Technical Recruiter </a>
+  <br>
+  <span class="location">Remote- Poland </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4150018004">Vice President, Product Management</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4156238004">Director, Product Management - Platform </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4117943004">Group Product Manager </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4215409004">Group Product Manager, Core Services </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4215411004">Group Product Manager, Permissions &amp; Federation</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4206651004">Group Product Manager, Project Management</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4206656004">Group Product Manager, Work Collaboration</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4117946004">Product Manager, Integrations </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4156249004">Head of Product Design</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4118234004">Lead Product Designer</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4156246004">Manager, Product Design</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4118261004">Product Designer, Growth </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4186959004">Product Manager, Growth </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4118283004">Senior Product Analyst</a>
+  <br>
+  <span class="location">Salt Lake City, Utah, United States, San Diego, California, United States</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4336952004">Head of Product Operations</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4122824004">Account Executive, ANZ</a>
+  <br>
+  <span class="location">Sydney, Australia</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4116694004">Account Executive - Commercial / Growth</a>
+  <br>
+  <span class="location">Hybrid (Salt Lake City or San Diego)</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4122829004">Account Executive, EMEA</a>
+  <br>
+  <span class="location">Dublin, Ireland </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4147597004">Account Executive - Enterprise/Strategic</a>
+  <br>
+  <span class="location">Remote or Hybrid </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4230234004">Account Executive - Enterprise/Strategic - ANZ</a>
+  <br>
+  <span class="location">Remote or Hybrid </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4230197004">Account Executive - Enterprise/Strategic - EMEA </a>
+  <br>
+  <span class="location">Remote or Hybrid </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4147600004">Account Executive - Expansion</a>
+  <br>
+  <span class="location">San Diego or Salt Lake City </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4168855004">Account Executive - Expansion - Dublin </a>
+  <br>
+  <span class="location">Dublin, Ireland </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4168863004">Account Executive - Expansion - Sydney</a>
+  <br>
+  <span class="location">Sydney, AU </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4162352004">Business Development Representative </a>
+  <br>
+  <span class="location">San Diego or Salt Lake City </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4162433004">Sales Development Representative, ANZ</a>
+  <br>
+  <span class="location">Sydney, Australia </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4222659004">Sales Development Representative, EMEA</a>
+  <br>
+  <span class="location">Dublin, Ireland </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4117329004">Sales Manager</a>
+  <br>
+  <span class="location">San Diego or Salt Lake City </span>
+
+  <a data-mapped="true" href="/clickup/jobs/4122863004">Sales Manager, ANZ</a>
+  <br>
+  <span class="location">Sydney, Australia</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4122848004">Sales Manager, EMEA</a>
+  <br>
+  <span class="location">Dublin, Ireland</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4324296004">Escalations Engineer</a>
+  <br>
+  <span class="location">Hybrid or Remote</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4122864004">Security Engineer</a>
+  <br>
+  <span class="location">Salt Lake City, Utah, United States, San Diego, California, United States</span>
+
+  <a data-mapped="true" href="/clickup/jobs/4311750004">Revenue Accounting Director </a>
+  <br>
+  <span class="location">Hybrid or Remote</span>

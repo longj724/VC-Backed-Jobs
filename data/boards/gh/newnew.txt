@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Client Board </title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+  
+    <meta property="og:title" content="Client Board "></meta>
+    <meta property="og:description" content=""></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/newnew"></meta>
+    <meta property="og:type" content="article"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+
+
+  <h1>Client Board </h1>
+
+  <div id="content">
+    
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+  
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4065897002">Company B </h3>
+
+  <div class="opening" department_id="4065897002" office_id="4016917002,4016919002" data-office-4016917002="true" data-office-4016919002="true" data-department-4065897002="true">
+  <a data-mapped="true" href="/newnew/jobs/4528792002">Sample Job</a>
+  <br/>
+  <span class="location">Denver </span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4065898002">Company B - Sales </h4>
+
+  <div class="opening" department_id="4065897002,4065898002" office_id="4036793002" data-office-4036793002="true" data-department-4065897002="true" data-department-4065898002="true">
+  <a data-mapped="true" href="/newnew/jobs/4588763002">Membership Application Manager</a>
+  <br/>
+  <span class="location">San Francisco </span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4065899002">Company B - Accounting </h3>
+
+  <div class="opening" department_id="4065899002" office_id="4016917002,4016917002,4016919002" data-office-4016917002="true" data-office-4016919002="true" data-department-4065899002="true">
+  <a data-mapped="true" href="/newnew/jobs/5447097002">Jonin (Advanced Ninja)</a>
+  <br/>
+  <span class="location">SF</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

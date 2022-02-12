@@ -1,0 +1,12 @@
+
+  <a data-mapped="true" href="/oasislabs/jobs/4059596002">Sr. Software Engineer</a>
+  <br>
+  <span class="location">Remote - US</span>
+
+  <a data-mapped="true" href="/oasislabs/jobs/4336293002">Technical Product Manager</a>
+  <br>
+  <span class="location">Remote - US</span>
+
+  <a data-mapped="true" href="/oasislabs/jobs/4049852002">Business Development Lead</a>
+  <br>
+  <span class="location">Remote - US</span>

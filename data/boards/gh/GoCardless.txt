@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at GoCardless</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+        <link rel="stylesheet" media="screen" href="https://gocardless.com/greenhouse-assets/greenhouse.css" />
+
+
+
+    <meta property="og:title" content="GoCardless"></meta>
+    <meta property="og:description" content=""></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/gocardless"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/000/339/original/gocardless-colour_3x.png?1536247015"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><a target="_blank" href="https://gocardless.com/about/careers/"><img alt="GoCardless Logo" src="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/000/339/resized/gocardless-colour_3x.png?1536247015" width="200" height="42" /></a></div>
+
+
+  <div id="content">
+    
+  </div>
+
+    <h1 id="board_title">Current Job Openings at GoCardless</h1>
+
+    <div class="filter-container">
+
+    <select name="departments-select" id="departments-select">
+      <option value="">All Departments</option>
+      
+
+<option value="61702">
+  Customer Success Group
+</option>
+
+
+
+<option value="61703">
+  Finance
+</option>
+
+
+
+<option value="12597">
+  Marketing
+</option>
+
+
+
+<option value="60751">
+  People
+</option>
+
+
+
+<option value="38957">
+  Product Development
+</option>
+
+
+<option value="61701">
+  &#160;&#160;Banking
+</option>
+
+
+
+<option value="39002">
+  &#160;&#160;Data 
+</option>
+
+
+
+<option value="2121">
+  &#160;&#160;Design
+</option>
+
+
+
+<option value="964">
+  &#160;&#160;Engineering
+</option>
+
+
+
+<option value="22169">
+  &#160;&#160;Product
+</option>
+
+
+
+
+<option value="60748">
+  Risk
+</option>
+
+
+
+<option value="965">
+  Sales
+</option>
+
+
+    </select>
+  </div>
+
+  <div class="filter-container">
+
+    <select name="offices-select" id="offices-select">
+      <option value="">All Offices</option>
+      
+
+<option value="668">
+  London
+</option>
+
+
+
+<option value="59867">
+  Melbourne
+</option>
+
+
+
+<option value="59315">
+  Munich
+</option>
+
+
+
+<option value="75712">
+  New York
+</option>
+
+
+
+<option value="58701">
+  Paris
+</option>
+
+
+
+<option value="66822">
+  Remote - UK
+</option>
+
+
+
+<option value="63415">
+  San Francisco
+</option>
+
+
+    </select>
+  </div>
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h2 id="61702">Customer Success Group</h2>
+
+  <div class="opening" department_id="61702" office_id="66822" data-office-66822="true" data-department-61702="true">
+  <a data-mapped="true" href="/gocardless/jobs/3907735">Customer Support Advocate - 100% Remote (Anywhere in the UK) (12 Month FTC)</a>
+  <br/>
+  <span class="location">Remote UK</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="61703">Finance</h2>
+
+  <div class="opening" department_id="61703" office_id="668" data-office-668="true" data-department-61703="true">
+  <a data-mapped="true" href="/gocardless/jobs/3707277">Credit Controller</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="61703" office_id="668" data-office-668="true" data-department-61703="true">
+  <a data-mapped="true" href="/gocardless/jobs/3307341">Credit Risk Analyst - Strategy Team </a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="61703" office_id="668" data-office-668="true" data-department-61703="true">
+  <a data-mapped="true" href="/gocardless/jobs/3707971">Finance Analyst</a>
+  <br/>
+  <span class="location">London, UK</span>
+</div><div class="opening" department_id="61703" office_id="668" data-office-668="true" data-department-61703="true">
+  <a data-mapped="true" href="/gocardless/jobs/3758505">Senior Management Accountant</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="12597">Marketing</h2>
+
+  <div class="opening" department_id="12597" office_id="668" data-office-668="true" data-department-12597="true">
+  <a data-mapped="true" href="/gocardless/jobs/3395447">Campaign Operations Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="12597" office_id="668" data-office-668="true" data-department-12597="true">
+  <a data-mapped="true" href="/gocardless/jobs/3832684">Head of Social Media</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="12597" office_id="668" data-office-668="true" data-department-12597="true">
+  <a data-mapped="true" href="/gocardless/jobs/3772441">Product Marketing Manager - Small Business</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="60751">People</h2>
+
+  <div class="opening" department_id="60751" office_id="668" data-office-668="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/3690057">Head of Talent Acquisition - Tech</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60751" office_id="668" data-office-668="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/3876094">People (HR) Data Analyst</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60751" office_id="668" data-office-668="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/3389863">People Partner - UK</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60751" office_id="75712" data-office-75712="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/3749572">People Partner - US</a>
+  <br/>
+  <span class="location">Remote - North America</span>
+</div><div class="opening" department_id="60751" office_id="668" data-office-668="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/3619102">Talent Acquisition Partner - French/German Speaking</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60751" office_id="668" data-office-668="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/3618893">Talent Acquisition Partner - French Speaking</a>
+  <br/>
+  <span class="location">Paris </span>
+</div><div class="opening" department_id="60751" office_id="668" data-office-668="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/3619015">Talent Acquisition Partner - German Speaking </a>
+  <br/>
+  <span class="location">Munich</span>
+</div><div class="opening" department_id="60751" office_id="668" data-office-668="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/2577860">Talent Acquisition Partner - Product &amp; Engineering </a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60751" office_id="668" data-office-668="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/3708778">Talent Development Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60751" office_id="668" data-office-668="true" data-department-60751="true">
+  <a data-mapped="true" href="/gocardless/jobs/3931566">Talent Strategy &amp; Operations Analyst</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="38957">Product Development</h2>
+
+  <div class="opening" department_id="38957" office_id="668" data-office-668="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3855844">BI Analyst</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="38957" office_id="668" data-office-668="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3770283">Technical Project Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+
+<section class="child level-1">
+  <h2 id="61701">Banking</h2>
+
+  <div class="opening" department_id="38957,61701" office_id="75712" data-office-75712="true" data-department-38957="true" data-department-61701="true">
+  <a data-mapped="true" href="/gocardless/jobs/3917818">Banking and Payment Specialist - North America Lead</a>
+  <br/>
+  <span class="location">New York</span>
+</div><div class="opening" department_id="38957,61701" office_id="75712" data-office-75712="true" data-department-38957="true" data-department-61701="true">
+  <a data-mapped="true" href="/gocardless/jobs/3268158">Global Payment Partnerships - North America Lead</a>
+  <br/>
+  <span class="location">New York City</span>
+</div><div class="opening" department_id="38957,61701" office_id="668" data-office-668="true" data-department-38957="true" data-department-61701="true">
+  <a data-mapped="true" href="/gocardless/jobs/3825057">Payments Operations Analyst</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="39002">Data </h2>
+
+  <div class="opening" department_id="38957,39002" office_id="668" data-office-668="true" data-department-38957="true" data-department-39002="true">
+  <a data-mapped="true" href="/gocardless/jobs/3864519">Director of IT &amp; Business Systems</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="2121">Design</h2>
+
+  <div class="opening" department_id="2121,38957" office_id="668" data-office-668="true" data-department-2121="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3545235">Product Designer - Payer Experience Team</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="964">Engineering</h2>
+
+  <div class="opening" department_id="964,38957" office_id="668" data-office-668="true" data-department-964="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3263996">Backend Software Development Engineer</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="964,38957" office_id="668" data-office-668="true" data-department-964="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3264601">Fullstack Software Development Engineer</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="964,38957" office_id="668" data-office-668="true" data-department-964="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/2417344">Principal Software Development Engineer</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="964,38957" office_id="668" data-office-668="true" data-department-964="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3740115">Security Operations Engineer </a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="964,38957" office_id="668" data-office-668="true" data-department-964="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3263997">Senior Backend Software Development Engineer</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="964,38957" office_id="668" data-office-668="true" data-department-964="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3066936">Senior Engineering Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="964,38957" office_id="668" data-office-668="true" data-department-964="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3264602">Senior Fullstack Software Development Engineer</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="22169">Product</h2>
+
+  <div class="opening" department_id="22169,38957" office_id="668" data-office-668="true" data-department-22169="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3864505">Group Product Manager - Internal Risk</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="22169,38957" office_id="668" data-office-668="true" data-department-22169="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3522111">Growth Product Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="22169,38957" office_id="668" data-office-668="true" data-department-22169="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3744393">Platform Product Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="22169,38957" office_id="668" data-office-668="true" data-department-22169="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3744399">Product Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="22169,38957" office_id="668" data-office-668="true" data-department-22169="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3643033">Senior Product Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="22169,38957" office_id="668" data-office-668="true" data-department-22169="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3442654">Senior Product Manager - Growth </a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="22169,38957" office_id="668" data-office-668="true" data-department-22169="true" data-department-38957="true">
+  <a data-mapped="true" href="/gocardless/jobs/3824664">Technical Product Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h2 id="60748">Risk</h2>
+
+  <div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3898124">Certifications Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3804276">Compliance Analyst</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3772264">Enterprise Risk Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60748" office_id="58701" data-office-58701="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3529398">Financial Crime Risk Manager - EU</a>
+  <br/>
+  <span class="location">Paris</span>
+</div><div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3912315">Legal &amp; Risk Operations Analyst</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3692404">Product Counsel </a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3701682">Quality Assurance Analyst </a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3814535">Senior Compliance Analyst</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/2611351">Senior Compliance Operations Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3830261">Senior Enterprise Risk Analyst </a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="60748" office_id="668" data-office-668="true" data-department-60748="true">
+  <a data-mapped="true" href="/gocardless/jobs/3520866">VP, Legal and External Affairs (General Counsel)</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="965">Sales</h2>
+
+  <div class="opening" department_id="965" office_id="668,75712" data-office-668="true" data-office-75712="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/2974775">Account Director - Global Strategic Partnerships</a>
+  <br/>
+  <span class="location">New York</span>
+</div><div class="opening" department_id="965" office_id="668,75712" data-office-668="true" data-office-75712="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3497148">Account Director - Global Strategic Partnerships</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="965" office_id="58701" data-office-58701="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3492441">Account Executive, Corporate, France</a>
+  <br/>
+  <span class="location">Paris</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3642214">Account Executive, Emerging</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="965" office_id="59315" data-office-59315="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3571739">Account Executive, Emerging, DACH</a>
+  <br/>
+  <span class="location">Munich</span>
+</div><div class="opening" department_id="965" office_id="58701" data-office-58701="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3524815">Account Executive, Emerging, France</a>
+  <br/>
+  <span class="location">Paris</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3349575">Account Executive, Enterprise</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3757429">Director, Global Platform Partnerships</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="965" office_id="63415" data-office-63415="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3549214">Sales Development Representative, Corporate</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3487297">Sales Development Representative, Mid-market</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3553489">Sales Development Representative, SMB</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3895900">Sales Manager, DACH</a>
+  <br/>
+  <span class="location">Munich, Germanny</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3732321">SDR Manager, Southern Europe</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3732329">SDR Manager, UK&amp;I</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3455812">Senior Account Executive, Corporate</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="965" office_id="59867" data-office-59867="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/3860903">Senior Partner Account Manager, ANZ</a>
+  <br/>
+  <span class="location">Melbourne</span>
+</div><div class="opening" department_id="965" office_id="668" data-office-668="true" data-department-965="true">
+  <a data-mapped="true" href="/gocardless/jobs/2230385">Solutions Engineer</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

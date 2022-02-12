@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Airbyte</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+  
+    <meta property="og:title" content="Airbyte"></meta>
+    <meta property="og:description" content="Airbyte is the open-source standard for EL(T). We enable data teams to replicate data from applications, APIs, and databases to data warehouses, lakes, and other destinations. We believe only an open-source approach can solve the problem of data integration, as it enables us to cover the long tail of integrations while enabling teams to adapt pre-built connectors to their needs.
+ 
+Within just 18 months, we&#39;ve built 150+ connectors and we&#39;ve had 9,000+ companies syncing data with us. We&#39;ve raised $181M from some of the world&#39;s top investors (Benchmark, Accel, Altimeter, Coatue, Y Combinator, etc.) and believe in product-led growth, where we build something awesome and let our product bring the users, rather than an outbound sales engine with cold calls.
+ 
+Airbyte is remote friendly, with most of the team still based in Silicon Valley. We’re fully transparent as a company. Our company handbook, culture &amp;amp; values, strategy and roadmap are open to all."></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/airbyte"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/832/900/original/54d075b6-935e-42bf-ba0a-6ea40127be68-1627505054081_(1).png?1643654123"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><a target="_blank" href="https://airbyte.com/careers"><img alt="Airbyte Logo" src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/832/900/resized/54d075b6-935e-42bf-ba0a-6ea40127be68-1627505054081_(1).png?1643654123" width="200" height="55" /></a></div>
+
+  <h1>Airbyte</h1>
+
+  <div id="content">
+    <div><a class="postings-link" href="http://airbyte.io/">Airbyte</a> is the open-source standard for EL(T). We enable data teams to replicate data from applications, APIs, and databases to data warehouses, lakes, and other destinations. We believe only an open-source approach can solve the problem of data integration, as it enables us to cover the long tail of integrations while enabling teams to adapt pre-built connectors to their needs.</div>
+<div>&nbsp;</div>
+<div>Within just 18 months, we've built 150+ connectors and we've had 9,000+ companies syncing data with us. We've raised $181M from some of the world's top investors (Benchmark, Accel, Altimeter, Coatue, Y Combinator, etc.) and believe in product-led growth, where we build something awesome and let our product bring the users, rather than an outbound sales engine with cold calls.</div>
+<div>&nbsp;</div>
+<div>Airbyte is remote friendly, with most of the team still based in Silicon Valley. We’re fully transparent as a company. Our <strong><a class="postings-link" href="https://handbook.airbyte.io/">company handbook</a></strong>, <strong><a class="postings-link" href="https://handbook.airbyte.io/company/culture-and-values">culture &amp; values</a></strong>, <strong><a class="postings-link" href="https://handbook.airbyte.io/strategy/strategy">strategy</a></strong> and <a class="postings-link" href="https://docs.airbyte.io/project-overview/roadmap"><strong>roadmap</strong></a> are open to all.</div>
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+  
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4047241004">Community</h3>
+
+  <div class="opening" department_id="4047241004" office_id="4027951004" data-office-4027951004="true" data-department-4047241004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4305118004">API Technical Writer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047241004" office_id="4027951004" data-office-4027951004="true" data-department-4047241004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4304422004">Developer advocate</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047241004" office_id="4027951004" data-office-4027951004="true" data-department-4047241004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4304409004">Developer Community Lead</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047241004" office_id="4027951004" data-office-4027951004="true" data-department-4047241004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4304434004">Head of Developer Relations</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4047240004">Engineering</h3>
+
+  <div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4303608004">Engineering Manager </a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323757004">Engineering Manager, Connector Development Kit (CDK)</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323766004">Engineering Manager, Database Sources</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323772004">Engineering Manager, Data Warehouses</a>
+  <br/>
+  <span class="location">Remote </span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4303637004">Engineering Manager, OSS Platform</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4326469004">SDET, Connectors</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323826004">Senior Software Engineer, API Sources &amp; Connector Development Kit (CDK)</a>
+  <br/>
+  <span class="location">Remote </span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4303664004">Senior Software Engineer, Connectors</a>
+  <br/>
+  <span class="location">Remote </span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323818004">Senior Software Engineer, Databases</a>
+  <br/>
+  <span class="location">Remote </span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323823004">Senior Software Engineer, Data Warehouses</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4326484004">Senior Software Engineer, Frontend</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323577004">Senior Software Engineer, Open-Source Platform</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4303665004">Senior Software Engineer, Platform</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323784004">Staff Software Engineer, Databases</a>
+  <br/>
+  <span class="location">Remote </span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323796004">Staff Software Engineer, Data Warehouses</a>
+  <br/>
+  <span class="location">Remote </span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4303673004">Staff Software Engineer, ETL</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4323737004">Staff Software Engineer, Hybrid Deployments</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047240004" office_id="4027951004" data-office-4027951004="true" data-department-4047240004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4303676004">Tech Lead</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4049397004">GTM</h3>
+
+  <div class="opening" department_id="4049397004" office_id="4027951004" data-office-4027951004="true" data-department-4049397004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4304761004">Cloud Growth Marketing Manager</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4049397004" office_id="4027951004" data-office-4027951004="true" data-department-4049397004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4304872004">Ex-Founders</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4049397004" office_id="4027951004" data-office-4027951004="true" data-department-4049397004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4339443004">Growth Account Executive</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4049397004" office_id="4027951004" data-office-4027951004="true" data-department-4049397004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4305073004">Open-source Marketing Manager</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4049397004" office_id="4027951004" data-office-4027951004="true" data-department-4049397004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4305108004">Solutions Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4049397004" office_id="4027951004" data-office-4027951004="true" data-department-4049397004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4327668004">Special Projects / New Initiatives</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4047242004">Product</h3>
+
+  <div class="opening" department_id="4047242004" office_id="4027951004" data-office-4027951004="true" data-department-4047242004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4305123004">Senior Product Manager, Cloud</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047242004" office_id="4027951004" data-office-4027951004="true" data-department-4047242004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4305128004">Technical Program Manager, Connectors</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4047242004" office_id="4027951004" data-office-4027951004="true" data-department-4047242004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4305135004">Technical Project Manager, Connectors</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4047246004">Recruiting </h3>
+
+  <div class="opening" department_id="4047246004" office_id="4027951004" data-office-4027951004="true" data-department-4047246004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4304306004">Senior Recruiter, GTM</a>
+  <br/>
+  <span class="location">Remote </span>
+</div><div class="opening" department_id="4047246004" office_id="4027951004" data-office-4027951004="true" data-department-4047246004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4304315004">Senior Technical Recruiter</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4047243004">Technical Support </h3>
+
+  <div class="opening" department_id="4047243004" office_id="4027951004" data-office-4027951004="true" data-department-4047243004="true">
+  <a data-mapped="true" href="/airbyte/jobs/4303691004">Technical Support</a>
+  <br/>
+  <span class="location">Remote </span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

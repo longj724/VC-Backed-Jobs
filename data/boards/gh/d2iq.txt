@@ -1,0 +1,2522 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Favicon -->
+        <link rel="icon" href="https://assets.d2iq.com/production/img/favicon.ico ">
+        <!--[if IE]>
+        <link rel="icon shortcut" href="/favicon.ico"> <![endif]-->
+
+        <!-- CSRF Token -->
+        <meta name="csrf-token" content="1Fkyj38bQcHBUlvUsEWeprx8ref3GyNIvJjnmCA8">
+
+        <title>Careers | D2iQ</title>
+
+        <meta name="description" content="Looking to build world-changing Kubernetes technology with a five-star team? If our culture aligns with yours, let&#039;s build great things together.">
+
+        <meta name="google-site-verification" content="qcUtvk2G657UA2wupgzoeB0XvRpMbXyDZVpZInbhWXw"/>
+
+        <meta property="og:title" content="Careers | D2iQ">
+        <meta property="og:description" content="Looking to build world-changing Kubernetes technology with a five-star team? If our culture aligns with yours, let&#039;s build great things together.">
+        
+        <meta property="og:image" content="https://assets.d2iq.com/production/assets/social-share@1x.jpg">
+        
+        
+        <meta property="og:type" content="website">
+        <meta property="og:locale" content="en-US">
+        <meta property="og:url" content="https://d2iq.com/careers">
+
+        <meta name="twitter:title" content="Careers | D2iQ">
+        <meta name="twitter:description" content="Looking to build world-changing Kubernetes technology with a five-star team? If our culture aligns with yours, let&#039;s build great things together.">
+        <meta name="twitter:image" content="https://assets.d2iq.com/production/assets/social-share@1x.jpg">
+        <meta name="twitter:card" content="summary_large_image">
+
+        <link rel="canonical" href="https://d2iq.com/careers" />
+      <link rel="alternate" hreflang="en" href="https://d2iq.com/careers" />
+  <link rel="alternate" hreflang="x-default" href="https://d2iq.com/careers" />
+
+        <meta name="server" content="7ef11e613fc39c7e94e462e20e9ad97d672c3040">
+
+        <link rel="alternate" type="application/rss+xml" title="D2iQ Blog Feed" href="https://d2iq.com/feed"/>
+
+        
+        <link href="https://assets.d2iq.com/production/css/app.css?id=f96b7c96b313c8140406"
+              rel="stylesheet">
+
+        
+        
+
+        
+        <style >[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid] {display: none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style>
+
+
+     <!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-KMBBLC');</script>
+        <!-- End Google Tag Manager -->
+
+        <!--- GA 4 --->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-LHWXLMJKJS"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+
+            gtag('config', 'G-LHWXLMJKJS');
+        </script>
+
+        <!--- GA 4 --->
+
+
+
+    <script type="text/javascript">
+      window._eiq = window._eiq || [];
+      window._engagio_settings = {
+        accountId: "f2ff85177d5eb6198243c776f427d66be6d09934"
+      };
+      (function() {
+        var ei = document.createElement('script'); ei.type = 'text/javascript'; ei.async = true;
+        ei.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'web-analytics.engagio.com/js/ei.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ei, s);
+      })();
+    </script>
+
+    <Style>
+
+	    iframe.resources-detail__media-wrap.aspect-inner {width: 100%; height: 100%}
+	    </style>
+
+
+
+	       
+        
+</head>
+<body class="en">
+
+
+
+
+
+
+
+	
+	
+
+
+	<div class="modal-bg competitor" style="display: none;">
+		<div class="modal-container competitor">
+			<img class="modal-close compet" src="/img/modal/close.svg">
+
+		<div class="modal-title">Searching for the right Kubernetes platform for you?</div>
+		<div class="modal-text">Click below to choose the right enterprise Kubernetes platform for your needs</div>
+		<div class="relative">
+			<a href="/switch-from-openshift">
+			<img class="modal-button" src="/img/modal/openshift.svg">
+			<img class="modal-button hover" src="/img/modal/openshift-hover.svg">
+			</a>
+		</div>
+		<div class="relative">
+			<a href="/switch-from-rancher">
+			<img class="modal-button" src="/img/modal/rancher.svg">
+			<img class="modal-button hover" src="/img/modal/rancher-hover.svg">
+			</a>
+		</div>
+
+		<img class="modal-mobile" src="/img/modal/mobile-img.svg">
+
+		</div>
+	</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script>
+	<script>
+		$( document ).ready(function() {
+
+
+
+		if (Cookies.get('competitormodal') != 'hide'){
+
+
+			var modalcount = 0;
+
+			   function show_popup(){
+				Cookies.set('competitormodal', 'hide', { expires: 14 });
+				if (modalcount == 0) {
+
+			      $(".modal-bg.competitor").fadeIn();
+			      $('body').addClass('overflowhidden');
+			      modalcount = 1;
+
+			      window.setTimeout( close_popup, 18000 );
+			    }
+
+			   };
+			   function close_popup(){
+
+				  $('body').removeClass('overflowhidden');
+			      $(".modal-bg.competitor").fadeOut();
+
+			   };
+
+			   $(".modal-close.compet").click(function(){
+				  close_popup();
+
+				});
+
+			   $(document).mouseleave(function () {
+				    if (modalcount == 0) {
+						show_popup();
+				    }
+				});
+
+
+			   window.setTimeout( show_popup, 10000 );
+
+		   }
+		})
+	</script>
+
+	
+
+
+
+
+ <script type="text/javascript"></script>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMBBLC"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <div id="app">
+            
+            <header class="mast-head w-full relative " style="background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 70%, rgba(244,241,251,1) 70%, rgba(244,241,251,1) 70%);">
+  
+  <div style="background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 75%, rgba(244,241,251,1) 75%, rgba(244,241,251,1) 75%);"  class="container  py-20  flex space-between items-center relative">
+    <a class="header__logo-wrap h-40 w-40 sm:h-70 sm:w-70 block mr-10" href="https://d2iq.com">
+  <svg class="header__logo h-full w-full" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 145">
+    <path fill="#31006f" d="M94 86.2c-4.3 0-7.8 3.5-7.8 7.8v15.7c0 4.3 3.5 7.8 7.8 7.8 1.6 0 3.1-.5 4.4-1.4l-7.3-7.3 5.5-5.5 5.2 5.2V94.1c0-4.4-3.5-7.9-7.8-7.9zM51 27.4h-7.9v31.3H51c4.3 0 7.7-3.5 7.8-7.8V35.3c0-4.3-3.5-7.8-7.8-7.9z"/><path fill="#31006f" d="M0 0v145h145V0H0zm66.6 86.2H54.9v31.3h11.8v7.8H35.3v-7.8H47V86.2H35.3v-7.8h31.4v7.8zm0-35.2c0 8.6-7 15.6-15.6 15.7H35.3v-47H51c8.6 0 15.6 7 15.6 15.6V51zm11.8 2c0-7.6 6.1-13.7 13.7-13.8H96c3.2 0 5.9-2.6 5.9-5.9 0-3.2-2.6-5.9-5.9-5.9H78.4v-7.8H96c7.6.4 13.4 6.8 13.1 14.3-.3 7.1-6 12.7-13.1 13.1h-3.9c-3.2 0-5.9 2.6-5.9 5.9v5.9h23.5v7.8H78.3l.1-13.6zm31.5 74.8l-5.9-5.9c-6.7 5.5-16.6 4.6-22.1-2.1-2.3-2.8-3.6-6.3-3.6-10V94.1c.2-8.7 7.4-15.5 16.1-15.3 8.3.2 15.1 6.9 15.3 15.3v15.7c0 1.9-.3 3.8-1 5.6l6.8 6.8-5.6 5.6z"/>
+  </svg>
+</a>
+<style>
+	.border-0-important {border-width: 0px !important;}
+
+	</style>
+<nav class="flex flex-1 relative">
+  <div class="header__nav-base float-right hidden-small-down w-full flex items-center aajustify-center">
+    <div class="mast-head__nav-item mast-head__nav-item--has-dropdown inline-block ml-10 sm:ml-20 md:ml-20 " data-target-id="nav-1">
+      <a class="mast-head__nav-link text-black hover:text-purple-light text-decoration-none has-carat inline-block relative py-10 px-8 sm:px-10 lg:px-20">
+        Platform
+      </a>
+    </div>
+    <div class="mast-head__nav-item mast-head__nav-item--has-dropdown inline-block ml-10 sm:ml-20 md:ml-20" data-target-id="nav-2">
+      <a class="mast-head__nav-link text-black hover:text-purple-light text-decoration-none has-carat inline-block relative py-10 px-8 sm:px-10 lg:px-20">
+        Solutions
+      </a>
+    </div>
+    
+    <div class="mast-head__nav-item mast-head__nav-item--has-dropdown inline-block ml-10 sm:ml-20 md:ml-20" data-target-id="nav-3">
+      <a class="mast-head__nav-link text-black hover:text-purple-light text-decoration-none has-carat inline-block relative py-10 px-8 sm:px-10 lg:px-20">
+        Learn
+      </a>
+    </div>
+    
+     <div class="mast-head__nav-item mast-head__nav-item--has-dropdown inline-block ml-10 sm:ml-20 md:ml-20" data-target-id="nav-5">
+      <a class="mast-head__nav-link text-black hover:text-purple-light text-decoration-none has-carat inline-block relative py-10 px-8 sm:px-10 lg:px-20">
+        Resources
+      </a>
+    </div>
+    
+    <div class="mast-head__nav-item mast-head__nav-item--has-dropdown inline-block ml-10 sm:ml-20 md:ml-20" data-target-id="nav-4">
+      <a class="mast-head__nav-link text-black hover:text-purple-light text-decoration-none has-carat inline-block relative py-10 px-8 sm:px-10 lg:px-20">
+        Support
+      </a>
+    </div>
+    
+    
+    
+    
+   
+    
+    <div class="mast-head__nav-item mast-head__nav-item--has-dropdown inline-block ml-10 sm:ml-20 md:ml-20" data-target-id="nav-6">
+      <a class="mast-head__nav-link text-black hover:text-purple-light text-decoration-none has-carat inline-block relative py-10 px-8 sm:px-10 lg:px-20 cursor-default">
+        Company
+      </a>
+    </div>
+  </div>
+</nav>
+
+<div class="contact-wrapper right hidden-large-down  mr-16">
+  <a href="/free-trial/" id="header-trial-button" class="button secondary button border-0-important nobg  ">
+  Free Trial
+</a >
+</div>
+
+
+
+<div class="contact-wrapper right hidden-large-down ">
+  <a href="/contact#demo" id="header-contact-button" class="button primary button solidpurple  ">
+  Request a Demo
+</a >
+</div>
+
+<div class="mast-head_mobile-toggle-wrap right hidden-small-up">
+  <button class="mast-head__mobile-toggle text-purple">
+    <svg class="mast-head__mobile-toggle-svg__open fill-current w-20 h-20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+      <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path>
+    </svg>
+  </button>
+</div>
+  
+  
+  </div>
+
+  
+  <div class="mast-head__dropdown-wrap absolute z-10 " style="top:80px">
+  <div class="mast-head__dropdown-bg bg-white overflow-hidden rounded-lg absolute left-0 top-0 shadow-elevation-12">
+  </div>
+  <div class="mast-head__dropdown-arrow absolute left-0 bg-white"></div>
+
+  <div class="bg-white mast-head__dropdown-content-wrap mast-head__dropdown-container js-dropdown-links absolute top-0 rounded-lg overflow-hidden">
+    <div class="mast-head__dropdown-section bg-white" data-dropdown-id="nav-1">
+      <div class="mast-head__dropdown-content-item absolute top-0 left-0 z-10 flex flex-row">
+        <div class="w-350 flex flex-col hero-tout relative">
+  <div class="w-full">
+    <!-- TOUT -->
+    <div class="content p-30 flex flex-1 flex-row" >
+      <div class="w-2/3 pr-45">
+        <div class="h-full flex flex-col">
+	       <div class="flex-1 flex flex-col"> <a href=https://d2iq.com/kubernetes-platform>
+          
+              <p class="body-1 flush-top text-blue font-bold">
+                D2iQ Enterprise Kubernetes Platform
+              </p>
+              <p class="body-2 flush leading-relaxed description-link">
+                The leading independent platform for enterprise Kubernetes in production 
+              </p>
+              </a>
+            </div>
+
+                          <div class="button-wrap align-bottom">
+                <a href=https://d2iq.com/kubernetes-platform> <button class="text-link  k8-link  default text-link--has-icon text-link--icon-animated ">
+                  Learn More
+                  <svg class="icon text-link__icon">
+                    <use xlink:href="#caret-right"></use>
+                  </svg>  
+                </button> 
+                
+            </a>
+                <br>
+               <a href="/free-trial"> <span class="transition rounded-full ml-0 mt-20 inline-block py-2 px-8 text-purple text-2xs leading-tight uppercase border border-purple group-hover:border-purple-secondary group-hover:text-purple-secondary">
+        Free Trial
+      </span></a>
+                   
+              </div>
+                    </div>
+      </div>
+      <div class="w-1/3">
+        <div class="aspect">
+          <div class="aspect-inner">
+             
+              <div class="dkp-hero-graphic">
+  <div class="diamond absolute bottom-0 w-full diamond--bot bg-no-repeat bg-cover"></div>
+  <div class="diamond absolute bottom-0 w-full diamond--mid bg-no-repeat bg-cover"></div>
+  <div class="diamond absolute bottom-0 w-full diamond--top bg-no-repeat bg-cover"></div>
+</div>                      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+</div>
+        <div class="w-250 mast-head__panel-tout flex flex-col">
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap__desc link-list">
+      <div class="content-wrap__title-brow mb-10">
+        <p class="display-1 flush text-purple">
+          PRODUCT OFFERINGS
+        </p>
+      </div>
+    </div>
+
+          <div class="content-wrap__desc link-list">
+        <ul class="link-list__wrapper list-none px-0">
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/products/kommander">
+    D2iQ Kommander 
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/products/konvoy">
+    D2iQ Konvoy
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/products/kaptain">
+    D2iQ Kaptain
+      </a>
+</li>  
+                  </ul>
+      </div>
+      </div>
+</div>
+        
+      </div>
+    </div>
+
+    <div class="mast-head__dropdown-section bg-white" data-dropdown-id="nav-2">
+      <div class="mast-head__dropdown-content-item absolute top-0 left-0 z-10 flex flex-row">
+        <div class="w-250 mast-head__panel-tout flex flex-col">
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap__desc link-list">
+      <div class="content-wrap__title-brow mb-10">
+        <p class="display-1 flush text-purple">
+          By Solution
+        </p>
+      </div>
+    </div>
+
+          <div class="content-wrap__desc link-list">
+        <ul class="link-list__wrapper list-none px-0">
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/k8s-adoption">
+    Kubernetes Adoption
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/edge-iot">
+    Edge/IoT
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/air-gapped-environments">
+    Air Gapped Deployment
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/hybrid-and-multi-cloud">
+    Hybrid and Multi-Cloud
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/solutions/public-sector">
+    Public Sector
+      </a>
+</li>  
+                  </ul>
+      </div>
+      </div>
+</div>        
+        <div class="w-250 mast-head__panel-tout flex flex-col">
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap__desc link-list">
+      <div class="content-wrap__title-brow mb-10">
+        <p class="display-1 flush text-purple">
+          Customers
+        </p>
+      </div>
+    </div>
+
+          <div class="content-wrap__desc link-list">
+        <ul class="link-list__wrapper list-none px-0">
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/customer/ziff-media-group-accelerates-time-to-value-for-their-digital-properties-with-zero-lock-in-or-downtime">
+    Ziff Media
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/customer/the-u-s-air-force-accelerates-the-scope-and-scale-of-remote-collaboration-with-kubernetes">
+    US Air Force
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/customer/girls-who-code-reimagines-the-learning-space-for-women-in-tech">
+    Girls Who Code
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/customer/cyso-sees-a-50-reduction-in-time-standing-up-production-ready-kubernetes-clusters">
+    Cyso
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/customers">
+    All Customers
+      </a>
+</li>  
+                  </ul>
+      </div>
+      </div>
+</div>       
+      </div>
+    </div>
+<div class="mast-head__dropdown-section bg-white" data-dropdown-id="nav-3">
+      <div class="mast-head__dropdown-content-item mast-head__dropdown-content-item--customers absolute top-0 left-0 z-10 flex flex-row">
+         <div class="w-250 mast-head__panel-tout flex flex-col">
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap__desc link-list">
+      <div class="content-wrap__title-brow mb-10">
+        <p class="display-1 flush text-purple">
+          Learn
+        </p>
+      </div>
+    </div>
+
+          <div class="content-wrap__desc link-list">
+        <ul class="link-list__wrapper list-none px-0">
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/kubernetes-faq">
+    Kubernetes FAQ
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/kubernetes-glossary">
+    Kubernetes Glossary
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/services-and-support#training">
+    Kubernetes Training
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/services-and-support#training">
+    CNCF Certification
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="/blog">
+    D2iQ Blog
+      </a>
+</li>  
+                  </ul>
+      </div>
+      </div>
+</div>
+          <div class="w-250 mast-head__panel-tout flex flex-col">
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap__desc link-list">
+      <div class="content-wrap__title-brow mb-10">
+        <p class="display-1 flush text-purple">
+          Top Subjects
+        </p>
+      </div>
+    </div>
+
+          <div class="content-wrap__desc link-list">
+        <ul class="link-list__wrapper list-none px-0">
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/kubernetes-faq">
+    What is Enterprise Kubernetes?
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/cheat-sheet/decision-maker-s-checklist-key-capabilities-for-kubernetes-in-the-public-cloud">
+    Enterprise Kubernetes Decision Maker’s Checklist
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/switch-from-openshift">
+    Compare Enterprise Kubernetes Solutions 
+      </a>
+</li>  
+                  </ul>
+      </div>
+      </div>
+</div>      </div>
+    </div>
+    <div class="mast-head__dropdown-section bg-white" data-dropdown-id="nav-4">
+      <div class="mast-head__dropdown-content-item mast-head__dropdown-content-item--customers absolute top-0 left-0 z-10 flex flex-row">
+         <div class="w-250 mast-head__panel-tout flex flex-col">
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap__desc link-list">
+      <div class="content-wrap__title-brow mb-10">
+        <p class="display-1 flush text-purple">
+          Support
+        </p>
+      </div>
+    </div>
+
+          <div class="content-wrap__desc link-list">
+        <ul class="link-list__wrapper list-none px-0">
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://support.d2iq.com/hc/en-us">
+    Contact Support
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="http://docs.d2iq.com/">
+    Documentation
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://support.d2iq.com/hc/en-us/categories/360006288732-General">
+    Knowledge Base
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/services-and-support#training">
+    Kubernetes Training
+      </a>
+</li>  
+                  </ul>
+      </div>
+      </div>
+</div>
+         <div class="w-250 mast-head__panel-tout flex flex-col">
+    
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap flex-grow">
+              <div class="content-wrap__title-brow mb-10">
+          <p class="display-1 flush text-purple">
+            Support Portal
+          </p>
+        </div>
+      
+      <a class="content-wrap__anchor-wrap" href="https://support.d2iq.com/" >
+                <div class="content-wrap__title mb-6">
+          <p class="body-1 flush font-bold text-black">
+                        Support Offerings, Community Support
+          </p>
+        </div>
+        
+                <div class="content-wrap__desc mb-16">
+          <p class="body-2 flush leading-relaxed">
+            Talk to our experts. Get the support resources you need, when you need them.
+          </p>
+        </div>
+              </a>
+    </div>
+
+    <div class="button-wrap">
+      <a href="https://support.d2iq.com/"  class="text-link font-bold primary default text-link--has-icon ">
+  Visit Support Portal
+
+      <svg class="icon text-link__icon">
+  <use xlink:href="#external-link"></use>
+</svg>  </a>    </div>
+  </div>
+
+</div>      </div>
+    </div>
+
+    <div class="mast-head__dropdown-section bg-white" data-dropdown-id="nav-5">
+      <div class="mast-head__dropdown-content-item mast-head__dropdown-content-item--resources absolute top-0 left-0 z-10 flex flex-row">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="w-250 mast-head__panel-tout flex flex-col">
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap__desc link-list">
+      <div class="content-wrap__title-brow mb-10">
+        <p class="display-1 flush text-purple">
+          By Topic
+        </p>
+      </div>
+    </div>
+
+          <div class="content-wrap__desc link-list">
+        <ul class="link-list__wrapper list-none px-0">
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/air-gapped-deployments">
+    Air-Gapped Deployments
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/container-management">
+    Container Management
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/cost-management">
+    Cost Management
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/edgeiot">
+    Edge/IoT
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/enterprise-kubernetes">
+    Enterprise Kubernetes
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/fast-data-pipelines">
+    Fast Data Pipelines
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/gitops">
+    GitOps
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/hybrid-cloud">
+    Hybrid Cloud
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/kubernetes">
+    Kubernetes
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/kubernetes-governance">
+    Kubernetes Governance﻿
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/mlai">
+    ML/AI
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/multi-cloud">
+    Multi-Cloud
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/multi-cluster-management">
+    Multi-Cluster Management
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/multi-tenant">
+    Multi-tenant
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/resources/topic/security">
+    Security
+      </a>
+</li>  
+                  </ul>
+      </div>
+      </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+        
+                  <div class="w-250 mast-head__panel-tout flex flex-col">
+            <div class="w-full aspect aspect-16x9 media-wrap">
+	    <a href="https://d2iq.com/blog/security-rich-how-the-d2iq-kubernetes-platform-meets-nsa-cisa-kubernetes-security-hardening-guidelines">
+      <div class="odo-responsive-img aspect-inner odo-responsive-img--cover odo-responsive-img--cover--center"  data-type="background" >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="" media="(min-width: 992px)">
+                <source srcset="" media="(min-width: 768px)">
+                <source srcset="https://assets.d2iq.com/production/uploads/posts/P3FHZRSHKSKbVTKZqL6sAN9lgEFolT848FtjyGmB.png">
+    <!--[if IE 9]></video><![endif]-->
+    <img alt="Security-Rich: How the D2iQ Kubernetes Platform Meets NSA/CISA Kubernetes Security Hardening Guidelines">
+    <noscript>
+        <img src="https://assets.d2iq.com/production/uploads/posts/P3FHZRSHKSKbVTKZqL6sAN9lgEFolT848FtjyGmB.png" alt="Security-Rich: How the D2iQ Kubernetes Platform Meets NSA/CISA Kubernetes Security Hardening Guidelines">
+    </noscript>
+</div>	    </a>
+    </div>
+  
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap flex-grow">
+              <div class="content-wrap__title-brow mb-10">
+          <p class="display-1 flush text-purple">
+            Featured Blog
+          </p>
+        </div>
+      
+      <a class="content-wrap__anchor-wrap" href="https://d2iq.com/blog/security-rich-how-the-d2iq-kubernetes-platform-meets-nsa-cisa-kubernetes-security-hardening-guidelines" >
+                <div class="content-wrap__title mb-6">
+          <p class="body-1 flush font-bold text-black">
+                        Security-Rich: How the D2iQ Kubernetes Platform Meets NSA/CISA Kuberne...
+          </p>
+        </div>
+        
+              </a>
+    </div>
+
+    <div class="button-wrap">
+      <a href="/resources"  class="text-link font-bold primary default text-link--has-icon text-link--icon-animated ">
+  All Resources
+
+      <svg class="icon text-link__icon">
+  <use xlink:href="#caret-right"></use>
+</svg>  </a>    </div>
+  </div>
+
+</div>        
+
+
+
+
+      </div>
+    </div>
+
+    <div class="mast-head__dropdown-section bg-white" data-dropdown-id="nav-6">
+      <div class="mast-head__dropdown-content-item absolute top-0 left-0 z-10 flex flex-row">
+        <div class="w-250 mast-head__panel-tout flex flex-col">
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap__desc link-list">
+      <div class="content-wrap__title-brow mb-10">
+        <p class="display-1 flush text-purple">
+          Company
+        </p>
+      </div>
+    </div>
+
+          <div class="content-wrap__desc link-list">
+        <ul class="link-list__wrapper list-none px-0">
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/about">
+    About Us
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/careers">
+    Careers
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/events">
+    Events
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/news">
+    News
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/partners">
+    Partners
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/user-research">
+    User Research
+      </a>
+</li>  
+                      <li class="link-list__item my-6">
+  <a class="transition link-list__link flex items-center group"  href="https://d2iq.com/contact">
+    Contact Us
+      </a>
+</li>  
+                  </ul>
+      </div>
+      </div>
+</div>        <div class="w-250 mast-head__panel-tout flex flex-col">
+    
+  <div class="content p-32 flex flex-1 flex-col">
+    <div class="content-wrap flex-grow">
+              <div class="content-wrap__title-brow mb-10">
+          <p class="display-1 flush text-purple">
+            About Us
+          </p>
+        </div>
+      
+      <a class="content-wrap__anchor-wrap" href="https://d2iq.com/about" >
+                <div class="content-wrap__title mb-6">
+          <p class="body-1 flush font-bold text-black">
+                        Your Cloud Native Partner
+          </p>
+        </div>
+        
+                <div class="content-wrap__desc mb-16">
+          <p class="body-2 flush leading-relaxed">
+            We simplify the choices you need to make so you can drive smarter and more reliable deployments.
+          </p>
+        </div>
+              </a>
+    </div>
+
+    <div class="button-wrap">
+      <a href="https://d2iq.com/about"  class="text-link font-bold primary default text-link--has-icon text-link--icon-animated ">
+  Learn More
+
+      <svg class="icon text-link__icon">
+  <use xlink:href="#caret-right"></use>
+</svg>  </a>    </div>
+  </div>
+
+</div>      </div>
+    </div>
+
+  </div>
+</div>
+</header>
+<div class="menupad"></div>
+
+            <main class="main">
+                
+<div id="default" class="careers default-page">
+      <section id="e0dfe6061ca7490d" class="page-header relative  page-module page-module--theme-light">
+  
+  <div class="page-header__content-container flex flex-col sm:justify-center justify-start">
+    <div class="container pt-60 sm:pt-80 lg:pt-100 pb-60 sm:pb-80 lg:pb-100">
+
+              <div class="row  pb-10 ">
+          <div class="column column-sm-8 column-offset-sm-3 text-center page-module__component page-module__component--align-center">
+            <h6 class="display-1 flush page-module__text  purple " >
+              Careers
+            </h6>
+          </div>
+        </div>
+      
+              <div class="row pb-20">
+          <div class="column column-sm-8 column-offset-sm-3 sm:w-3/4 page-module__component page-module__component--align-center">
+            <h1 class="h1 flush-bottom page-module__headline purple " >
+              Change the World Through Open Source Innovation
+            </h1>
+          </div>
+        </div>
+      
+              <div class="row pb-20">
+          <div class="column column-sm-8 column-offset-sm-3 text-center page-module__component page-module__component--align-center">
+            <p class="body-0 page-module__text" >
+            Work with a five-star team to build world-changing technology
+            </p>
+          </div>
+        </div>
+      
+              <div class="row pb-20">
+          <div class="column column-sm-8 column-offset-sm-3 text-center page-header__button-collection button-collection page-module__component page-module__component--align-center">
+                          <a href="#jobs"  class="button primary  large">
+  See Openings
+</a >
+                      </div>
+        </div>
+      
+    </div>
+  </div>
+</section>
+      <style>
+	
+	@media  only screen and (min-width: 567px) {
+	
+		.side-by-side .side-by-side__column.col1 {
+		width: 45%;
+		padding-left: 1.5rem;
+		padding-right: 1.5rem;
+		margin-bottom: 0;
+		}
+		
+		.side-by-side .side-by-side__column.col2 {
+		width: 55%;
+		padding-left: 1.5rem;
+		padding-right: 8%;
+		margin-bottom: 0;
+		}
+		
+		
+	}
+	
+	
+	@media  only screen and (min-width: 1050px) {
+	
+		.side-by-side .side-by-side__column.col1 {
+		width: 38%;
+		padding-left: 1.5rem;
+		padding-right: 1.5rem;
+		margin-bottom: 0;
+		margin-right: 5%;
+		}
+		
+		.side-by-side .side-by-side__column.col2 {
+		width: 56%;
+		padding-left: 1.5rem;
+		padding-right: 12%;
+		margin-bottom: 0;
+		}
+		
+		
+	}
+	
+	
+	
+	.benefitdots {height: 277px;
+		width: 278px;
+		position: absolute;
+		bottom: -7px;
+		left: -62px;}
+	.mr-40 {
+		margin-right: 1.8rem;
+	}
+	
+	</style>
+
+
+
+        <div class=" careers-imgs">
+	        <div class="bgdots1 hidden-small-down grid-repeat"></div>
+	        <div class="bgdots2 hidden-small-down grid-repeat"></div>
+	        <div class="bgdots3 hidden-small-down grid-repeat"></div>
+	        
+	        <img class="mobile" src="https://assets.d2iq.com/production/assets/pages/careers/header/career-20-mobile.jpg"/>
+	        
+			<img class="portrait" src="https://assets.d2iq.com/production/assets/pages/careers/header/career-20-1.jpg"/>
+			<img class="landscape" src="https://assets.d2iq.com/production/assets/pages/careers/header/career-20-2.jpg"/>
+			<img class="portrait" src="https://assets.d2iq.com/production/assets/pages/careers/header/career-20-3.jpg"/>
+			<img class="landscape" src="https://assets.d2iq.com/production/assets/pages/careers/header/career-20-4.jpg"/>
+			<img class="portrait" src="https://assets.d2iq.com/production/assets/pages/careers/header/career-20-5.jpg"/>  
+        </div>
+        <div class="careers-values">
+	        <div class="container">
+		        
+		        
+		        <div class="weare-background">
+			
+			
+			
+			<img src="https://assets.d2iq.com/production/assets/pages/careers/we-are.png">
+
+			        
+		        </div>
+		        
+		        <div class="row pb-30 sm:pb-40 lg:pb-100  odo-reveal">
+			        <div class="column  column-12 column-sm-3 column-md-3 lg:pb-30 pb-10  odo-reveal__target odo-reveal--1">
+			        	<h3 class="h2 purple">Our Values Define Us</h3>
+			        </div>
+			        <div class="column  column-12 column-md-9 column-sm-8">
+			        </div>
+		        </div>
+		        
+		        <div class="row pb-60 sm:pb-80 lg:pb-100  odo-reveal ">
+			        <div class="column column-12 column-sm-5 purple bold text32  odo-reveal__target odo-reveal--1">
+			        	Customer-driven
+			        </div>
+			        <div class="column  column-12 column-sm-7 text20  odo-reveal__target odo-reveal--2">
+			       		We are driven by the success of our customers and we deliver a top-notch partnership throughout their journeys. We believe if our customer wins, we win. 
+			        </div>
+		        </div>
+		        
+		        <div class="row pb-60 sm:pb-80 lg:pb-100  odo-reveal ">
+			        <div class="column  column-12 column-sm-5 purple bold text32  odo-reveal__target odo-reveal--1">
+			        	Team Always
+			        </div>
+			        <div class="column  column-12 column-sm-7 text20  odo-reveal__target odo-reveal--2">
+			       		We are dependable and effective in building positive relationships with our peers. We are relentlessly humble and demonstrate a high-level of respect in our interactions.
+			        </div>
+		        </div>
+		        
+		        <div class="row pb-60 sm:pb-80 lg:pb-100  odo-reveal ">
+			        <div class="column  column-12 column-sm-5 purple bold text32  odo-reveal__target odo-reveal--1">
+			        	Champions of Change
+			        </div>
+			        <div class="column  column-12 column-sm-7 text20  odo-reveal__target odo-reveal--2">
+			       		We have a hunger to continuously learn and the courage to take intelligent risks. We’re pioneers, innovators, and change-makers to the core. 
+			        </div>
+		        </div>
+		        
+		        <div class="row pb-60 sm:pb-80 lg:pb-100  odo-reveal">
+			        <div class="column  column-12 column-sm-5 purple bold text32  odo-reveal__target odo-reveal--1">
+			        	Relentless
+			        </div>
+			        <div class="column  column-12 column-sm-7 text20  odo-reveal__target odo-reveal--2">
+We raise the bar and execute flawlessly. We’re serious about ownership and effectively balance quality output and efficient speed.
+					</div>
+		        </div>
+		        
+	        </div>
+	        
+        </div>
+ 
+ 
+
+
+ <section id="dd79eac839c294fd" class="page-module page-module--theme-purple-dark odo-reveal testimonial">
+                    <div class="container pt-60 sm:pt-80 lg:pt-100 pb-0 sm:pb-0 lg:pb-0">
+                        <div class="row">
+
+                             <div class="page-module__component page-module__component--align-left column--inline-10 column--align-center column ">
+                                <div class="testimonial__quote-wrap">
+                                    <div class="testimonial__quote-content odo-reveal__target odo-reveal--2">
+                                        <div class="h-20 w-80 mb-20 inline-block page-module__headline page-module__headline--graphic">
+                                            <svg class="fill-current" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 88 20" style="enable-background:new 0 0 88 20" xml:space="preserve">
+                                                <g>
+                                                    <path class="st0" d="M87,5.4c-2.7,0-4.1-1-5.5-2.2c-5.7-4.5-9-2.5-12.6-0.4C67,3.9,65,5.1,62.5,5.4c-2.5-0.2-4.5-1.4-6.5-2.6
+                                                      c-3.6-2.1-6.9-4.1-12.6,0.4C38.9,7,36.1,5.3,32.8,3.3c-2.1-1.3-4.3-2.6-7.2-2.7c-3.3,0-5,1.2-6.6,2.5c-1.5,1.2-2.9,2.2-5.7,2.3
+                                                      c-2.8,0-4.2-1.1-5.7-2.3C6,1.9,4.3,0.6,1,0.6l-0.4,0v2l0.4,0c2.8,0,4.2,1.1,5.7,2.3c1.6,1.2,3.2,2.5,6.6,2.5c3.3,0,5-1.2,6.6-2.5
+                                                      c1.5-1.2,2.9-2.2,5.7-2.3c2.5,0.2,4.5,1.4,6.5,2.6c2,1.2,3.9,2.3,6.2,2.3c1.8,0,3.9-0.7,6.4-2.7C49.1,1,52,2.7,55.3,4.7
+                                                      c2.1,1.3,4.3,2.6,7.2,2.7c3.4,0.1,5-1.2,6.6-2.5c1.5-1.2,2.9-2.2,5.7-2.3c2.8,0,4.2,1.1,5.7,2.3C82,6.1,83.7,7.4,87,7.4l0.4,0v-2
+                                                      H87z"/>
+                                                    <path class="st0" d="M81.3,9.1c-1.6-1.2-3.2-2.5-6.4-2.5c-0.1,0-0.2,0-0.3,0c-3.2,0-4.9,1.2-6.4,2.5c-1.5,1.2-2.9,2.2-5.7,2.3
+                                                      c-2.8,0-4.2-1.1-5.7-2.3c-1.6-1.2-3.2-2.5-6.6-2.5c-3.3,0-5,1.2-6.6,2.5c-1.5,1.2-2.9,2.2-5.7,2.3c-2.8,0-4.2-1.1-5.7-2.3
+                                                      c-1.6-1.2-3.2-2.5-6.6-2.5c-3.3,0-5,1.2-6.6,2.5c-1.5,1.2-2.9,2.2-5.7,2.3c-2.8,0-4.2-1.1-5.7-2.3C6,7.9,4.3,6.6,1,6.6l-0.4,0v2
+                                                      l0.4,0c2.8,0,4.2,1.1,5.7,2.3c1.6,1.2,3.2,2.5,6.4,2.5c0.1,0,0.2,0,0.3,0c3.2,0,4.9-1.2,6.4-2.5c1.5-1.2,2.9-2.2,5.7-2.3
+                                                      c2.5,0.3,4.5,1.4,6.5,2.6c2,1.2,3.9,2.3,6.2,2.3c1.8,0,3.9-0.7,6.4-2.7C49.1,7,52,8.7,55.3,10.7c2.1,1.3,4.3,2.6,7.2,2.7
+                                                      c0,0,0.1,0,0.1,0c3.2,0,4.9-1.2,6.4-2.5c1.5-1.2,2.9-2.2,5.7-2.3c2.8,0,4.2,1.1,5.7,2.3c1.6,1.2,3.2,2.5,6.4,2.5c0,0,0.1,0,0.1,0
+                                                      l0.4,0v-2l-0.4,0C84.2,11.3,82.8,10.2,81.3,9.1z"/>
+                                                    <path class="st0" d="M81.3,15.1c-1.6-1.2-3.2-2.5-6.4-2.5c-0.1,0-0.2,0-0.3,0c-3.2,0-4.8,1.2-6.4,2.5c-1.5,1.2-2.9,2.2-5.7,2.3
+                                                      c-2.8,0-4.2-1.1-5.7-2.3c-1.6-1.2-3.2-2.5-6.6-2.5c-3.3-0.1-5,1.2-6.6,2.5c-1.5,1.2-2.9,2.2-5.7,2.3c-2.8,0-4.2-1.1-5.7-2.3
+                                                      c-1.6-1.2-3.2-2.5-6.4-2.5c0,0-0.1,0-0.1,0c-3.3,0-5,1.2-6.6,2.5c-1.5,1.2-2.9,2.2-5.7,2.3c-2.8,0-4.2-1.1-5.7-2.3
+                                                      C6,13.9,4.3,12.6,1,12.6l-0.4,0v2l0.4,0c2.8,0,4.2,1.1,5.7,2.3c1.6,1.2,3.2,2.5,6.6,2.5c3.3,0,5-1.2,6.6-2.5
+                                                      c1.5-1.2,2.9-2.2,5.7-2.3c2.5,0.3,4.5,1.4,6.5,2.6c2,1.2,3.9,2.3,6.2,2.3c1.8,0,3.9-0.7,6.4-2.7c4.5-3.8,7.3-2.1,10.6-0.1
+                                                      c2.1,1.3,4.3,2.6,7.2,2.7c3.3,0,5-1.2,6.6-2.5c1.5-1.2,2.9-2.2,5.7-2.3c2.8,0,4.2,1.1,5.7,2.3c1.6,1.2,3.2,2.5,6.4,2.5
+                                                      c0,0,0.1,0,0.1,0l0.4,0v-2l-0.4,0C84.2,17.3,82.8,16.2,81.3,15.1z"/>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                        <p class="display-h1 pl-16 lg:pl-0 testimonial__body page-module__headline">
+                                                        We hire people who are passionate about their craft, love to collaborate, and ship great work.  
+                                                      </p>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="container pt-60 sm:pt-80 lg:pt-100 pb-60 sm:pb-80 lg:pb-100">
+                        <div class="row">
+	                    	<!----VIDEO---->
+	 <div class="column column-sm-8 column-sm-offset-2 w-full sm:w-auto flex content-center flex-wrap river-media-right__video-col relative odo-reveal__target odo-reveal--4">
+
+                               
+
+                                <div class="w-full video-wrapper pb-20 sm:pb-0">
+                                    <div class="aspect aspect-16x9 sm:shadow-elevation-24">
+                                        <div class="aspect-inner background-video">
+                                            <div class="inline-video inline-video--background aspect aspect-16x9">
+                                                <div class="odo-background-video full-height" autoplay>
+                                                    <div class="odo-responsive-img odo-background-video__fallback-img" data-type="background">
+                                                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                                                        <source srcset="" media="(min-width: 992px)">
+                                                        <source srcset="" media="(min-width: 768px)">
+                                                        <source srcset="https://assets.d2iq.com/local/assets/video/careers_video.png">
+                                                        <!--[if IE 9]></video><![endif]-->
+                                                        <img alt="Abstract Graphic">
+                                                        <noscript>
+                                                            <img src="https://assets.d2iq.com/local/assets/video/careers_video.png" alt="Abstract Graphic">
+                                                        </noscript>
+                                                    </div>
+                                                    <div class="odo-video hidden">
+                                                        <video class="inline-video__player" muted playsinline style>
+                                                            <source src="https://assets.d2iq.com/local/assets/pages/homepage/homepage-video/d2iq-sizzle-snippet.mp4" type="video/mp4">
+
+                                                        </video>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <a href="#Modal-Founders-Video" class="river-media-right__video-link modal-link aspect-inner flex content-center items-center flex-wrap justify-center">
+                                                <svg class="icon jumbo text-white fill-current">
+                                                    <use xlink:href="#mesosphere-icons-mini-play"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+<!---- VIDEO MODAL ---->
+<div class="odo-dialog " id="Modal-Founders-Video" role="dialog" aria-labelledby="default-title" aria-hidden="true">
+                    <div class="odo-dialog__content container w-5/6" role="document">
+                        <div class="odo-dialog__inner">
+
+                            <div class="inner-modal inner-modal--info">
+                                <div class="inner-modal__content page-module--theme-light">
+                                    <div class="modal-module video-module">
+                                        <div class="modal-module__component video-player">
+                                            <div class="inline-video inline-video--default aspect aspect-16x9">
+                                                <div class="aspect-inner">
+                                                    <div class="inline-video__poster">
+                                                        <div class="odo-responsive-img inline-video__poster-img odo-responsive-img--cover" data-type="background">
+                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->
+                                                            <source srcset="" media="(min-width: 992px)">
+                                                            <source srcset="" media="(min-width: 768px)">
+                                                            <source srcset="https://assets.d2iq.com/local/assets/fallback-image@1x.png">
+                                                            <!--[if IE 9]></video><![endif]-->
+                                                            <img alt="Poster Video For About D2iQ">
+                                                            
+                                                        </div>
+                                                        <div class="inline-video__poster-content">
+                                                            <button class="inline-video__play-toggle button primary outline button large">
+                                                                      Play Video
+                                                                    </button>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="inline-video__player-wrap odo-video odo-video--overlay hidden">
+                                                        <video class="inline-video__player" preload="none">
+                                                            <source src="https://assets.d2iq.com/local/assets/video/video1.mp4" type="video/mp4">
+
+                                                           
+                                                        </video>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <button type="button" class="odo-dialog__close" data-odo-dialog-close aria-label="Close this dialog window">&times;</button>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+</div>
+	                    	<!---- VIDEO END --->
+                        </div>
+                    </div>
+                    
+                </section>
+                
+                
+               
+                
+
+
+<section id="b8fd4f4d8885263e" class="page-module page-module--theme-light-purple-text  side-by-side side-by-side--orient-right">
+                    <div class="container pt-60 sm:pt-80 lg:pt-100 pb-16 sm:pb-20 lg:pb-24">
+                        <div class="row side-by-side__row">
+
+                            <div class="side-by-side__column col1 w-full sm:w-auto  self-stretch" style="position: relative">
+	                            
+	                            <div class="benefitdots hidden-small-down grid-repeat"></div>
+	                            
+	                            
+                                <div class="odo-reveal checklist-animated-graphic flex w-full h-full pb-32 relative">
+                                    <div class="bg-blue h-3/4 w-full rounded absolute top-0"></div>
+                                    <div class="checklist-animated-graphic__bg content-wrap rounded w-full top-0 left-0 -ml-24 mt-32" style="box-shadow: 0 2px 40px 0 rgba(150,120,211,0.46);">
+                                        <div class="content-wrap-inner relative overflow-hidden rounded px-40 py-20">
+                                            <div class="absolute inset-0 bg-white"></div>
+                                            <div class="relative list-wrap">
+                                                <ul class="list-none p-0">
+                                                    
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex items-center">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            Healthcare options 
+                                                                           </span>
+                                                        </div>
+
+                                                    </li>
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex items-center">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            One Medical membership 
+                                                                           </span>
+                                                        </div>
+
+                                                    </li>
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex items-center">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            Parental leave  
+                                                                           </span>
+                                                        </div>
+
+                                                    </li>
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex items-center">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            Generous time-off  
+                                                                           </span>
+                                                        </div>
+
+                                                    </li>
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex items-center">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            Fitness stipend 
+                                                                           </span>
+                                                        </div>
+
+                                                    </li>
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex items-center">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            Health & Wellness events
+                                                                           </span>
+                                                        </div>
+
+                                                    </li>
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex items-center">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            L&D stipend
+                                                                           </span>
+                                                        </div>
+
+                                                    </li>
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex items-center">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            Home Office Reimbursement 
+                                                                           </span>
+                                                         
+                                                            
+                                                        </div>
+
+                                                    </li>
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex ">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            Home internet & personal mobile phone stipend
+                                                                           </span>
+                                                        </div>
+
+                                                    </li>
+                                                    <li class="checklist-animated-graphic__item my-12 flex-row flex ">
+                                                        <span class="checklist-animated-graphic__icon icon-wrap mr-40">
+                                                            <svg class="icon icon icon-small">
+                                                                <use xlink:href="#green-check"></use>
+                                                            </svg>
+                                                        </span>
+                                                        <div style="align-content: flex-start;">
+                                                            <span class="checklist-animated-graphic__content body-1 font-bold flush-bottom flush-top">
+                                                                            Incentive stock options with ability to early exercise  
+                                                                           </span>
+                                                                           <br>
+                                                                           <span class="checklist-animated-graphic__content body-1 flush-bottom flush-top" style="font-size: 0.8em">
+                                                            	                (varies by country)﻿ 
+                                                            	               </span>
+                                                        </div>
+
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="side-by-side__column col2 page-module__component ">
+
+                                <h3 class="h2 page-module__headline">
+                                            Healthcare, Wellbeing & Professional Support
+                                          </h3>
+
+                                <div class="section-title__body page-module__text career-padright">
+                                            We believe people do their best work when they feel the best and are supported, so we take good care of everyone who works here.﻿
+                                          </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </section>      <section id="jobs" class="page-module page-module--theme-light-purple-text  section-title">
+  
+    
+  
+
+    <div class="container pt-40 sm:pt-65 lg:pt-80 pb-16 sm:pb-20 lg:pb-24">
+      <div class="row">
+
+                  <div class="column column--inline-6 column--align-center">
+  <div class="row row--inline">
+        
+        <div class="page-module__component page-module__component--align-center column">
+          
+          
+		  		  
+		   
+		  
+                      <h2 class="h2 section-title__title page-module__headline  ">
+                
+               Find Your Role
+               
+                             
+              
+              
+            </h2>
+          
+          
+          
+		  
+        </div>
+
+                  </div>
+</div>        
+      </div>
+    </div>
+
+  </section>
+      <section class="page-module page-module--theme-light careers-view">
+  <div class="container pt-0 pb-24 sm:pb-32 lg:pb-50">
+
+    <div class="row">
+              <div class="column column--inline-8 column--align-center">
+  <div class="row row--inline">
+      
+      <div class="column">
+        <div class="careers-view__filter-bar">
+
+          <div class="hidden-small-down">
+	            <h3 class="h3-new flush" style="font-weight: normal;"> Current Openings </h3>
+          </div>
+
+          <div class="careers-view__jobs-filtering">
+            <div class="careers-view__jobs-filtering-label">
+              <span class="small text-uppercase">
+                <a class="careers-view__jobs-filtering-clear hidden">(clear filters)</a>
+              </span>
+            </div>
+
+            <div class="form-group careers-view__filtering-group">
+              <span class="form-input form-input-select">
+                <select class="careers-view__job-filter--department">
+                  <option value="">Department</option>
+                                      <option value="913">Engineering </option>
+                                      <option value="1761">Field Operations </option>
+                                      <option value="5846">G&amp;A</option>
+                                      <option value="1393">Marketing </option>
+                                      <option value="15512">Product</option>
+                                      <option value="50870">Services</option>
+                                  </select>
+              </span>
+
+              <span class="form-input form-input-select">
+                <select class="careers-view__job-filter--location">
+                  <option value="">Location</option>
+                                      <option value="57493">Remote - Germany</option>
+                                      <option value="7039">Remote - UK</option>
+                                      <option value="57517">Remote - USA</option>
+                                  </select>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+              </div>
+</div>          </div>
+
+
+    <div class="row job-listing__row">
+              <div class="column column--inline-8 column--align-center">
+  <div class="row row--inline">
+      
+      <div class="column page-module__component page-module__component--align-left">
+        
+                      <div class="careers-view__jobs-department-wrap">
+              <div class="careers-view__jobs-heading-wrap">
+                <span class="h5 text16 light-purple">
+                  Engineering 
+                </span>
+              </div>
+
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[913]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3870799?gh_jid=3870799" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Quality Engineer
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57493, 7039, 57517]" data-department="[913]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3838725?gh_jid=3838725" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Senior DevOps Engineer - Kaptain
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - Germany | Remote - UK | Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[913]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3804970?gh_jid=3804970" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Senior Engineering Manager
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57493, 7039, 57517]" data-department="[913]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3159138?gh_jid=3159138" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Senior Software Engineer - Kubernetes 
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - Germany | Remote - UK | Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[913]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3865335?gh_jid=3865335" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Senior Staff Content Developer
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57493]" data-department="[913]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3689928?gh_jid=3689928" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Software Engineer - Kubernetes 
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - Germany
+                    </div>
+                  </a>
+                </div>
+                          </div>
+                      <div class="careers-view__jobs-department-wrap">
+              <div class="careers-view__jobs-heading-wrap">
+                <span class="h5 text16 light-purple">
+                  Field Operations 
+                </span>
+              </div>
+
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[1761]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3932720?gh_jid=3932720" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Director of Public Sector Business Development
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57493]" data-department="[1761]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3676328?gh_jid=3676328" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Enterprise Account Development Representative - Germany
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - Germany
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[1761]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3877046?gh_jid=3877046" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Enterprise Account Development Representative - US
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[1761]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3887088?gh_jid=3887088" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Enterprise Account Executive - Central
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[7039]" data-department="[1761]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3741866?gh_jid=3741866" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Senior Sales Engineer - UK
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - UK
+                    </div>
+                  </a>
+                </div>
+                          </div>
+                      <div class="careers-view__jobs-department-wrap">
+              <div class="careers-view__jobs-heading-wrap">
+                <span class="h5 text16 light-purple">
+                  G&amp;A
+                </span>
+              </div>
+
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[5846]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3889118?gh_jid=3889118" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Senior Technical Recruiter
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                          </div>
+                      <div class="careers-view__jobs-department-wrap">
+              <div class="careers-view__jobs-heading-wrap">
+                <span class="h5 text16 light-purple">
+                  Marketing 
+                </span>
+              </div>
+
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[1393]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3698398?gh_jid=3698398" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Senior Product Marketing Manager
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[1393]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3523195?gh_jid=3523195" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Senior Social Media and Digital Marketing Manager
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                          </div>
+                      <div class="careers-view__jobs-department-wrap">
+              <div class="careers-view__jobs-heading-wrap">
+                <span class="h5 text16 light-purple">
+                  Product
+                </span>
+              </div>
+
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[15512]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3846822?gh_jid=3846822" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Product Design Manager
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[15512]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3529538?gh_jid=3529538" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Product Designer
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[15512]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3369596?gh_jid=3369596" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Vice President of Product
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                          </div>
+                      <div class="careers-view__jobs-department-wrap">
+              <div class="careers-view__jobs-heading-wrap">
+                <span class="h5 text16 light-purple">
+                  Services
+                </span>
+              </div>
+
+                              <div class="careers-view__jobs-item" data-location="[57517]" data-department="[50870]">
+                  <a target="_blank" href="https://boards.greenhouse.io/d2iq/jobs/3791722?gh_jid=3791722" class="careers-view__job-anchor-row career-joblink">
+                    <div class="careers-view__job-item-info">
+                      
+                        Solutions Architect - Public Sector
+                     
+                      <span class="careers-view__job-item-location body-3 text-grey-dark-lighten-5 flush">
+                        
+                      </span>
+                    </div>
+                    <div class="hidden-mini-down careers-view__job-item-action hidden-small-down">
+                      Remote - USA
+                    </div>
+                  </a>
+                </div>
+                          </div>
+          
+          <div class="careers-view__jobs-no-results row-pod row-pod-short hidden">
+            <div class="intro content-width-medium text-align-center">
+              <h3 class="h3 h3-new text-align-center">
+                No open positions match the selected filters
+              </h3>
+              <p class="text-align-center flush-bottom">
+                Please adjust your filters or <a href="#" class="careers-view__jobs-filtering-clear">view all open positions</a>
+              </p>
+            </div>
+          </div>
+              </div>
+
+              </div>
+</div>          </div>
+  </div>
+</section>
+      <section id="d1caa0ba2eb5ce80" class="page-module page-module--theme-light-purple-text odo-reveal section-title">
+  
+    
+  
+
+    <div class="container pt-40 sm:pt-65 lg:pt-80 pb-16 sm:pb-20 lg:pb-24">
+      <div class="row">
+
+                  <div class="column column--inline-8 column--align-center">
+  <div class="row row--inline">
+        
+        <div class="page-module__component page-module__component--align-center column">
+          
+          
+		  		  
+		   
+		  
+                      <h2 class="h2 section-title__title page-module__headline odo-reveal__target odo-reveal--2 ">
+                
+               Don't see what you're looking for?
+               
+                             
+              
+              
+            </h2>
+          
+                      <p class="section-title__body body-1 page-headline page-module__text odo-reveal__target odo-reveal--3">
+              Please check back again soon to see <br>what new roles have opened.
+            </p>
+          
+          
+		  
+        </div>
+
+                  </div>
+</div>        
+      </div>
+    </div>
+
+  </section>
+      <section id="2bb56ab8137c7059" class="page-module page-module--theme-light body-copy">
+  <div class="container pt-0 pb-60 sm:pb-80 lg:pb-100">
+    <div class="row">
+
+              <div class="column column--inline-8 column--align-center">
+  <div class="row row--inline">
+      
+        <div class="page-module__component page-module__component--align-left column">
+                      <div class="body-1 page-module__text ">
+              <p class='small'>D2iQ provides equal employment opportunity for all applicants and team members and is committed to inclusion and diversity.</p><br><p class='small'> D2iQ is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p><br><p class='small'>At D2iQ, we are also committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Applicants with a disability who require a reasonable accommodation for any part of the application or hiring process provide your name and contact information to accommodationsrequest@d2iq.com. Your request will be responded to as soon as possible. Reasonable accommodations will be determined on a case-by-case basis.</p><br><p class='small'>D2iQ participates in the E-Verify program in certain locations as required by law.</p>
+            </div>
+                  </div>
+
+              </div>
+</div>      
+    </div>
+  </div>
+</section>
+
+      <section class="page-module page-module--visible  getting-started relative">
+  <div class="page-module--theme-dark">
+    
+    <div class="getting-started__graphic-right absolute mr-50 right-0 w-90 h-80" style="right: 30%"></div>
+    <div class="container pt-60 sm:pt-80 lg:pt-100 pb-16 sm:pb-20 lg:pb-24">
+
+              <div class="row">
+          <div class="column w-full sm:w-3/4 page-module__component page-module__component--align-center">
+            <div class="body-1 page-module__text ">
+              <h1 class="h1" style="line-height: 1.2em;" >
+                Ready to get started?
+              </h1>
+            </div>
+          </div>
+        </div>
+      
+              <div class="row pb-20">
+          <div class="column w-full sm:w-3/4 page-module__component page-module__component--align-center">
+                          <a href="/contact#demo"  class="button primary inverse large">
+  Request a Demo
+</a >
+                      </div>
+        </div>
+           
+
+    </div>
+  </div>
+</section>
+  </div>
+            </main>
+
+            <footer class="footer">
+  <div class="container footer__top">
+
+    <div class="row">
+      <div class="column border-t-2 border-purple-lighten-3 w-full mb-48"></div>
+    </div>
+
+    <div class="row">
+      <div class="column footer__column">
+        <h6 class="footer__column-header display-1 flush-bottom">Solutions</h6>
+        <ul class="footer__nav-list">
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/kubernetes-platform" class="text-link small">
+              D2iQ Kubernetes Platform 2.0
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/services-and-support" class="text-link small">
+              Services &amp; Support
+            </a>
+          </li>
+          
+
+
+
+          
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/k8s-adoption" class="text-link small">
+              Kubernetes Adoption
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/edge-iot" class="text-link small">
+              Edge/IoT
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/air-gapped-environments" class="text-link small">
+              Air Gapped Deployment
+            </a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/solutions/public-sector" class="text-link small">
+              Public Sector
+            </a>
+          </li>
+
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/services-and-support" class="text-link small">
+              Training
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="/free-trial" class="text-link small">
+              Enterprise Kubernetes Free Trial
+            </a>
+          </li>
+          
+          
+          
+        </ul>
+      </div>
+      <div class="column footer__column">
+        <h6 class="footer__column-header display-1 flush-bottom">Products</h6>
+        <ul class="footer__nav-list">
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/products/kommander" class="text-link small">
+              D2iQ Kommander
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/products/konvoy" class="text-link small group">
+              D2iQ Konvoy
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/products/kaptain" class="text-link small">
+              D2iQ Kaptain
+            </a>
+          </li>
+
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/products/kudo" class="text-link small">
+              KUDO
+            </a>
+          </li>
+          
+          
+           <li class="footer__nav-item">
+            <a href="/switch-from-rancher" class="text-link small">
+              Switch from Rancher
+            </a>
+          </li>
+           <li class="footer__nav-item">
+            <a href="/switch-from-openshift" class="text-link small">
+              Switch from OpenShift
+            </a>
+          </li>
+        </ul>
+      </div>
+
+	  
+
+
+      <div class="column footer__column">
+        <h6 class="footer__column-header display-1 flush-bottom">Company</h6>
+        <ul class="footer__nav-list ">
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/about" class="text-link small">
+              About D2iQ
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/careers" class="text-link small">
+              Careers
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/events" class="text-link small">
+              Events
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/news" class="text-link small">
+              News</a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/partners" class="text-link small">
+              Partners
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/contact" class="text-link small">
+              Contact Us
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/brand" class="text-link small">
+              Brand Resources
+            </a>
+          </li
+        </ul>
+      </div>
+
+      <div class="column footer__column">
+        <h6 class="footer__column-header display-1 flush-bottom">Resources</h6>
+        <ul class="footer__nav-list ">
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/blog" class="text-link small">
+              Blog
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/resources" class="text-link small">
+              Resources
+            </a>
+          </li>
+           <li class="footer__nav-item">
+            <a href="/kubernetes-faq" class="text-link small">
+              Kubernetes FAQ
+            </a>
+          </li>
+          
+          <li class="footer__nav-item">
+            <a href="/kubernetes-glossary" class="text-link small">
+              Kubernetes Glossary
+            </a>
+          </li>
+          
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/resources/cheat-sheet/kubernetes-cheatsheet" class="text-link small">
+              Kubernetes Cheatsheet
+            </a>
+          </li>
+          
+          <li class="footer__nav-item">
+            <a href="https://support.d2iq.com/hc/en-us" target="_blank" class="text-link small">
+              Support Portal
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="http://docs.d2iq.com/" target="_blank" class="text-link small">
+              Documentation
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/community" class="text-link small">
+              Community
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://d2iq.com/service-catalog" class="text-link small">
+              Service Catalog
+            </a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="/user-research" class="text-link small">
+              User Research
+            </a>
+          </li>
+         
+          
+        </ul>
+      </div>
+
+      <div class="column footer__column">
+        <h6 class="footer__column-header display-1 flush-bottom">Connect</h6>
+        <ul class="footer__nav-list">
+          <li class="footer__nav-item">
+            <a href="https://twitter.com/d2iq" target="_blank" class="text-link small">Twitter</a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://www.linkedin.com/company/d2iq" target="_blank" class="text-link small">LinkedIn</a>
+          </li>
+          <li class="footer__nav-item">
+            <a href="https://www.facebook.com/D2iQinc/" target="_blank" class="text-link small">Facebook</a>
+          </li>
+          <li class="footer__nav-item">
+              <a href="https://www.instagram.com/_d2iq/" target="_blank" class="text-link small">Instagram</a>
+            </li>
+          <li class="footer__nav-item">
+            <a href="https://www.youtube.com/channel/UCxwCmgwyM7xtHaRULN6-dxg" target="_blank" class="text-link small">YouTube</a>
+          </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="container footer__btm">
+    <div class="row">
+      <div class="column">
+        <div class="footer__btm-content">
+          <p class="body-2 text-grey-light-darken-1">&copy; 2022 D2iQ, Inc. All Rights Reserved.</p>
+        </div>
+        <ul class="footer__nav-list">
+          <li class="footer__nav-item">
+            <a class="body-2 text-link small" href="https://d2iq.com/terms">Terms of Service</a>
+          </li>
+          <li class="footer__nav-item">
+            <a class="body-2 text-link small" href="https://d2iq.com/privacy-policy">Privacy Policy</a>
+          </li>
+          <li class="footer__nav-item">
+            <a class="body-2 text-link small" href="https://d2iq.com/legal/enterprise-terms-082019">EULA</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+            <div class="banner-alert transition transition-ease sticky bottom-0 py-8 sm:py-24 bg-pr bg-purple-secondary z-10" style="z-index: 100;">
+  <div class="container">
+    <div class="row">
+      <div class="column column-10">
+        <p class="body-2 text-white flush">
+          This website places cookies on your computer or device to make the site work better and to help us understand how you use our site. Further use of this site (by clicking, navigating or scrolling) will be considered consent. Please visit our <a href="https://d2iq.com/privacy-policy/" class="text-white underline">privacy</a> and <a href="https://d2iq.com/cookie-statement" class="text-white underline">cookie</a> notices for more information
+        </p>
+      </div>
+
+      <div class="column column-2 relative flex justify-end mt-8 sm:mt-0">
+        <a class="banner-alert__accept-button button primary inverse button-small self-center w-full sm:w-auto text-center">
+          <span class="text-white w-full text-center">Accept</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</div>            <div class="mobile-dropdown-wrap hidden fixed inset-0 h-full w-full z-40">
+  <div class="fill-parent shadow-elevation-12 bg-white m-12 relative z-50">
+    <div class="relative content-wrapper p-24 pb-12">
+      <button class="mast-head__mobile-close-toggle text-purple right-0 top-0 absolute mt-20 mr-20">
+        <svg class="mast-head__mobile-toggle-svg__open fill-current w-20 h-20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+          <path d="M10 8.586L2.929 1.515 1.515 2.929 8.586 10l-7.071 7.071 1.414 1.414L10 11.414l7.071 7.071 1.414-1.414L11.414 10l7.071-7.071-1.414-1.414L10 8.586z"></path>
+        </svg>
+      </button>
+
+      <div class="mobole-dropdown-wrap__content">
+        <h6 class="text-black body-1 font-bold flush-top">
+          Solutions &amp; Product Offerings
+        </h6>
+
+        <ul class="list-none p-0">
+          <li class="py-10">
+            <a href="https://d2iq.com/kubernetes-platform" class="body-1 block text-grey-dark flush">
+              D2iQ Kubernetes Platform 2.0
+            </a>
+          </li>
+          <li class="py-10">
+            <a href="https://d2iq.com/services-and-support" class="body-1 block text-grey-dark flush">
+              Services &amp; Support
+            </a>
+          </li>
+          <li class="py-10">
+            <a href="https://d2iq.com/products/kommander" class="body-1 block text-grey-dark flush">
+              Kommander 2.0
+            </a>
+          </li>
+          <li class="py-10">
+            <a href="https://d2iq.com/products/konvoy" class="body-1 block text-grey-dark flush">
+              Konvoy 2.0
+            </a>
+          </li>
+          <li class="py-10">
+            <a href="https://d2iq.com/products/kaptain" class="body-1 block text-grey-dark flush">
+              Kaptain
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="relative content-wrapper pt-12 px-24 bg-grey-light">
+      <ul class="list-none p-0 flex flex-row flex-wrap">
+        
+        
+         <li class="w-1/2 py-10">
+            <a href="https://d2iq.com/k8s-adoption" class="body-1 block text-grey-dark flush">
+              Kubernetes Adoption
+            </a>
+          </li>
+          <li class="w-1/2 py-10">
+            <a href="https://d2iq.com/edge-iot" class="body-1 block text-grey-dark flush">
+              Edge/IoT
+            </a>
+          </li>
+          <li class="w-1/2 py-10">
+            <a href="https://d2iq.com/air-gapped-environments" class="body-1 block text-grey-dark flush">
+              Air Gapped Deployment
+            </a>
+          </li>
+          
+        
+         <li class="w-1/2 py-10">
+            <a href="https://d2iq.com/hybrid-and-multi-cloud" class="body-1 block text-grey-dark flush">
+              Hybrid and Multi-Cloud
+            </a>
+          </li>
+        
+        
+        
+        
+        
+        
+        <li class="w-1/2 py-10">
+          <a href="https://d2iq.com/customers" class="body-1 block text-grey-dark flush">
+            Customers
+          </a>
+        </li>
+        <li class="w-1/2 py-10">
+          <a href="https://d2iq.com/blog" class="body-1 block text-grey-dark flush">
+            Blog
+          </a>
+        </li>
+        <li class="w-1/2 py-10">
+          <a href="https://d2iq.com/resources" class="body-1 block text-grey-dark flush">
+            Resources
+          </a>
+        </li>
+        <li class="w-1/2 py-10">
+          <a href="https://d2iq.com/events" class="body-1 block text-grey-dark flush">
+            Events
+          </a>
+        </li>
+        <li class="w-1/2 py-10">
+          <a href="https://d2iq.com/news" class="body-1 block text-grey-dark flush">
+            News
+          </a>
+        </li>
+        <li class="w-1/2 py-10">
+          <a href="https://d2iq.com/partners" class="body-1 block text-grey-dark flush">
+            Partners
+          </a>
+        </li>
+        <li class="w-1/2 py-10">
+          <a href="https://d2iq.com/about" class="body-1 block text-grey-dark flush">
+            About Us
+          </a>
+        </li>
+        <li class="w-1/2 py-10">
+          <a href="https://d2iq.com/careers" class="body-1 block text-grey-dark flush">
+            Careers
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="relative content-wrapper py-12 px-24 bg-purple flex flex-column align-center justify-center">
+      <a href="https://d2iq.com/contact" class="body-1 block text-white flush">
+        Contact Us
+      </a>
+    </div>
+  </div>
+</div>
+        </div>
+        <!-- Scripts -->
+
+        <script src="https://assets.d2iq.com/production/js/app.js?id=40593e7d9e91dc5d4ba5"
+                defer></script>
+        <script>
+  console.log("United States -- Michigan -- 48104");
+</script>
+
+  <script>
+    dataLayer.push({'event': 'non-zh-hans'});
+  </script>
+
+       
+        <script src="/livewire/livewire.js?id=83b555bb3e243bc25f35" data-turbo-eval="false" data-turbolinks-eval="false"></script><script data-turbo-eval="false" data-turbolinks-eval="false">window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = '';window.livewire_token = '1Fkyj38bQcHBUlvUsEWeprx8ref3GyNIvJjnmCA8';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};let started = false;window.addEventListener('alpine:initializing', function () {if (! started) {window.livewire.start();started = true;}});document.addEventListener("DOMContentLoaded", function () {if (! started) {window.livewire.start();started = true;}});</script>
+
+        
+        
+		<style>
+
+	.modal-bg {
+		background: rgba(0, 0, 0,0.5);
+		position: fixed;
+		z-index: 20;
+		top:0;
+		left:0;
+		height: 100vh;
+		width: 100%;
+		-webkit-backdrop-filter: blur(5px);
+		backdrop-filter: blur(5px);
+	}
+
+	.modal-container {
+		border-radius: 10px;
+		width: 777px;
+		height: 521px;
+		left:50%;
+		top:50%;
+		transform: translate(-50%, -50%);
+		position: absolute;
+		overflow: hidden;
+		background: #fff ;
+		background-position: right bottom;
+		background-size: auto 80%;
+		background-repeat: no-repeat;
+		padding: 90px 70px;
+	}
+
+	.modal-container.competitor {
+		border-radius: 10px;
+		width: 777px;
+		height: 521px;
+		left:50%;
+		top:50%;
+		transform: translate(-50%, -50%);
+		position: absolute;
+		overflow: hidden;
+		background: #fff url('/img/modal/background.svg');
+		background-position: right bottom;
+		background-size: auto 80%;
+		background-repeat: no-repeat;
+		padding: 90px 70px;
+	}
+
+	.modal-title {
+		font-size: 37px;
+		font-family: Akkurat Pro,Helvetica Neue,Helvetica,sans-serif;
+		font-weight: 700;
+		color: #330072;
+		line-height: 1.2em;
+		width: 100%; max-width: 540px;
+		padding-bottom: 20px;
+	}
+
+
+	.modal-text {
+		font-size: 16px;
+		font-family: Akkurat Pro,Helvetica Neue,Helvetica,sans-serif;
+		font-weight: ;
+		color: #53565A;
+		line-height: 1.5em;
+		width: 100%; max-width: 340px;
+		padding-bottom: 35px;
+	}
+
+
+	.modal-button {
+		width: 295px;
+		margin-bottom: 10px;
+	}
+
+
+	.modal-button.hover {
+		position: absolute; top:0; left:0; opacity: 0; transition: all 0.3s;
+	}
+
+
+	.modal-container a {
+		display: block;
+		width: 295px;
+	}
+
+	.modal-container a:hover .hover {
+		opacity: 1;
+	}
+
+
+	.modal-close {
+		position: absolute;
+		top:20px;
+		right:20px;
+		cursor: pointer;
+	}
+	.modal-mobile {
+		display: none;
+	}
+	@media  only screen and (max-width: 800px) {
+
+
+
+		.modal-container a {
+			display: block;
+			width: 100%;
+			max-width: 295px;
+		}
+
+		.modal-button {
+			width: 100%;
+			max-width: 295px;
+			margin-bottom: 10px;
+		}
+
+		.modal-title {
+			font-size: 30px;
+			padding-bottom: 15px;
+		}
+
+		.modal-text {
+			padding-bottom: 15px;
+		}
+
+		.modal-container.competitor {
+			width: 94%;
+			height: auto;
+			left:50%;
+			top:20px;
+			transform: translateX(-50%);
+			position: absolute;
+			overflow: hidden;
+			background: #fff;
+
+			padding: 45px 40px 0 40px;
+
+
+		}
+		.modal-container {
+			width: 94%;
+			height: auto;
+			left:50%;
+			top:20px;
+			transform: translateX(-50%);
+			position: absolute;
+			overflow: hidden;
+			background: #fff;
+
+			padding: 45px 40px 0 40px;
+
+
+		}
+		.modal-close {
+			position: absolute;
+			top:20px;
+			right:20px;
+			width: 14px;
+			height: 14px;
+		}
+		.modal-bg {
+			overflow: scroll;
+			padding-bottom: 30px;
+		}
+		.modal-mobile {
+			display: block;
+			width: 90%;
+			margin: 0 auto;
+			margin-bottom: -1px;
+		}
+
+	}
+
+
+	body.overflowhidden {
+		overflow: hidden;
+	}
+
+	@media  only screen and (max-width: 340px) {
+		.modal-container {
+			padding: 25px 30px 0 30px;
+			}
+		.modal-title {
+			font-size: 28px;
+			padding-bottom: 15px;
+		}
+	}
+	</style>
+
+</body>
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at dYdX</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+  
+    <meta property="og:title" content="dYdX"></meta>
+    <meta property="og:description" content="At dYdX you&#39;ll have an opportunity to build state-of-the-art decentralized technology that will redefine global financial markets. By joining us at this early stage you will make fundamental decisions that will shape the course of dYdX. We prefer passionate quick learners with a history of excellence at top companies and/or universities.
+About dYdX:
+
+We&#39;ve built the world&#39;s leading decentralized exchange for lending, borrowing and margin trading Ethereum based assets
+dYdX is founded by an ex-Coinbase, ex-Uber engineer, with Princeton CS background. Our team has previous experience at Google, Bloomberg, Amazon, Bain, NerdWallet and other top companies
+We&#39;re a world-class team with top backers and advisors, including Andreessen Horowitz, Polychain Capital, Brian Armstrong, Fred Ehrsam, Naval Ravikant, Elad Gil and more
+
+*All positions are full-time and based in our San Francisco office. We currently do NOT offer remote or part-time opportunities "></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/dydx"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/446/400/original/profile.png?1614270288"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><a target="_blank" href="https://dydx.exchange/"><img alt="dYdX Logo" src="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/446/400/resized/profile.png?1614270288" width="75" height="75" /></a></div>
+
+  <h1>dYdX</h1>
+
+  <div id="content">
+    <p>At dYdX you'll have an opportunity to build state-of-the-art decentralized technology that will redefine global financial markets. By joining us at this early stage you will make fundamental decisions that will shape the course of dYdX. We prefer passionate quick learners with a history of excellence at top companies and/or universities.</p>
+<p><strong>About dYdX</strong>:</p>
+<ul>
+<li>We've built the world's leading decentralized exchange for lending, borrowing and margin trading Ethereum based assets</li>
+<li>dYdX is founded by an ex-Coinbase, ex-Uber engineer, with Princeton CS background. Our team has previous experience at Google, Bloomberg, Amazon, Bain, NerdWallet and other top companies</li>
+<li>We're a world-class team with top backers and advisors, including Andreessen Horowitz, Polychain Capital, Brian Armstrong, Fred Ehrsam, Naval Ravikant, Elad Gil and more</li>
+</ul>
+<p><em>*All positions are full-time and based in our San Francisco office. We currently do NOT offer remote or part-time opportunities&nbsp;</em></p>
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+  
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4022315002">Design</h3>
+
+  <div class="opening" department_id="4022315002" office_id="4010841002" data-office-4010841002="true" data-department-4022315002="true">
+  <a data-mapped="true" href="/dydx/jobs/5415285002">Product Designer</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4022317002">Engineering</h3>
+
+  <div class="opening" department_id="4022317002" office_id="4010841002" data-office-4010841002="true" data-department-4022317002="true">
+  <a data-mapped="true" href="/dydx/jobs/5036110002">Android Engineer</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4022317002" office_id="4010841002" data-office-4010841002="true" data-department-4022317002="true">
+  <a data-mapped="true" href="/dydx/jobs/5411122002">Engineering Manager - Backend</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4022317002" office_id="4044003002" data-office-4044003002="true" data-department-4022317002="true">
+  <a data-mapped="true" href="/dydx/jobs/5841208002">iOS Engineer</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4022317002" office_id="4044003002,4010841002" data-office-4044003002="true" data-office-4010841002="true" data-department-4022317002="true">
+  <a data-mapped="true" href="/dydx/jobs/5690382002">Protocol Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4022317002" office_id="4010841002" data-office-4010841002="true" data-department-4022317002="true">
+  <a data-mapped="true" href="/dydx/jobs/5151030002">Senior Software Engineer - Backend</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4022317002" office_id="4010841002" data-office-4010841002="true" data-department-4022317002="true">
+  <a data-mapped="true" href="/dydx/jobs/4139312002">Software Engineer - Backend</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4022317002" office_id="4010841002" data-office-4010841002="true" data-department-4022317002="true">
+  <a data-mapped="true" href="/dydx/jobs/4139309002">Software Engineer - Frontend</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4022317002" office_id="4044003002" data-office-4044003002="true" data-department-4022317002="true">
+  <a data-mapped="true" href="/dydx/jobs/5893336002">Solutions Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4022317002" office_id="4047223002" data-office-4047223002="true" data-department-4022317002="true">
+  <a data-mapped="true" href="/dydx/jobs/5796683002">Solutions Engineer</a>
+  <br/>
+  <span class="location">Singapore, Central, Singapore</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4068895002">Growth</h3>
+
+  <div class="opening" department_id="4068895002" office_id="4047051002,4044003002" data-office-4047051002="true" data-office-4044003002="true" data-department-4068895002="true">
+  <a data-mapped="true" href="/dydx/jobs/5796681002">Events Lead</a>
+  <br/>
+  <span class="location">New York, New York, United States</span>
+</div><div class="opening" department_id="4068895002" office_id="4047051002" data-office-4047051002="true" data-department-4068895002="true">
+  <a data-mapped="true" href="/dydx/jobs/5907591002">Growth Associate</a>
+  <br/>
+  <span class="location">New York, New York, United States</span>
+</div><div class="opening" department_id="4068895002" office_id="4047051002" data-office-4047051002="true" data-department-4068895002="true">
+  <a data-mapped="true" href="/dydx/jobs/5865901002">Marketing Lead</a>
+  <br/>
+  <span class="location">New York, New York, United States</span>
+</div><div class="opening" department_id="4068895002" office_id="4010841002" data-office-4010841002="true" data-department-4068895002="true">
+  <a data-mapped="true" href="/dydx/jobs/5415434002">Research Associate  (DeFi Content &amp; Marketing)</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4022318002">Operations</h3>
+
+  <div class="opening" department_id="4022318002" office_id="4044003002,4010841002" data-office-4044003002="true" data-office-4010841002="true" data-department-4022318002="true">
+  <a data-mapped="true" href="/dydx/jobs/5714896002">Business Operations &amp; Finance Associate</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4022318002" office_id="4044003002,4010841002" data-office-4044003002="true" data-office-4010841002="true" data-department-4022318002="true">
+  <a data-mapped="true" href="/dydx/jobs/5738807002">Business Recruiter</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4022318002" office_id="4010841002,4044003002" data-office-4010841002="true" data-office-4044003002="true" data-department-4022318002="true">
+  <a data-mapped="true" href="/dydx/jobs/5796679002">Finance Lead </a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4022318002" office_id="4044003002" data-office-4044003002="true" data-department-4022318002="true">
+  <a data-mapped="true" href="/dydx/jobs/5528976002">Legal Counsel</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4022318002" office_id="4010841002" data-office-4010841002="true" data-department-4022318002="true">
+  <a data-mapped="true" href="/dydx/jobs/5411154002">Recruiting Coordinator</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4022318002" office_id="4010841002" data-office-4010841002="true" data-department-4022318002="true">
+  <a data-mapped="true" href="/dydx/jobs/5178839002">Technical Recruiter</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4022318002" office_id="4047051002" data-office-4047051002="true" data-department-4022318002="true">
+  <a data-mapped="true" href="/dydx/jobs/5888598002">Workplace Experience Coordinator</a>
+  <br/>
+  <span class="location">New York, New York, United States</span>
+</div><div class="opening" department_id="4022318002" office_id="4010841002" data-office-4010841002="true" data-department-4022318002="true">
+  <a data-mapped="true" href="/dydx/jobs/5411740002">Workplace Experience Coordinator</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

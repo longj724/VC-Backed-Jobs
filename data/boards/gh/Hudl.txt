@@ -1,0 +1,801 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Hudl</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+        <link rel="stylesheet" media="screen" href="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/custom_css_files/000/000/863/original/application-2019.css?1573223993" />
+
+
+
+    <meta property="og:title" content="Hudl"></meta>
+    <meta property="og:description" content="We&#39;re a sports + technology company. We create software to help coaches win, athletes look like pros, and recruiters find more talent."></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/hudl"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/000/863/original/greenhouse-hudl-logo.png?1573223318"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><img alt="Hudl Logo" src="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/000/863/resized/greenhouse-hudl-logo.png?1573223318" width="143" height="75" /></div>
+
+
+  <div id="content">
+    <p>We're a sports + technology company.&nbsp;We create software to help coaches win, athletes look like pros, and recruiters find more talent.</p>
+  </div>
+
+    <h1 id="board_title">Current Job Openings at Hudl</h1>
+
+  
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h2 id="69036">Business Operations</h2>
+
+  
+  
+
+<section class="child level-1">
+  <h2 id="68715">1101 Rev Ops Comp</h2>
+
+  <div class="opening" department_id="68715,69036" office_id="83659,83657,75862,83652,83416,2610" data-office-83659="true" data-office-83657="true" data-office-75862="true" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68715="true" data-department-69036="true">
+  <a data-mapped="true" href="/hudl/jobs/3767242">Revenue Enablement Trainer</a>
+  <br/>
+  <span class="location">Barcelona, Spain; The Netherlands; Lincoln, NE; Omaha, NE; Boston, MA</span>
+</div><div class="opening" department_id="68715,69036" office_id="83659,83657,75862,83652,83416,2610" data-office-83659="true" data-office-83657="true" data-office-75862="true" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68715="true" data-department-69036="true">
+  <a data-mapped="true" href="/hudl/jobs/3927359">Revenue Enablement Trainer</a>
+  <br/>
+  <span class="location">Lincoln, NE; Omaha, NE; Boston, MA; Barcelona, Spain; The Netherlands</span>
+</div><div class="opening" department_id="68715,69036" office_id="83659,83657,75862,83652,83416,2610" data-office-83659="true" data-office-83657="true" data-office-75862="true" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68715="true" data-department-69036="true">
+  <a data-mapped="true" href="/hudl/jobs/3638837">Revenue Enablement Trainer</a>
+  <br/>
+  <span class="location">The Netherlands, Barcelona, Spain or Lincoln, NE; Omaha, NE; Boston, MA</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="68716">1102 Rev Ops Elite</h2>
+
+  <div class="opening" department_id="68716,69036" office_id="83659,83657,75862,83659,83656,65815" data-office-83659="true" data-office-83657="true" data-office-75862="true" data-office-83656="true" data-office-65815="true" data-department-68716="true" data-department-69036="true">
+  <a data-mapped="true" href="/hudl/jobs/3851604">Revenue Operations Specialist</a>
+  <br/>
+  <span class="location">Milan, Barcelona </span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="76593">1118 Security</h2>
+
+  <div class="opening" department_id="69036,76593" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-department-69036="true" data-department-76593="true">
+  <a data-mapped="true" href="/hudl/jobs/3799808">Sr. Cloud and Application Security Engineer</a>
+  <br/>
+  <span class="location">Remote US, Lincoln, NE, Omaha, NE</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h2 id="69038">Customer Support</h2>
+
+  
+  
+
+<section class="child level-1">
+  <h2 id="68726">1006 Customer Support Elite</h2>
+
+  <div class="opening" department_id="68726,69038" office_id="83659,83658,45010,83659,83658,2614,83659,83657,75862" data-office-83659="true" data-office-83658="true" data-office-45010="true" data-office-2614="true" data-office-83657="true" data-office-75862="true" data-department-68726="true" data-department-69038="true">
+  <a data-mapped="true" href="/hudl/jobs/3891397">Customer Support Specialist, Match Analysis</a>
+  <br/>
+  <span class="location">London, Remote UK or Barcelona </span>
+</div><div class="opening" department_id="68726,69038" office_id="83652,83416,2610,83652,83416,2612" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-office-2612="true" data-department-68726="true" data-department-69038="true">
+  <a data-mapped="true" href="/hudl/jobs/3931987">Elite Support Intern</a>
+  <br/>
+  <span class="location">Lincoln or Omaha, NE</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="68727">1007 Customer Support Comp</h2>
+
+  <div class="opening" department_id="68727,69038" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68727="true" data-department-69038="true">
+  <a data-mapped="true" href="/hudl/jobs/46900">Support Intern</a>
+  <br/>
+  <span class="location">Lincoln or Omaha, NE</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h2 id="69026">Decision Science</h2>
+
+  
+  
+
+<section class="child level-1">
+  <h2 id="68728">1008 Decision Science</h2>
+
+  <div class="opening" department_id="68728,69026" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68728="true" data-department-69026="true">
+  <a data-mapped="true" href="/hudl/jobs/3801922">Sr. CX Platform Administrator</a>
+  <br/>
+  <span class="location">Omaha, NE; Lincoln, NE; Boston, MA; Remote - US</span>
+</div><div class="opening" department_id="68728,69026" office_id="83652,83416,79255" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-department-68728="true" data-department-69026="true">
+  <a data-mapped="true" href="/hudl/jobs/3901335">Sr. Product Operations Analyst </a>
+  <br/>
+  <span class="location">U.S.- Remote</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="68668">1053 DS Analyst Comp</h2>
+
+  <div class="opening" department_id="68668,69026" office_id="83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2613="true" data-department-68668="true" data-department-69026="true">
+  <a data-mapped="true" href="/hudl/jobs/3628003">Lead Data Analyst</a>
+  <br/>
+  <span class="location">Lincoln, Omaha, Boston or Remote</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="68720">1109 DS Engineering</h2>
+
+  <div class="opening" department_id="68720,69026" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68720="true" data-department-69026="true">
+  <a data-mapped="true" href="/hudl/jobs/3892772">Director - Data Engineering</a>
+  <br/>
+  <span class="location">Lincoln, NE ; Omaha, NE ; US Remote</span>
+</div><div class="opening" department_id="68720,69026" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68720="true" data-department-69026="true">
+  <a data-mapped="true" href="/hudl/jobs/3734016">Engineering Manager - Data Engineering</a>
+  <br/>
+  <span class="location">Lincoln, NE ; Omaha, NE ; US Remote</span>
+</div><div class="opening" department_id="68720,69026" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68720="true" data-department-69026="true">
+  <a data-mapped="true" href="/hudl/jobs/3734015">Senior Manager - Data Engineering</a>
+  <br/>
+  <span class="location">Lincoln, NE ; Omaha, NE ; Remote (US)</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h2 id="69033">Finance</h2>
+
+  
+  
+
+<section class="child level-1">
+  <h2 id="68712">1098 Finance Elite</h2>
+
+  <div class="opening" department_id="68712,69033" office_id="83659,83656,65502" data-office-83659="true" data-office-83656="true" data-office-65502="true" data-department-68712="true" data-department-69033="true">
+  <a data-mapped="true" href="/hudl/jobs/3766545">Accounting Coordinator</a>
+  <br/>
+  <span class="location">Chiavari, Italy</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h2 id="69042">Marketing</h2>
+
+  
+  
+
+<section class="child level-1">
+  <h2 id="68740">1019 Marketing Competitive</h2>
+
+  <div class="opening" department_id="68740,69042" office_id="83652,83416,2610,83652,83416,2612" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-office-2612="true" data-department-68740="true" data-department-69042="true">
+  <a data-mapped="true" href="/hudl/jobs/3935044">Marketing Intern</a>
+  <br/>
+  <span class="location">Lincoln, NE</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="68741">1020 Brand Marketing</h2>
+
+  <div class="opening" department_id="68741,69042" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68741="true" data-department-69042="true">
+  <a data-mapped="true" href="/hudl/jobs/3853788">Associate Brand Marketing Manager</a>
+  <br/>
+  <span class="location">Lincoln, NE, Omaha, NE</span>
+</div><div class="opening" department_id="68741,69042" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68741="true" data-department-69042="true">
+  <a data-mapped="true" href="/hudl/jobs/3660004">Associate Brand Marketing Manager</a>
+  <br/>
+  <span class="location">Omaha, NE, Lincoln, NE</span>
+</div><div class="opening" department_id="68741,69042" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68741="true" data-department-69042="true">
+  <a data-mapped="true" href="/hudl/jobs/3141797">Marketing Design Intern</a>
+  <br/>
+  <span class="location">Lincoln, NE or Omaha, NE</span>
+</div><div class="opening" department_id="68741,69042" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68741="true" data-department-69042="true">
+  <a data-mapped="true" href="/hudl/jobs/3729814">Marketing Design Intern</a>
+  <br/>
+  <span class="location">Omaha, NE or Lincoln, NE</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h2 id="68663">Media</h2>
+
+  
+  
+
+<section class="child level-1">
+  <h2 id="68761">1041 Media Ad Ops</h2>
+
+  <div class="opening" department_id="68663,68761" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68663="true" data-department-68761="true">
+  <a data-mapped="true" href="/hudl/jobs/3927534">Media Intern</a>
+  <br/>
+  <span class="location">Omaha, NE, Lincoln, NE</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h2 id="69037">People Operations</h2>
+
+  
+  
+
+<section class="child level-1">
+  <h2 id="68742">1021 People Ops</h2>
+
+  <div class="opening" department_id="68742,69037" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68742="true" data-department-69037="true">
+  <a data-mapped="true" href="/hudl/jobs/3521269">Director, Global Talent Acquisition</a>
+  <br/>
+  <span class="location">Omaha, NE, Lincoln, NE</span>
+</div><div class="opening" department_id="68742,69037" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68742="true" data-department-69037="true">
+  <a data-mapped="true" href="/hudl/jobs/3839388">Manager, Compensation</a>
+  <br/>
+  <span class="location">Remote, Lincoln, NE</span>
+</div><div class="opening" department_id="68742,69037" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68742="true" data-department-69037="true">
+  <a data-mapped="true" href="/hudl/jobs/3842189">Manager, Compensation</a>
+  <br/>
+  <span class="location">Atlanta, GA</span>
+</div><div class="opening" department_id="68742,69037" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68742="true" data-department-69037="true">
+  <a data-mapped="true" href="/hudl/jobs/3842158">Manager, Compensation</a>
+  <br/>
+  <span class="location">Lincoln, NE, US-Remote</span>
+</div><div class="opening" department_id="68742,69037" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68742="true" data-department-69037="true">
+  <a data-mapped="true" href="/hudl/jobs/3794981">Sr. HR Business Partner</a>
+  <br/>
+  <span class="location">Lincoln, NE; Omaha, NE</span>
+</div><div class="opening" department_id="68742,69037" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68742="true" data-department-69037="true">
+  <a data-mapped="true" href="/hudl/jobs/3826859">Sr. HR Business Partner</a>
+  <br/>
+  <span class="location">Omaha, NE; Lincoln, NE</span>
+</div><div class="opening" department_id="68742,69037" office_id="83659,83658,2614" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-department-68742="true" data-department-69037="true">
+  <a data-mapped="true" href="/hudl/jobs/3716021">Talent Acquisition Manager</a>
+  <br/>
+  <span class="location">London, UK</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h2 id="80251">Product</h2>
+
+  
+  
+
+<section class="child level-1">
+  <h2 id="69027">Design</h2>
+
+  
+  
+
+<section class="child level-2">
+  <h2 id="68672">1056 Design Comp</h2>
+
+  <div class="opening" department_id="68672,69027,80251" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68672="true" data-department-69027="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3549958">Product UX Designer - Club Sports</a>
+  <br/>
+  <span class="location">Lincoln, Omaha, Boston </span>
+</div><div class="opening" department_id="68672,69027,80251" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68672="true" data-department-69027="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3550047">Product UX Designer - Hudl Assist</a>
+  <br/>
+  <span class="location">Lincoln, Omaha, Boston </span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68674">1058 Design Media</h2>
+
+  <div class="opening" department_id="68674,69027,80251" office_id="83652,83416,79255,83652,83416,2610,83652,83416,2612" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2610="true" data-office-2612="true" data-department-68674="true" data-department-69027="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3923529">Senior Product Design Manager - Media</a>
+  <br/>
+  <span class="location">Dallas, TX</span>
+</div><div class="opening" department_id="68674,69027,80251" office_id="83652,83416,79255,83652,83416,2610,83652,83416,2612" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2610="true" data-office-2612="true" data-department-68674="true" data-department-69027="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3923511">Senior Product Design Manager - Media</a>
+  <br/>
+  <span class="location">Salt Lake City, UT</span>
+</div><div class="opening" department_id="68674,69027,80251" office_id="83652,83416,79255,83652,83416,2610,83652,83416,2612" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2610="true" data-office-2612="true" data-department-68674="true" data-department-69027="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3861614">Senior Product Design Manager - Media</a>
+  <br/>
+  <span class="location">Lincoln, NE, Omaha, NE, or Remote (US)</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68686">1072 Focus Design</h2>
+
+  <div class="opening" department_id="68686,69027,80251" office_id="83652,83416,2610,83652,83416,2612" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-office-2612="true" data-department-68686="true" data-department-69027="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3933070">Hardware Product Design Intern</a>
+  <br/>
+  <span class="location">Lincoln, NE</span>
+</div>
+  
+</section>
+</section>
+
+<section class="child level-1">
+  <h2 id="69028">Engineering</h2>
+
+  
+  
+
+<section class="child level-2">
+  <h2 id="68671">1059 Engineering Comp</h2>
+
+  <div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912287">Director of Engineering - Competitive Products</a>
+  <br/>
+  <span class="location">US-Remote</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3279196">Director of Engineering - Competitive Products</a>
+  <br/>
+  <span class="location">Lincoln, NE , Omaha, NE</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3909570">Engineering Manager</a>
+  <br/>
+  <span class="location">Kansas City, MO</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3122005">Engineering Manager</a>
+  <br/>
+  <span class="location">Lincoln, NE ; Omaha, NE ; Remote (US)</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3909562">Engineering Manager</a>
+  <br/>
+  <span class="location">Lincoln, NE</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3909564">Engineering Manager</a>
+  <br/>
+  <span class="location">Omaha, NE</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3909568">Engineering Manager</a>
+  <br/>
+  <span class="location">Remote (US)</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3909526">Senior Engineer - Full Stack</a>
+  <br/>
+  <span class="location">Remote US</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3909527">Senior Engineer - Full Stack</a>
+  <br/>
+  <span class="location">Kansas City, MO</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3909535">Senior Engineer - Full Stack</a>
+  <br/>
+  <span class="location">Des Moines, IA</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3909454">Senior Engineer - Full Stack</a>
+  <br/>
+  <span class="location">Lincoln, NE</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3909504">Senior Engineer - Full Stack</a>
+  <br/>
+  <span class="location">Omaha, NE</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/1945823">Senior Engineer - Full Stack</a>
+  <br/>
+  <span class="location">Lincoln, NE ; Omaha, NE ; Remote US</span>
+</div><div class="opening" department_id="68671,69028,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68671="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3543906">Software Engineer - Team Lead</a>
+  <br/>
+  <span class="location">Lincoln, NE ; Omaha, NE ; US Remote</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68470">1060 Engineering Elite</h2>
+
+  <div class="opening" department_id="68470,69028,80251" office_id="83659,83658,2614" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-department-68470="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3509579">Engineering Manager</a>
+  <br/>
+  <span class="location">London &amp; UK Remote</span>
+</div><div class="opening" department_id="68470,69028,80251" office_id="83659,83658,45010,83659,83658,2614" data-office-83659="true" data-office-83658="true" data-office-45010="true" data-office-2614="true" data-department-68470="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3907611">Lead Engineer - Front-End</a>
+  <br/>
+  <span class="location">London HQ &amp; United Kingdom Remote</span>
+</div><div class="opening" department_id="68470,69028,80251" office_id="83659,83658,2614,83659,83658,45010" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-45010="true" data-department-68470="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3442903">Senior Engineer</a>
+  <br/>
+  <span class="location">London HQ or Remote UK, Spain, Netherlands &amp; Italy</span>
+</div><div class="opening" department_id="68470,69028,80251" office_id="83659,83658,2614,83659,83658,45010" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-45010="true" data-department-68470="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912933">Senior Engineer - Front-End</a>
+  <br/>
+  <span class="location">London HQ or Remote UK, Spain, Netherlands &amp; Italy</span>
+</div><div class="opening" department_id="68470,69028,80251" office_id="83659,83658,2614,83659,83658,45010" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-45010="true" data-department-68470="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3154385">Software Engineer </a>
+  <br/>
+  <span class="location">London, United Kingdom (remote)</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68685">1071 Focus Engineering</h2>
+
+  <div class="opening" department_id="68685,69028,80251" office_id="" data-department-68685="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3823927">Senior Embedded Engineer</a>
+  <br/>
+  <span class="location">Netherlands - Den Bosch</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68700">1086 Product Stack Engineering</h2>
+
+  <div class="opening" department_id="68700,69028,80251" office_id="83659,83658,2614" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-department-68700="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3748144">Cloud Infrastructure Engineer</a>
+  <br/>
+  <span class="location">London - UK, UK Remote</span>
+</div><div class="opening" department_id="68700,69028,80251" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-department-68700="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3748125">Senior Engineer - Cloud Infrastructure</a>
+  <br/>
+  <span class="location">US Remote</span>
+</div><div class="opening" department_id="68700,69028,80251" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-department-68700="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3805390">Senior Engineer - Web Platform</a>
+  <br/>
+  <span class="location">Lincoln, Nebraska, Omaha, Nebraska, US Remote</span>
+</div><div class="opening" department_id="68700,69028,80251" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-department-68700="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3805389">Software Engineer - Web Platform</a>
+  <br/>
+  <span class="location">Lincoln, Nebraska, Omaha, Nebraska, US Remote</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68705">1091 AML Engineering</h2>
+
+  <div class="opening" department_id="68705,69028,80251" office_id="83659,83658,45010,83659,83658,2614" data-office-83659="true" data-office-83658="true" data-office-45010="true" data-office-2614="true" data-department-68705="true" data-department-69028="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3921486">Senior Data Scientist</a>
+  <br/>
+  <span class="location">London HQ &amp; United Kingdom Remote</span>
+</div>
+  
+</section>
+</section>
+
+<section class="child level-1">
+  <h2 id="69031">Product Managers</h2>
+
+  
+  
+
+<section class="child level-2">
+  <h2 id="68683">1069 Product Mgrs Elite</h2>
+
+  <div class="opening" department_id="68683,69031,80251" office_id="83659,83656,78542,83659,83656,65502" data-office-83659="true" data-office-83656="true" data-office-78542="true" data-office-65502="true" data-department-68683="true" data-department-69031="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3862393">Elite Product Manager </a>
+  <br/>
+  <span class="location">Chiavari, Italy</span>
+</div>
+  
+</section>
+</section>
+
+<section class="child level-1">
+  <h2 id="69029">Quality Assurance</h2>
+
+  <div class="opening" department_id="69029,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912266">Quality Assurance Engineer</a>
+  <br/>
+  <span class="location">Lincoln, NE</span>
+</div><div class="opening" department_id="69029,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3378101">Quality Assurance Engineer</a>
+  <br/>
+  <span class="location">Lincoln, NE ; Omaha, NE</span>
+</div>
+  
+
+<section class="child level-2">
+  <h2 id="68676">1062 Quality Assurance Comp</h2>
+
+  <div class="opening" department_id="68676,69029,80251" office_id="83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68676="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912573">Sr. Quality Assurance Engineer - Hudl Beta</a>
+  <br/>
+  <span class="location">Des Moines, IA</span>
+</div><div class="opening" department_id="68676,69029,80251" office_id="83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68676="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3569117">Sr. Quality Assurance Engineer - Hudl Beta</a>
+  <br/>
+  <span class="location">Kansas City, MO</span>
+</div><div class="opening" department_id="68676,69029,80251" office_id="83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68676="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912241">Sr. Quality Assurance Engineer - Hudl Beta</a>
+  <br/>
+  <span class="location">US-Remote</span>
+</div><div class="opening" department_id="68676,69029,80251" office_id="83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68676="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912568">Sr. Quality Assurance Engineer - Hudl Beta</a>
+  <br/>
+  <span class="location">Lincoln, NE</span>
+</div><div class="opening" department_id="68676,69029,80251" office_id="83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68676="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912246">Sr. Quality Assurance Engineer - Hudl Beta</a>
+  <br/>
+  <span class="location">Omaha, NE</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68677">1063 Quality Assurance Elite</h2>
+
+  <div class="opening" department_id="68677,69029,80251" office_id="83659,83658,2614,83659,83658,45010" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-45010="true" data-department-68677="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3564048">Quality Assurance Engineer </a>
+  <br/>
+  <span class="location">London HQ (Flexible working)</span>
+</div><div class="opening" department_id="68677,69029,80251" office_id="83659,83658,2614,83659,83658,45010" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-45010="true" data-department-68677="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3789932">Quality Assurance Manager</a>
+  <br/>
+  <span class="location">London HQ &amp; United Kingdom Remote</span>
+</div><div class="opening" department_id="68677,69029,80251" office_id="83659,83658,2614,83659,83658,45010" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-45010="true" data-department-68677="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3587269">Senior Quality Assurance Engineer </a>
+  <br/>
+  <span class="location">London HQ &amp; United Kingdom Remote</span>
+</div><div class="opening" department_id="68677,69029,80251" office_id="83659,83658,2614,83659,83658,45010" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-45010="true" data-department-68677="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3696442">Senior Quality Assurance Manager</a>
+  <br/>
+  <span class="location">London HQ &amp; United Kingdom Remote</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68697">1083 Biz Stack QA</h2>
+
+  <div class="opening" department_id="68697,69029,80251" office_id="83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68697="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3699995">Sr. QA Manager - Business Operations</a>
+  <br/>
+  <span class="location">Lincoln, NE</span>
+</div><div class="opening" department_id="68697,69029,80251" office_id="83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68697="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3699899">Sr. QA Manager - Business Operations</a>
+  <br/>
+  <span class="location">Lincoln, NE, Omaha, NE, Boston, MA</span>
+</div><div class="opening" department_id="68697,69029,80251" office_id="83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68697="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3699980">Sr. QA Manager - Business Operations</a>
+  <br/>
+  <span class="location">Omaha, NE</span>
+</div><div class="opening" department_id="68697,69029,80251" office_id="83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68697="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912577">Sr. QA Manager - Business Operations</a>
+  <br/>
+  <span class="location">Des Moines, IA</span>
+</div><div class="opening" department_id="68697,69029,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68697="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912249">Sr. Quality Assurance Engineer - Business Operations</a>
+  <br/>
+  <span class="location">US-Remote</span>
+</div><div class="opening" department_id="68697,69029,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68697="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912254">Sr. Quality Assurance Engineer - Business Operations</a>
+  <br/>
+  <span class="location">Des Moines, IA</span>
+</div><div class="opening" department_id="68697,69029,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68697="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3744823">Sr. Quality Assurance Engineer - Business Operations</a>
+  <br/>
+  <span class="location">Omaha, NE, Lincoln, NE</span>
+</div><div class="opening" department_id="68697,69029,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68697="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3744742">Sr. Quality Assurance Engineer - Business Operations</a>
+  <br/>
+  <span class="location">Lincoln, NE, Omaha, NE</span>
+</div><div class="opening" department_id="68697,69029,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68697="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912588">Sr. Quality Assurance Engineer - Business Operations</a>
+  <br/>
+  <span class="location">Kansas City, MO</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68702">1088 Product Stack QA</h2>
+
+  <div class="opening" department_id="68702,69029,80251" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68702="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912262">Senior Quality Assurance Engineer </a>
+  <br/>
+  <span class="location">US - Remote, Omaha, NE</span>
+</div><div class="opening" department_id="68702,69029,80251" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68702="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3757485">Senior Quality Assurance Engineer </a>
+  <br/>
+  <span class="location">US - Remote</span>
+</div><div class="opening" department_id="68702,69029,80251" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68702="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912595">Senior Quality Assurance Engineer </a>
+  <br/>
+  <span class="location">Des Moines, IA</span>
+</div><div class="opening" department_id="68702,69029,80251" office_id="83652,83416,79255,83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83652="true" data-office-83416="true" data-office-79255="true" data-office-2612="true" data-office-2610="true" data-office-2613="true" data-department-68702="true" data-department-69029="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3912264">Senior Quality Assurance Engineer </a>
+  <br/>
+  <span class="location">Austin, TX</span>
+</div>
+  
+</section>
+</section>
+
+<section class="child level-1">
+  <h2 id="69030">Scrum Masters</h2>
+
+  
+  
+
+<section class="child level-2">
+  <h2 id="68679">1065 Scrum Masters Comp</h2>
+
+  <div class="opening" department_id="68679,69030,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68679="true" data-department-69030="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3659839">Sr. ScrumMaster</a>
+  <br/>
+  <span class="location">Lincoln, NE, Omaha, NE</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68680">1066 Scrum Masters Elite</h2>
+
+  <div class="opening" department_id="68680,69030,80251" office_id="83659,83658,2614,83659,83658,45010" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-45010="true" data-department-68680="true" data-department-69030="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3545148">Agile Delivery Manager</a>
+  <br/>
+  <span class="location">London &amp; UK Remote</span>
+</div><div class="opening" department_id="68680,69030,80251" office_id="83659,83658,2614,83659,83658,45010,83659,83656,65502" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-45010="true" data-office-83656="true" data-office-65502="true" data-department-68680="true" data-department-69030="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3770369">Scrum Master</a>
+  <br/>
+  <span class="location">Chiavari, Italy</span>
+</div>
+  
+</section>
+
+<section class="child level-2">
+  <h2 id="68698">1084 Biz Stack Scrum Master</h2>
+
+  <div class="opening" department_id="68698,69030,80251" office_id="83652,83416,2612,83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-department-68698="true" data-department-69030="true" data-department-80251="true">
+  <a data-mapped="true" href="/hudl/jobs/3820111">Sr. ScrumMaster</a>
+  <br/>
+  <span class="location">Lincoln, NE, Omaha, NE, Des Moines, IA, Remote</span>
+</div>
+  
+</section>
+</section>
+</section>
+
+<section class="level-0">
+  <h2 id="69039">Sales</h2>
+
+  
+  
+
+<section class="child level-1">
+  <h2 id="68747">1026 Sales Competitive HS</h2>
+
+  <div class="opening" department_id="68747,69039" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68747="true" data-department-69039="true">
+  <a data-mapped="true" href="/hudl/jobs/3326200">Account Executive</a>
+  <br/>
+  <span class="location">Lincoln, NE</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="68749">1028 Sale Elite US</h2>
+
+  <div class="opening" department_id="68749,69039" office_id="83660,77003" data-office-83660="true" data-office-77003="true" data-department-68749="true" data-department-69039="true">
+  <a data-mapped="true" href="/hudl/jobs/3846581">Elite Account Executive - Japan</a>
+  <br/>
+  <span class="location">Tokyo, Japan</span>
+</div><div class="opening" department_id="68749,69039" office_id="83660,77003" data-office-83660="true" data-office-77003="true" data-department-68749="true" data-department-69039="true">
+  <a data-mapped="true" href="/hudl/jobs/3853540">Elite Customer Success Manager</a>
+  <br/>
+  <span class="location">Tokyo, Japan</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="68750">1029 Sales Elite International</h2>
+
+  <div class="opening" department_id="68750,69039" office_id="83660,58369" data-office-83660="true" data-office-58369="true" data-department-68750="true" data-department-69039="true">
+  <a data-mapped="true" href="/hudl/jobs/3770446">Account Executive - Korea</a>
+  <br/>
+  <span class="location">Seoul, South Korea</span>
+</div><div class="opening" department_id="68750,69039" office_id="83659,83658,45010,83659,83657,20029,83659,83656,78542,83659,83654,78550,83659,10909" data-office-83659="true" data-office-83658="true" data-office-45010="true" data-office-83657="true" data-office-20029="true" data-office-83656="true" data-office-78542="true" data-office-83654="true" data-office-78550="true" data-office-10909="true" data-department-68750="true" data-department-69039="true">
+  <a data-mapped="true" href="/hudl/jobs/1794266">Account Executive - Turkish Speaking </a>
+  <br/>
+  <span class="location">United Kingdom, Spain, Netherlands, Italy </span>
+</div><div class="opening" department_id="68750,69039" office_id="83659,83654,83650,83659,83658,2614,83659,83657,75862" data-office-83659="true" data-office-83654="true" data-office-83650="true" data-office-83658="true" data-office-2614="true" data-office-83657="true" data-office-75862="true" data-department-68750="true" data-department-69039="true">
+  <a data-mapped="true" href="/hudl/jobs/1960763">Elite Sales Director, Mid Market &amp; Enterprise Licensing</a>
+  <br/>
+  <span class="location">Barcelona</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="68753">1032 Customer Success Elite</h2>
+
+  <div class="opening" department_id="68753,69039" office_id="83659,83658,45010,83659,83658,2614" data-office-83659="true" data-office-83658="true" data-office-45010="true" data-office-2614="true" data-department-68753="true" data-department-69039="true">
+  <a data-mapped="true" href="/hudl/jobs/3900889">Elite Customer Success Manager</a>
+  <br/>
+  <span class="location">United Kingdom</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h2 id="68762">1042 Executive Competitive</h2>
+
+  <div class="opening" department_id="68762,69039" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68762="true" data-department-69039="true">
+  <a data-mapped="true" href="/hudl/jobs/3914761">Senior Business Analyst (Mergers &amp; Acquisitions)</a>
+  <br/>
+  <span class="location">Remote US</span>
+</div><div class="opening" department_id="68762,69039" office_id="83652,83416,2610" data-office-83652="true" data-office-83416="true" data-office-2610="true" data-department-68762="true" data-department-69039="true">
+  <a data-mapped="true" href="/hudl/jobs/3914765">Senior Business Analyst (Mergers &amp; Acquisitions)</a>
+  <br/>
+  <span class="location">Remote, Lincoln, NE</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <br /><br />
+
+  <div class="opening" department_id="" office_id="83660,83653,6022,83659,83658,2614,83652,83416,2612,83652,83416,2610,83652,83416,2613" data-office-83660="true" data-office-83653="true" data-office-6022="true" data-office-83659="true" data-office-83658="true" data-office-2614="true" data-office-83652="true" data-office-83416="true" data-office-2612="true" data-office-2610="true" data-office-2613="true">
+  <a data-mapped="true" href="/hudl/jobs/139984">Referrals</a>
+  <br/>
+  <span class="location">Anywhere</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

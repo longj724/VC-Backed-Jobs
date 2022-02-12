@@ -1,0 +1,232 @@
+
+  <a data-mapped="true" href="/vercel/jobs/4159182004">Customer Success Manager</a>
+  <br>
+  <span class="location">Remote - Australia </span>
+
+  <a data-mapped="true" href="/vercel/jobs/4338354004">Community Manager</a>
+  <br>
+  <span class="location">Remote - EMEA</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4339705004">Customer Success Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4290111004">Customer Success Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4343948004">Junior Customer Success Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4341842004">Principal Customer Support Engineer </a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4339875004">Senior Customer Success Engineer</a>
+  <br>
+  <span class="location">Remote - APAC</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159181004">Senior Customer Support Engineer</a>
+  <br>
+  <span class="location">EMEA Region</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159179004">Senior Customer Support Engineer</a>
+  <br>
+  <span class="location">Remote - APAC</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4335702004">Customer Success Operations Manager</a>
+  <br>
+  <span class="location">Remote - United States</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4300492004">Technical Account Manager</a>
+  <br>
+  <span class="location">Remote - United States, East</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4224819004">Manager, Sales Compensation</a>
+  <br>
+  <span class="location">AMER - US</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159200004">Solutions Architect, EMEA</a>
+  <br>
+  <span class="location">Remote - EMEA</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4335620004">Account Receivable Specialist</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4335723004">Financial Systems, Manager </a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4335640004">Senior Technical Accountant</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4341414004">Senior Financial Analyst</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4335663004">Project Manager, Financial Systems </a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4224606004">HR Technology Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4321381004">Senior Manager of Internal Communication, People</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4246341004">Partner Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4193263004">Partner Program Manager, AMER</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4303241004">Technical Partner Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4163989004">Lifecycle Marketing Manager, Retention</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4342815004">Senior Analyst Relations Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4310446004">Regional Marketing Manager, EMEA</a>
+  <br>
+  <span class="location">Remote - EMEA</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4163980004">Senior Digital Marketing Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4180079004">Enterprise Account Executive, AMER</a>
+  <br>
+  <span class="location">AMER Region</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4235041004">Enterprise Account Executive, EMEA</a>
+  <br>
+  <span class="location">Europe</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159192004">Mid-Market Account Executive, AMER</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159187004">Enterprise Account Executive, Japan</a>
+  <br>
+  <span class="location">Japan</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4180390004">Mid-Market Account Executive, EMEA</a>
+  <br>
+  <span class="location">Remote - EMEA</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4191461004">Sales Enablement Specialist</a>
+  <br>
+  <span class="location">Remote - US</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4162371004">Sales Engineer, AMER</a>
+  <br>
+  <span class="location">AMER Region</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4151867004">Engineering Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159197004">Sales Engineer, Japan</a>
+  <br>
+  <span class="location">Remote - APAC</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4329287004">Full Stack Engineer, AMER</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4329295004">Full Stack Engineer, EMEA</a>
+  <br>
+  <span class="location">Remote - EMEA</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4329299004">Infrastructure Engineer, EMEA</a>
+  <br>
+  <span class="location">Remote - EMEA</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159917004">Senior Full Stack Engineer, AMER</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159918004">Senior Full Stack Engineer, EMEA</a>
+  <br>
+  <span class="location">Remote - EMEA</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159199004">Senior Infrastructure Engineer, EMEA</a>
+  <br>
+  <span class="location">Remote - EMEA</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4329296004">Infrastructure Engineer, AMER</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4159198004">Senior Infrastructure Engineer, AMER</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4163998004">Senior Product Designer</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4178526004">Staff Product Designer</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4163985004">Director of Product, Site</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4314127004">Product Manager, Core Infrastructure</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4314212004">Product Manager, Data Infrastructure</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4335915004">Product Manager, Identity &amp; Access Management</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4318806004">Product Manager, Infrastructure</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4314318004">Product Manager, Network-Facing Infrastructure</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4327432004">Product Manager, Usage and Billing</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4215253004">Senior Product Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4342052004">Senior Product Manager</a>
+  <br>
+  <span class="location">Remote - EMEA</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4163976004">Senior Product Manager, Next.js - AMER</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4192950004">Staff Product Manager</a>
+  <br>
+  <span class="location">Remote - AMER</span>
+
+  <a data-mapped="true" href="/vercel/jobs/4331825004">Technical Program Manager, Ecosystem</a>
+  <br>
+  <span class="location">Remote - AMER</span>

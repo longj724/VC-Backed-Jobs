@@ -1,0 +1,2311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--<meta http-equiv="content-type" content="text/html;charset=UTF-8">-->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+
+    <meta name="google-site-verification" content="OoTPHx7nojGJ8UvFO0fEHn0FiLWWVBCHGkYKyB_Ip7s">
+    <meta name="google-site-verification" content="OKZ9uKMu6jWiTNMKW3wroo6LyYjBefrWPzomPzTKryI">
+    <meta name="google-site-verification" content="ktQYex5oJA4yoT3FArp8cp2SSpuEEO1yIOnXyPYMmw4">
+    <meta name="google-site-verification" content="vbHRCzhbDW8G307pT3kTkmEsSKT29m1qep-2RLpihoY" />
+
+    
+    <meta name="google" content="nositelinkssearchbox" />
+
+                <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Ropa+Sans:400,400italic"
+              rel="stylesheet" type="text/css">
+        <script src="https://use.typekit.net/ebc5jjc.js"></script>
+    
+    <script>var isMainSite = true;</script>
+
+    <script>
+        window.formMeta = {};
+    </script>
+        <style>
+        .image.sketch.mobile {display: none;}
+
+        @media (min-width: 1400px) {
+            .sketch-small-screen {
+                display: none;
+            }
+        }
+
+    </style>
+
+    <script>
+        // delete wisepops cookies
+        var wisepops_cookies = ['wisepops', 'wisepops_props', 'wisepops_session', 'wisepops_visits'];
+        wisepops_cookies.forEach(function (cookie_name) {
+            document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+        });
+    </script>
+
+    <script>
+        (function () {
+            var zi = document.createElement('script');
+            zi.type = 'text/javascript';
+            zi.async = true;
+            zi.src = 'https://ws.zoominfo.com/pixel/w6aRgAeNSINTV8HsExTl';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(zi, s);
+        })();
+    </script>
+    <noscript>
+        <img src="https://ws.zoominfo.com/pixel/w6aRgAeNSINTV8HsExTl" width="1" height="1" style="display: none;" />
+    </noscript>
+
+    
+    <script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-3.min.js" data-apikey="fd9dd39ca048603db38826b3c59d0c6a"></script><link rel="stylesheet" href="https://cdn4.mxpnl.com/static/asset-cache/82b9f57a9c4ea757e88304c337dfdd32/compiled/gdpr-external.min.css" type="text/css" /><script id="gdprScript" src="https://cdn.mxpnl.com/static/asset-cache/53e70f391713cc61c36418cce01462ca/compiled/gdpr-external.min.js"></script><script src="https://cdn4.mxpnl.com/static/asset-cache/0e791d2dde954b524c3d327cb7a611b4/compiled/common/polyfills.min.js"></script><script src="//discover.mixpanel.com/js/forms2/js/forms2.min.js"></script><title>Join the Mixpanel Team | Careers</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" hreflang="x-default" href="https://mixpanel.com/jobs/" />
+<link rel="alternate" hreflang="en" href="https://mixpanel.com/jobs/" />
+
+	<!-- Meta Tag Manager -->
+	<meta property="fb:pages" content="119004118110207" />
+	<!-- / Meta Tag Manager -->
+
+<!-- This site is optimized with the Yoast SEO plugin v12.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="At Mixpanel, we&#039;re on a mission to help the world learn from its data. Learn about our open positions, company culture, benefits, and more here."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://mixpanel.com/jobs/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Join the Mixpanel Team | Careers" />
+<meta property="og:description" content="At Mixpanel, we&#039;re on a mission to help the world learn from its data. Learn about our open positions, company culture, benefits, and more here." />
+<meta property="og:url" content="https://mixpanel.com/jobs/" />
+<meta property="og:site_name" content="Mixpanel" />
+<meta property="article:publisher" content="https://www.facebook.com/mixpanel/" />
+<meta property="og:image" content="https://mixpanel.com/wp-content/uploads/2020/11/Home-page-sharing-1.png" />
+<meta property="og:image:secure_url" content="https://mixpanel.com/wp-content/uploads/2020/11/Home-page-sharing-1.png" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="538" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="At Mixpanel, we&#039;re on a mission to help the world learn from its data. Learn about our open positions, company culture, benefits, and more here." />
+<meta name="twitter:title" content="Join the Mixpanel Team | Careers" />
+<meta name="twitter:site" content="@mixpanel" />
+<meta name="twitter:image" content="https://mixpanel.com/wp-content/uploads/2020/11/Home-page-sharing-1.png" />
+<meta name="twitter:creator" content="@mixpanel" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mixpanel.com/#website","url":"https://mixpanel.com/","name":"Mixpanel","potentialAction":{"@type":"SearchAction","target":"https://mixpanel.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://mixpanel.com/jobs/#webpage","url":"https://mixpanel.com/jobs/","inLanguage":"en-US","name":"Join the Mixpanel Team | Careers","isPartOf":{"@id":"https://mixpanel.com/#website"},"datePublished":"2021-10-18T15:54:57-07:00","dateModified":"2022-01-07T17:08:01-07:00","description":"At Mixpanel, we're on a mission to help the world learn from its data. Learn about our open positions, company culture, benefits, and more here."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.youtube.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mxpnlcms.wpengine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='codesample-blocks-css'  href='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/codesample/css/styles-blocks.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ht_toc-style-css-css'  href='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/heroic-table-of-contents/dist/blocks.style.build.css?ver=1639008909' type='text/css' media='all' />
+<link rel='stylesheet' id='ugb-style-css-css'  href='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/stackable-ultimate-gutenberg-blocks/dist/frontend_blocks.css?ver=2.14.0' type='text/css' media='all' />
+<style id='ugb-style-css-inline-css' type='text/css'>
+:root {
+			--content-width: 900px;
+		}
+</style>
+<link rel='stylesheet' id='github-embed-css'  href='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/github-embed/css/github-embed.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-tm-admin-bar-css'  href='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/wpml-translation-management/res/css/admin-bar-style.css?ver=2.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='base-theme-style-css'  href='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/themes/mixpanel/assets/v3/compiled/css/theme.css?ver=3.1.60' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15' type='text/css' media='all' />
+<script type='text/javascript' src='//code.jquery.com/jquery-3.5.1.min.js?ver=3.1.60' id='jquery-core-js'></script>
+<script type='text/javascript' src='//code.jquery.com/jquery-migrate-3.3.1.min.js?ver=3.1.60' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js?ver=4.3.11' id='jquery.cookie-js'></script>
+<script type='text/javascript' id='wpml-cookie-js-extra'>
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.3.11' id='wpml-cookie-js'></script>
+<script type='text/javascript' id='ugb-block-frontend-js-js-extra'>
+/* <![CDATA[ */
+var stackable = {"restUrl":"https:\/\/mxpnlcms.wpengine.com\/wp-json\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/stackable-ultimate-gutenberg-blocks/dist/frontend_blocks.js?ver=2.14.0' id='ugb-block-frontend-js-js'></script>
+<script type='text/javascript' src='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-js'></script>
+<link rel='shortlink' href='https://mixpanel.com/?p=90234' />
+<meta name="generator" content="WPML ver:4.3.11 stt:61,1,4,3,28,29,2;" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<meta name="generator" content="Site Kit by Google 1.48.0" /><script type="text/javascript" src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/typeform/dist/typeform-elements.js"></script><link rel='shortcut icon' href='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Mixpanel_Favicon_32x32.png' type='image/x-icon'>
+<script lang='text/javascript' id='generics_emails'>window.generics_emails = ['@gmail.','@mac.','@yahoo.','@hotmail.','@sbcglobal.','@earthlink.','@att.','@aol.','@comcast.','@me.','@ymail.','@googlemail.','@163.','@msn.','@rocketmail.','@bellsouth.','@cox.','@live.','@100m.hl.cninfo.net','@123india.com','@126.com','@12move.nl','@163.com','@163.net','@169.cc','@188.net','@188mail.com','@2000net.com','@21cn.com','@24horas.com','@2911.net','@2bmail.co.uk','@2bsure.com','@2ndmail.com','@2rd.net','@2xs.net','@363.net','@371.net','@39.net','@3web.net','@777.net.cn','@8848.net','@888.nu','@88998.com','@8d8d.com','@909mail.dk','@990.net','@a4.no','@aaronkwok.net','@abcflash.net','@abv.bg','@adres.nl','@advalvas.be','@ahmedabad.net','@albawaba.com','@alinto.com','@all.bg','@allesklar.de','@altavista.co.kr','@altavista.co.uk','@altavista.de','@altavista.nl','@altavista.se','@alwaysbeconnected.com','@amuro.net','@anjungcafe.com','@another.com','@anyemail.net','@aol.co.uk','@aol.com','@apenstaartje.com','@apexmail.com','@a-po.st','@apollo.lv','@ar.yahoo.com','@arabia.com','@arealcity.com','@arsenal.co.uk','@artic.net','@asiafind.com','@asiafind.com','@asiafind.com','@asia-links.com','@asia-links.com','@asia-links.com','@asiancityweb.com','@asiancityweb.com','@asiancityweb.com','@asianhome.net','@asianhome.net','@asiaone.com.sg','@ask.co.uk','@astaga.com','@asturies.com','@a-topmail.at','@atozasia.com','@aucland.es','@aude.org','@aufeminin.com','@ausi.com','@aussiemail.com.au','@australia.edu','@australianmalls.com','@autonr.net','@axis.org','@axn-asia.com','@b73.de','@balitribune.com','@bangladesh.net','@bantu.com','@basemail.com.br','@beep.ru','@belgique.com','@belgrade.co.yu','@Bellsouth.net','@bentium.net','@beograd.com','@berlin.de','@bigfoot.de','@bigfot.de','@bimamail.com','@bip.net','@bkkmail.com','@blackbox.net','@blackburnmail.com','@bluemail.ch','@bluemail.dk','@bmypc.com','@bnp-mail.com','@bnp-mail.com','@bogota.com','@boitolet.com','@boitolet.com','@bol.com.br','@bolehmail.com','@bosnianmail.com','@brasilia.net','@brestonline.com','@britishvirginislands.com','@broadcastindia.com','@burek.net','@burgerking.de','@businessnet.de','@byte.it','@cabana.net','@canada-11.com','@canadasown.net','@canoe.ca','@caramail.com','@cari.com.my','@caryon.com','@ccnt.com.cn','@centras.lt','@centrum.cz','@chaitime.com','@channelnewsasia.com','@Charter.net','@chat.ru','@check1check.com','@chequemail.com','@cheshiremail.com','@chez.com','@china.com','@chinaarmy.net','@chinabyte.com','@chinahot.net','@chinaice.com','@chinanew.com','@chinaren.com','@chinese.com','@chinese.net.my','@chinese88.com','@chinesemail.org','@ciaoweb.it','@citeweb.net','@cityhot.com','@citymail.net.nz','@citynet.co.kr','@ciudad.com.ar','@claramail.com','@click2asia.com','@click2asia.com','@click2asia.com','@clickfish.com','@club.lemonde.fr','@cmmail.com','@cn.joymail.com','@cncou.com','@cnnb.net','@Comcast.net','@community.s-one.net.sg','@communityconnect.com','@communityconnect.com','@communityconnect.com','@computerchannel.de','@connectfree.co.uk','@coolmail.ch','@copacabana.com','@coqualane.ch','@core.lv','@correio.com','@correo.nu','@correoweb.com','@courrier.id-clic.com','@courrier.remcomp.fr','@courrier.yahoo.fr','@Cox.net','@csucs.hu','@ctinets.com','@ctn.com.cn','@cumbriamail.com','@curio-city.com','@cxp.com.br','@cyberdif.com','@cyberinbox.com','@cybernet.in.th','@daum.net','@dbzmail.com','@dds.nl','@de.lycosmail.com','@decajon.com','@delfi.lv','@detik.com','@deutschland.youpy.com','@digibel.be','@digitalmail.com','@diktator.de','@dindas.de','@dl163.com','@dolfijn.nl','@domain.com.tw','@doramail.com','@downsouth.co.uk','@dragonsurf.com','@dreamer.com.cn','@dreamer.com.tw','@drotposta.hu','@durschti.net','@duse.net','@earth9.com','@Earthlink.net','@eastciti.com','@eastday.com.cn','@eastmail.com','@easypost.com','@eazier.com','@ecosse.net','@ecuamail.com.ec','@ecuamail.com.ec','@edsamail.com.ph','@efes.net.tr','@egon.gyaloglo.hu','@eguo.com','@egyptsun.com','@ehmail.com','@eindia.com','@einkaufzentrum.de','@einsundeins.de','@ekilat.com','@elong.com','@em365.com','@e-mail.co.kr','@email.co.yu','@email.com.cn','@email.cz','@email.de','@email.ireland.com','@email.is','@email.itl.net.ua','@e-mail.ru','@email.seznam.cz','@email.si','@emaila.nu','@emailgaul.com','@emailnow.com.au','@emailnow.com.au','@emailpinoy.com','@emailplanet.com','@emailplanet.com','@emailplanet.com','@emailplanet.com','@emailplanet.com','@emailplanet.com','@emailpostbox.com','@enelpunto.net','@ennepetal.com','@enter.vg','@enzoy.com','@eon.dk','@epost.de','@e-post.lt','@es.lycosmail.com','@espana.youpy.com','@eszett.de','@etang.com','@everyday.com','@everyday.com','@everymail.net','@everyroad.net','@excite.ca','@excite.com','@excite.com.au','@excite.es','@excite.it','@exit.de','@extended.de','@eyah.com.au','@eyou.com','@ez.info.com.ph','@fast.rh.com.pe','@fastmail.ca','@fastmail.com','@fcbayern.de','@fcukmail.com','@fetchmail.co.uk','@ffnfuncity.de','@firemail.de','@flairmail.com','@flytecrew.com','@fm365.com','@fr.bigfoot.com','@fr.lycosmail.com','@france-mail.com','@free.fr','@free.net.nz','@free.polbox.pl','@free.tri.at','@free.xtel.com','@free-hosting.lt','@freemail.c3.hu','@freemail.co.za','@freemail.codec.ro','@freemail.com.au','@freemail.com.pk','@freemail.fx.ro','@freemail.goo.ne.jp','@freemail.gr','@freemail.it','@freemail.ncs.net.hk','@freemail.nl','@freemail.org.mk','@freemail.ru','@free-online.net','@freeweb.aspide.it','@freeweb.essenet.it','@freshmail.de','@friko.internet.pl','@friko.internet.pl','@fronttraining.com','@fsf.com.au','@ft.com','@funkytiger.co.uk','@funmail.co.uk','@future-online.net','@fz.ml.org','@gala.net','@gate99.nl','@gauch.ch','@gaza.net','@gedris.org','@germanmail.com','@germany.net','@gigileung.org','@glay.org','@glormhaigheo.com','@gmail.co.uk','@gmail.com','@gmx.net','@goaworld.com','@gocolchester.com','@gohdirect.com','@gomail.com.ua','@gopinoy.com','@grabmail.com','@graffiti.net','@gravity.net.au','@grooveasia.com','@grooveasia.com','@grooveasia.com','@gsel.com','@guay.com','@guil.eu.org','@guju.net','@gwapo.com','@gzyp21.net','@halee.com','@halyava.ru','@heike.net','@helloasia.com','@helloasia.com','@helloasia.com','@hikyaku.com','@hk.joymail.com','@hkem.com','@hkepost.com','@hkgx.com','@hkid.com','@hkmail.net','@hkonly.com','@hkwire.com','@hl.cninfo.net','@home.co.yu','@home.se','@home.sina.com','@home.sina.com.cn','@home.sina.com.hk','@homeway.com.cn','@hongen.com.cn','@hongkong.com','@hooger.ch','@hotmail.co.il','@hotmail.co.jp','@Hotmail.co.jp','@hotmail.co.th','@hotmail.co.uk','@Hotmail.co.uk','@hotmail.com','@hotmail.com','@hotmail.com.ar','@hotmail.com.br','@hotmail.com.tr','@hotmail.de','@hotmail.es','@hotmail.fr','@hotmail.it','@hotmail.jp','@hotmail.se','@hrvatskamail.com','@humour.com','@hurra.de','@iboom.com','@ice.is','@ieg.com.br','@ifrance.com','@ilovehk.com','@iloveindia.com','@i-mail.com.au','@immk.net','@inbox.com.pk','@inbox.lv','@india.com','@india-11.com','@indiainfo.com','@indiaseek.com','@indiasite.com','@indiatimes.com','@indo-mail.com','@infojobs.es','@infoworld.sh.cn','@inmail.sk','@instuttgart.de','@intellect.com.tw','@interia.pl','@inwind.it','@iobox.de','@iobox.fi','@iobox.se','@iol.it','@iqiq.net','@irish4ever.com','@irol.net','@iskon.hr','@ismart.com.hk','@issihk.net','@it.lycosmail.com','@italia.youpy.com','@iupi.pt','@jaydemail.com','@jmail.co.jp','@joongang.co.kr','@jordan-net.de','@jpopmail.com','@jubii.dk','@jumpy.it','@juntos.com','@juridica.com','@juventusmail.net','@kali.com.cn','@kantone.net','@kataweb.it','@kellychen.com','@kennzeichen.net','@keromail.com','@keyciti.com.tw','@kichimail.com','@kingnet.com.tw','@kittymail.com','@kittymail.com','@kitznet.at','@kki.net.pl','@km169.net','@kmail.com.au','@korea.com','@koreanmail.com','@kschoice.net','@kurir.net','@kzinfo.net','@ladymail.cz','@lakmail.com','@la-mano.com','@lancsmail.com','@lanetro.com','@latinmail.com','@latinsite.com','@latinsite.com','@lc1.law5.hotmail.passport.com','@lemailparisien.com','@leonlai.net','@lettera.net','@letterbox.com','@letterindia.com','@lexpress.net','@libanismail.com','@libemail.com','@libero.iol.it','@linomail.de','@linuxmail.org','@liquidinformation.net','@live.at','@live.be','@live.ca','@live.cl','@live.cn','@live.co.kr','@live.co.za','@live.com','@live.com.ar','@live.com.au','@live.com.mx','@live.com.my','@live.com.sg','@live.de','@live.dk','@live.fr','@live.hk','@live.ie','@live.in','@live.it','@live.jp','@live.nl','@live.no','@live.ru','@live.se','@liveclub.co.uk','@locos.com','@login.virtualjerusalem.com','@loja.net','@looksmart.co.uk','@looksmart.com.au','@lottos.com.au','@lovecat.com','@luso.pt','@luukku.com','@lycosbox.com','@lycosbox.com','@mail.168city.com','@mail.2friend.com','@mail.alibaba.com','@mail.amei.cc','@mail.asiapoint.net','@mail.asiapoint.net','@mail.asiapoint.net','@mail.atlas.cz','@mail.az','@mail.bangkok.com','@mail.bg','@mail.bta.net.cn','@mail.catcha.com','@mail.chek.com','@mail.chek.com','@mail.co-co.cc','@mail.com','@mail.cz','@mail.digiro.net','@mail.dotcom.fr','@mail.ee','@mail.euroseek.net','@mail.euroseek.net','@mail.excite.co.jp','@mail.excite.co.uk','@mail.excite.de','@mail.forum.dk','@mail.fotofutura.com','@mail.freenation.net','@mail.gnetpri.com','@mail.gr','@mail.hkmag.com','@mail.home.ro:81','@mail.hutchcity.com','@mail.kitty.cc','@mail.kstop.co.kr','@mail.latino.com','@mail.lv','@mail.lycos.co.kr','@mail.lycos.com','@mail.md','@mail.naseej.com','@mail.od.ua','@mail.on.com.tw','@mail.otelo-online.de','@mail.pchome.com.tw','@mail.pt','@mail.ru','@mail.seguros.com.br','@mail.teddy.cc','@mail.telkom.net','@mail.tjohoo.se','@mail.tonghua.com.cn','@mail.tuner.fm','@mail.unicum.de','@mail.voila.fr','@mail.webcity.ca','@mail.x-stream.co.uk','@mail.yahoo.ca','@mail.yahoo.co.nz','@mail.yahoo.com.au','@mail.yahoo.com.br','@mail.yahoo.com.mx','@mail.yahoo.de','@mail.yahoo.dk','@mail.yahoo.ie','@mail.yahoo.it','@mail.yahoo.no','@mail.yahoo.se','@mail2000.com.tw','@mail2india.com','@mail2web.com','@mail4u.nl','@mail4you.de','@mailasia.com','@mailasia.com','@mailasia.com','@mailbank.ne.jp','@mailbox.gr','@mailbox.sk','@mailbr.com.br','@mailcity.lycos.co.jp','@mailcityasia.lycos.com','@mailclub.net','@mailinator.com','@mailit.com.au','@mailje.nl','@mailme.dk','@mailmij.nl','@mailnova.com','@mail-online.dk','@mailpanda.com','@mailperso.com','@mailreader.com','@mails.ch','@mails.hu','@mailstart.com','@mailstart.com','@mailstart.com','@mailthat.net','@mailto.it','@mailtw.com','@maktoob.com','@manager.de','@mancity.net','@manufree.net','@marca.es','@marchmail.com','@marketing.lu','@marketing.lu','@markguide.com','@martignan.com','@mbox.com.au','@mcrmail.com','@mediaport.nl','@medic.net.au','@mediomail.com','@megacity.com','@megamail.pt','@meloo.com','@mensagem.cc','@merseymail.com','@mexico.com','@mfinance.com','@mfn.de','@mighty.co.za','@mixmail.com','@mobemail.com.au','@mol.com.cn','@mol.mn','@moncourrier.com','@montecafe.com','@montevideo.com.uy','@msgbox.com','@msn.com','@msnhotmail.com','@muder.net','@multimania.fr','@musikinfos.de','@muzi.com','@mweb.com.cn','@mweb.com.cn','@myanmars.net','@mycity.com.cn','@mygale.org','@mymail.co.uk','@mymail.com.au','@mymail.ph','@mypcera.com','@myrice.com','@myweb.de','@nameplanet.com','@nameplanet.com','@nana.co.il','@nederlands.com','@netcityhk.com','@netcrawler.com.pk','@netian.com','@netking.com','@netlords.de','@netmail.nl','@netnet.com.sg','@netposta.net','@netpostbus.com','@netvigator.ca','@netvigator.com','@netvigator.com.my','@netvigator.com.tw','@newmail.net','@newmail.ru','@nexus.hu','@nexxmail.com','@ningbo.net','@nl.lycosmail.com','@nmonline.com.cn','@nomade.fr','@norgesmail.com','@norikomail.com','@nz11.com','@nzemail.co.nz','@o2.pl','@obsidiana.com','@obsidiana.com.ar','@obsidiana.com.ar','@ofir.dk','@oktw.net','@olemail.com','@onet.pl','@online.ie','@online.ie','@online.no','@online.sh.cn','@online.tj.cn','@online-today.de','@operamail.com','@organizer.net','@otakumail.com','@ourchina.net','@outblaze.net','@outgun.com','@overcmail.de','@ownmail.com','@oznetwork.com.au','@pagefrance.com','@pajek.net','@pakcenter.com','@paki.com','@pakistanmail.com','@pakistans.com','@pancevo.com','@paracompra.com','@paramas.com','@passagen.se','@pattayacitythailand.com','@pcmail.com.tw','@pearl-online.de','@peoplemail.com.cn','@personales.com','@perthmail.com.','@peru.com','@philippines.to','@phokat.com','@pimail.be','@pimail.com.pk','@pinoymail.com','@planet2000.de','@planet-online.de','@planet-samoa.com','@plasa.com','@pobox.sk','@pochtamt.ru','@poczta.fm','@pokefan.com','@pokemon.com.my','@popaccount.com','@popaccount.com','@popsmail.com','@portalen.no','@portugalmail.pt','@post.cz','@post.de','@post.sk','@postaweb.com','@postmanpat.org.uk','@postmaster.co.uk','@prim.hu','@privacyx.com','@privat.web-art.de','@prontomail.ne.jp','@proudcanadian.net','@proudindians.com','@purpleturtle.com','@qmail.cz','@rad-dresden.de','@rdsnet.ro','@Rediffmail.com','@rediffmail.com','@redom.edu.do','@reflex.at','@regards.net','@renren.com','@renren.com','@repsol.com','@respublica.fr','@rexian.com','@rileks.com','@rinderwahnsinn.de','@robotmail.ne.jp','@rocketmail.com','@rsprog.co.yu','@rtl-online.de','@sammimail.com','@sanriotown.com','@sarmail.com','@satyamonline.com','@schlingel.de','@schweiz.ch','@sd1.de','@searcheuropemail.com','@searcheuropemail.com','@searcheuropemail.com','@searcheuropemail.com','@seedcity.com','@serbiancity.com','@seudominio.com.br','@Shaw.ca','@shikong.com','@siammail.com','@siliconbd.com','@sina.com.tw','@singmail.com','@sites-internet.com','@siutao.com','@ski.com.au','@skydiver.de','@slartibartfast.pp.se','@slo.net','@slomail.com','@slovenia-cafe.com','@smapxsmap.net','@smartvia.de','@sobao.com','@sofcom.com.au','@sohu.com.cn','@soim.net','@soyou.com','@sportasia.com','@sportbarrio.com','@spray.fr','@spray.it','@spray.net','@spray.no','@spray.se','@starmate.com','@starmedia.com','@starmedia.com','@starmedia.com','@starmedia.com','@start.com.au','@start.no','@sternpost.de','@stetic.net','@student.be','@stutensee.net','@subotica.com','@sunpoint.net','@surabayacity.com','@surflondon.co.uk','@surftimemag.com','@surfway.de','@sverige.nu','@sy163.net','@t2mail.com','@taipeilink.net','@taiwan.com','@taiwandot.com','@takas.lt','@talk21.com','@tantriks.com','@telekbird.com.cn','@terra.cl','@terra.com','@terra.com.ar','@terra.com.co','@terra.com.do','@terra.com.do','@terra.com.gt','@terra.com.mx','@terra.com.pa','@terra.com.pe','@terra.com.sv','@terra.com.uy','@terra.com.ve','@terra.es','@tesco.net','@tf1.fr','@thai.com','@thaimail.com','@thaimail.org','@thaiservice.com','@thatweb.com','@themail.co.uk','@timormail.com','@tintin.org','@today.com.au','@tokyo24.com','@tokyo24.com','@tollon.co.uk','@tom.com','@tomcat.ru','@topmail.co.uk','@topmail.de','@torget.se','@toschi.de','@tpemail.net.tw','@tropicmail.com','@tur.net','@turbomail.net','@turkiye.tc','@tut.by','@tutopia.com','@tutoriais.com','@tvnet.lt','@tvnet.lv','@tw.joymail.com','@ucs.com.tw','@uk.bigfoot.com','@uk111.com','@uk2.net','@ukmax.com','@ukr.net','@ukrpost.net','@unete.com','@uni.de','@unistudent.com.au','@uol.com.br','@uolmail.com','@uolmail.com.ar','@uolmail.com.co','@uolmail.com.mx','@uolmail.com.ve','@up-to.net','@url.com.tw','@uymail.com','@Verizon.net','@verpiss-dich.de','@verywoman.net','@vietnammail.net','@vip.gr','@virgilio.it','@virtualindia.com','@visitmail.com','@vol.vnn.vn','@w3-graphixx.de','@walla.co.il','@wappi.com','@waumail.com','@wawasan2020.com','@wbox.de','@web-culture.com','@webinfo.fi','@webmail.co.yu','@webmail.co.za','@webmail.laposte.net','@webmail.net.nz','@webmail.ozbytes.net.au','@webmail.sapo.pt','@webmail.shinbiro.com','@webmail.telstra.com','@webmail.vnn.vn','@webstar.com.my','@westmail.net','@windoms.sitek.net','@windygates.co.uk','@winmail.net','@wireworm.com','@wish.nl','@wlf.de','@wocall.com.cn','@wonet.com','@woodo.com.tw','@world4fun.ch','@worldatlas.com.sg','@worldmexico.com','@worldwidemail.co.uk','@wp.pl','@wprost.pl','@www1.5415.com','@www2.altnews.com.au','@wx88.net','@x9media.de','@xd990.net','@Yahoo.ca','@yahoo.co.hk','@Yahoo.co.in','@yahoo.co.in','@Yahoo.co.jp','@yahoo.co.jp','@yahoo.co.kr','@yahoo.co.uk','@yahoo.com','@yahoo.com.cn','@yahoo.com.sg','@yahoo.com.tw','@yam.com.tw','@yandex.ru','@yap.com.au','@yawmail.com','@yehey.com','@yesbox.net','@yifan.com','@yo-mail.de','@youpy.ch','@youpy.co.uk','@youpy.com','@youpy.com','@youpy.fr','@yourmail.com.au','@yoyo.pl','@yp.com.mo','@yupi.com','@yyhmail.com','@zahav.net.il','@zaobao.com.sg','@zdnetmail.ne.jp','@zhaodaola.com.cn','@ziplip.co.jp','@zipmail.co.nz','@zipmail.com.br','@zmail.to','@zonnet.nl','@zworg.com','@outlook.com','@icloud.com','@qq.com','@protonmail.com','@email.com','@gamil.com','@gmil.com','@gaml.com','@gmial.com',];</script><script lang='text/javascript' id='marketo_string_translations'>window.message_validation_workemail = 'Please provide your company email address';</script><script lang='text/javascript'>window.formsValidateEmailTooltip = [1380,1833,1837,1895,1872,2085,2025,1936,2129,2143,2151,2223,2233,2234,2323,2344,2437,2464,2470,2476,2173,2570,2609];</script><script lang='text/javascript'>window.formsValidateEmail = [1833,1837,1895,1936,2129,2143,2151,2223,2233,2234,2323,2344,2437,2470,2476,2609];</script>
+        <script>
+            if(location.href.indexOf("mixpanel.com") >= 0) {
+                Bugsnag.releaseStage = "production";
+            } else {
+                Bugsnag.releaseStage = "development";
+            }
+        </script>
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+    
+    
+
+</head>
+
+<body class=" ">
+
+<div class="promo-banner-wrap">
+                                    <div class="announcement-banner-wrap" style="display: none">
+            <span class="promo-banner " data-banner="announcement_banner_f8f2d8b793efb56e3e69607013da3856" style="background-color:#7856ff">
+                <div class="inner">
+                                        <div class="txt">🎉A note from Mixpanel&#8217;s CEO on our <strong>$200M Series C</strong>.
+</div>
+                                            <a href="https://mixpanel.com/blog/winning-product-analytics-series-c/" class="btn">Read Now</a>
+                                    </div>
+                <div class="close-button"></div>
+            </span>
+        </div>
+            
+    
+    <div id="message-adblock" style="display: none">
+        <div class="promo-banner pb--inform">
+            <div class="inner">
+                <svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+                        <g id="adblocker-banner" stroke="#FFFFFF" stroke-width="2.25">
+                            <g id="alert" transform="translate(2.000000, 1.000000)">
+                                <path d="M2.805,21.845 L21.195,21.845 C22.1949565,21.843747 23.1186306,21.3102556 23.6194017,20.4447253 C24.1201728,19.5791949 24.1223057,18.5125261 23.625,17.645 L14.43,1.565 C13.9353598,0.688182487 13.0067164,0.145839159 12,0.145839159 C10.9932836,0.145839159 10.0646402,0.688182487 9.57,1.565 L0.375,17.645 C-0.122305739,18.5125261 -0.12017284,19.5791949 0.3805983,20.4447253 C0.881369441,21.3102556 1.80504351,21.843747 2.805,21.845 Z"></path>
+                                <path d="M12,13.46 L12,6.095"></path>
+                                <path d="M12,17.315 L12,17.075"></path>
+                            </g>
+                        </g>
+                    </g>
+                </svg>
+                <div class="txt">&nbsp;&nbsp;If you encounter issues, please disable your <strong>ad blocker</strong>.</div>
+            </div>
+        </div>
+    </div>
+        <div class="message-banner-success" style="display: none">
+        <div class="promo-banner pb--success">
+            <div class="inner">
+                <i class="ico--check"></i>
+                <div class="txt"><strong>Thank you for contacting us! </strong> We’ll be in touch shortly.</div>
+            </div>
+        </div>
+    </div>
+    <div class="message-banner-error" style="display: none">
+        <div class="promo-banner pb--error">
+            <div class="inner">
+                <i class="ico--alert"></i>
+                <div class="txt"><strong>There was an error with submitting the form.</strong></div>
+            </div>
+        </div>
+    </div>
+    </div>
+<div id="wrapper" >
+            <header class="header-v3 header-v3-2" id="header-main">
+    <div class="container">
+        <div class="logo-wrap">
+            <a href="/home" class="logo">
+                <svg version="1.1" class="fill-current" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 130 44" style="enable-background:new 0 0 130 44;" xml:space="preserve">
+                    <path d="M11.5,37.6c0,3.1-2.5,5.6-5.6,5.6s-5.6-2.5-5.6-5.6S2.8,32,5.9,32S11.5,34.5,11.5,37.6"/>
+                    <path d="M30.2,37.7c0,2.2-1.8,4-4,4s-4-1.8-4-4s1.8-4,4-4S30.2,35.5,30.2,37.7"/>
+                    <path d="M44.7,37.7c0,1-0.8,1.8-1.8,1.8s-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8S44.7,36.7,44.7,37.7"/>
+                    <path d="M25.1,25.8c-1,0-1.7-0.8-1.7-1.7v-7.4c0-2.5-1.2-4.5-3.9-4.5s-4.4,2.1-4.4,4.5V24c0,1-0.7,1.7-1.7,1.7s-1.7-0.8-1.7-1.7v-7.4c0-2.5-1.3-4.5-4-4.5c-2.8,0-4.2,2.1-4.2,4.5v7.3c0,1-0.7,1.7-1.7,1.7s-1.7-0.8-1.7-1.7V11c0-1,0.7-1.8,1.7-1.8C3,9.2,3.5,10,3.5,11v1.2c1-1.9,3-3.1,5.2-3.1c2.6,0,4.6,1.3,5.6,3.3c1.4-2.2,3.5-3.3,6.1-3.3c4.4,0,6.6,3.1,6.6,7.4v7.6C26.9,25,26.2,25.8,25.1,25.8"/>
+                    <path d="M31.7,25.8c-1,0-1.7-0.8-1.7-1.7V11c0-1,0.7-1.7,1.7-1.7s1.7,0.8,1.7,1.7v13.1C33.4,25,32.7,25.8,31.7,25.8zM31.7,2.7c1.1,0,2,0.9,2,2s-0.9,2-2,2c-1.1,0-2-0.9-2-2S30.6,2.7,31.7,2.7L31.7,2.7z"/>
+                    <path d="M43.1,15.2l4.4-5.4c0.3-0.3,0.7-0.5,1.1-0.5c1,0,1.6,0.6,1.6,1.5c0,0.3-0.1,0.7-0.4,1L45,17.5l4.9,5.8c0.3,0.3,0.4,0.6,0.4,1c0,0.8-0.7,1.5-1.5,1.5c-0.5,0-0.9-0.2-1.2-0.6l-4.4-5.5l-4.4,5.5c-0.3,0.4-0.7,0.6-1.2,0.6c-0.8,0-1.5-0.7-1.5-1.5c0-0.4,0.1-0.7,0.4-1l4.9-5.8l-4.8-5.7c-0.3-0.3-0.4-0.7-0.4-1c0-0.9,0.6-1.5,1.6-1.5c0.5,0,0.8,0.2,1.1,0.5L43.1,15.2"/>
+                    <path d="M61.2,12c-3,0-4.9,2.6-4.9,5.6c0,2.9,2,5.6,4.9,5.6c3,0,4.9-2.2,4.9-5.6S64.2,12,61.2,12z M61.9,26c-2.5,0-4.5-1.3-5.6-3.2V31c0,1-0.7,1.7-1.7,1.7s-1.7-0.8-1.7-1.7V11c0-1,0.6-1.7,1.6-1.7s1.7,0.8,1.7,1.8v1.3c1.1-1.9,3.3-3.2,5.7-3.2c4.2,0,7.6,3.5,7.6,8.4C69.5,22.6,66.1,26,61.9,26L61.9,26z"/>
+                    <path d="M79.3,12.1c-2.9,0-5,2.5-5,5.5c0,3.2,1.7,5.5,5,5.5c3,0,5-2.6,5-5.5C84.2,14.1,82.2,12.1,79.3,12.1z M87.7,24.1c0,1-0.7,1.7-1.7,1.7s-1.7-0.8-1.7-1.7v-0.8c-1,1.5-3,2.7-5.3,2.7c-5.1,0-8.1-3.8-8.1-8.4s3.3-8.4,8.5-8.4c5.3,0,8.4,3.5,8.4,8.4v6.5H87.7z"/>
+                    <path d="M98,9.1c4.4,0,7.7,3.4,7.7,7.7v7.3c0,1-0.8,1.7-1.7,1.7c-1,0-1.7-0.8-1.7-1.7v-7.7c0-2.3-1.8-4.1-4.2-4.1c-2.4,0-4.2,1.8-4.2,4.1v7.7c0,1-0.8,1.7-1.7,1.7c-1,0-1.7-0.8-1.7-1.7v-7.3C90.4,12.5,93.6,9.1,98,9.1"/>
+                    <path d="M116,11.9c-2.5,0-4.2,1.8-4.6,4.1h9C120.1,13.7,118.5,11.9,116,11.9z M123.6,17.6c0,0.6-0.3,1.2-1.3,1.2h-10.9c0.2,2.5,1.9,4.4,4.9,4.4c1.9,0,3-0.7,4.2-1.8c0.3-0.3,0.7-0.6,1.1-0.6c0.8,0,1.4,0.6,1.4,1.4c0,0.4-0.2,0.7-0.4,1c-1.4,1.6-3.9,2.7-6.5,2.7c-5.5,0-8.3-3.8-8.3-8.4c0-4.8,3.5-8.4,8.2-8.4C120.6,9.1,123.6,12.9,123.6,17.6L123.6,17.6z"/>
+                    <path d="M127.7,25.8c-1,0-1.7-0.8-1.7-1.7V2.5c0-1,0.7-1.7,1.7-1.7s1.7,0.8,1.7,1.7v21.6C129.4,25,128.7,25.8,127.7,25.8"/>
+                </svg>
+            </a>
+        </div>
+        <div class="header-inner">
+            <div class="navmain-wrap">
+                                <nav class="navmain" id="header-nav-main">
+                    <ul>
+                                                <li class="menu-color-blue">
+                                                        <a href="#" class="">Why Mixpanel</a>
+                                                            <div class="nav-drop-wrap">
+                                    <div class="nav-drop">
+                                        <div class="cols-row">
+                                                                                        <div class="col">
+                                                                                                    <span class="nav-drop-title">POWERFUL, SIMPLE ANALYTICS</span>
+                                                                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="/behavioral-analytics" class="nav-drop-link color-icon-blue" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/icon-report.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Interactive Reports</strong>
+                                                                                                                                                                                                    <span>Learn about your users</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/dashboards-alerts" class="nav-drop-link color-icon-blue" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/icon-dashboard.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Team Dashboards & Alerts</strong>
+                                                                                                                                                                                                    <span>Monitor your metrics</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/segmentation" class="nav-drop-link color-icon-blue" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/icon-segmentation.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Limitless Segmentation</strong>
+                                                                                                                                                                                                    <span>Surface hidden trends</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/group-analytics" class="nav-drop-link color-icon-blue" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/icon-analysis.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Group Analytics</strong>
+                                                                                                                                                                                                    <span>Measure B2B account health</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                                                                        <div class="col">
+                                                                                                    <span class="nav-drop-title">TOOLS FOR TRUSTED DATA</span>
+                                                                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="/data-integrations" class="nav-drop-link color-icon-blue" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/icon-integrations.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Data Integrations</strong>
+                                                                                                                                                                                                    <span>Connect to your warehouse</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/data-governance" class="nav-drop-link color-icon-blue" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/icon-management.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Data Management</strong>
+                                                                                                                                                                                                    <span>Keep data clean & usable</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/security-privacy" class="nav-drop-link color-icon-blue" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/icon-security-privacy.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Security & Privacy</strong>
+                                                                                                                                                                                                    <span>Protect customer data</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/scale/" class="nav-drop-link color-icon-blue" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/icon-infrastructure.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Scalable infrastructure</strong>
+                                                                                                                                                                                                    <span>Ingest & query at any volume</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                                                                        <div class="col">
+                                                                                                    <span class="nav-drop-title">More</span>
+                                                                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="https://mixpanel.com/partners/integrations" class="nav-drop-link color-icon-yellow" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/icon-directory.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Integration Directory</strong>
+                                                                                                                                                                                                    <span>50+ connections to top tools</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    </li>
+                                                <li class="menu-color-red">
+                                                        <a href="#" class="">Solutions</a>
+                                                            <div class="nav-drop-wrap">
+                                    <div class="nav-drop">
+                                        <div class="cols-row">
+                                                                                        <div class="col">
+                                                                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="/solutions/convert/" class="nav-drop-link color-icon-red" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/convert-icon-4.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Convert</strong>
+                                                                                                                                                                                                    <span>Analyze conversion and drop-off</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                                                                        <div class="col">
+                                                                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="/solutions/engage/" class="nav-drop-link color-icon-red" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/engage-icon-4.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Engage</strong>
+                                                                                                                                                                                                    <span>Measure active usage</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                                                                        <div class="col">
+                                                                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="/solutions/retain/" class="nav-drop-link color-icon-red" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/retain-icon.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Retain</strong>
+                                                                                                                                                                                                    <span>Find retention drivers</span>
+                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    </li>
+                                                <li class="menu-color-mint">
+                                                        <a href="#" class="">Resources</a>
+                                                            <div class="nav-drop-wrap">
+                                    <div class="nav-drop">
+                                        <div class="cols-row">
+                                                                                        <div class="col">
+                                                                                                    <span class="nav-drop-title">USING MIXPANEL</span>
+                                                                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="https://developer.mixpanel.com/docs" class="nav-drop-link color-icon-mint" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/dev-docs-icon.svg" class="inline-svg" width="20" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Developer Docs</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://help.mixpanel.com/" class="nav-drop-link color-icon-mint" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/help-center-icon.svg" class="inline-svg" width="20" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Help Center</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://community.mixpanel.com/product-updates" class="nav-drop-link color-icon-mint" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/product-launch-icon.svg" class="inline-svg" width="20" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Product Updates</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://community.mixpanel.com/?&utm_campaign=mp-links&utm_content=resources&utm_medium=weblink&utm_source=in-product" class="nav-drop-link color-icon-mint" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/user-community-icon.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>User Community</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                                                                        <div class="col">
+                                                                                                    <span class="nav-drop-title">Best Practices</span>
+                                                                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="https://mxpnl.notion.site/mxpnl/Mixpanel-FAQs-57176b0d11704e56b5f5567355f15081" class="nav-drop-link color-icon-mint" data-track-link-event="FAQs" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/FAQs.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>FAQs</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/blog" class="nav-drop-link color-icon-mint" target="_blank">
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/blog-icon.svg" class="inline-svg" width="20" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Blog</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://engineering.mixpanel.com/" class="nav-drop-link color-icon-mint" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/dev-blog-icon.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Engineering Blog</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/webinars" class="nav-drop-link color-icon-mint" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/digital-events-icon.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Digital Events</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                                                                        <div class="col">
+                                                                                                    <span class="nav-drop-title">More</span>
+                                                                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="/customers" class="nav-drop-link color-icon-mint" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/customer-stories-icon.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Customer Stories</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://mixpanel.com/partners/experts" class="nav-drop-link color-icon-mint" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/partner-icon.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Talk to a Partner</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://testimonial.to/mixpanel/all" class="nav-drop-link color-icon-mint" data-track-link-event="Testimonials" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/our-testimonials-icon.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Testimonials</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="https://mixpanel.com/startups/" class="nav-drop-link color-icon-mint" >
+                                                            <div class="icon">
+                                                                                                                                                                                                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/start-up-1.svg" class="inline-svg" width="" alt=""/>
+                                                                                                                            </div>
+                                                            <span class="desc">
+                                                                                                                                    <strong>Startup Program</strong>
+                                                                                                                                                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    </li>
+                                                <li class="menu-color-yellow">
+                                                        <a href="/pricing" class="">Pricing</a>
+                                                    </li>
+                                            </ul>
+                </nav>
+                                <div class="sec" id="header-nav-secondary">
+                    <ul>
+                                                <li class="menu-lang hidden-sm">
+                            <a href="#"><i class="icon-globe"></i></a>
+                            <div class="nav-drop-wrap">
+                                <div class="nav-drop">
+                                    <ul>
+                                                                                <li>
+                                            <a href="/fr/" class="nav-drop-link" >
+                                                <span class="icon">
+                                                    <i class="icon-globe"></i>
+                                                </span>
+                                                <span class="desc">
+                                                    <strong>Français</strong>
+                                                </span>
+                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/es/" class="nav-drop-link" >
+                                                <span class="icon">
+                                                    <i class="icon-globe"></i>
+                                                </span>
+                                                <span class="desc">
+                                                    <strong>Español</strong>
+                                                </span>
+                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/de/" class="nav-drop-link" >
+                                                <span class="icon">
+                                                    <i class="icon-globe"></i>
+                                                </span>
+                                                <span class="desc">
+                                                    <strong>Deutsch</strong>
+                                                </span>
+                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/zh-hant/" class="nav-drop-link" >
+                                                <span class="icon">
+                                                    <i class="icon-globe"></i>
+                                                </span>
+                                                <span class="desc">
+                                                    <strong>繁體中文</strong>
+                                                </span>
+                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/ko/" class="nav-drop-link" >
+                                                <span class="icon">
+                                                    <i class="icon-globe"></i>
+                                                </span>
+                                                <span class="desc">
+                                                    <strong>한국어</strong>
+                                                </span>
+                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/ja/" class="nav-drop-link" >
+                                                <span class="icon">
+                                                    <i class="icon-globe"></i>
+                                                </span>
+                                                <span class="desc">
+                                                    <strong>日本語</strong>
+                                                </span>
+                                            </a>
+                                        </li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </li>
+                                                                                                                                            <li class=""><a class="" href="/contact-us/sales">Contact Sales</a></li>
+                                                                                            <li class=""><a class="" href="/login">Log In</a></li>
+                                                                                            <li class=""><a class="btn btn-primary" href="/register">Sign Up</a></li>
+                                                                        </ul>
+                </div>
+            </div>
+        </div>
+
+        <a href="#" class="navmain-opener"><span></span></a>
+    </div>
+</header>
+        <div class="feature-hero careers-hero" data-menu-theme="dark" data-appear-block>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                                <strong class="hero-title">MIXPANEL CAREERS</strong>
+                                                <h1>Make your greatest impact</h1>
+                                                <div class="text-wrap">
+                    <p>At Mixpanel, we are on a mission to help the world learn from its data and solve big problems. Being a part of the Mixpanel team gives you the opportunity to drive innovation in a culture where creativity is celebrated and every team member belongs. We believe when you get to bring your full self to work, you’re enabled to do your best work.</p>
+                </div>
+                                                <div class="btn-grp">
+                    <a href="#cookies-jobs" class="btn btn-primary" data-go-to  >View Open Roles</a>
+	                </div>
+                            </div>
+            <div class="col-sm-6">
+                <picture class="img-wrap">
+                                                                <source media="(min-width: 768px)" srcset=",https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-img01.png 1x" />
+                                                                <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-img01.png" class="attachment-full" alt="career-img01" />                                    </picture>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="our-overview" data-menu-theme="dark">
+    <div class="container">
+        <div class="intro-text" data-appear-block>
+                        <strong class="block-title">WHY MIXPANEL</strong>
+                                    <h2>Our values</h2>
+                                </div>
+                <div class="row justify-center" data-appear-block>
+                        <div class="col-sm-6 col-md-4">
+                <div class="value-box">
+                    <span class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon01.svg" class="" width="" alt=""/>
+                    </span>
+                    <strong class="title">BE OPEN</strong>
+                    When knowledge becomes open, we can come together as a team to collaborate around a shared purpose.                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="value-box">
+                    <span class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon02.svg" class="" width="" alt=""/>
+                    </span>
+                    <strong class="title">LEAD CHANGE</strong>
+                    Everyone at Mixpanel has the capacity to make an impact on the business.                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="value-box">
+                    <span class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon03.svg" class="" width="" alt=""/>
+                    </span>
+                    <strong class="title">RESULTS-ORIENTED</strong>
+                    Driving results in a measurable way ensures we stay focused on the highest impact initiatives.                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="value-box">
+                    <span class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon04.svg" class="" width="" alt=""/>
+                    </span>
+                    <strong class="title">CUSTOMER FOCUS</strong>
+                    Our customers’ success is our success.                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="value-box">
+                    <span class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon05.svg" class="" width="" alt=""/>
+                    </span>
+                    <strong class="title">ONE TEAM</strong>
+                    We can’t win without each other.
+
+                </div>
+            </div>
+                    </div>
+            </div>
+</section>
+<div class="employee-spotlight" data-menu-theme="light">
+    <div class="container">
+                <div class="row qoute" data-appear-block>
+            <div class="col-sm-6">
+                <div class="img-wrap">
+                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-img02.png" class="attachment-full" alt="career-img02" />                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="text-hold">
+                    <div class="title-wrap">
+                        <div class="icon-wrap">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/themes/mixpanel/assets/v3/images/careers/career-star.svg" alt="icon" />
+                        </div>
+                                                <strong class="block-title">EMPLOYEE SPOTLIGHT</strong>
+                                            </div>
+                    <blockquote>
+                                                <q>“Being part of a company that collaborates and values innovation and continuous improvement is refreshing. It has been a great way for me to increase results for clients and for my personal growth. As someone who began as a contractor, was made permanent, then promoted and has since transitioned from Customer Success to Marketing, <strong>I'm proof that if you are committed to showing up, focusing on the customer and learning, you never know where you will go next at Mixpanel.</strong>”</q>
+                                                <cite>
+                                                        <strong>Jaz Broughton</strong>,
+                                                        Community Engagement Manager - London                        </cite>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+                <div class="row qoute" data-appear-block>
+            <div class="col-sm-6">
+                <div class="img-wrap">
+                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-img03.png" class="attachment-full" alt="career-img03" />                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="text-hold">
+                    <div class="title-wrap">
+                        <div class="icon-wrap">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/themes/mixpanel/assets/v3/images/careers/career-star.svg" alt="icon" />
+                        </div>
+                                                <strong class="block-title">EMPLOYEE SPOTLIGHT</strong>
+                                            </div>
+                    <blockquote>
+                                                <q>“Mixpanel has been my favorite place to work - I love that even though I'm based in Singapore, I'm able to build strong working relationships with coworkers globally, and everyone's always willing and eager to share ideas. <strong>At Mixpanel, we don't just pay lip service to our core values, but it's at the forefront of our interactions, both internally and with customers, and we regularly take the time to celebrate and recognise our coworkers who espouse these values.</strong>”</q>
+                                                <cite>
+                                                        <strong>Peishan Tan</strong>,
+                                                        Manager, Customer Success - Singapore                        </cite>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+                <div class="row qoute" data-appear-block>
+            <div class="col-sm-6">
+                <div class="img-wrap">
+                    <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-img04.png" class="attachment-full" alt="career-img04" />                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="text-hold">
+                    <div class="title-wrap">
+                        <div class="icon-wrap">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/themes/mixpanel/assets/v3/images/careers/career-star.svg" alt="icon" />
+                        </div>
+                                                <strong class="block-title">EMPLOYEE SPOTLIGHT</strong>
+                                            </div>
+                    <blockquote>
+                                                <q>“<strong>My favorite part of working at Mixpanel is the people.</strong> Being surrounded by true industry experts makes every day a new learning experience. It allows me to get a better understanding of how other teams work and has helped my career greatly.”</q>
+                                                <cite>
+                                                        <strong>Ross Walker</strong>,
+                                                        Manager, Sales Engineering - London                        </cite>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+            </div>
+</div>
+<div class="benefits-section" data-menu-theme="dark">
+    <div class="container">
+                <h2 data-appear-text>Perks and benefits</h2>
+                        <div class="row justify-center" data-appear-block>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon06.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Competitive compensation</strong>
+                    <p>Above-market compensation and equity grants and performance-based bonus programs.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon07.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Company stock options</strong>
+                    <p>Generous company stock options.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon08.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Sabbatical policy</strong>
+                    <p>2 months paid sabbatical after completing 5 years of service.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon09.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Paid time off</strong>
+                    <p>In addition to standard holidays, Mixpanel offers competitive paid time off and regular Company-wide wellness days.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon10.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Giving back</strong>
+                    <p>Every employee gets 40 hours of volunteer time off to invest in the communities and causes they care about most.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon11.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Parental leave</strong>
+                    <p>Mixpanel offers paid parental leave to employees of any gender who give birth, adopt, or foster a child.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon12.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Mental health</strong>
+                    <p>All employees have access to coaches and therapists and are able to tap into a wealth of mental health resources.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/401K-1.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">401(k) match</strong>
+                    <p>US employees receive a 401(k) match to help them plan for their future.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon14.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Wellness benefits</strong>
+                    <p>In addition to multiple options for health, dental, and vision, employees get a monthly wellness stipend.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon15.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Employee choice first</strong>
+                    <p>We have 7 global office locations and also offer flexible work-from-home and remote working options.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon16.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Growth dollars</strong>
+                    <p>Employees receive a professional growth learning stipend of $500 that can pay for conferences, classes, or more.</p>
+                </div>
+            </div>
+                        <div class="col-sm-6 col-md-4">
+                <div class="benefits-box">
+                    <div class="icon">
+                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon17.svg" class="" width="" alt=""/>
+                    </div>
+                    <strong class="title">Professional growth hours</strong>
+                    <p>Employees receive 40 paid hours a year to enroll in programs to advance their skills.</p>
+                </div>
+            </div>
+                    </div>
+            </div>
+</div>
+<div class="resource-groups-section" data-menu-theme="light">
+    <div class="container">
+        <div class="resource-article" data-appear-block>
+            <div class="row">
+                <div class="col-sm-6">
+                                        <h2>Diversity<br> and inclusion</h2>
+                                        <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-img05.png" class="attachment-full" alt="career-img05" />                </div>
+                <div class="col-sm-6">
+                    <div class="text-hold">
+                        <p>Unlocking data-driven insights is our superpower. We’re invested in building a future where data is the catalyst to remove barriers, build community, level the playing field and cultivate understanding. Regardless of one&#8217;s ethnicity, gender, age, identity, religion, national origin, thought, or experience, your story matters, and we believe in turning the power of owning the narrative over to our team members, customers and partners. We are all storytellers.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="resource-groups" data-appear-block>
+                        <strong class="block-title"><span>Our Employee Resource Groups</span></strong>
+                                    <div class="row justify-center">
+                                <div class="col-sm-6 col-md-4">
+                    <div class="resource-box">
+                        <div class="icon">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon18.svg" class="" width="" alt=""/>
+                        </div>
+                                                <strong class="title">Asian Pacific Islander</strong>
+                                                                        <p>Celebrating Asian Pacific Islander <br> culture and heritage.</p>
+                                            </div>
+                </div>
+                                <div class="col-sm-6 col-md-4">
+                    <div class="resource-box">
+                        <div class="icon">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon19.svg" class="" width="" alt=""/>
+                        </div>
+                                                <strong class="title">Blackpanel</strong>
+                                                                        <p>Celebrating Black culture and history.</p>
+                                            </div>
+                </div>
+                                <div class="col-sm-6 col-md-4">
+                    <div class="resource-box">
+                        <div class="icon">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon20.svg" class="" width="" alt=""/>
+                        </div>
+                                                <strong class="title">Mixability</strong>
+                                                                        <p>For Mixpanelers who identify as disabled, have a disability, chronic illness, and their allies.</p>
+                                            </div>
+                </div>
+                                <div class="col-sm-6 col-md-4">
+                    <div class="resource-box">
+                        <div class="icon">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon21.svg" class="" width="" alt=""/>
+                        </div>
+                                                <strong class="title">WeRQ</strong>
+                                                                        <p>Celebrating the LGBTQ+ <br> community and its allies.</p>
+                                            </div>
+                </div>
+                                <div class="col-sm-6 col-md-4">
+                    <div class="resource-box">
+                        <div class="icon">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon22.svg" class="" width="" alt=""/>
+                        </div>
+                                                <strong class="title">Women at Mixpanel</strong>
+                                                                        <p>Empowing women to thrive at <br> Mixpanel and beyond.</p>
+                                            </div>
+                </div>
+                                <div class="col-sm-6 col-md-4">
+                    <div class="resource-box">
+                        <div class="icon">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/career-icon23.svg" class="" width="" alt=""/>
+                        </div>
+                                                <strong class="title">Mezcla</strong>
+                                                                        <p>Celebrating Hispanic, Latinx, <br> and Chicanx heritage.</p>
+                                            </div>
+                </div>
+                                <div class="col-sm-6 col-md-4">
+                    <div class="resource-box">
+                        <div class="icon">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/remote-workers.svg" class="" width="" alt=""/>
+                        </div>
+                                                <strong class="title">Remote Workers</strong>
+                                                                        <p>Supporting and connecting <br> our remote team members.</p>
+                                            </div>
+                </div>
+                                <div class="col-sm-6 col-md-4">
+                    <div class="resource-box">
+                        <div class="icon">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/mixparents.svg" class="" width="" alt=""/>
+                        </div>
+                                                <strong class="title">MixParents</strong>
+                                                                        <p>Creating a culture and environment at Mixpanel that supports and celebrates parenthood.</p>
+                                            </div>
+                </div>
+                                <div class="col-sm-6 col-md-4">
+                    <div class="resource-box">
+                        <div class="icon">
+                            <img src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/Immigrants.svg" class="" width="" alt=""/>
+                        </div>
+                                                <strong class="title">Immigrants</strong>
+                                                                        <p>Gathering awareness on <br> immigration and immigrant lives.</p>
+                                            </div>
+                </div>
+                            </div>
+                    </div>
+    </div>
+</div>
+<div id="cookies-jobs" class="jobs-section" data-menu-theme="light">
+    <div class="container">
+                    <header class="head" data-appear-block>
+                                <h2>Want to join us?</h2>
+                                <p>Please send a cover letter and resume to <a href="mailto:jobs@mixpanel.com">jobs@mixpanel.com</a> or apply below.</p>
+            </header>
+                                    <div class="jobs-filter">
+                                <div class="nice-select" data-appear-block>
+                    <a href="#" data-select>Locations</a>
+                    <ul>
+                        <li><a href="#" data-filter-location="all"><span>All</span></a></li>
+                                                <li><a href="#" data-filter-location="london"><span>London</span><span>(9)</span></a></li>
+                                                <li><a href="#" data-filter-location="san-francisco"><span>San Francisco</span><span>(32)</span></a></li>
+                                                <li><a href="#" data-filter-location="new-york"><span>New York</span><span>(2)</span></a></li>
+                                                <li><a href="#" data-filter-location="new-york-city"><span>New York City</span><span>(5)</span></a></li>
+                                                <li><a href="#" data-filter-location="bangalore"><span>Bangalore</span><span>(2)</span></a></li>
+                                                <li><a href="#" data-filter-location="singapore"><span>Singapore</span><span>(5)</span></a></li>
+                                                <li><a href="#" data-filter-location="new-york-city-central-east-coast-remote"><span>New York City & Central/East Coast Remote</span><span>(1)</span></a></li>
+                                                <li><a href="#" data-filter-location="san-francisco-or-remote-usa"><span>San Francisco or Remote USA</span><span>(8)</span></a></li>
+                                                <li><a href="#" data-filter-location="barcelona"><span>Barcelona</span><span>(1)</span></a></li>
+                                                <li><a href="#" data-filter-location="san-francisco-remote"><span>San Francisco & Remote</span><span>(1)</span></a></li>
+                                                <li><a href="#" data-filter-location="san-francisco-or-remote-usa"><span>San Francisco or Remote, USA</span><span>(2)</span></a></li>
+                                            </ul>
+                </div>
+                                <form class="search-input" id="search-job">
+                    <input type="search" placeholder="Search" data-focus />
+                    <button class="search-btn"><span class="icon-search"></span></button>
+                </form>
+            </div>
+                        <ul class="jobs-list" data-accordion data-appear-block>
+                                                                        <li>
+                        <a href="#" data-more><span class="icon"></span>Design <span class="badge">2</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="san-francisco-remote" data-job-title="product design manager">
+                                <div class="content-l">
+                                    <address>San Francisco & Remote</address>
+                                    <strong class="title">Product Design Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3839016?gh_jid=3839016" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="senior product designer ">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote USA</address>
+                                    <strong class="title">Senior Product Designer </strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3087387?gh_jid=3087387" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                <li>
+                        <a href="#" data-more><span class="icon"></span>Engineering <span class="badge">5</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="senior software engineer, fullstack ">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote, USA</address>
+                                    <strong class="title">Senior Software Engineer, Fullstack </strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3920931?gh_jid=3920931" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="senior software engineer, infrastructure">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote USA</address>
+                                    <strong class="title">Senior Software Engineer, Infrastructure</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3924649?gh_jid=3924649" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="software engineer, full stack">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote, USA</address>
+                                    <strong class="title">Software Engineer, Full Stack</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3920890?gh_jid=3920890" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="software engineer, infrastructure">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote USA</address>
+                                    <strong class="title">Software Engineer, Infrastructure</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3924606?gh_jid=3924606" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="technical lead manager, infrastructure">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote USA</address>
+                                    <strong class="title">Technical Lead Manager, Infrastructure</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3909588?gh_jid=3909588" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                <li>
+                        <a href="#" data-more><span class="icon"></span>Finance <span class="badge">3</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="new-york-city" data-job-title="global deal desk lead">
+                                <div class="content-l">
+                                    <address>New York City</address>
+                                    <strong class="title">Global Deal Desk Lead</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3522887?gh_jid=3522887" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="global deal desk lead">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Global Deal Desk Lead</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3351339?gh_jid=3351339" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="senior billing analyst/revenue accountant ">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Senior Billing Analyst/Revenue Accountant </strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3861375?gh_jid=3861375" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                                                                        <li>
+                        <a href="#" data-more><span class="icon"></span>Global Customer Success <span class="badge">5</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="singapore" data-job-title="associate csm">
+                                <div class="content-l">
+                                    <address>Singapore</address>
+                                    <strong class="title">Associate CSM</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3787131?gh_jid=3787131" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="london" data-job-title="associate csm">
+                                <div class="content-l">
+                                    <address>London</address>
+                                    <strong class="title">Associate CSM</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3791235?gh_jid=3791235" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="customer success manager">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Customer Success Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3302902?gh_jid=3302902" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="new-york-city" data-job-title="customer success manager">
+                                <div class="content-l">
+                                    <address>New York City</address>
+                                    <strong class="title">Customer Success Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3187710?gh_jid=3187710" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="new-york-city-central-east-coast-remote" data-job-title="senior solutions architect">
+                                <div class="content-l">
+                                    <address>New York City & Central/East Coast Remote</address>
+                                    <strong class="title">Senior Solutions Architect</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3791260?gh_jid=3791260" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                <li>
+                        <a href="#" data-more><span class="icon"></span>Global Marketing <span class="badge">2</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="associate product marketing manager">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Associate Product Marketing Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3800608?gh_jid=3800608" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="digital marketing copywriter">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Digital Marketing Copywriter</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3829336?gh_jid=3829336" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                <li>
+                        <a href="#" data-more><span class="icon"></span>Global Sales <span class="badge">32</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="london" data-job-title="account executive">
+                                <div class="content-l">
+                                    <address>London</address>
+                                    <strong class="title">Account Executive</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3556153?gh_jid=3556153" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="london" data-job-title="account executive - emea growth segment">
+                                <div class="content-l">
+                                    <address>London</address>
+                                    <strong class="title">Account Executive - EMEA Growth Segment</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3834412?gh_jid=3834412" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="account executive, smb">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Account Executive, SMB</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3761411?gh_jid=3761411" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="new-york" data-job-title="account executive, smb">
+                                <div class="content-l">
+                                    <address>New York</address>
+                                    <strong class="title">Account Executive, SMB</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3761422?gh_jid=3761422" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="channel partner sales manager">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Channel Partner Sales Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3802532?gh_jid=3802532" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="commercial relationship manager">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Commercial Relationship Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3458985?gh_jid=3458985" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="london" data-job-title="ent account executive - uk&i">
+                                <div class="content-l">
+                                    <address>London</address>
+                                    <strong class="title">ENT Account Executive - UK&I</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3845887?gh_jid=3845887" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="enterprise sales director">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Enterprise Sales Director</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3786922?gh_jid=3786922" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="new-york" data-job-title="enterprise sales engineer">
+                                <div class="content-l">
+                                    <address>New York</address>
+                                    <strong class="title">Enterprise Sales Engineer</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3548293?gh_jid=3548293" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="global head of revenue strategy & operations">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Global Head of Revenue Strategy & Operations</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3889419?gh_jid=3889419" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="global head of sales enablement">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Global Head of Sales Enablement</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3889500?gh_jid=3889500" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="gtm strategy analyst">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">GTM Strategy Analyst</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3835966?gh_jid=3835966" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="gtm strategy analyst (process)">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">GTM Strategy Analyst (Process)</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3835910?gh_jid=3835910" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="head of sales engineering, north america">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Head of Sales Engineering, North America</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3768538?gh_jid=3768538" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="head of strategic alliances">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Head of Strategic Alliances</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3388161?gh_jid=3388161" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="new-york-city" data-job-title="head of strategic alliances">
+                                <div class="content-l">
+                                    <address>New York City</address>
+                                    <strong class="title">Head of Strategic Alliances</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3685942?gh_jid=3685942" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="new-york-city" data-job-title="manager, smb sales">
+                                <div class="content-l">
+                                    <address>New York City</address>
+                                    <strong class="title">Manager, SMB Sales</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3761120?gh_jid=3761120" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="mid-market sales director">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Mid-Market Sales Director</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3787042?gh_jid=3787042" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="new-york-city" data-job-title="mid market sales engineer">
+                                <div class="content-l">
+                                    <address>New York City</address>
+                                    <strong class="title">Mid Market Sales Engineer</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3889512?gh_jid=3889512" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="bangalore" data-job-title="online relationship manager">
+                                <div class="content-l">
+                                    <address>Bangalore</address>
+                                    <strong class="title">Online Relationship Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3057701?gh_jid=3057701" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="partner marketing manager (contractor)">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Partner Marketing Manager (Contractor)</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3826570?gh_jid=3826570" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="bangalore" data-job-title="relationship manager">
+                                <div class="content-l">
+                                    <address>Bangalore</address>
+                                    <strong class="title">Relationship Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3526918?gh_jid=3526918" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="singapore" data-job-title="relationship manager">
+                                <div class="content-l">
+                                    <address>Singapore</address>
+                                    <strong class="title">Relationship Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3526872?gh_jid=3526872" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="relationship manager">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Relationship Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3834351?gh_jid=3834351" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="revenue strategy and operations manager">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Revenue Strategy and Operations Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3889450?gh_jid=3889450" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="london" data-job-title="sales engineer ii">
+                                <div class="content-l">
+                                    <address>London</address>
+                                    <strong class="title">Sales Engineer II</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3889473?gh_jid=3889473" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="salesforce architect ">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Salesforce Architect </strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3571194?gh_jid=3571194" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="sales system manager">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Sales System Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3571471?gh_jid=3571471" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="singapore" data-job-title="senior sales development representative">
+                                <div class="content-l">
+                                    <address>Singapore</address>
+                                    <strong class="title">Senior Sales Development Representative</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3721481?gh_jid=3721481" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="london" data-job-title="senior sales enablement manager">
+                                <div class="content-l">
+                                    <address>London</address>
+                                    <strong class="title">Senior Sales Enablement Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3588144?gh_jid=3588144" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="senior sales enablement manager">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Senior Sales Enablement Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3588034?gh_jid=3588034" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="london" data-job-title="smb sales manager emea">
+                                <div class="content-l">
+                                    <address>London</address>
+                                    <strong class="title">SMB Sales Manager EMEA</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3834471?gh_jid=3834471" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                <li>
+                        <a href="#" data-more><span class="icon"></span>Internal Analysis <span class="badge">1</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="senior data analyst">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Senior Data Analyst</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3667662?gh_jid=3667662" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                <li>
+                        <a href="#" data-more><span class="icon"></span>Legal <span class="badge">7</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="london" data-job-title="corporate counsel">
+                                <div class="content-l">
+                                    <address>London</address>
+                                    <strong class="title">Corporate Counsel</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3302944?gh_jid=3302944" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="executive assistant">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Executive Assistant</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3763923?gh_jid=3763923" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="front desk/workplace operations associate">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Front Desk/Workplace Operations Associate</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3877067?gh_jid=3877067" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="governance, risk and compliance analyst">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote USA</address>
+                                    <strong class="title">Governance, Risk and Compliance Analyst</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3883908?gh_jid=3883908" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="singapore" data-job-title="it support technician">
+                                <div class="content-l">
+                                    <address>Singapore</address>
+                                    <strong class="title">IT Support Technician</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3883880?gh_jid=3883880" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="paralegal/legal operations specialist ">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Paralegal/Legal Operations Specialist </strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3721632?gh_jid=3721632" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="senior counsel, product & privacy">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Senior Counsel, Product & Privacy</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3749137?gh_jid=3749137" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                                                                        <li>
+                        <a href="#" data-more><span class="icon"></span>People <span class="badge">8</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="recruiter, generalist ">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote USA</address>
+                                    <strong class="title">Recruiter, Generalist </strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3909894?gh_jid=3909894" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="recruiter, sales and go to market">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Recruiter, Sales and Go To Market</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3706424?gh_jid=3706424" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="recruiting coordinator">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Recruiting Coordinator</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3460803?gh_jid=3460803" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="recruiting manager, go to market">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote USA</address>
+                                    <strong class="title">Recruiting Manager, Go To Market</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3900281?gh_jid=3900281" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="singapore" data-job-title="senior hr generalist">
+                                <div class="content-l">
+                                    <address>Singapore</address>
+                                    <strong class="title">Senior HR Generalist</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3900234?gh_jid=3900234" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco-or-remote-usa" data-job-title="senior technical recruiter, product and design">
+                                <div class="content-l">
+                                    <address>San Francisco or Remote USA</address>
+                                    <strong class="title">Senior Technical Recruiter, Product and Design</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3904216?gh_jid=3904216" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="sourcer, sales and go to market">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Sourcer, Sales and Go To Market</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3706439?gh_jid=3706439" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="london" data-job-title="talent acquisition sourcer">
+                                <div class="content-l">
+                                    <address>London</address>
+                                    <strong class="title">Talent Acquisition Sourcer</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3904177?gh_jid=3904177" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                <li>
+                        <a href="#" data-more><span class="icon"></span>Product <span class="badge">1</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="staff product manager">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Staff Product Manager</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/3164962?gh_jid=3164962" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                <li>
+                        <a href="#" data-more><span class="icon"></span>Support <span class="badge">2</span></a>
+                        <div class="slide">
+                                                        <div class="content" data-job-location="san-francisco" data-job-title="customer support engineer">
+                                <div class="content-l">
+                                    <address>San Francisco</address>
+                                    <strong class="title">Customer Support Engineer</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/2248234?gh_jid=2248234" class="link blue">Apply Now</a>
+                            </div>
+                                                        <div class="content" data-job-location="barcelona" data-job-title="customer support engineer">
+                                <div class="content-l">
+                                    <address>Barcelona</address>
+                                    <strong class="title">Customer Support Engineer</strong>
+                                </div>
+                                <a href="https://ats.comparably.com/api/v1/gh/mixpanel/jobs/2386432?gh_jid=2386432" class="link blue">Apply Now</a>
+                            </div>
+                                                    </div>
+                    </li>
+                                                                                                                            </ul>
+                        </div>
+</div>
+            <footer class="footer-v3">
+   <div class="container">
+      <div class="footer-top row">
+         <div class="col-md-2">
+            <a href="/home" class="logo">
+               <svg class="fill-current" viewBox="0 0 98 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M24.2391 58.7912C29.877 58.7912 34.4475 54.2207 34.4475 48.5828C34.4475 42.9449 29.877 38.3745 24.2391 38.3745C18.6012 38.3745 14.0308 42.9449 14.0308 48.5828C14.0308 54.2207 18.6012 58.7912 24.2391 58.7912Z"></path>
+                  <path d="M54.7787 55.7046C58.7675 55.7046 62.0011 52.4716 62.0011 48.4834C62.0011 44.4952 58.7675 41.2622 54.7787 41.2622C50.7899 41.2622 47.5563 44.4952 47.5563 48.4834C47.5563 52.4716 50.7899 55.7046 54.7787 55.7046Z"></path>
+                  <path d="M78.6018 52.0652C80.547 52.0652 82.1239 50.4883 82.1239 48.5431C82.1239 46.5979 80.547 45.021 78.6018 45.021C76.6566 45.021 75.0798 46.5979 75.0798 48.5431C75.0798 50.4883 76.6566 52.0652 78.6018 52.0652Z"></path>
+               </svg>
+            </a>
+         </div>
+         <div class="col-md-10">
+            <div class="foo-nav foo-nav-updated">
+                                                      <div class="foo-col">
+                        <div class="footer-title">Product</div>
+                                                   <ul>
+                                                               <li>
+                                    <a href="/dashboards-alerts/">Team Dashboards & Alerts</a>
+                                 </li>
+                                                               <li>
+                                    <a href="/behavioral-analytics/">Interactive Reports</a>
+                                 </li>
+                                                               <li>
+                                    <a href="/segmentation/">Limitless Segmentation</a>
+                                 </li>
+                                                               <li>
+                                    <a href="/group-analytics/">Group Analytics</a>
+                                 </li>
+                                                               <li>
+                                    <a href="/data-integrations/">Data Integrations</a>
+                                 </li>
+                                                               <li>
+                                    <a href="/scale/">Scalable Infrastructure</a>
+                                 </li>
+                                                               <li>
+                                    <a href="/security-privacy/">Security & Privacy</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/partners/integrations">Integration Directory</a>
+                                 </li>
+                                                         </ul>
+                                             </div>
+                                       <div class="foo-col">
+                        <div class="footer-title">Solutions</div>
+                                                   <ul>
+                                                               <li>
+                                    <a href="/solutions/convert/">Convert</a>
+                                 </li>
+                                                               <li>
+                                    <a href="/solutions/engage/">Engage</a>
+                                 </li>
+                                                               <li>
+                                    <a href="/solutions/retain/">Retain</a>
+                                 </li>
+                                                         </ul>
+                                             </div>
+                                       <div class="foo-col">
+                        <div class="footer-title">Resources</div>
+                                                   <ul>
+                                                               <li>
+                                    <a href="https://community.mixpanel.com/product-updates">Product Updates</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/customers/">Customer Stories</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/blog/">Blog</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mxpnl.notion.site/mxpnl/Mixpanel-FAQs-57176b0d11704e56b5f5567355f15081">FAQs</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/resources/">Content Library</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/webinars/">Digital Events</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://community.mixpanel.com/?&utm_campaign=mp-links&utm_content=resources&utm_medium=weblink&utm_source=in-product">User Community</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/partners/experts">Partners</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://testimonial.to/mixpanel/all">Testimonials</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/topics/">Topics</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/sitemap/">Sitemap</a>
+                                 </li>
+                                                         </ul>
+                                             </div>
+                                       <div class="foo-col">
+                        <div class="footer-title">Support</div>
+                                                   <ul>
+                                                               <li>
+                                    <a href="https://help.mixpanel.com/hc/en-us/requests/new">Contact Us</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://developer.mixpanel.com/docs">Developer Docs</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://help.mixpanel.com/hc">Help Center</a>
+                                 </li>
+                                                         </ul>
+                                             </div>
+                                       <div class="foo-col">
+                        <div class="footer-title">Company</div>
+                                                   <ul>
+                                                               <li>
+                                    <a href="https://mixpanel.com/about">About Us</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/news/">Press</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/jobs">Careers</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/legal">Legal</a>
+                                 </li>
+                                                               <li>
+                                    <a href="https://mixpanel.com/legal/privacy-policy/">Privacy Policy</a>
+                                 </li>
+                                                         </ul>
+                                             </div>
+                                             </div>
+         </div>
+      </div>
+      <div class="footer-bottom">
+                     <ul class="social-networks">
+                                 <li><a href="https://www.linkedin.com/company/mixpanel-inc-" class="icon-linkedin" target="blank"></a></li>
+                                 <li><a href="https://www.facebook.com/mixpanel/" class="icon-facebook" target="blank"></a></li>
+                                 <li><a href="https://twitter.com/mixpanel" class="icon-twitter" target="blank"></a></li>
+                                 <li><a href="https://www.instagram.com/mixpanel/" class="icon-instagram-o" target="blank"></a></li>
+                           </ul>
+                  <ul class="list">
+            <li class="copyright">© 2022 Mixpanel. All rights reserved</li>
+                     </ul>
+      </div>
+   </div>
+</footer>
+   <script id="tpl_custom_event_editor" type="text/template">
+    <div class="ce_contents"></div>
+</script>
+
+<script id="tpl_ce_intro" type="text/template">
+    <div class="ce_intro">
+        <div class="ce_body">
+            <video class="ce_intro_video"
+                   src="https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/themes/mixpanel/assets//site_media/images/reports/funnels3/custom_events_tutorial.webmhd.webm"
+                   autoplay loop></video>
+        </div>
+        <!-- .ce_body -->
+        <div class="footer">
+            <div class="copy">A custom event allows you to use a combination of events as if it were a
+                single event. Now you can have any number of events and properties in a single funnel
+                step.
+            </div>
+            <a class="ce_button_begin button_primary button">Continue</a></div>
+    </div>
+</script>
+
+<script id="tpl_ce_overview" type="text/template">
+    <div>
+        <div
+                class="ce_header"><% var name = d.state.get('name'); %><% if (name) { %><%- 'Edit custom event - ' + name %><% } else { %>
+            New custom event
+            <% } %></div>
+        <div class="ce_add_alternative_modal"></div>
+        <div class="ce_add_alternative_wrapper">
+            <div class="ce_add_alternative"></div>
+        </div>
+        <div class="ce_overview_body">
+            <div class="ce_alternatives_list_title">Match my custom event when any of the following
+                events happen:
+            </div>
+            <div class="ce_alternatives">
+                <div class="labels">
+                    <div class="grey_vert"></div>
+                    <div class="grey_horz"></div>
+                    <div class="label_cell placeholder_cell" style="visibility: hidden">x</div>
+                    <% _.each(_.range(d.alternatives.length - 1), function(ix) { %>
+                    <div class="label_cell op_cell">
+                        <div class="bool_op">or</div>
+                    </div>
+                    <% }); /* each alternative after the first */ %>
+                </div>
+                <% if (d.alternatives.length > 0) { %><% d.alternatives.each(function(alt, index) {
+                %>
+                <div class="alternative"><a class="alternative_event"><%-
+                    mp.utility.rename_mp_event(alt.get('display_name') || alt.get('event'))
+                    %></a><span class="django_spaceless_is_buggy">&nbsp</span><span
+                            class="alternative_conditions"><%- d.conditions_messages[index] %></span>
+
+                    <div class="controls edit" data-alternative_index="<%- index %>">
+                        <div class="icon"></div>
+                    </div>
+                    <div class="controls delete" data-alternative_id="<%- alt.cid %>">
+                        <div class="icon"></div>
+                    </div>
+                </div>
+                <% }); /* each alternative */ %><% } else { %>
+                <div class="alternative no_events"><a class="alternative_event"><span
+                                class="copy">Add an event</span></a>
+
+                    <div class="blue_plus"></div>
+                </div>
+                <% } %>
+                <div class="add_alternative_row">
+                    <div class="ce_button_add_alternative"></div>
+                </div>
+            </div>
+        </div>
+        <!-- .ce_body -->
+        <div class="footer"><% if (d.state.get_event_id()) { %><a class="ce_button_delete"
+                                                                  title="Delete this custom event"></a><%
+            } %><a class="ce_button_save button_primary button disabled">Save</a>
+
+            <div class="ce_name disabled"><input type="text" placeholder="Name this custom event"
+                                                 value="<%- d.state.get('name') %>"
+                                                 class="ce_name_input">
+
+                <div class="error_flash" style="display: none;">A custom event with this name
+                    already exists
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="confirm"><span class="confirm_txt">Are you sure?</span><a
+                        class="confirm_btn ce_button_yes">Yes</a> &bull; <a
+                        class="confirm_btn ce_button_no">No</a></div>
+        </div>
+    </div>
+</script>
+
+<script id="tpl_ce_affected_notifs" type="text/template">
+    <span class="affected"><%- d.num_notifs %> notification<% if (d.num_notifs > 1) { %>s<% } %> using this event will be paused.</span>
+</script>        <mp-gdpr-banner></mp-gdpr-banner>
+</div>
+<style>
+    form.mktoForm{
+        margin: auto;
+        width: 714px !important;
+    }
+    form.mktoForm .mktoFormRow:nth-child(2), /*fullname*/
+    form.mktoForm .mktoFormRow:nth-child(3), /*company name*/
+    form.mktoForm .mktoFormRow:nth-child(4){ /*email*/
+        clear: none;
+        width: 50%;
+        float: left;
+    }
+    form.mktoForm .mktoFormRow:nth-child(5), /*phone number*/
+    form.mktoForm .mktoFormRow:nth-child(6){ /*company size*/
+        clear: none;
+        width: 25%;
+        float: left;
+        padding-left: 18px;
+        margin-bottom: 22px;
+    }
+
+    form.mktoForm .mktoFormRow:nth-child(7){ /*textarea*/
+        width: 100%;
+    }
+    form.mktoForm .mktoFormRow .mktoFieldWrap,
+    form.mktoForm .mktoFormRow .mktoFieldDescriptor{
+        width: 100%;
+    }
+
+    form.mktoForm .mktoFormRow:nth-child(2),
+    form.mktoForm .mktoFormRow:nth-child(4){
+        padding-right: 18px;
+    }
+
+    form.mktoForm .mktoFormRow:nth-child(3){ /*company name*/
+        padding-left: 18px;
+        margin-bottom: 22px;
+    }
+
+    form.mktoForm .mktoFormRow:nth-child(5){ /*phone num*/
+        padding-left: 18px;
+        padding-right: 15px;
+    }
+
+    form.mktoForm .mktoOffset{
+        display: none;
+    }
+
+    form.mktoForm .mktoLabel{
+        text-transform: uppercase;
+        font-family: brandon-grotesque, sans-serif;
+        font-size: 11px;
+        font-weight: 900;
+        letter-spacing: .3px;
+        margin-bottom: 12px;
+        text-align: left;
+        width: auto !important;
+    }
+
+    form.mktoForm .mktoAsterix{
+        color: #e2587d;
+        font-family: Lato, sans-serif;
+        margin-left: -3px !important;
+        margin-top: -3px;
+        font-size: 16px !important;
+    }
+
+    form.mktoForm input[type=text],
+    form.mktoForm input[type=email],
+    form.mktoForm input[type=tel],
+    form.mktoForm select,
+    form.mktoForm textarea
+    {
+        background-color: #fff;
+        border: 1px solid #d8e0e6;
+        border-radius: 4px;
+        color: #434e5a;
+        font-family: Lato, sans-serif;
+        font-size: 16px;
+        padding: 12px 15px !important;
+        width: 100% !important;
+    }
+
+    form.mktoForm textarea{
+        height: 88px !important;
+        margin-bottom: 20px !important;
+        font-size: 16px !important;
+    }
+
+    form.mktoForm select{
+        height: 45px;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        padding-left: 15px;
+        font-size: 15px;
+        color: #848f97;
+    }
+    form.mktoForm .mktoField--select .mktoFieldWrap:after{ /*select*/
+        display: block;
+        content: "";
+        width: 8px;
+        height: 6px;
+        position: absolute;
+        right: 17px;
+        bottom: 18px;
+        pointer-events: none;
+        background:url(/wp-content/themes/mixpanel/assets/compiled/images/dropdown_arrow_new.png) no-repeat;
+    }
+    form.mktoForm input[type=text]:focus,
+    form.mktoForm input[type=email]:focus,
+    form.mktoForm input[type=tel]:focus,
+    form.mktoForm select:focus,
+    form.mktoForm textarea:focus{
+        border: 1px solid #b0bbca;
+        box-shadow: inset 0 2px 0 0 rgba(188, 198, 211, 0.14);
+        outline: 0;
+    }
+
+    form.mktoForm .mktoButtonRow{
+        width: 100%;
+        text-align:center;
+    }
+    form.mktoForm .mktoButtonWrap{
+        margin: auto !important;
+    }
+    form.mktoForm .mktoButton{
+        transition: background-color .3s;
+        width: 190px;
+        border: 0 !important;
+        border-radius: 4px;
+        color: #fff;
+        cursor: pointer;
+        display: block;
+        font-family: brandon-grotesque, sans-serif;
+        font-size: 13px;
+        font-weight: 900;
+        height: 44px;
+        letter-spacing: .5px;
+        margin: 0 auto 60px;
+        outline: 0;
+        text-transform: uppercase;
+        background-color: #3b99f0;
+        background-image: none;
+    }
+
+    form.mktoForm .mktoButton:hover{
+        background-color: #4ba8ff;
+        box-shadow: 0 7px 13px 0 rgba(27, 58, 108, 0.11), 0 3px 8px 0 rgba(27, 58, 108, 0.11);
+    }
+
+    form.mktoForm .mktoError{
+
+    }
+
+    form.mktoForm .mktoErrorMsg{
+        background-color: #e2587d !important;
+        border-radius: 3px !important;
+        font-family: brandon-grotesque, sans-serif !important;
+        font-size: 11px !important;
+        font-weight: 900 !important;
+        letter-spacing: .9px;
+        margin-top: -2px;
+        background-image: none !important;
+        box-shadow: none !important;
+        border: none !important;
+        text-shadow: none !important;
+        text-transform: uppercase;
+        padding: 8px !important;
+        max-width: auto !important;
+        color: #fff !important;
+    }
+    form.mktoForm .mktoErrorArrowWrap{
+        position: relative !important;
+        top: 8px !important;
+        margin: auto !important;
+    }
+    form.mktoForm .mktoErrorArrowWrap .mktoErrorArrow{
+        background-color: #e2587d !important;
+        background-image: none !important;
+        left: 48% !important;
+        border: none !important;
+    }
+    .mktoForm .mktoError .mktoErrorMsg{
+        max-width: 800px !important;
+        text-align: center;
+    }
+    .mktoForm .mktoError .mktoErrorMsg span{
+        text-align: center;
+    }
+</style><script>
+
+    function initTrackers() {
+        console.log('GDPR script callback');
+
+        jQuery('body').addClass('gdprRestrictSnippet-callback');
+
+                    //GOOGLE ANALYTICS
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1223110-13', 'auto');
+
+    ga('send', 'pageview');
+
+    //GOOGLE TAG MANAGER
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NPFXMBL');
+
+    //MARKETO
+    (function() {
+        var didInit = false;
+        function initMunchkin() {
+            if(didInit === false) {
+                didInit = true;
+                Munchkin.init('461-OYV-624',
+                    {
+                        "cookieLifeDays" : 270
+                    }
+                );
+            }
+        }
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//munchkin.marketo.net/munchkin.js';
+        s.onreadystatechange = function() {
+            if (this.readyState == 'complete' || this.readyState == 'loaded') {
+                initMunchkin();
+            }
+        };
+        s.onload = initMunchkin;
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+
+    //DRIFT
+    setTimeout(function () {
+        !function() {
+            var t;
+            if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+                t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+                t.factory = function(e) {
+                    return function() {
+                        var n;
+                        return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+                    };
+                }, t.methods.forEach(function(e) {
+                t[e] = t.factory(e);
+            }), t.load = function(t) {
+                var e, n, o, i;
+                e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+                    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+                    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+            });
+        }();
+        drift.SNIPPET_VERSION = '0.3.1';
+        drift.load('k62kgefdgbwr');
+    }, 5000);
+        
+                setTimeout(function () {
+            (function(W,i,s,e,P,o,p){W['WisePopsObject']=P;W[P]=W[P]||function(){(W[P].q=W[P].q||[]).push(arguments)},W[P].l=1*new Date();o=i.createElement(s),p=i.getElementsByTagName(s)[0];o.async=1;o.src=e;p.parentNode.insertBefore(o,p)})(window,document,'script','//loader.wisepops.com/get-loader.js?v=1&site=yBPdQHGqzV','wisepops');
+            wisepops('options', { browserStorage: true });
+        }, 5500);
+        
+                (function () {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = 'https://d23firjw02i73g.cloudfront.net/js/app.js?version=1.11';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        })();
+                (function () {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = 'https://d1jfan28gioqbc.cloudfront.net/app.js?version=1.52';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        })();
+
+                    //////////////////////////////
+    // Social Pixels
+
+    // DO NOT MODIFY
+    // Quora Pixel Code (JS Helper)
+    !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+    qp('init', '6f9cd03d96fa40c18ca80a41a5457d46');
+    qp('track', 'ViewContent');
+
+    // End of Quora Pixel Code
+
+    ///////////////////
+    // Facebook Pixel Code
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '724456167998810');
+    fbq('track', 'PageView');
+
+    // Facebook Pixel Code End
+
+    // Facebook Pixel Events
+    document.querySelectorAll('[data-fbq-track]').forEach(function (el) {
+        el.addEventListener('click', function (event) {
+            fbq('track', event.target.getAttribute('data-fbq-track'));
+        });
+    });
+
+    if(window.location.href.indexOf('aliId=') === -1 && jQuery('[data-fbq-track-auto]').length) {
+        fbq('track', jQuery('body[data-fbq-track-auto]').data('fbq-track-auto'));
+    }
+
+    ///////////////////
+    // Linkedin Pixel Code
+
+    _linkedin_partner_id = "1372604";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+
+    (function () {
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";
+        b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+    })();
+
+    // Linkedin code end
+
+    ///////////////////
+    // Twitter Pixel Code
+
+    !function (e, t, n, s, u, a) {
+        e.twq || (s = e.twq = function () {
+            s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+        }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = '//static.ads-twitter.com/uwt.js',
+            a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+    }(window, document, 'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init', 'nvz0c');
+    twq('track', 'PageView');
+
+    // Twitter Code End
+
+        
+                    ///////////////////////////////////
+    // If Marketo Form Submitted
+
+    if(window.location.href.indexOf('aliId=') > -1) {
+        var formsPurchase = ['1044', '1899', '1833', '1089', '1837', '1895', '1632', '1277', '1193', '1452'];
+        jQuery('.message-banner-success').css({
+            display:'block'
+        });
+        // console.log(window.localStorage.getItem('marketo_form_submit_valid'));
+        // console.log(window.localStorage.getItem('marketo_form_submit_valid'));
+        // console.log('submit is valid', window.localStorage.getItem('marketo_form_submit_valid') && window.localStorage.getItem('marketo_form_submit_valid') > Date.now() - 900000);
+        var submittedFormId = false;
+        if(window.localStorage.getItem('marketo_form_submit_valid') && window.localStorage.getItem('marketo_form_submit_valid') > Date.now() - 900000) {
+            submittedFormId = window.localStorage.getItem('marketo_form_submit_id');
+        }
+
+        window.localStorage.removeItem('marketo_form_submit_valid');
+        window.localStorage.removeItem('marketo_form_submit_id');
+
+        ////////////////////////////
+        // Gartner Pixel
+        var capterra_vkey = '4f3665432a094e7b7f42af4c3239846e',
+            capterra_vid = '2111166',
+            capterra_prefix = (('https:' == document.location.protocol) ? 'https://ct.capterra.com' : 'http://ct.capterra.com');
+
+        (function() {
+            var ct = document.createElement('script'); ct.type = 'text/javascript'; ct.async = true;
+            ct.className = 'gather';
+            ct.src = capterra_prefix + '/capterra_tracker.js?vid=' + capterra_vid + '&vkey=' + capterra_vkey;
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ct, s);
+        })();
+
+        (function() {
+            setTimeout(function () {
+                qp('track', 'Generic');
+            }, 3000);
+        })();
+
+        if(submittedFormId == '1089' || submittedFormId == '1837') {
+            ////////////////////////////
+            // Tracking for Get Demo Forms (include A/B Test)
+            console.log('Get Demo Form Submitted');
+
+            jQuery('<img />', {
+                src: encodeURI('https://px.ads.linkedin.com/collect/?pid=1372604&conversionId=1366233&fmt=gif'),
+                width: '1',
+                height: '1',
+                style: 'display:none'
+            }).appendTo(jQuery('body'));
+            setTimeout(function () {
+                fbq('track', 'StartTrial');
+            }, 3000);
+        } else {
+            ////////////////////////////
+            // Tracking for Lead Forms
+            console.log('Lead Form Submitted');
+            /*jQuery('<img />', {
+                src: 'https://px.ads.linkedin.com/collect/?pid=1605562&conversionId=1707610&fmt=gif',
+                width: '1',
+                height: '1',
+                style: 'display:none'
+            }).appendTo(jQuery('body'));*/
+
+            setTimeout(function () {
+                fbq('track', 'Lead');
+            }, 3000);
+        }
+
+        (function () {
+            var s = document.getElementsByTagName("script")[0];
+            var b = document.createElement("script");
+            b.type = "text/javascript";
+            b.async = true;
+            b.src = "//platform.twitter.com/oct.js";
+            s.parentNode.insertBefore(b, s);
+        })();
+
+        setTimeout(function () {
+            /// if submitted form is Purchase
+            if (formsPurchase.includes(submittedFormId)) {
+                qp('track', 'Purchase');
+                twttr.conversion.trackPid('o2xdy', {tw_sale_amount: 0, tw_order_quantity: 0});
+            } else {
+                /// if submitted form is GenerateLead
+                twttr.conversion.trackPid('o2xdw', {tw_sale_amount: 0, tw_order_quantity: 0});
+                qp('track', 'GenerateLead');
+            }
+        }, 1000);
+    
+    }
+
+    // If Marketo Form Submitted END
+    ///////////////////////////////////
+            }
+
+
+
+    if(window.gdprRestrictSnippet){
+        console.log('GDPR script pre-loaded');
+        window.gdprRestrictSnippet(initTrackers);
+    } else {
+        var gdprScript = document.querySelector('#gdprScript');
+        gdprScript.addEventListener('load', function() {
+            console.log('GDPR script loaded');
+            window.gdprRestrictSnippet(initTrackers);
+        });
+    }
+</script>
+<script>
+jQuery(document).ready(function($){
+   $('body').addClass('new-header-footer');
+
+});
+
+</script><script type='text/javascript' src='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/plugins/heroic-table-of-contents/dist/script.min.js?ver=1639008909' id='ht_toc-script-js-js'></script>
+<script type='text/javascript' src='https://www.youtube.com/iframe_api' id='yt-embed-js'></script>
+<script type='text/javascript' src='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/themes/mixpanel/assets/v2/compiled/js/ads.js?ver=3.1.60' id='base-theme-ads-js'></script>
+<script type='text/javascript' src='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-content/themes/mixpanel/assets/v3/compiled/js/theme.js?ver=3.1.60' id='base-theme-script-js'></script>
+<script type='text/javascript' src='https://px6vg4ekvl21gtxs836x5jyx-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>
+
+
+<script>
+    window.onload = function() {
+        setTimeout(function () {
+            if( window.canRunAds === undefined && document.getElementById('check-adblock-pixel') === null){
+                document.getElementById('message-adblock').removeAttribute('style');
+            }
+        }, 3000);
+    }
+</script>
+</body>
+</html>

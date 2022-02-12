@@ -1,0 +1,112 @@
+
+  <a data-mapped="true" href="/dovetail/jobs/4303574004">Principal Engineer</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181627004">Senior Software Engineer</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181676004">Software Engineer</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4253083004">Software Engineer (Growth)</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181633004">Software Engineer, Marketing</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4253104004">Web Developer</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4322852004">Demand Generation Lead</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4322916004">Demand Generation Lead</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4225060004">Marketing Manager, Employer Brand </a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181723004">Product Marketing Lead</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4186981004">Product Marketing Lead</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181729004">Product Marketing Manager</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4253095004">Data Analyst (Growth)</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181733004">Senior Marketing Manager</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4303970004">Visual Designer</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4303954004">Head of People</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4302170004">IT Manager</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181725004">Recruiter</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181689004">Product Manager</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4228888004">Product Manager, Platform</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181658004">Account Executive</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181673004">Customer Success Manager</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181679004">Customer Support Specialist </a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4226252004">Head of Customer Success</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181732004">Sales Development Representative</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4304010004">Platform Engineer</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181670004">Head of Engineering</a>
+  <br>
+  <span class="location">Sydney</span>
+
+  <a data-mapped="true" href="/dovetail/jobs/4181641004">Engineering Manager</a>
+  <br>
+  <span class="location">Sydney</span>

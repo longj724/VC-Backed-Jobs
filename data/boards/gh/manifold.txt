@@ -1,0 +1,1060 @@
+<!doctype html><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Manifold">
+    <meta name="description" content="Imagine your best weeks as an engineer: flow, breakthroughs, inventions. What if every week could be like that?">
+    <meta name="generator" content="HubSpot">
+    <title>Manifold | Careers</title>
+    <link rel="shortcut icon" href="https://www.manifold.ai/hubfs/Mark-3.png">
+    
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="Imagine your best weeks as an engineer: flow, breakthroughs, inventions. What if every week could be like that?">
+    <meta property="og:title" content="Manifold | Careers">
+    <meta name="twitter:description" content="Imagine your best weeks as an engineer: flow, breakthroughs, inventions. What if every week could be like that?">
+    <meta name="twitter:title" content="Manifold | Careers">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://www.manifold.ai/hs-fs/hub/4584542/hub_generated/module_assets/7804740066/1610658920838/module_7804740066_Hero_-_Jan21.min.css">
+<link rel="stylesheet" href="https://www.manifold.ai/hubfs/hs_marketplace_assets/modules/Testimonial%20Slider/5/slick.min.css">
+<link rel="stylesheet" href="https://www.manifold.ai/hs-fs/hub/4584542/hub_generated/module_assets/39741671333/1614802227057/module_39741671333_Problems_-_Jan21.min.css">
+
+<style>
+  #hs-testimonial-slider_module_1609858636560224 figure {
+    width: px;
+		height: px;
+  }
+</style>
+
+<link rel="stylesheet" href="/hs/hsstatic/slick/static-1.56/bundles/project.css">
+<link rel="stylesheet" href="/hs/hsstatic/legacy-module-support/static-1.27/bundles/legacyGalleryModule.css">
+<link rel="stylesheet" href="https://www.manifold.ai/hs-fs/hub/4584542/hub_generated/template_assets/29560613917/1644262658557/MANIFOLD_2020/Coded_Files/MANIFOLD_May2020-style.min.css">
+<link rel="stylesheet" href="https://www.manifold.ai/hs-fs/hub/4584542/hub_generated/module_assets/20632554789/1590079213307/module_20632554789_Icon_w_Heading_Text_-_Aug19.min.css">
+<link rel="stylesheet" href="https://www.manifold.ai/hs-fs/hub/4584542/hub_generated/module_assets/29120213683/1589905701814/module_29120213683_Home_Page_Social_-_May20.min.css">
+    
+
+    
+<!--  Added by GoogleAnalytics integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+_hsp.push(['addPrivacyConsentListener', function(consent) { if (consent.allowed || (consent.categories && consent.categories.analytics)) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create','UA-98325273-1','auto');
+  ga('send','pageview');
+}}]);
+</script>
+
+<!-- /Added by GoogleAnalytics integration -->
+
+    <link rel="canonical" href="https://www.manifold.ai/careers">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta property="og:url" content="https://www.manifold.ai/careers">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="en">
+<link rel="stylesheet" href="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1644466642549/hubspot/hubspot_default/shared/responsive/layout.min.css">
+
+
+<link rel="stylesheet" href="https://www.manifold.ai/hs-fs/hub/4584542/hub_generated/template_assets/38755916803/1638398066072/In_Development/MANIFOLD_Jan21-style.min.css">
+
+
+
+
+</head>
+<body class="hs-site-page hs-careers-page   hs-content-id-43352469854 hs-site-page page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/7804740080.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-header" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span3 widget-span widget-type-custom_widget custom-logo" style="" data-widget-type="custom_widget" data-x="0" data-w="3">
+<div id="hs_cos_wrapper_module_151811932754921" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+  
+
+
+
+  <span id="hs_cos_wrapper_module_151811932754921_hs_logo_widget" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="/?hsLang=en" id="hs-link-module_151811932754921_hs_logo_widget" style="border-width:0px;border:0px;"><img src="https://www.manifold.ai/hubfs/MANIFOLD_May2018/images/logo.svg" class="hs-image-widget " style="width:140px;border-width:0px;border:0px;" width="140" alt="MANIFOLD" title="MANIFOLD"></a></span>
+</div>
+
+</div><!--end widget-span -->
+<div class="span9 widget-span widget-type-custom_widget custom-menu-primary" style="" data-widget-type="custom_widget" data-x="3" data-w="9">
+<div id="hs_cos_wrapper_module_15883417285381132" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_15883417285381132_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_15883417285381132_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="5828259607" aria-label="Navigation Menu">
+ <ul role="menu" class="active-branch">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.manifold.ai/about" role="menuitem">ABOUT</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 active active-branch" role="none"><a href="https://www.manifold.ai/careers" role="menuitem">CAREERS</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16098757907591319" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="hero">
+      <img src="https://www.manifold.ai/hubfs/Website%20Images/hero_careers.png" alt="hero_careers">
+    <div class="page-center">
+      <div class="hs-text">
+        <h1>Our Vision: A World<br>Innovating Faster<br>Together on the<br><span class="lowlight">Problems that Matter</span></h1>
+        <h4></h4>
+      </div>
+    </div>
+  </div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1527241277066661" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="hs-bookmark-group">
+    <div class="hs-bookmark-wrap fixed">
+      <span id="hs_cos_wrapper_module_1527241277066661_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_1527241277066661_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.manifold.ai/careers-at-manifold#focus" role="menuitem" target="_self">Our Focus</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.manifold.ai/careers-at-manifold#benefits" role="menuitem" target="_self">Our Benefits</a></li>
+ </ul>
+</div></span>
+    </div>
+    <div class="hs-bookmark-wrap">
+      <span id="hs_cos_wrapper_module_1527241277066661_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_1527241277066661_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.manifold.ai/careers-at-manifold#focus" role="menuitem" target="_self">Our Focus</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.manifold.ai/careers-at-manifold#benefits" role="menuitem" target="_self">Our Benefits</a></li>
+ </ul>
+</div></span>
+    </div>
+  </div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell hs-section hs-car-sec" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="padding-top: 40px;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1570025495282976" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1570025495282976_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="font-size: 24px; text-align: left;"><span style="color: #1c1238;">Imagine your best weeks as an engineer—flow, breakthroughs, inventions.</span> <br><strong><span style="color: #685bc7;">What if every week could be like that?</span></strong></p></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="padding-bottom: 40px;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1631044279474399" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1631044279474399_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="cta"><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-f250a540-11e5-4873-8a12-8f1a88ed1ceb"><span class="hs-cta-node hs-cta-f250a540-11e5-4873-8a12-8f1a88ed1ceb" id="hs-cta-f250a540-11e5-4873-8a12-8f1a88ed1ceb"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/4584542/f250a540-11e5-4873-8a12-8f1a88ed1ceb" target="_blank" rel="noopener"><img class="hs-cta-img" id="hs-cta-img-f250a540-11e5-4873-8a12-8f1a88ed1ceb" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/4584542/f250a540-11e5-4873-8a12-8f1a88ed1ceb.png" alt="SEE OPEN ROLES"></a></span><script charset="utf-8" src="/hs/cta/cta/current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(4584542, 'f250a540-11e5-4873-8a12-8f1a88ed1ceb', {"useNewLoader":"true","region":"na1"}); </script></span><!-- end HubSpot Call-to-Action Code --></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div id="testimonial1" class="span12 widget-span widget-type-cell hs-section hs-car-sec" style="background: #F5F7F8;" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1609858636560224" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="problems"> 
+  <h1>Solutions to Hard, Impactful Problems</h1>
+  <div id="hs-testimonial-slider_module_1609858636560224" class="hs-testimonial-slider">
+        
+      <div class="hs-testimonial">
+       <div class="row">
+        <blockquote>
+      <main>
+        <div class="quote">
+          <p>Design and engineer modern machine learning platform to enable data scientists to put models into production and have the forecasts available in downstream applications.</p>
+        </div>
+      </main>
+        </blockquote>
+       </div>     
+      </div>
+        
+      <div class="hs-testimonial">
+       <div class="row">
+        <blockquote>
+      <main>
+        <div class="quote">
+          <p>Design and engineer a prediction service using wearable data to infer illness even before symptoms showed up.</p>
+        </div>
+      </main>
+        </blockquote>
+       </div>     
+      </div>
+        
+      <div class="hs-testimonial">
+       <div class="row">
+        <blockquote>
+      <main>
+        <div class="quote">
+          Design and engineer an entity resolution system for disparate provider datasets enabling having the right conversation with the right physician about the right therapeutic.
+        </div>
+      </main>
+        </blockquote>
+       </div>     
+      </div>
+        
+      <div class="hs-testimonial">
+       <div class="row">
+        <blockquote>
+      <main>
+        <div class="quote">
+          Design and engineer data pipelines to aggregate and process disparate health insurer data to enable analytics on all of the data in one place.
+        </div>
+      </main>
+        </blockquote>
+       </div>     
+      </div>
+        
+      <div class="hs-testimonial">
+       <div class="row">
+        <blockquote>
+      <main>
+        <div class="quote">
+          Design and engineer a novel deep-learning framework for pharmacokinetics/pharmacodynamics (PK/PD) modeling, to replace more manual inverse modeling with more automated and generalizable forward modeling.
+        </div>
+      </main>
+        </blockquote>
+       </div>     
+      </div>
+        
+      <div class="hs-testimonial">
+       <div class="row">
+        <blockquote>
+      <main>
+        <div class="quote">
+          Design and engineer a data product to put various data layers into one app with a snappy interface, enabling better capital allocation decisions in a real estate investment company.
+        </div>
+      </main>
+        </blockquote>
+       </div>     
+      </div>
+        
+      <div class="hs-testimonial">
+       <div class="row">
+        <blockquote>
+      <main>
+        <div class="quote">
+          Design and engineer a recommendation system for post-acute care, using machine learning on data for millions of patients—and with sufficient model explainability for user trust.
+        </div>
+      </main>
+        </blockquote>
+       </div>     
+      </div>
+    
+  </div>
+</div> 
+
+
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-8 ">
+<div class="row-fluid ">
+<div id="focus" class="span12 widget-span widget-type-cell hs-section hs-car-sec hs-car-sec1" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-9 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1609858816524284" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-section_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1609858816524284_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_section_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="section_header"><div class="page-header section-header"><h1>Our Focus</h1><p class="secondary-header"><span id="hs_cos_wrapper_subheader" class="section-subheader">Doing our most creative work without the frictions  of bureaucratic decision-making and inefficient meetings.</span></p></div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-10 ">
+<div class="row-fluid ">
+<div id="impact" class="span12 widget-span widget-type-cell hs-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-11 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-12 ">
+<div class="row-fluid ">
+<div class="span7 widget-span widget-type-widget_container hs-flex hs-full" style="padding-right: 70px;" data-widget-type="widget_container" data-x="0" data-w="7">
+<span id="hs_cos_wrapper_module_1527241619071691" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469864" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_widget_43352469864_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2>Impactful Work</h2>
+<h4>Others will actively use what you create.</h4>
+<p>We discover and develop software products—not research, not Powerpoint presentations, not Jupyter Notebooks. The most exciting part of the product development lifecycle is getting to v1 or v2, rather than v77 of a system that has been running for years. Because we partner with global companies, your code will affect thousands to millions of people.</p>
+<p>Your work may even result in patents; several have already been filed and awarded based on our efforts.</p></span></div></span>
+</div><!--end widget-span -->
+<div class="span5 widget-span widget-type-widget_container hs-flex hs-full" style="padding-top: 30px;" data-widget-type="widget_container" data-x="7" data-w="5">
+<span id="hs_cos_wrapper_module_1570024135150354" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469862" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="hs-img-shadow">
+
+    
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_widget_43352469862_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/MANIFOLD_32A3468.jpg?width=3600&amp;name=MANIFOLD_32A3468.jpg" class="hs-image-widget " style="width:3600px;border-width:0px;border:0px;" width="3600" alt="Two people sitting side-by-side pair programming" title="Two people sitting side-by-side pair programming" srcset="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/MANIFOLD_32A3468.jpg?width=1800&amp;name=MANIFOLD_32A3468.jpg 1800w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/MANIFOLD_32A3468.jpg?width=3600&amp;name=MANIFOLD_32A3468.jpg 3600w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/MANIFOLD_32A3468.jpg?width=5400&amp;name=MANIFOLD_32A3468.jpg 5400w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/MANIFOLD_32A3468.jpg?width=7200&amp;name=MANIFOLD_32A3468.jpg 7200w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/MANIFOLD_32A3468.jpg?width=9000&amp;name=MANIFOLD_32A3468.jpg 9000w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/MANIFOLD_32A3468.jpg?width=10800&amp;name=MANIFOLD_32A3468.jpg 10800w" sizes="(max-width: 3600px) 100vw, 3600px"></span>
+</div></div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-13 ">
+<div class="row-fluid ">
+<div id="experience" class="span12 widget-span widget-type-cell hs-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-14 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-15 ">
+<div class="row-fluid ">
+<div class="span5 widget-span widget-type-widget_container hs-flex hs-full" style="padding-top: 25px;" data-widget-type="widget_container" data-x="0" data-w="5">
+<span id="hs_cos_wrapper_module_15700266437411641" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469858" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_widget_43352469858_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/CapabilitiesTools.png?width=1132&amp;name=CapabilitiesTools.png" class="hs-image-widget " style="width:1132px;border-width:0px;border:0px;" width="1132" alt="CapabilitiesTools" title="CapabilitiesTools" srcset="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/CapabilitiesTools.png?width=566&amp;name=CapabilitiesTools.png 566w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/CapabilitiesTools.png?width=1132&amp;name=CapabilitiesTools.png 1132w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/CapabilitiesTools.png?width=1698&amp;name=CapabilitiesTools.png 1698w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/CapabilitiesTools.png?width=2264&amp;name=CapabilitiesTools.png 2264w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/CapabilitiesTools.png?width=2830&amp;name=CapabilitiesTools.png 2830w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/CapabilitiesTools.png?width=3396&amp;name=CapabilitiesTools.png 3396w" sizes="(max-width: 1132px) 100vw, 1132px"></span></div></span>
+</div><!--end widget-span -->
+<div class="span7 widget-span widget-type-widget_container hs-flex hs-full" style="padding-left: 70px;" data-widget-type="widget_container" data-x="5" data-w="7">
+<span id="hs_cos_wrapper_module_15700266437411643" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469860" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_widget_43352469860_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2>New Products &amp; Modern Tools</h2>
+<h4>You will ship new products and use a variety of cutting-edge tools.</h4>
+<p>Our teams regularly work on new products, across data engineering, machine learning, and machine learning engineering. You’ll experience the entire product development lifecycle.</p>
+<p>You’ll work with modern tools and applications, including Python and the PyData stack (including NumPy, Pandas, sklearn, SciPy, OpenCV), Docker, Kubernetes, Terraform, MLflow, Dask, PyTorch, Airflow, AWS (including tools such as Athena, Redshift, BigQuery, and ElasticSearch), Azure, Google Cloud (including tools such as TensorFlow), Apache Beam, Spark, and Kafka.</p>
+<p>You’ll also gain insight into how to connect technical work to vertical-specific business processes, perhaps leading to software and ML-oriented company creation ideas.</p></span></div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-16 ">
+<div class="row-fluid ">
+<div id="culture" class="span12 widget-span widget-type-cell hs-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-17 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-18 ">
+<div class="row-fluid ">
+<div class="span7 widget-span widget-type-widget_container hs-flex hs-full" style="padding-right: 70px;" data-widget-type="widget_container" data-x="0" data-w="7">
+<span id="hs_cos_wrapper_module_1570024868766728" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469877" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_widget_43352469877_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2>Deep Work</h2>
+<h4><span>We think deeply about problems to arrive at breakthrough solutions</span>.</h4>
+<p>To enable you to do your best work, we minimize interruptions that take away from your ability to think deeply about problems. While meetings sometimes really are the best way to communicate, we try to keep them to a minimum. We have a culture that is largely writing-driven (for reasons that are similar to what's <a href="https://www.linkedin.com/pulse/beauty-amazons-6-pager-brad-porter/" rel="noopener" target="_blank">articulated here</a>) to ensure that we are being efficient with our time.</p></span></div></span>
+</div><!--end widget-span -->
+<div class="span5 widget-span widget-type-widget_container hs-flex hs-full" style="padding-top: 30px;" data-widget-type="widget_container" data-x="7" data-w="5">
+<span id="hs_cos_wrapper_module_1570024868766730" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469866" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="hs-img-shadow">
+
+    
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_widget_43352469866_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/respect.jpg?width=1500&amp;name=respect.jpg" class="hs-image-widget " style="width:1500px;border-width:0px;border:0px;" width="1500" alt="respect" title="respect" srcset="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/respect.jpg?width=750&amp;name=respect.jpg 750w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/respect.jpg?width=1500&amp;name=respect.jpg 1500w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/respect.jpg?width=2250&amp;name=respect.jpg 2250w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/respect.jpg?width=3000&amp;name=respect.jpg 3000w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/respect.jpg?width=3750&amp;name=respect.jpg 3750w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/respect.jpg?width=4500&amp;name=respect.jpg 4500w" sizes="(max-width: 1500px) 100vw, 1500px"></span>
+</div></div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-19 ">
+<div class="row-fluid ">
+<div id="investment" class="span12 widget-span widget-type-cell hs-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-20 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-21 ">
+<div class="row-fluid ">
+<div class="span5 widget-span widget-type-widget_container hs-flex hs-full" style="padding-top: 30px;" data-widget-type="widget_container" data-x="0" data-w="5">
+<span id="hs_cos_wrapper_module_1570024855524712" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469878" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="hs-img-shadow">
+
+    
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_widget_43352469878_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/grow.jpg?width=1500&amp;name=grow.jpg" class="hs-image-widget " style="width:1500px;border-width:0px;border:0px;" width="1500" alt="grow" title="grow" srcset="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/grow.jpg?width=750&amp;name=grow.jpg 750w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/grow.jpg?width=1500&amp;name=grow.jpg 1500w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/grow.jpg?width=2250&amp;name=grow.jpg 2250w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/grow.jpg?width=3000&amp;name=grow.jpg 3000w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/grow.jpg?width=3750&amp;name=grow.jpg 3750w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/grow.jpg?width=4500&amp;name=grow.jpg 4500w" sizes="(max-width: 1500px) 100vw, 1500px"></span>
+</div></div></span>
+</div><!--end widget-span -->
+<div class="span7 widget-span widget-type-widget_container hs-flex hs-full" style="padding-left: 70px;" data-widget-type="widget_container" data-x="5" data-w="7">
+<span id="hs_cos_wrapper_module_1570024855524710" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469876" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_widget_43352469876_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2>Professional Growth</h2>
+<h4>We give you opportunities to build your personal network and grow your own knowledge.</h4>
+<p>We actively invest in your growth—team members have been part of patent filings, academic publications, open source contributions, and of course, blog posts, magazine articles, and speaking at events. You’ll be surrounded by other exceptional engineers, helping you to grow professionally and personally.</p>
+<p>We aim to make everyone <a href="https://www.manifold.ai/10x?hsLang=en" rel="noopener" target="_blank">10x engineers</a> through deliberate practice of making better decisions. We are particularly keen on mental models—both generally and around building data products. As an example, read about our <a href="https://www.manifold.ai/lean-ai?hsLang=en" rel="noopener" target="_blank">Lean AI process</a>.</p></span></div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-22 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1609860154568527" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_1609860154568527_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.manifold.ai/hubfs/Website%20Images/header-geo.png" class="hs-image-widget " style="max-width: 100%; height: auto;" alt="header-geo" title="header-geo"></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-23 ">
+<div class="row-fluid ">
+<div id="join" class="span12 widget-span widget-type-cell " style="background: #F5F7F8;" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-24 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-25 ">
+<div class="row-fluid ">
+<div class="span7 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="7">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-26 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="margin-top: 60px; padding-right: 60px;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1619650834251247" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-gallery" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+    
+
+
+  
+
+
+
+    
+
+
+  
+
+
+
+    
+
+
+  
+
+
+<span id="hs_cos_wrapper_module_1619650834251247_Gallery" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_gallery" style="" data-hs-cos-general-type="widget" data-hs-cos-type="gallery"><!--[if lt IE 9]><div id="hs_cos_gallery_module_1619650834251247_Gallery" class="hs_cos_gallery lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><div id="hs_cos_gallery_module_1619650834251247_Gallery" class="hs_cos_gallery"><!--<![endif]-->
+    <div class="hs_cos_gallery_main">
+                <div class="hs_cos_gallery_slide slick-slide">
+            <div class="slick-slide-inner-wrapper">
+                <img data-lazy="https://www.manifold.ai/hubfs/Website%20Images/20191220_BOSgames.jpg" alt="Team members playing board games around a table" title="Team members playing board games around a table">
+                        <div class="caption below">
+            <span><p>Taking an afternoon to engage over board games in our Newton office break room. During the pandemic, we shifted to occasional team Among Us tournaments online, making it even easier to include partners and kids.</p></span>
+        </div>
+
+            </div>
+        </div>
+
+        <div class="hs_cos_gallery_slide slick-slide">
+            <div class="slick-slide-inner-wrapper">
+                <img data-lazy="https://www.manifold.ai/hubfs/Website%20Images/20190819_AWSbootcamp.jpg" alt="Dragos and Rachel at an AWS bootcamp" title="Dragos and Rachel at an AWS bootcamp">
+                        <div class="caption below">
+            <span><p>Attending an AWS bootcamp in New York City was a great way for some of our team members to keep up on changing tool landscapes.</p></span>
+        </div>
+
+            </div>
+        </div>
+
+        <div class="hs_cos_gallery_slide slick-slide">
+            <div class="slick-slide-inner-wrapper">
+                <img data-lazy="https://www.manifold.ai/hubfs/Website%20Images/20200114_BOSfoodbank.jpg" alt="Team members sorting green peppers at a local food bank" title="Team members sorting green peppers at a local food bank">
+                        <div class="caption below">
+            <span><p>Spending a team bonding day volunteering to help sort produce at the Greater Boston Food Bank. We may or may not have been thinking about a computer vision sorting algo while we stared at green peppers.</p></span>
+        </div>
+
+            </div>
+        </div>
+
+    </div>
+    
+</div>
+</span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span5 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="7" data-w="5">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-27 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="margin-top: 60px;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1609860526279625" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1609860526279625_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h4>Join the ‘Fold</h4>
+<hr style="width: 60%; margin-left: 0; margin-right: auto; height: 1px; background-color: #ff6a39;">
+<p>We are a team of smart people working on difficult problems—but that doesn’t mean we don’t have fun together. Whether we’re talking over new ideas at a beer-garden Think ‘n’ Drink, enjoying some friendly competition on the go-kart track, or volunteering to sort produce at a local food pantry, we make time to build relationships on the team.</p>
+<p>More recently, we’ve eaten socially-distanced pizza in the park and organized remote games of Among Us that include partners and kids. And we share A LOT of pet photos (including cats, dogs, rabbits, llamas, guinea pigs, and a bird).</p></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-28 ">
+<div class="row-fluid ">
+<div id="benefits" class="span12 widget-span widget-type-cell hs-section hs-car-sec" style="padding-bottom: 100px;" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-29 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-30 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1609875138883986" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-section_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1609875138883986_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_section_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="section_header"><div class="page-header section-header"><h1>Our Benefits</h1><p class="secondary-header"><span id="hs_cos_wrapper_subheader" class="section-subheader">We want you to feel good about working here.</span></p></div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-31 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="6">
+<span id="hs_cos_wrapper_module_16098805336211541" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469870" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="padding20tb clearfix">
+    <div class="row">
+        <div class="span3 team-member-headshot text-center">
+            
+            <img src="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/vision.png?width=1250&amp;height=1250&amp;name=vision.png" width="1250" height="1250" alt="vision" srcset="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/vision.png?width=625&amp;height=625&amp;name=vision.png 625w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/vision.png?width=1250&amp;height=1250&amp;name=vision.png 1250w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/vision.png?width=1875&amp;height=1875&amp;name=vision.png 1875w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/vision.png?width=2500&amp;height=2500&amp;name=vision.png 2500w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/vision.png?width=3125&amp;height=3125&amp;name=vision.png 3125w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/vision.png?width=3750&amp;height=3750&amp;name=vision.png 3750w" sizes="(max-width: 1250px) 100vw, 1250px">
+            
+        </div>
+        <div class="span9 icon-description">
+            <h3 class="team-member-name">AUTONOMY</h3>
+            <h5 class="team-member-title"></h5>
+            <p class="team-member-bio">Engineers doing their most creative work without the frictions of bureaucratic decision-making and inefficient meetings.</p>
+        </div>
+    </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_43352469871" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="padding20tb clearfix">
+    <div class="row">
+        <div class="span3 team-member-headshot text-center">
+            
+            <img src="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/mission.png?width=1250&amp;height=1250&amp;name=mission.png" width="1250" height="1250" alt="mission" srcset="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/mission.png?width=625&amp;height=625&amp;name=mission.png 625w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/mission.png?width=1250&amp;height=1250&amp;name=mission.png 1250w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/mission.png?width=1875&amp;height=1875&amp;name=mission.png 1875w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/mission.png?width=2500&amp;height=2500&amp;name=mission.png 2500w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/mission.png?width=3125&amp;height=3125&amp;name=mission.png 3125w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/mission.png?width=3750&amp;height=3750&amp;name=mission.png 3750w" sizes="(max-width: 1250px) 100vw, 1250px">
+            
+        </div>
+        <div class="span9 icon-description">
+            <h3 class="team-member-name">GROWTH</h3>
+            <h5 class="team-member-title"></h5>
+            <p class="team-member-bio">Growing professionally and personally by working with other exceptional engineers in tackling challenging problems.</p>
+        </div>
+    </div>
+</div></div></span>
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="6" data-w="6">
+<span id="hs_cos_wrapper_module_16098805336211544" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469867" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="padding20tb clearfix">
+    <div class="row">
+        <div class="span3 team-member-headshot text-center">
+            
+            <img src="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/progress.png?width=1250&amp;height=1250&amp;name=progress.png" width="1250" height="1250" alt="progress" srcset="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/progress.png?width=625&amp;height=625&amp;name=progress.png 625w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/progress.png?width=1250&amp;height=1250&amp;name=progress.png 1250w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/progress.png?width=1875&amp;height=1875&amp;name=progress.png 1875w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/progress.png?width=2500&amp;height=2500&amp;name=progress.png 2500w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/progress.png?width=3125&amp;height=3125&amp;name=progress.png 3125w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/progress.png?width=3750&amp;height=3750&amp;name=progress.png 3750w" sizes="(max-width: 1250px) 100vw, 1250px">
+            
+        </div>
+        <div class="span9 icon-description">
+            <h3 class="team-member-name">PURPOSE</h3>
+            <h5 class="team-member-title"></h5>
+            <p class="team-member-bio"></p><p>Making the kind of impact on other organizations and people that make every day fulfilling.</p><p></p>
+        </div>
+    </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_43352469868" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="padding20tb clearfix">
+    <div class="row">
+        <div class="span3 team-member-headshot text-center">
+            
+            <img src="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/team.png?width=1250&amp;height=1250&amp;name=team.png" width="1250" height="1250" alt="team" srcset="https://www.manifold.ai/hs-fs/hubfs/Website%20Images/team.png?width=625&amp;height=625&amp;name=team.png 625w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/team.png?width=1250&amp;height=1250&amp;name=team.png 1250w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/team.png?width=1875&amp;height=1875&amp;name=team.png 1875w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/team.png?width=2500&amp;height=2500&amp;name=team.png 2500w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/team.png?width=3125&amp;height=3125&amp;name=team.png 3125w, https://www.manifold.ai/hs-fs/hubfs/Website%20Images/team.png?width=3750&amp;height=3750&amp;name=team.png 3750w" sizes="(max-width: 1250px) 100vw, 1250px">
+            
+        </div>
+        <div class="span9 icon-description">
+            <h3 class="team-member-name">CULTURE</h3>
+            <h5 class="team-member-title"></h5>
+            <p class="team-member-bio">Optimistic, curious, humble, generous, transparent, and in control of our own destiny. That's Manifold.</p>
+        </div>
+    </div>
+</div></div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-32 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16136840943662645" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_16136840943662645_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="text"><hr style="width: 40%; margin-left: auto; margin-right: auto; height: 1px; background-color: #ff6a39;"></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-33 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container hs-flex hs-full" style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_1570024603955556" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_43352469873" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="hs-two-col">
+  
+  
+    <div class="hs-col">
+        <div class="hs-text">
+            <h5>Top-Tier Health Insurance</h5>
+            <p>Manifold offers multiple medical plans to choose from, including a platinum-tier medical PPO, as well as a robust dental PPO and vision policy for you and your family.</p>
+        </div>
+    </div>
+  
+  
+    <div class="hs-col">
+        <div class="hs-text">
+            <h5>401(k) Retirement Plan</h5>
+            <p>Manifold automatically contributes 3% to your retirement plan in addition to your salary, with no vesting schedule or other gotchas. You can contribute in addition to that.</p>
+        </div>
+    </div>
+  
+  
+</div></div>
+<div id="hs_cos_wrapper_widget_43352469874" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="hs-two-col">
+  
+  
+    <div class="hs-col">
+        <div class="hs-text">
+            <h5>Work Smarter, Not Longer</h5>
+            <p>We believe that doing creative, deep work requires working smarter—not longer—both as individuals and as a team. By removing extraneous meetings and interruptions, we're able to keep to a reasonable work week, with only the occasional push.</p>
+        </div>
+    </div>
+  
+  
+    <div class="hs-col">
+        <div class="hs-text">
+            <h5>Vacations and Leave</h5>
+            <p>Manifold offers flexible paid time-off, including self-managed vacation, personal, and sick days. If you need time away, take it. We know that we do our best deep work when we're healthy and recharged.</p>
+        </div>
+    </div>
+  
+  
+</div></div>
+<div id="hs_cos_wrapper_widget_43352469875" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="hs-two-col">
+  
+  
+    <div class="hs-col">
+        <div class="hs-text">
+            <h5>Parental Leave and Support</h5>
+            <p>New parents may take up to 12 weeks of leave at 100% paid salary following the birth or adoption of their child. We also support flexible work arrangements to help team members balance family priorities with work.</p>
+        </div>
+    </div>
+  
+  
+    <div class="hs-col">
+        <div class="hs-text">
+            <h5>Flexibility</h5>
+            <p>Manifold provides a flexible environment for work-life integration. We focus on getting done what you promised, and leave it to you to attend to your personal and professional commitments.</p>
+        </div>
+    </div>
+  
+  
+</div></div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/29119502923.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-footer" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span2 widget-span widget-type-custom_widget " style="margin-top: 15px;" data-widget-type="custom_widget" data-x="0" data-w="2">
+<div id="hs_cos_wrapper_module_15888802805031410" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_15888802805031410_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.manifold.ai/hubfs/Website%20Images/mark_deeppurple.png" class="hs-image-widget " style="max-width: 100%; height: auto;" alt="Manifold's mark in deep purple" title="Manifold's mark in deep purple"></span></div>
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="2" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="margin-left: 30px; " data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15888802894181411" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_15888802894181411_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="font-family: 'Roboto Condensed',sans-serif; font-size: 1.7em; line-height: 1.25; text-transform: uppercase; margin-top: 1em;"><span style="color: #cbb8ff;">MANIFOLD</span><br><a href="https://goo.gl/maps/3aeGwz2NJoCkLjgy6" rel="nofollow noopener" target="_blank">San Francisco</a>&nbsp;&nbsp;<span style="color: #cbb8ff;">|</span>&nbsp;&nbsp;<a href="https://goo.gl/maps/TUq8ETCMRLHvhQAXA" rel="nofollow noopener" target="_blank">Boston</a></p>
+<p>&nbsp;</p></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="margin-left: 20px; margin-top: 15px;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15888856303942498" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="home-social-sharing square horizontal">
+  
+    <a style="background-color: rgba(32, 21, 71, 1.0); color: #685BC7;" href="https://www.linkedin.com/company/manifoldinc/" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="24" height="32"><title>Visit us on LinkedIn</title><path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z" /></svg>
+    </a>
+  
+  
+    <a style="background-color: rgba(32, 21, 71, 1.0); color: #685BC7;" href="https://twitter.com/manifold_ai" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="32" height="32"><title>Visit us on Twitter</title><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" /></svg>
+    </a>
+  
+  
+  
+    <a style="background-color: rgba(32, 21, 71, 1.0); color: #685BC7;" href="mailto:hello@manifold.ai">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="32" height="32"><title>Get in touch</title><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z" /></svg>
+    </a>
+  
+</div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span4 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="8" data-w="4">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="margin-left: 30px; margin-top: 35px;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1551727504170412" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1551727504170412_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5><span style="color: #cbb8ff;"><a href="/about?hsLang=en" rel=" noopener" style="color: #cbb8ff;">ABOUT</a></span></h5>
+<h5><span style="color: #cbb8ff;"><a href="/careers?hsLang=en" rel=" noopener" style="color: #cbb8ff;">CAREERS</a></span></h5></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="margin-top: 60px;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15888821312212303" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_15888821312212303_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="text">© Manifold, Inc. All rights reserved.</span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<script>
+(function () {
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/_hcms/perf', true /*async*/);
+            xhr.setRequestHeader("Content-type", "application/json");
+            xhr.onreadystatechange = function () {
+                // do nothing.
+            };
+            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+            function populateNetworkInfo(name, connection, info) {
+                if (name in connection) {
+                    info[name] = connection[name];
+                }
+            }
+            var networkInfo = {};
+            if (connection) {
+                ['type', 'effectiveType', 'downlink', 'rtt'].forEach(function(name) {
+                    populateNetworkInfo(name, connection, networkInfo);
+                });
+            }
+            var perfData = {
+                url: location.href,
+                portal: 4584542,
+                content: 43352469854,
+                group: -1,
+                connection: networkInfo,
+                timing: performance.timing
+            };
+            xhr.send(JSON.stringify(perfData));
+        }, 3000);  // Execute this 3 seconds after onload.
+    });
+})();
+</script>
+
+<script src="https://www.manifold.ai/hs-fs/hub/4584542/hub_generated/template_assets/7804740062/1589904632222/MANIFOLD_2019/Coded_Files/MANIFOLD_Feb2019-main.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js"></script>
+
+<script>
+$(document).ready(function() {
+  if ($.fn.slick) {
+      buildSlider_module_1609858636560224();
+  }
+  else {
+    $.getScript( "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js", function() {
+      $.when($.fn.slick).then(function() {
+        buildSlider_module_1609858636560224();
+      });
+    });
+  }
+  function buildSlider_module_1609858636560224() {
+  $('#hs-testimonial-slider_module_1609858636560224').slick({                                                   
+    dots: true,                    
+    arrows: false,
+    autoplay: true,
+    infinite: true,
+    autoplaySpeed: 3000,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    responsive: [
+      {
+      breakpoint: 480,
+      settings: {
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      infinite: true
+      }
+    }]
+  });   
+  }
+});
+</script>
+
+<script src="/hs/hsstatic/slick/static-1.56/bundles/project.js"></script>
+<script>
+    (function($) {
+        $(document).ready(function() {
+            $("#hs_cos_gallery_module_1619650834251247_Gallery").hsSlick(
+                {"infinite":true,"autoplay":true,"autoplaySpeed":7000.0,"adaptiveHeight":false,"arrows":true,"dots":false,"lazyLoad":"ondemand","displayMode":"standard","fade":false,"lightboxRows":3}
+             );
+        });
+    })(hsjQuery);
+</script>
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.manifold.ai\/careers"]);
+_hsq.push(["setPageId", "43352469854"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 43352469854,
+    "legacyPageId": "43352469854",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 43352469854,
+    "languageCode": "en",
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/4584542.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1644482360818,
+    page_id: 43352469854,
+    
+    content_group_id: 0,
+    portal_id: 4584542,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    analytics_page_id: "43352469854",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.119/js/index.js"></script>
+
+
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+</body></html>

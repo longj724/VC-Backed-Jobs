@@ -1,0 +1,204 @@
+
+  <a data-mapped="true" href="/dfinity/jobs/5115571002">DevOps Software Engineer</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5115589002">DevOps Software Engineer</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5506499002">Engineering Manager, Programming Languages</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5707294002">Engineering Leadership</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5084648002">Engineering Manager, Programming Languages</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5707309002">Engineering Leadership</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5167362002">Network Architect/Engineer</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5558397002">Senior Full Stack Software Engineer</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5419806002">Senior Release Management Software Engineer</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5419820002">Senior Release Management Software Engineer</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4821277002">Senior Software Engineer - Cryptography</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4817401002">Senior Software Engineer - Cryptography</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5740187002">Senior Software Engineer - Programming Languages: Garbage Collection and Runtime Systems</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5740227002">Senior Software Engineer - Programming Languages: Garbage Collection and Runtime Systems</a>
+  <br>
+  <span class="location">Palo Alto, California, United States, San Francisco, California, United States</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4994886002">Senior Software Engineer - Quality</a>
+  <br>
+  <span class="location">Zurich, CH </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4994885002">Senior Software Engineer - Quality</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4408999002">Software Engineer - Distributed Systems</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4409033002">Software Engineer - Distributed Systems</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4408989002">Software Engineer - Networking</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4408980002">Software Engineer - Networking</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4877787002">Software Engineer - Network Nervous System</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5506456002">Software Engineer - Network Nervous System</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5733719002">Software Engineer - Programming Languages</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5733706002">Software Engineer - Programming Languages</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5516547002">Software Engineer - SDK</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5516557002">Software Engineer - SDK</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4408981002">Software Engineer - Systems</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4408974002">Software Engineer - Systems</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5878472002">Financial Systems Analyst</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5840513002">Head of Financial Controlling</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5785507002">Developer Partner Manager, DeFi</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5785448002">Developer Partner Manager, DeFi</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5490180002">Developer Relations Engineer</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5785426002">Market Strategist, DeFi</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5785498002">Market Strategist, DeFi</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5420747002">Community Manager</a>
+  <br>
+  <span class="location">Remote </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5747970002">Senior Analyst, Financial Markets and Strategy</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA | New York</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5731275002">Senior Manager, Corporate Strategy</a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA | New York</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5070703002">Systems Engineer</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5093598002">Research Scientist </a>
+  <br>
+  <span class="location">San Francisco, CA | Palo Alto, CA </span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5063506002">Research Scientist </a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5144558002">Application Security Engineer</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/4815310002">Application Security Engineer</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5052732002">Infrastructure Security Engineer</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5052724002">Senior Infrastructure Security Engineer</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5052722002">Senior Infrastructure Security Engineer</a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5052743002">Senior Security Engineer, Incident Response </a>
+  <br>
+  <span class="location">Palo Alto, CA | San Francisco, CA</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5052746002">Senior Security Engineer, Incident Response </a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5052734002">Infrastructure Security Engineer</a>
+  <br>
+  <span class="location">Zurich, CH</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5910101002">Peer-to-Peer WebRTC Mobile Web Application Expert</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/dfinity/jobs/5279376002">Developer Relations Engineer</a>
+  <br>
+  <span class="location">Zurich, CH</span>

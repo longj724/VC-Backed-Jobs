@@ -1,0 +1,64 @@
+
+  <a data-mapped="true" href="/cadre/jobs/3326860">Senior Manager, Growth Marketing</a>
+  <br>
+  <span class="location">New York, NY</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3760668">Senior Frontend Engineer, Investor Experience</a>
+  <br>
+  <span class="location">New York, NY </span>
+
+  <a data-mapped="true" href="/cadre/jobs/3746340">Senior Software Engineer</a>
+  <br>
+  <span class="location">New York</span>
+
+  <a data-mapped="true" href="/cadre/jobs/1130468">Site Reliability Engineer</a>
+  <br>
+  <span class="location">New York</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3737146">Data &amp; Analytics Manager </a>
+  <br>
+  <span class="location">New York</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3623143">Accounting Manager</a>
+  <br>
+  <span class="location">New York, NY</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3616826">Senior Accountant</a>
+  <br>
+  <span class="location">New York, NY</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3869288">Acquisitions, Analyst</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3628560">Corporate Counsel</a>
+  <br>
+  <span class="location">New York</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3869291">Acquisitions, Analyst</a>
+  <br>
+  <span class="location">Chicago, Illinois, United States</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3771544">Acquisitions, Associate</a>
+  <br>
+  <span class="location">New York, NY or Chicago, IL</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3201748">Lead Product Designer</a>
+  <br>
+  <span class="location">New York</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3760582">Product Manager </a>
+  <br>
+  <span class="location">New York, NY </span>
+
+  <a data-mapped="true" href="/cadre/jobs/3836844">Client Service Associate</a>
+  <br>
+  <span class="location">New York, NY</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3746078">Investment Specialist  </a>
+  <br>
+  <span class="location">New York, NY</span>
+
+  <a data-mapped="true" href="/cadre/jobs/3836830">Account Executive</a>
+  <br>
+  <span class="location">New York</span>

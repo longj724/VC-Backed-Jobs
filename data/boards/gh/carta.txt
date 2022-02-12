@@ -1,0 +1,1297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Carta</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+        <link rel="stylesheet" media="screen" href="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/custom_css_files/400/110/100/original/custom_(3).css?1644368619" />
+
+
+
+    <meta property="og:title" content="Carta"></meta>
+    <meta property="og:description" content="At Carta, we’re building the future of equity and ownership. We’ve changed how companies, investors, and employees manage equity. Now, we’re transforming how capital markets operate. Our goal is to create more owners and increase transparency and liquidity for shareholders. More than 900,000 investors, law firms, and employees use our platform, and we manage over $575B in equity. "></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/carta"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/110/100/original/Frame_1.png?1644368482"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><a target="_blank" href="https://carta.com/"><img alt="Carta Logo" src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/110/100/resized/Frame_1.png?1644368482" width="143" height="75" /></a></div>
+
+  <h1>Carta</h1>
+
+  <div id="content">
+    <p><span style="font-weight: 400;">At Carta, we’re building the future of equity and ownership. We’ve changed how companies, investors, and employees manage equity. Now, we’re transforming how capital markets operate. Our goal is to create more owners and increase transparency and liquidity for shareholders. More than 900,000 investors, law firms, and employees use our platform, and we manage over $575B in equity. </span></p>
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+    <div class="filter-container">
+      <label class="filter-label" for="departments-select">Department</label>
+
+    <select name="departments-select" id="departments-select">
+      <option value="">All Departments</option>
+      
+
+<option value="4003684003">
+  Administrative
+</option>
+
+
+
+<option value="4005094003">
+  Broker &amp; Market Operations
+</option>
+
+
+
+<option value="4005091003">
+  Customer Implementations
+</option>
+
+
+
+<option value="4005085003">
+  Customer Success
+</option>
+
+
+
+<option value="4005090003">
+  Customer Support
+</option>
+
+
+
+<option value="4006614003">
+  Data &amp; Machine Learning
+</option>
+
+
+
+<option value="4003651003">
+  Design
+</option>
+
+
+
+<option value="4003615003">
+  Engineering
+</option>
+
+
+<option value="4003727003">
+  &#160;&#160;Mobile
+</option>
+
+
+
+<option value="4003726003">
+  &#160;&#160;Site Reliability
+</option>
+
+
+
+
+<option value="4039587003">
+  Equity Capital Markets
+</option>
+
+
+
+<option value="4003666003">
+  Finance
+</option>
+
+
+<option value="4003667003">
+  &#160;&#160;Accounting
+</option>
+
+
+
+<option value="4003669003">
+  &#160;&#160;Strategic Finance
+</option>
+
+
+
+<option value="4003670003">
+  &#160;&#160;Treasury
+</option>
+
+
+
+
+<option value="4005097003">
+  Fund Administration
+</option>
+
+
+
+<option value="4006616003">
+  Information Security &amp; IT
+</option>
+
+
+
+<option value="4003665003">
+  Legal
+</option>
+
+
+<option value="4003664003">
+  &#160;&#160;Compliance
+</option>
+
+
+
+
+<option value="4003675003">
+  Marketing
+</option>
+
+
+<option value="4003681003">
+  &#160;&#160;Growth Marketing
+</option>
+
+
+
+<option value="4003680003">
+  &#160;&#160;Marketing Operations
+</option>
+
+
+
+<option value="4003676003">
+  &#160;&#160;Product Marketing
+</option>
+
+
+
+
+<option value="4003658003">
+  People
+</option>
+
+
+<option value="4003660003">
+  &#160;&#160;Human Resources
+</option>
+
+
+
+<option value="4003662003">
+  &#160;&#160;Learning &amp; Development
+</option>
+
+
+
+<option value="4003659003">
+  &#160;&#160;Recruiting
+</option>
+
+
+
+
+<option value="4019182003">
+  Policy &amp; Strategy
+</option>
+
+
+<option value="4019183003">
+  &#160;&#160;Strategy &amp; Business Operations
+</option>
+
+
+
+
+<option value="4003649003">
+  Product
+</option>
+
+
+
+<option value="4003622003">
+  Sales
+</option>
+
+
+<option value="4003629003">
+  &#160;&#160;Account Executive
+</option>
+
+
+
+<option value="4003703003">
+  &#160;&#160;Business Development
+</option>
+
+
+
+<option value="4003638003">
+  &#160;&#160;Sales Development
+</option>
+
+
+
+
+<option value="4005086003">
+  Sales Strategy &amp; Operations
+</option>
+
+
+
+<option value="4005093003">
+  Valuations
+</option>
+
+
+
+<option value="0">
+</option>
+
+
+    </select>
+  </div>
+
+  <div class="filter-container">
+      <label class="filter-label" for="offices-select">Office</label>
+
+    <select name="offices-select" id="offices-select">
+      <option value="">All Offices</option>
+      
+
+<option value="4001900003">
+  New Jersey
+</option>
+
+
+
+<option value="4001899003">
+  New York
+</option>
+
+
+
+<option value="4029518003">
+  Remote - Canada
+</option>
+
+
+<option value="4005465003">
+  &#160;&#160;Toronto
+</option>
+
+
+
+
+<option value="4001920003">
+  Remote - USA
+</option>
+
+
+<option value="4003741003">
+  &#160;&#160;Boston
+</option>
+
+
+
+<option value="4003742003">
+  &#160;&#160;Chicago
+</option>
+
+
+
+<option value="4027384003">
+  &#160;&#160;Dallas
+</option>
+
+
+
+
+<option value="4001919003">
+  Rio de Janeiro
+</option>
+
+
+
+<option value="4001902003">
+  Salt Lake City
+</option>
+
+
+
+<option value="4001896003">
+  San Francisco
+</option>
+
+
+
+<option value="4001897003">
+  Santa Clara
+</option>
+
+
+
+<option value="4001898003">
+  Seattle
+</option>
+
+
+
+<option value="4008118003">
+  Singapore
+</option>
+
+
+
+<option value="4001901003">
+  Waterloo
+</option>
+
+
+    </select>
+  </div>
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4003684003">Administrative</h3>
+
+  <div class="opening" department_id="4003684003" office_id="4008118003" data-office-4008118003="true" data-department-4003684003="true">
+  <a data-mapped="true" href="/carta/jobs/4913072003">Manager, Corporate Secretarial Services</a>
+  <br/>
+  <span class="location">Singapore</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4005094003">Broker &amp; Market Operations</h3>
+
+  <div class="opening" department_id="4005094003" office_id="4001896003" data-office-4001896003="true" data-department-4005094003="true">
+  <a data-mapped="true" href="/carta/jobs/4931484003">CartaX Liquidity Operations Associate</a>
+  <br/>
+  <span class="location">San Francisco, CA; Santa Clara, CA; New York City, NY; Seattle, WA; Salt Lake City, UT; Hamilton NJ </span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4005091003">Customer Implementations</h3>
+
+  <div class="opening" department_id="4005091003" office_id="4001919003,4001902003,4001898003,4001900003,4001896003,4001899003" data-office-4001919003="true" data-office-4001902003="true" data-office-4001898003="true" data-office-4001900003="true" data-office-4001896003="true" data-office-4001899003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936588003">Accountant</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+</div><div class="opening" department_id="4005091003" office_id="4001919003,4001902003,4001898003,4001900003,4001896003,4001899003" data-office-4001919003="true" data-office-4001902003="true" data-office-4001898003="true" data-office-4001900003="true" data-office-4001896003="true" data-office-4001899003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936587003">Accounting for Fund Administration</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+</div><div class="opening" department_id="4005091003" office_id="4001919003,4001902003,4001898003,4001900003,4001896003,4001899003" data-office-4001919003="true" data-office-4001902003="true" data-office-4001898003="true" data-office-4001900003="true" data-office-4001896003="true" data-office-4001899003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936589003">Implementations Accountant</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+</div><div class="opening" department_id="4005091003" office_id="4001919003" data-office-4001919003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4955662003">Implementations Project Manager</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005091003" office_id="4001902003" data-office-4001902003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936565003">Implementations Project Manager</a>
+  <br/>
+  <span class="location">Salt Lake City, UT</span>
+</div><div class="opening" department_id="4005091003" office_id="4001902003" data-office-4001902003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936517003">Implementations Project Manager, Carta Total Compensation </a>
+  <br/>
+  <span class="location">Salt Lake City, UT</span>
+</div><div class="opening" department_id="4005091003" office_id="4001898003,4001900003,4001899003,4001919003,4001902003,4001897003,4001896003" data-office-4001898003="true" data-office-4001900003="true" data-office-4001899003="true" data-office-4001919003="true" data-office-4001902003="true" data-office-4001897003="true" data-office-4001896003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936521003">Implementations Project Manager, Investor Services</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+</div><div class="opening" department_id="4005091003" office_id="4001896003,4001897003,4001902003,4001919003,4001899003,4001900003,4001898003" data-office-4001896003="true" data-office-4001897003="true" data-office-4001902003="true" data-office-4001919003="true" data-office-4001899003="true" data-office-4001900003="true" data-office-4001898003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4274134003">Implementations Project Manager, Investor Services</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+</div><div class="opening" department_id="4005091003" office_id="4001919003" data-office-4001919003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936543003">Implementations Specialist</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005091003" office_id="4001919003,4001902003" data-office-4001919003="true" data-office-4001902003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4896176003">Implementations Team Lead, Carta Total Compensation</a>
+  <br/>
+  <span class="location">Rio De Janeiro, Rio De Janeiro, Brazil, Salt Lake City, Utah, United States</span>
+</div><div class="opening" department_id="4005091003" office_id="4001898003" data-office-4001898003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4901841003">Manager, Enablement</a>
+  <br/>
+  <span class="location">Seattle, WA; San Francisco, CA; New York, NY;</span>
+</div><div class="opening" department_id="4005091003" office_id="4001919003,4001902003,4001898003,4001900003,4001896003,4001899003" data-office-4001919003="true" data-office-4001902003="true" data-office-4001898003="true" data-office-4001900003="true" data-office-4001896003="true" data-office-4001899003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936590003">Onboarding Accountant</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+</div><div class="opening" department_id="4005091003" office_id="4001902003" data-office-4001902003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936569003">Onboarding Project Manager</a>
+  <br/>
+  <span class="location">Salt Lake City, Utah</span>
+</div><div class="opening" department_id="4005091003" office_id="4001902003" data-office-4001902003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936520003">Onboarding Project Manager, Carta Total Compensation </a>
+  <br/>
+  <span class="location">Salt Lake City, UT</span>
+</div><div class="opening" department_id="4005091003" office_id="4001919003" data-office-4001919003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4955661003">Onboarding Specialist</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005091003" office_id="4001902003" data-office-4001902003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4936519003">Onboarding Specialist, Carta Total Compensation </a>
+  <br/>
+  <span class="location">Salt Lake City, UT</span>
+</div><div class="opening" department_id="4005091003" office_id="4001896003,4001900003" data-office-4001896003="true" data-office-4001900003="true" data-department-4005091003="true">
+  <a data-mapped="true" href="/carta/jobs/4939903003">Pre-Close Project Manager I</a>
+  <br/>
+  <span class="location">San Francisco, CA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4005085003">Customer Success</h3>
+
+  <div class="opening" department_id="4005085003" office_id="4001896003" data-office-4001896003="true" data-department-4005085003="true">
+  <a data-mapped="true" href="/carta/jobs/4927850003">Customer Success Manager, Enterprise </a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY </span>
+</div><div class="opening" department_id="4005085003" office_id="4001896003" data-office-4001896003="true" data-department-4005085003="true">
+  <a data-mapped="true" href="/carta/jobs/4913045003">Customer Success Manager, LLC</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY </span>
+</div><div class="opening" department_id="4005085003" office_id="4001896003" data-office-4001896003="true" data-department-4005085003="true">
+  <a data-mapped="true" href="/carta/jobs/4544800003">Customer Success Manager, Mid Market</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY </span>
+</div><div class="opening" department_id="4005085003" office_id="4001899003" data-office-4001899003="true" data-department-4005085003="true">
+  <a data-mapped="true" href="/carta/jobs/4918683003">Customer Success Manager, SMB</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY</span>
+</div><div class="opening" department_id="4005085003" office_id="4001899003" data-office-4001899003="true" data-department-4005085003="true">
+  <a data-mapped="true" href="/carta/jobs/4913043003">Customer Success Programs Lead, EFS</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY </span>
+</div><div class="opening" department_id="4005085003" office_id="4001899003" data-office-4001899003="true" data-department-4005085003="true">
+  <a data-mapped="true" href="/carta/jobs/4918685003">Customer Success Programs Lead, Liquidity</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY</span>
+</div><div class="opening" department_id="4005085003" office_id="4001896003" data-office-4001896003="true" data-department-4005085003="true">
+  <a data-mapped="true" href="/carta/jobs/4892447003">Sr. Technical Customer Success Manager </a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4005090003">Customer Support</h3>
+
+  <div class="opening" department_id="4005090003" office_id="4001902003,4001899003,4001900003" data-office-4001902003="true" data-office-4001899003="true" data-office-4001900003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936502003">Administrative Services Manager, Public Markets</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; New York, NY</span>
+</div><div class="opening" department_id="4005090003" office_id="4001919003,4001902003" data-office-4001919003="true" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936599003">Admin Services Manager</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001919003,4001902003" data-office-4001919003="true" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936600003">Admin Services Manager</a>
+  <br/>
+  <span class="location">Rio De Janeiro, Rio De Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936530003">ASC 718 Financial Reporting Analyst</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; San Francisco, CA; Seattle, WA; Boston, MA; Charlotte, NC; New York, NY; Phoenix, AZ</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003,4001919003" data-office-4001902003="true" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936534003">Customer Data Quality Analyst</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001919003" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936573003">Customer Support Analyst</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936579003">Customer Support Analyst</a>
+  <br/>
+  <span class="location">Salt Lake City, UT</span>
+</div><div class="opening" department_id="4005090003" office_id="4001919003" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4955668003">Customer Support Analyst II, Investor Services</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001919003" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4955667003">Customer Support Specialist</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936580003">Customer Support Specialist</a>
+  <br/>
+  <span class="location">Salt Lake City, UT</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936529003">Financial Reporting Analyst</a>
+  <br/>
+  <span class="location">Salt Lake City, UT</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936531003">Financial Reporting Analyst</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; San Francisco, CA; Seattle, WA; Boston, MA; Charlotte, NC; New York, NY; Phoenix, AZ</span>
+</div><div class="opening" department_id="4005090003" office_id="4001919003" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4955669003">Investor Services Support</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003,4001919003" data-office-4001902003="true" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936582003">Manager, Delivery</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003,4001919003" data-office-4001902003="true" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936584003">Onboarding Team Manager</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003,4001899003,4001900003" data-office-4001902003="true" data-office-4001899003="true" data-office-4001900003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936505003">Public Markets Client Services Manager</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; New York, NY</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003,4001899003,4001900003" data-office-4001902003="true" data-office-4001899003="true" data-office-4001900003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936506003">Public Markets Stock Plan Admin Support</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; New York, NY</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003,4001899003,4001900003" data-office-4001902003="true" data-office-4001899003="true" data-office-4001900003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936504003">Public Markets Support Analyst</a>
+  <br/>
+  <span class="location">salt lake city, UT; New York, NY</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4636723003">Senior Financial Reporting Analyst</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; San Francisco, CA; Seattle, WA; Boston, MA; Charlotte, NC; New York, NY; Phoenix, AZ; Atlanta, GA; </span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4648774003">Senior Financial Reporting Analyst</a>
+  <br/>
+  <span class="location">Salt Lake City, Utah, United States</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4648775003">Senior Financial Reporting Analyst</a>
+  <br/>
+  <span class="location">Seattle, Washington, United States</span>
+</div><div class="opening" department_id="4005090003" office_id="4001919003" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936571003">Senior Support Analyst</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003" data-office-4001902003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936577003">Senior Support Analyst</a>
+  <br/>
+  <span class="location">Salt Lake City, Utah</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003,4001919003" data-office-4001902003="true" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936595003">Support Analyst, Channel</a>
+  <br/>
+  <span class="location">Rio De Janeiro, Rio De Janeiro, Brazil, Salt Lake City, Utah, United States</span>
+</div><div class="opening" department_id="4005090003" office_id="4001919003" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936540003">Support Analyst II, Investor Services</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil</span>
+</div><div class="opening" department_id="4005090003" office_id="4001902003,4001919003" data-office-4001902003="true" data-office-4001919003="true" data-department-4005090003="true">
+  <a data-mapped="true" href="/carta/jobs/4936585003">Support Team Manager</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4006614003">Data &amp; Machine Learning</h3>
+
+  <div class="opening" department_id="4006614003" office_id="4001899003" data-office-4001899003="true" data-department-4006614003="true">
+  <a data-mapped="true" href="/carta/jobs/4892596003">Data Science Tech Lead</a>
+  <br/>
+  <span class="location">San Francisco, New York</span>
+</div><div class="opening" department_id="4006614003" office_id="4001896003" data-office-4001896003="true" data-department-4006614003="true">
+  <a data-mapped="true" href="/carta/jobs/4892594003">Manager, Analytics Engineering</a>
+  <br/>
+  <span class="location">San Francisco, Seattle, New York, Waterloo, Toronto</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003651003">Design</h3>
+
+  <div class="opening" department_id="4003651003" office_id="4001919003" data-office-4001919003="true" data-department-4003651003="true">
+  <a data-mapped="true" href="/carta/jobs/4904907003">Senior Design Technologist</a>
+  <br/>
+  <span class="location">Rio de Janeiro, Brazil; San Francisco, CA; New York City, NY; Seattle, WA</span>
+</div><div class="opening" department_id="4003651003" office_id="4001896003" data-office-4001896003="true" data-department-4003651003="true">
+  <a data-mapped="true" href="/carta/jobs/4934138003">Senior Product Designer, CartaX</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+</div><div class="opening" department_id="4003651003" office_id="4001896003" data-office-4001896003="true" data-department-4003651003="true">
+  <a data-mapped="true" href="/carta/jobs/4941429003">Senior Product Designer, Fundraise</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA</span>
+</div><div class="opening" department_id="4003651003" office_id="4001896003" data-office-4001896003="true" data-department-4003651003="true">
+  <a data-mapped="true" href="/carta/jobs/4933724003">Senior Product Designer, Public Company Experience</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA</span>
+</div><div class="opening" department_id="4003651003" office_id="4001896003" data-office-4001896003="true" data-department-4003651003="true">
+  <a data-mapped="true" href="/carta/jobs/4933240003">VP, Design</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003615003">Engineering</h3>
+
+  <div class="opening" department_id="4003615003" office_id="4001897003,4001898003,4001896003" data-office-4001897003="true" data-office-4001898003="true" data-office-4001896003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4902669003">Engineering Manager, Carta Documents</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="4003615003" office_id="4001896003" data-office-4001896003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4892591003">Engineering Manager, Data Products</a>
+  <br/>
+  <span class="location">San Francisco, Seattle, New York, Waterloo</span>
+</div><div class="opening" department_id="4003615003" office_id="4001897003,4001898003,4001896003" data-office-4001897003="true" data-office-4001898003="true" data-office-4001896003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4927964003">Engineering Manager, Investor Services</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="4003615003" office_id="4001897003,4001898003,4001896003" data-office-4001897003="true" data-office-4001898003="true" data-office-4001896003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4800118003">Engineering Manager, Issuers</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="4003615003" office_id="4001897003,4001898003,4001896003" data-office-4001897003="true" data-office-4001898003="true" data-office-4001896003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4769159003">Engineering Manager, LLC</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="4003615003" office_id="4001896003,4001901003,4001920003,4001899003,4001897003,4001900003" data-office-4001896003="true" data-office-4001901003="true" data-office-4001920003="true" data-office-4001899003="true" data-office-4001897003="true" data-office-4001900003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4795333003">Senior Frontend Engineer, CartaX</a>
+  <br/>
+  <span class="location">New York, NY; Santa Clara, CA; San Francisco, CA</span>
+</div><div class="opening" department_id="4003615003" office_id="4029518003,4005465003,4001898003,4001901003,4001896003,4001902003,4001899003" data-office-4029518003="true" data-office-4005465003="true" data-office-4001898003="true" data-office-4001901003="true" data-office-4001896003="true" data-office-4001902003="true" data-office-4001899003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4716354003">Senior Frontend Engineer, Frontend Architecture</a>
+  <br/>
+  <span class="location">Seattle, WA; New York, NY; San Francisco, CA; Santa Clara, CA;</span>
+</div><div class="opening" department_id="4003615003" office_id="4029518003,4005465003,4001898003,4001901003,4001896003,4001902003,4001899003" data-office-4029518003="true" data-office-4005465003="true" data-office-4001898003="true" data-office-4001901003="true" data-office-4001896003="true" data-office-4001902003="true" data-office-4001899003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4716357003">Senior Frontend Engineer, Frontend Architecture</a>
+  <br/>
+  <span class="location">Waterloo, Canada; Toronto, Canada;</span>
+</div><div class="opening" department_id="4003615003" office_id="4001898003,4001896003" data-office-4001898003="true" data-office-4001896003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4626011003">Senior Front End Engineer, Growth Product</a>
+  <br/>
+  <span class="location">San Francisco, CA; Seattle, WA; Santa Clara, CA; New York, NY;</span>
+</div><div class="opening" department_id="4003615003" office_id="4001899003,4001897003,4001896003" data-office-4001899003="true" data-office-4001897003="true" data-office-4001896003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4009925003">Senior Software Engineer, CartaX (Client Services)</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+</div><div class="opening" department_id="4003615003" office_id="4001899003" data-office-4001899003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4924228003">Senior Software Engineer, Events Platform</a>
+  <br/>
+  <span class="location">San Francisco, CA; Seattle, WA; Salt Lake City, UT; New York City, NY</span>
+</div><div class="opening" department_id="4003615003" office_id="4001920003,4001919003,4001899003,4001896003,4001898003" data-office-4001920003="true" data-office-4001919003="true" data-office-4001899003="true" data-office-4001896003="true" data-office-4001898003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4707631003">Senior Software Engineer, Growth Product</a>
+  <br/>
+  <span class="location">San Francisco, CA; Santa Clara, CA; Seattle, WA; New York, NY;</span>
+</div><div class="opening" department_id="4003615003" office_id="4001896003,4001899003,4001901003" data-office-4001896003="true" data-office-4001899003="true" data-office-4001901003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4786326003">Senior Software Engineer, Infrastructure</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY; Seattle, WA;</span>
+</div><div class="opening" department_id="4003615003" office_id="4001896003,4001899003,4001901003" data-office-4001896003="true" data-office-4001899003="true" data-office-4001901003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4762288003">Senior Software Engineer, Infrastructure</a>
+  <br/>
+  <span class="location">Waterloo, Canada; Toronto, Canada;</span>
+</div><div class="opening" department_id="4003615003" office_id="4001897003,4001896003,4001899003,4001900003" data-office-4001897003="true" data-office-4001896003="true" data-office-4001899003="true" data-office-4001900003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4817328003">Senior Software Engineer, Money Movement, CartaX</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+</div><div class="opening" department_id="4003615003" office_id="4001919003" data-office-4001919003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4952246003">Software Engineer, All Levels</a>
+  <br/>
+  <span class="location">Rio de Janeiro, BR</span>
+</div><div class="opening" department_id="4003615003" office_id="4001901003,4001899003,4001900003" data-office-4001901003="true" data-office-4001899003="true" data-office-4001900003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4950300003">Software Engineer, All Levels</a>
+  <br/>
+  <span class="location">New York, NY; Waterloo, Canada; Toronto, Canada; San Francisco, CA; Santa Clara, CA; Seattle, WA;</span>
+</div><div class="opening" department_id="4003615003" office_id="4001899003" data-office-4001899003="true" data-department-4003615003="true">
+  <a data-mapped="true" href="/carta/jobs/4739855003">Staff Execution Engineer, Trading Systems</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4003727003">Mobile</h4>
+
+  <div class="opening" department_id="4003615003,4003727003" office_id="4001901003,4001898003,4001899003" data-office-4001901003="true" data-office-4001898003="true" data-office-4001899003="true" data-department-4003615003="true" data-department-4003727003="true">
+  <a data-mapped="true" href="/carta/jobs/4590698003">iOS Engineer</a>
+  <br/>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Waterloo, Canada</span>
+</div><div class="opening" department_id="4003615003,4003727003" office_id="4001901003,4001898003,4001899003" data-office-4001901003="true" data-office-4001898003="true" data-office-4001899003="true" data-department-4003615003="true" data-department-4003727003="true">
+  <a data-mapped="true" href="/carta/jobs/4590702003">Senior iOS Engineer</a>
+  <br/>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Waterloo, Canada</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4003726003">Site Reliability</h4>
+
+  <div class="opening" department_id="4003615003,4003726003" office_id="4001901003,4001896003" data-office-4001901003="true" data-office-4001896003="true" data-department-4003615003="true" data-department-4003726003="true">
+  <a data-mapped="true" href="/carta/jobs/4085477003">Senior Site Reliability Engineer</a>
+  <br/>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; Salt Lake City, UT; New York City, NY; Waterloo, Canada; Remote</span>
+</div><div class="opening" department_id="4003615003,4003726003" office_id="4001920003" data-office-4001920003="true" data-department-4003615003="true" data-department-4003726003="true">
+  <a data-mapped="true" href="/carta/jobs/4009724003">Senior Site Reliability Engineer, CartaX</a>
+  <br/>
+  <span class="location">New York City, NY; San Francisco, CA; Sydney, Australia</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4039587003">Equity Capital Markets</h3>
+
+  <div class="opening" department_id="4039587003" office_id="4001896003,4001899003" data-office-4001896003="true" data-office-4001899003="true" data-department-4039587003="true">
+  <a data-mapped="true" href="/carta/jobs/4813597003">Company Coverage Manager - CartaX </a>
+  <br/>
+  <span class="location">New York, NY; San Francisco, CA </span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003666003">Finance</h3>
+
+  
+  
+
+<section class="child level-1">
+  <h4 id="4003667003">Accounting</h4>
+
+  <div class="opening" department_id="4003666003,4003667003" office_id="4001902003" data-office-4001902003="true" data-department-4003666003="true" data-department-4003667003="true">
+  <a data-mapped="true" href="/carta/jobs/4892601003">Financial Systems Manager</a>
+  <br/>
+  <span class="location">San Francisco, CA; Salt Lake City, UT; Remote, USA</span>
+</div><div class="opening" department_id="4003666003,4003667003" office_id="4001902003" data-office-4001902003="true" data-department-4003666003="true" data-department-4003667003="true">
+  <a data-mapped="true" href="/carta/jobs/4892603003">Payroll Associate / Sr Associate</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; Seattle, WA; San Francisco, CA</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4003669003">Strategic Finance</h4>
+
+  <div class="opening" department_id="4003666003,4003669003" office_id="4001896003" data-office-4001896003="true" data-department-4003666003="true" data-department-4003669003="true">
+  <a data-mapped="true" href="/carta/jobs/4525392003">Director of GTM Finance </a>
+  <br/>
+  <span class="location">San Francisco, CA</span>
+</div><div class="opening" department_id="4003666003,4003669003" office_id="4001896003" data-office-4001896003="true" data-department-4003666003="true" data-department-4003669003="true">
+  <a data-mapped="true" href="/carta/jobs/4931218003">Snr Manager Strategic Finance, GTM</a>
+  <br/>
+  <span class="location">San Francisco, CA</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4003670003">Treasury</h4>
+
+  <div class="opening" department_id="4003666003,4003670003" office_id="4001896003" data-office-4001896003="true" data-department-4003666003="true" data-department-4003670003="true">
+  <a data-mapped="true" href="/carta/jobs/4952829003">Sr Treasury Associate</a>
+  <br/>
+  <span class="location">San Francisco, Ca; Salt Lake City, UT; New York, New York</span>
+</div><div class="opening" department_id="4003666003,4003670003" office_id="4001896003" data-office-4001896003="true" data-department-4003666003="true" data-department-4003670003="true">
+  <a data-mapped="true" href="/carta/jobs/4934349003">Treasury Associate</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, New York; Salt Lake City, UT</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4005097003">Fund Administration</h3>
+
+  <div class="opening" department_id="4005097003" office_id="4001920003,4001899003,4001902003,4001896003,4001898003,4001920003,4003742003,4001920003,4027384003,4001920003,4003741003,4001900003" data-office-4001920003="true" data-office-4001899003="true" data-office-4001902003="true" data-office-4001896003="true" data-office-4001898003="true" data-office-4003742003="true" data-office-4027384003="true" data-office-4003741003="true" data-office-4001900003="true" data-department-4005097003="true">
+  <a data-mapped="true" href="/carta/jobs/4914327003">Associate Fund Controller</a>
+  <br/>
+  <span class="location">Hamilton, NJ; Boston, MA; San Francisco, CA; Salt Lake City, UT; Chicago, IL; Seattle, WA; New York City, NY; Dallas, TX; USA</span>
+</div><div class="opening" department_id="4005097003" office_id="4001920003,4001899003,4001902003,4001896003,4001898003,4001920003,4003742003,4001920003,4027384003,4001920003,4003741003,4001900003" data-office-4001920003="true" data-office-4001899003="true" data-office-4001902003="true" data-office-4001896003="true" data-office-4001898003="true" data-office-4003742003="true" data-office-4027384003="true" data-office-4003741003="true" data-office-4001900003="true" data-department-4005097003="true">
+  <a data-mapped="true" href="/carta/jobs/4914309003">Fund Accountant</a>
+  <br/>
+  <span class="location">Hamilton, NJ; Boston, MA; San Francisco, CA; Salt Lake City, UT; Chicago, IL; Seattle, WA; New York City, NY; Dallas, TX; USA</span>
+</div><div class="opening" department_id="4005097003" office_id="4001920003,4001899003,4001902003,4001896003,4001898003,4001920003,4003742003,4001920003,4027384003,4001920003,4003741003,4001900003" data-office-4001920003="true" data-office-4001899003="true" data-office-4001902003="true" data-office-4001896003="true" data-office-4001898003="true" data-office-4003742003="true" data-office-4027384003="true" data-office-4003741003="true" data-office-4001900003="true" data-department-4005097003="true">
+  <a data-mapped="true" href="/carta/jobs/4914334003">Manager, Fund Controller</a>
+  <br/>
+  <span class="location">Hamilton, NJ; Boston, MA; San Francisco, CA; Salt Lake City, UT; Chicago, IL; Seattle, WA; New York City, NY; Dallas, TX; USA</span>
+</div><div class="opening" department_id="4005097003" office_id="4001920003,4001899003,4001902003,4001896003,4001898003,4001920003,4003742003,4001920003,4027384003,4001920003,4003741003,4001900003" data-office-4001920003="true" data-office-4001899003="true" data-office-4001902003="true" data-office-4001896003="true" data-office-4001898003="true" data-office-4003742003="true" data-office-4027384003="true" data-office-4003741003="true" data-office-4001900003="true" data-department-4005097003="true">
+  <a data-mapped="true" href="/carta/jobs/4914315003">Senior Fund Accountant</a>
+  <br/>
+  <span class="location">Hamilton, NJ; Boston, MA; San Francisco, CA; Salt Lake City, UT; Chicago, IL; Seattle, WA; New York City, NY; Dallas, TX; USA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4006616003">Information Security &amp; IT</h3>
+
+  <div class="opening" department_id="4006616003" office_id="4001899003,4001897003,4001896003,4001898003" data-office-4001899003="true" data-office-4001897003="true" data-office-4001896003="true" data-office-4001898003="true" data-department-4006616003="true">
+  <a data-mapped="true" href="/carta/jobs/4892432003">Security Compliance Lead </a>
+  <br/>
+  <span class="location">San Francisco, CA; Seattle, WA; New York City, NY</span>
+</div><div class="opening" department_id="4006616003" office_id="4001896003" data-office-4001896003="true" data-department-4006616003="true">
+  <a data-mapped="true" href="/carta/jobs/4892735003">Senior Product Security Engineer</a>
+  <br/>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Remote</span>
+</div><div class="opening" department_id="4006616003" office_id="4001899003" data-office-4001899003="true" data-department-4006616003="true">
+  <a data-mapped="true" href="/carta/jobs/4892395003">Senior Security Operations Engineer</a>
+  <br/>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Remote</span>
+</div><div class="opening" department_id="4006616003" office_id="4001896003" data-office-4001896003="true" data-department-4006616003="true">
+  <a data-mapped="true" href="/carta/jobs/4892737003">Senior Software Engineer, Security</a>
+  <br/>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003665003">Legal</h3>
+
+  <div class="opening" department_id="4003665003" office_id="4001900003,4001899003" data-office-4001900003="true" data-office-4001899003="true" data-department-4003665003="true">
+  <a data-mapped="true" href="/carta/jobs/4857101003">Associate Corporate Counsel; Brokerage &amp; Markets</a>
+  <br/>
+  <span class="location">New York</span>
+</div><div class="opening" department_id="4003665003" office_id="4001899003" data-office-4001899003="true" data-department-4003665003="true">
+  <a data-mapped="true" href="/carta/jobs/4928651003">Paralegal, General </a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, New York; Waterloo, ON</span>
+</div><div class="opening" department_id="4003665003" office_id="4001899003" data-office-4001899003="true" data-department-4003665003="true">
+  <a data-mapped="true" href="/carta/jobs/4857092003">Senior Corporate Counsel, Brokerage &amp; Markets</a>
+  <br/>
+  <span class="location">New York</span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4003664003">Compliance</h4>
+
+  <div class="opening" department_id="4003664003,4003665003" office_id="4001920003,4001902003" data-office-4001920003="true" data-office-4001902003="true" data-department-4003664003="true" data-department-4003665003="true">
+  <a data-mapped="true" href="/carta/jobs/4847703003">Compliance Officer</a>
+  <br/>
+  <span class="location">Salt Lake City, UT; Remote, USA</span>
+</div><div class="opening" department_id="4003664003,4003665003" office_id="4001902003" data-office-4001902003="true" data-department-4003664003="true" data-department-4003665003="true">
+  <a data-mapped="true" href="/carta/jobs/4876324003">Compliance Officer, Public Markets</a>
+  <br/>
+  <span class="location">Salt Lake City, UT</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4003675003">Marketing</h3>
+
+  <div class="opening" department_id="4003675003" office_id="4001897003,4001899003,4001896003,4001898003" data-office-4001897003="true" data-office-4001899003="true" data-office-4001896003="true" data-office-4001898003="true" data-department-4003675003="true">
+  <a data-mapped="true" href="/carta/jobs/4905939003">Website Development Lead</a>
+  <br/>
+  <span class="location">San Francisco, California; Santa Clara, California; New York, New York; Seattle, Washington; Washington, D.C.; Salt Lake City, Utah</span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4003681003">Growth Marketing</h4>
+
+  <div class="opening" department_id="4003675003,4003681003" office_id="4001899003,4001896003" data-office-4001899003="true" data-office-4001896003="true" data-department-4003675003="true" data-department-4003681003="true">
+  <a data-mapped="true" href="/carta/jobs/4896942003">Demand Generation Manager, Investor Services - Established/Upmarket</a>
+  <br/>
+  <span class="location">San Francisco, California; New York, New York; Seattle, Washington</span>
+</div><div class="opening" department_id="4003675003,4003681003" office_id="4001899003,4001896003" data-office-4001899003="true" data-office-4001896003="true" data-department-4003675003="true" data-department-4003681003="true">
+  <a data-mapped="true" href="/carta/jobs/4758292003">Senior Demand Generation Manager, Investor Services - First Time Fund Managers (Emerging)</a>
+  <br/>
+  <span class="location">San Francisco, California; New York, New York; Seattle, Washington</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4003680003">Marketing Operations</h4>
+
+  <div class="opening" department_id="4003675003,4003680003" office_id="4001896003" data-office-4001896003="true" data-department-4003675003="true" data-department-4003680003="true">
+  <a data-mapped="true" href="/carta/jobs/4922233003">Analyst/Associate, Marketing Operations</a>
+  <br/>
+  <span class="location">San Francisco, CA</span>
+</div><div class="opening" department_id="4003675003,4003680003" office_id="4001896003" data-office-4001896003="true" data-department-4003675003="true" data-department-4003680003="true">
+  <a data-mapped="true" href="/carta/jobs/4910737003">Director, Marketing Operations</a>
+  <br/>
+  <span class="location">San Francisco, CA</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4003676003">Product Marketing</h4>
+
+  <div class="opening" department_id="4003675003,4003676003" office_id="4001896003,4001899003" data-office-4001896003="true" data-office-4001899003="true" data-department-4003675003="true" data-department-4003676003="true">
+  <a data-mapped="true" href="/carta/jobs/4775571003">Senior Product Marketing Manager, Employee Financial Solutions</a>
+  <br/>
+  <span class="location">San Francisco, California; New York, New York; Seattle, Washington</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4003658003">People</h3>
+
+  <div class="opening" department_id="4003658003" office_id="4001896003" data-office-4001896003="true" data-department-4003658003="true">
+  <a data-mapped="true" href="/carta/jobs/4892579003">Employee Relations</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="4003658003" office_id="4001896003" data-office-4001896003="true" data-department-4003658003="true">
+  <a data-mapped="true" href="/carta/jobs/4892466003">People Operations Manager</a>
+  <br/>
+  <span class="location">San Francisco, New York City, Salt Lake City</span>
+</div><div class="opening" department_id="4003658003" office_id="4001920003" data-office-4001920003="true" data-department-4003658003="true">
+  <a data-mapped="true" href="/carta/jobs/4904305003">People Systems Lead</a>
+  <br/>
+  <span class="location">San Francisco, New York, Seattle, Salt Lake City </span>
+</div><div class="opening" department_id="4003658003" office_id="4001896003" data-office-4001896003="true" data-department-4003658003="true">
+  <a data-mapped="true" href="/carta/jobs/4702154003">Program Manager, People Strategy and Projects</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4003660003">Human Resources</h4>
+
+  <div class="opening" department_id="4003658003,4003660003" office_id="4001899003" data-office-4001899003="true" data-department-4003658003="true" data-department-4003660003="true">
+  <a data-mapped="true" href="/carta/jobs/4892573003">Senior HRBP</a>
+  <br/>
+  <span class="location">San Francisco, New York, Salt Lake City</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4003662003">Learning &amp; Development</h4>
+
+  <div class="opening" department_id="4003658003,4003662003" office_id="4001899003" data-office-4001899003="true" data-department-4003658003="true" data-department-4003662003="true">
+  <a data-mapped="true" href="/carta/jobs/4892577003">Learning and Development Lead (Performance and Feedback)</a>
+  <br/>
+  <span class="location">San Francisco, New York City, Seattle, Salt Lake City </span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4003659003">Recruiting</h4>
+
+  <div class="opening" department_id="4003658003,4003659003" office_id="4001896003" data-office-4001896003="true" data-department-4003658003="true" data-department-4003659003="true">
+  <a data-mapped="true" href="/carta/jobs/4008111003">Business Recruiter</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4019182003">Policy &amp; Strategy</h3>
+
+  <div class="opening" department_id="4019182003" office_id="4001896003" data-office-4001896003="true" data-department-4019182003="true">
+  <a data-mapped="true" href="/carta/jobs/4940851003">Senior Manager, Strategy &amp; Business Operations - Capital Markets</a>
+  <br/>
+  <span class="location">San Francisco; New York</span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4019183003">Strategy &amp; Business Operations</h4>
+
+  <div class="opening" department_id="4019182003,4019183003" office_id="4001899003" data-office-4001899003="true" data-department-4019182003="true" data-department-4019183003="true">
+  <a data-mapped="true" href="/carta/jobs/4940086003">Content Strategy Lead</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA; Salt Lake City, UT; Remote, USA</span>
+</div><div class="opening" department_id="4019182003,4019183003" office_id="4001896003,4001899003" data-office-4001896003="true" data-office-4001899003="true" data-department-4019182003="true" data-department-4019183003="true">
+  <a data-mapped="true" href="/carta/jobs/4892686003">Director, Strategy &amp; Business Operations, Corporations</a>
+  <br/>
+  <span class="location">San Francisco, New York</span>
+</div><div class="opening" department_id="4019182003,4019183003" office_id="4001901003,4001898003,4001897003,4001896003,4001902003,4001920003,4001899003,4001900003" data-office-4001901003="true" data-office-4001898003="true" data-office-4001897003="true" data-office-4001896003="true" data-office-4001902003="true" data-office-4001920003="true" data-office-4001899003="true" data-office-4001900003="true" data-department-4019182003="true" data-department-4019183003="true">
+  <a data-mapped="true" href="/carta/jobs/4832093003">Head of Strategic Partnerships</a>
+  <br/>
+  <span class="location">San Francisco, CA</span>
+</div><div class="opening" department_id="4019182003,4019183003" office_id="4001899003,4001896003" data-office-4001899003="true" data-office-4001896003="true" data-department-4019182003="true" data-department-4019183003="true">
+  <a data-mapped="true" href="/carta/jobs/4841615003">Manager / Sr. Manager, Strategy &amp; Business Operations, Public Business</a>
+  <br/>
+  <span class="location">San Francisco, New York</span>
+</div><div class="opening" department_id="4019182003,4019183003" office_id="4001896003" data-office-4001896003="true" data-department-4019182003="true" data-department-4019183003="true">
+  <a data-mapped="true" href="/carta/jobs/4892462003">Manager, Strategy &amp; Business Operations - Corporate Development</a>
+  <br/>
+  <span class="location">San Francisco, New York</span>
+</div><div class="opening" department_id="4019182003,4019183003" office_id="4001896003" data-office-4001896003="true" data-department-4019182003="true" data-department-4019183003="true">
+  <a data-mapped="true" href="/carta/jobs/4943756003">Sr. Associate, Strategy &amp; Business Operations </a>
+  <br/>
+  <span class="location">San Francisco, New York</span>
+</div><div class="opening" department_id="4019182003,4019183003" office_id="4001899003,4001896003" data-office-4001899003="true" data-office-4001896003="true" data-department-4019182003="true" data-department-4019183003="true">
+  <a data-mapped="true" href="/carta/jobs/4653987003">Sr. Associate, Strategy &amp; Business Operations - International</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4019182003,4019183003" office_id="4001899003,4001896003" data-office-4001899003="true" data-office-4001896003="true" data-department-4019182003="true" data-department-4019183003="true">
+  <a data-mapped="true" href="/carta/jobs/4654328003">Sr. Associate, Strategy &amp; Business Operations - International</a>
+  <br/>
+  <span class="location">New York, New York, United States</span>
+</div><div class="opening" department_id="4019182003,4019183003" office_id="4001901003,4001898003,4001897003,4001896003,4001902003,4001919003,4001920003,4001899003,4001900003" data-office-4001901003="true" data-office-4001898003="true" data-office-4001897003="true" data-office-4001896003="true" data-office-4001902003="true" data-office-4001919003="true" data-office-4001920003="true" data-office-4001899003="true" data-office-4001900003="true" data-department-4019182003="true" data-department-4019183003="true">
+  <a data-mapped="true" href="/carta/jobs/4827226003">Tax Advisor</a>
+  <br/>
+  <span class="location">San Francisco, CA</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4003649003">Product</h3>
+
+  <div class="opening" department_id="4003649003" office_id="4001896003" data-office-4001896003="true" data-department-4003649003="true">
+  <a data-mapped="true" href="/carta/jobs/4930791003">Carta International, Lead Product Manager</a>
+  <br/>
+  <span class="location">New York, NY; San Francisco, CA; Remote</span>
+</div><div class="opening" department_id="4003649003" office_id="4001898003" data-office-4001898003="true" data-department-4003649003="true">
+  <a data-mapped="true" href="/carta/jobs/4921553003">Product Manager, Crypto Fund Administration</a>
+  <br/>
+  <span class="location">Seattle, WA; San Francisco, CA</span>
+</div><div class="opening" department_id="4003649003" office_id="4001896003" data-office-4001896003="true" data-department-4003649003="true">
+  <a data-mapped="true" href="/carta/jobs/4938529003">Product Manager, Investor Experience</a>
+  <br/>
+  <span class="location">San Francisco, CA; Seattle, WA; New York City, NY</span>
+</div><div class="opening" department_id="4003649003" office_id="4001897003,4001899003,4001896003" data-office-4001897003="true" data-office-4001899003="true" data-office-4001896003="true" data-department-4003649003="true">
+  <a data-mapped="true" href="/carta/jobs/4808419003">Senior Product Manager, Client Services, CartaX</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+</div><div class="opening" department_id="4003649003" office_id="4001896003" data-office-4001896003="true" data-department-4003649003="true">
+  <a data-mapped="true" href="/carta/jobs/4930789003">Senior Product Manager, Financial Infrastructure (Risk/KYC)</a>
+  <br/>
+  <span class="location">New York, NY; San Francisco, CA</span>
+</div><div class="opening" department_id="4003649003" office_id="4001898003,4001899003,4001896003" data-office-4001898003="true" data-office-4001899003="true" data-office-4001896003="true" data-department-4003649003="true">
+  <a data-mapped="true" href="/carta/jobs/4924259003">Senior Product Manager, Public Markets</a>
+  <br/>
+  <span class="location">New York,NY; San Francisco, CA</span>
+</div><div class="opening" department_id="4003649003" office_id="4001896003" data-office-4001896003="true" data-department-4003649003="true">
+  <a data-mapped="true" href="/carta/jobs/4937805003">Senior Product Manager, Valuations</a>
+  <br/>
+  <span class="location">San Francisco, CA</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4003622003">Sales</h3>
+
+  <div class="opening" department_id="4003622003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true">
+  <a data-mapped="true" href="/carta/jobs/4892438003">Sales Enablement Manager</a>
+  <br/>
+  <span class="location">San Francisco, CA; Seattle, WA; New York, NY; Salt Lake City, UT</span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4003629003">Account Executive</h4>
+
+  <div class="opening" department_id="4003622003,4003629003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003629003="true">
+  <a data-mapped="true" href="/carta/jobs/4940793003">Account Executive, Carta Total Compensation, Mid-Market</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA; Salt Lake City; UT</span>
+</div><div class="opening" department_id="4003622003,4003629003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003629003="true">
+  <a data-mapped="true" href="/carta/jobs/4949607003">Account Executive, Carta Total Compensation, SMB</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA; Salt Lake City; UT</span>
+</div><div class="opening" department_id="4003622003,4003629003" office_id="4001896003,4001899003" data-office-4001896003="true" data-office-4001899003="true" data-department-4003622003="true" data-department-4003629003="true">
+  <a data-mapped="true" href="/carta/jobs/4938672003">Account Executive - Emerging Managers</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+</div><div class="opening" department_id="4003622003,4003629003" office_id="4008118003" data-office-4008118003="true" data-department-4003622003="true" data-department-4003629003="true">
+  <a data-mapped="true" href="/carta/jobs/4913050003">Account Executive, Investor Services, Singapore </a>
+  <br/>
+  <span class="location">Singapore</span>
+</div><div class="opening" department_id="4003622003,4003629003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003629003="true">
+  <a data-mapped="true" href="/carta/jobs/4938651003">Account Executive - Venture Capital</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+</div><div class="opening" department_id="4003622003,4003629003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003629003="true">
+  <a data-mapped="true" href="/carta/jobs/4913048003">Mid Market Account Executive </a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY; Seattle, WA; Salt Lake City, UT</span>
+</div><div class="opening" department_id="4003622003,4003629003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003629003="true">
+  <a data-mapped="true" href="/carta/jobs/4934286003">Mid Market Account Executive, LLC</a>
+  <br/>
+  <span class="location">San Francisco, CA </span>
+</div><div class="opening" department_id="4003622003,4003629003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003629003="true">
+  <a data-mapped="true" href="/carta/jobs/4892489003">SMB Account Executive </a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY; Salt Lake City, UT</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4003703003">Business Development</h4>
+
+  <div class="opening" department_id="4003622003,4003703003" office_id="4008118003" data-office-4008118003="true" data-department-4003622003="true" data-department-4003703003="true">
+  <a data-mapped="true" href="/carta/jobs/4596064003">Business Development Associate, IS, Singapore</a>
+  <br/>
+  <span class="location">Singapore, Central Singapore, Singapore</span>
+</div><div class="opening" department_id="4003622003,4003703003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003703003="true">
+  <a data-mapped="true" href="/carta/jobs/4892509003">Business Development Manager, CartaX</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="4003622003,4003703003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003703003="true">
+  <a data-mapped="true" href="/carta/jobs/4940088003">Business Development Manager, Investor Services</a>
+  <br/>
+  <span class="location">San Francisco, CA; Salt Lake City, UT; New York, NY; Seattle, WA</span>
+</div><div class="opening" department_id="4003622003,4003703003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003703003="true">
+  <a data-mapped="true" href="/carta/jobs/4957507003">Business Development Manager, Venture Capital</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York, NY</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4003638003">Sales Development</h4>
+
+  <div class="opening" department_id="4003622003,4003638003" office_id="4001896003" data-office-4001896003="true" data-department-4003622003="true" data-department-4003638003="true">
+  <a data-mapped="true" href="/carta/jobs/4935617003">Investor Services Outbound SDR</a>
+  <br/>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+</div><div class="opening" department_id="4003622003,4003638003" office_id="4001896003,4001902003" data-office-4001896003="true" data-office-4001902003="true" data-department-4003622003="true" data-department-4003638003="true">
+  <a data-mapped="true" href="/carta/jobs/4693605003">Sales Development Representative</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="4003622003,4003638003" office_id="4001896003,4001902003" data-office-4001896003="true" data-office-4001902003="true" data-department-4003622003="true" data-department-4003638003="true">
+  <a data-mapped="true" href="/carta/jobs/4693607003">Sales Development Representative</a>
+  <br/>
+  <span class="location">Salt Lake City, Utah, United States</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4005086003">Sales Strategy &amp; Operations</h3>
+
+  <div class="opening" department_id="4005086003" office_id="4001896003" data-office-4001896003="true" data-department-4005086003="true">
+  <a data-mapped="true" href="/carta/jobs/4714401003">Director, Sales Strategy &amp; Operations</a>
+  <br/>
+  <span class="location">San Francisco </span>
+</div><div class="opening" department_id="4005086003" office_id="4001896003,4001899003" data-office-4001896003="true" data-office-4001899003="true" data-department-4005086003="true">
+  <a data-mapped="true" href="/carta/jobs/4643071003">Sales Strategy &amp; Operations Analyst/Manager/Sr Manager</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="4005086003" office_id="4001902003,4001896003" data-office-4001902003="true" data-office-4001896003="true" data-department-4005086003="true">
+  <a data-mapped="true" href="/carta/jobs/4725447003">Solution Architect</a>
+  <br/>
+  <span class="location">San Francisco, CA; Salt Lake City, UT</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4005093003">Valuations</h3>
+
+  <div class="opening" department_id="4005093003" office_id="4001898003" data-office-4001898003="true" data-department-4005093003="true">
+  <a data-mapped="true" href="/carta/jobs/4009208003">Valuation Specialist</a>
+  <br/>
+  <span class="location">Seattle, Washington, United States</span>
+</div><div class="opening" department_id="4005093003" office_id="4001898003" data-office-4001898003="true" data-department-4005093003="true">
+  <a data-mapped="true" href="/carta/jobs/4119122003">Valuation Specialist</a>
+  <br/>
+  <span class="location">Salt Lake City, Utah, United States</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <br /><br />
+
+  <div class="opening" department_id="" office_id="4001900003" data-office-4001900003="true">
+  <a data-mapped="true" href="/carta/jobs/4938407003">Cash Reconciliation Associate</a>
+  <br/>
+  <span class="location">Hamilton Township, NJ</span>
+</div><div class="opening" department_id="" office_id="4001896003" data-office-4001896003="true">
+  <a data-mapped="true" href="/carta/jobs/4913056003">Director, Associate General Counsel, Personal Financial Solutions</a>
+  <br/>
+  <span class="location">San Francisco, New York</span>
+</div><div class="opening" department_id="" office_id="4001902003" data-office-4001902003="true">
+  <a data-mapped="true" href="/carta/jobs/4958837003">Manager of Customer Quality Assurance &amp; Enablement</a>
+  <br/>
+  <span class="location">Salt Lake City, Utah</span>
+</div><div class="opening" department_id="" office_id="4001896003" data-office-4001896003="true">
+  <a data-mapped="true" href="/carta/jobs/4892609003">Public Policy Director; Tax, Valuation, and Corporate Governance</a>
+  <br/>
+  <span class="location">Washington, DC</span>
+</div><div class="opening" department_id="" office_id="4001896003" data-office-4001896003="true">
+  <a data-mapped="true" href="/carta/jobs/4892697003">Senior Manager, GTM PMO</a>
+  <br/>
+  <span class="location">San Francisco </span>
+</div><div class="opening" department_id="" office_id="4001896003" data-office-4001896003="true">
+  <a data-mapped="true" href="/carta/jobs/4957449003">Senior Technical Program Manager</a>
+  <br/>
+  <span class="location">New York City, NY; San Francisco, CA; Santa Clara, CA; Seattle, WA</span>
+</div><div class="opening" department_id="" office_id="4001896003" data-office-4001896003="true">
+  <a data-mapped="true" href="/carta/jobs/4934288003">SMB Account Executive, LLC</a>
+  <br/>
+  <span class="location">San Francisco; CA; New York, NY </span>
+</div><div class="opening" department_id="" office_id="4001920003" data-office-4001920003="true">
+  <a data-mapped="true" href="/carta/jobs/4946258003">Solution Architect</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div><div class="opening" department_id="" office_id="4001920003" data-office-4001920003="true">
+  <a data-mapped="true" href="/carta/jobs/4958352003">Solution Architect</a>
+  <br/>
+  <span class="location">San Francisco, California, United States</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

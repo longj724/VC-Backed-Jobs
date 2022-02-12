@@ -1,0 +1,8 @@
+
+  <a data-mapped="true" href="/forta/jobs/4899222003">Forta Product Manager</a>
+  <br>
+  <span class="location">Remote</span>
+
+  <a data-mapped="true" href="/forta/jobs/4899165003">Forta Head of Growth</a>
+  <br>
+  <span class="location">Remote</span>

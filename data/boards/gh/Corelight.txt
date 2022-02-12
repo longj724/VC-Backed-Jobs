@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Job Board</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+        <link rel="stylesheet" media="screen" href="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/custom_css_files/000/010/145/original/custom_greenhouse.css?1559317454" />
+
+
+
+    <meta property="og:title" content="Job Board"></meta>
+    <meta property="og:description" content=""></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/corelight"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/010/145/original/logo-corelight-b192e84.png?1643154435"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><img alt="Job Board Logo" src="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/010/145/resized/logo-corelight-b192e84.png?1643154435" width="200" height="46" /></div>
+
+  <h1>Job Board</h1>
+
+  <div id="content">
+    
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+  
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="41389">Business Services</h3>
+
+  <div class="opening" department_id="41389" office_id="27154" data-office-27154="true" data-department-41389="true">
+  <a data-mapped="true" href="/corelight/jobs/3505226">Business Systems Analyst</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41389" office_id="27154" data-office-27154="true" data-department-41389="true">
+  <a data-mapped="true" href="/corelight/jobs/3485154">Salesforce Administrator</a>
+  <br/>
+  <span class="location">North America</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="77842">Community</h3>
+
+  <div class="opening" department_id="77842" office_id="63257" data-office-63257="true" data-department-77842="true">
+  <a data-mapped="true" href="/corelight/jobs/3834796">Head of Community</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="77842" office_id="63257" data-office-63257="true" data-department-77842="true">
+  <a data-mapped="true" href="/corelight/jobs/3611117">Manager, Community Marketing</a>
+  <br/>
+  <span class="location">North America</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="77263">Corelight Labs</h3>
+
+  <div class="opening" department_id="77263" office_id="63257" data-office-63257="true" data-department-77263="true">
+  <a data-mapped="true" href="/corelight/jobs/3874269">Security Researcher</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="77263" office_id="27154" data-office-27154="true" data-department-77263="true">
+  <a data-mapped="true" href="/corelight/jobs/3781484">Security Researcher</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="41390">Customer Success</h3>
+
+  <div class="opening" department_id="41390" office_id="60621" data-office-60621="true" data-department-41390="true">
+  <a data-mapped="true" href="/corelight/jobs/3834736">Director, Sales Engineering - EMEA</a>
+  <br/>
+  <span class="location">EMEA</span>
+</div><div class="opening" department_id="41390" office_id="63257" data-office-63257="true" data-department-41390="true">
+  <a data-mapped="true" href="/corelight/jobs/3861841">Professional Services</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41390" office_id="63257" data-office-63257="true" data-department-41390="true">
+  <a data-mapped="true" href="/corelight/jobs/3891434">Sales Engineer - SouthEast</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41390" office_id="27154" data-office-27154="true" data-department-41390="true">
+  <a data-mapped="true" href="/corelight/jobs/3863613">Support Engineer</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41390" office_id="63257" data-office-63257="true" data-department-41390="true">
+  <a data-mapped="true" href="/corelight/jobs/3835533">Technical Account Manager</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41390" office_id="27154" data-office-27154="true" data-department-41390="true">
+  <a data-mapped="true" href="/corelight/jobs/1446712">Technical Marketing Engineer</a>
+  <br/>
+  <span class="location">North America</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="41388">Engineering</h3>
+
+  <div class="opening" department_id="41388" office_id="63257" data-office-63257="true" data-department-41388="true">
+  <a data-mapped="true" href="/corelight/jobs/3754859">Principal Software Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="41388" office_id="63257" data-office-63257="true" data-department-41388="true">
+  <a data-mapped="true" href="/corelight/jobs/3829337">Senior Automation Software Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="41388" office_id="63257" data-office-63257="true" data-department-41388="true">
+  <a data-mapped="true" href="/corelight/jobs/3754904">Senior Software Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="41388" office_id="63257" data-office-63257="true" data-department-41388="true">
+  <a data-mapped="true" href="/corelight/jobs/3543799">Sr. Backend Engineer</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41388" office_id="63257" data-office-63257="true" data-department-41388="true">
+  <a data-mapped="true" href="/corelight/jobs/3543519">Sr. UI Engineer</a>
+  <br/>
+  <span class="location">North America</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="41387">Marketing</h3>
+
+  <div class="opening" department_id="41387" office_id="63257,27154" data-office-63257="true" data-office-27154="true" data-department-41387="true">
+  <a data-mapped="true" href="/corelight/jobs/3726402">Manager, Public Sector Marketing</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41387" office_id="63257" data-office-63257="true" data-department-41387="true">
+  <a data-mapped="true" href="/corelight/jobs/3898589">Project Manager</a>
+  <br/>
+  <span class="location">North America</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="41391">Product Management</h3>
+
+  <div class="opening" department_id="41391" office_id="27154" data-office-27154="true" data-department-41391="true">
+  <a data-mapped="true" href="/corelight/jobs/3888826">Principal Product Manager, Sensors</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41391" office_id="63257" data-office-63257="true" data-department-41391="true">
+  <a data-mapped="true" href="/corelight/jobs/3858246">Sr. Product Manager, Sensors</a>
+  <br/>
+  <span class="location">North America</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="41386">Sales</h3>
+
+  <div class="opening" department_id="41386" office_id="63257" data-office-63257="true" data-department-41386="true">
+  <a data-mapped="true" href="/corelight/jobs/3882570">Account Executive - Department of Defense</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41386" office_id="63257" data-office-63257="true" data-department-41386="true">
+  <a data-mapped="true" href="/corelight/jobs/3437424">Account Executive - Eastern Canada</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41386" office_id="63257" data-office-63257="true" data-department-41386="true">
+  <a data-mapped="true" href="/corelight/jobs/3865597">Account Executive - Federal Civilian Agencies</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41386" office_id="63257" data-office-63257="true" data-department-41386="true">
+  <a data-mapped="true" href="/corelight/jobs/3813943">Account Executive - Southeast</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41386" office_id="63257" data-office-63257="true" data-department-41386="true">
+  <a data-mapped="true" href="/corelight/jobs/3515200">Channel Account Manager - West</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41386" office_id="63257" data-office-63257="true" data-department-41386="true">
+  <a data-mapped="true" href="/corelight/jobs/3919058">Inside Sales Representative - Dallas, TX</a>
+  <br/>
+  <span class="location">North America</span>
+</div><div class="opening" department_id="41386" office_id="63993" data-office-63993="true" data-department-41386="true">
+  <a data-mapped="true" href="/corelight/jobs/3764210">Regional Sales - ANZA</a>
+  <br/>
+  <span class="location">APAC</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

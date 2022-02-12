@@ -1,0 +1,2107 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  class="touch-styles">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- anthony-leung-anfw -->
+<base href="">
+<meta charset="utf-8" />
+<title>Careers &mdash; Singularity 6</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/47fa2587-2ef1-43e0-b9bd-ccf608309f36/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://www.singularity6.com/careers"/>
+<meta property="og:site_name" content="Singularity 6"/>
+<meta property="og:title" content="Careers &mdash; Singularity 6"/>
+<meta property="og:url" content="https://www.singularity6.com/careers"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/5a239b672aeba5be1ae7632a/t/6171c6e87ad0ff58013708ba/1634846447433/careersats6.png?format=1500w"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="627"/>
+<meta itemprop="name" content="Careers — Singularity 6"/>
+<meta itemprop="url" content="https://www.singularity6.com/careers"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5a239b672aeba5be1ae7632a/t/6171c6e87ad0ff58013708ba/1634846447433/careersats6.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/5a239b672aeba5be1ae7632a/t/6171c6e87ad0ff58013708ba/1634846447433/careersats6.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/5a239b672aeba5be1ae7632a/t/6171c6e87ad0ff58013708ba/1634846447433/careersats6.png?format=1500w"/>
+<meta name="twitter:title" content="Careers — Singularity 6"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5a239b672aeba5be1ae7632a/t/6171c6e87ad0ff58013708ba/1634846447433/careersats6.png?format=1500w"/>
+<meta name="twitter:url" content="https://www.singularity6.com/careers"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Abel:wght@400&family=Source+Code+Pro:wght@300;400;500;700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-0b087862cd3befa6c79b0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-0b087862cd3befa6c79b0-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-090db81fcd92b5d966055-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-090db81fcd92b5d966055-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-a0e053b59aa8d604fd366-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-a0e053b59aa8d604fd366-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-13e2246b8d1b0e77f07ea-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-13e2246b8d1b0e77f07ea-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-28fe0d11d2c4af18f3a5e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-28fe0d11d2c4af18f3a5e-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-663326d5fae76a256a1f0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-663326d5fae76a256a1f0-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-ef9e6cc3f1793e40f0adc-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-ef9e6cc3f1793e40f0adc-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-d706abd15cdfedc1aff7c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-d706abd15cdfedc1aff7c-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b18cb3a26cc45e5b0fca8-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-e40e35b0873d4b5b37a36-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-d777b4d4a1e5a0b52e24c-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-c2ab351b121a3d216493f-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-599541a905a8f30f52f33-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-f3a4c458f42b052fca25d-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c48918d186018f1794d51-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-27f0e65a85b80dc46b470-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-d496509f83c9111a511a8-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-9ef058397d03300456445-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-48c9d1006aec2b6ef93c4-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-1aef7d01397062b0578b0-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-fa27ecce216e47c4249c2-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-37ebb6609f49d5c6e4359-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c0fe5dd8815ca590c94a4-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-403838bed8a5e20bc4c59-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-e42dcafd488a1e0b855e9-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-4b793eae674383445c5ae-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-b94131d25eddc639a52e5-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-1159db08b6e09ca663491-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-763529a4a7472185e446d-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-638783cae31240064bf0e-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-d8ee2d771fb93907c3673-min.en-US.js"}},"pageType":2,"website":{"id":"5a239b672aeba5be1ae7632a","identifier":"anthony-leung-anfw","websiteType":1,"contentModifiedOn":1642720139955,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Singularity 6","fullSiteTitle":"Careers \u2014 Singularity 6","siteTagLine":"Forging alternate worlds","siteDescription":"","socialLogoImageId":"61eb20915dc16d15e2727ffa","shareButtonOptions":{"1":true,"8":true,"4":true,"3":true,"7":true,"6":true,"2":true},"socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/36c608e0-80c9-4522-acef-27b848859cca/SingularitySix_Logo_Wordmark_White.png","authenticUrl":"https://www.singularity6.com","internalUrl":"https://anthony-leung-anfw.squarespace.com","baseUrl":"https://www.singularity6.com","primaryDomain":"www.singularity6.com","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":65,"screenname":"LinkedIn","addedOn":1565375205530,"profileUrl":"https://www.linkedin.com/company/singularity6","iconEnabled":true,"serviceName":"linkedin-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1565375234724,"profileUrl":"https://twitter.com/singularity6","iconEnabled":true,"serviceName":"twitter-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5a239b672aeba5be1ae7632c","websiteId":"5a239b672aeba5be1ae7632a","subjects":[],"country":"US","state":"CA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"style":1,"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Careers","id":"5d0981532005830001b2940d","fullUrl":"/careers","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","design":"Slideshow","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-controls":"Arrows","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","grid-aspect-ratio":"1:1 (Square)","gridSize":"350px","gridSpacing":"20px","headerPadding":"30px","homepage-index-nav":"Show On Scroll","logoWidth":"140px","product-gallery-auto-crop":"false","product-image-auto-crop":"false","siteTitleContainerWidth":"255px","slideshow-aspect-ratio":"16:9 (Widescreen)","slideshow-autoplay":"true","slideshow-transition":"Fade","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52e96934e4b0ea14d0f64568","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1127/scripts/","betaFeatureFlags":["commerce_afterpay_pdp","reduce_general_search_api_traffic","campaigns_new_subscriber_search","nested_categories_migration_enabled","commerce_fts_review_survey","commerce_clearpay","campaigns_alt_text","commerce_product_composer_ab_test_all_users","commerce_product_branching","google_analytics_4_gtag_js","product_composer_feedback_form_on_save","commerce_restock_notifications","commerce_etsy_product_import","campaigns_hide_deleted_automations_panel","commerce_category_id_discounts_enabled","background_art_onboarding","campaigns_global_uc_ab","COMMERCE_PRODUCT_REVIEWS_MERCHANT_EMAIL","customer_account_creation_recaptcha","campaigns_blog_product_image_editor","campaigns_banner_reduce_size","member_areas_spanish_interviews","viewer-role-contributor-invites","campaigns_show_apply_website_styles_button","commerce_pdp_layouts_ga","commerce_activation_experiment_add_payment_processor_card","commerce_site_visitor_metrics","member_areas_schedule_interview","campaigns_section_reorder_arrows","campaigns_thumbnail_layout","category-delete-product-service-enabled","commerce_etsy_shipping_import","campaigns_audience_card","startup_checklist","campaigns_content_editing_survey"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"https://www.singularity6.com","name":"Singularity 6","description":"","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5a239b672aeba5be1ae7632a/39/52e96934e4b0ea14d0f64568/5a239b672aeba5be1ae7633e/1127/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var touchTest="ontouchstart"in window||navigator.msMaxTouchPoints;if(!touchTest){with(document.documentElement){className=className.replace(new RegExp("touch-styles"),"")}}})()</script>
+  </head>
+  
+  <body id="collection-5d0981532005830001b2940d" class="transparent-header  expand-homepage-index-links homepage-index-nav-show-on-scroll show-page-title index-section-separation-border design-slideshow grid-aspect-ratio-11-square grid-max-columns-four slideshow-aspect-ratio-169-widescreen slideshow-transition-fade slideshow-autoplay gallery-controls-arrows gallery-controls-color-light  meta-priority-date hide-entry-author  pre-footer-content-custom   show-category-navigation hide-album-share-link   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    gallery-design-grid aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square  product-gallery-size-11-square  show-product-price show-product-item-nav  tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5d0981532005830001b2940d collection-type-page collection-layout-default mobile-style-available collection-careers">
+
+    <div id="site">
+
+      <input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden" />
+
+      <div id="overlayNav">
+        
+
+  <div id="mobileNavWrapper" class="nav-wrapper">
+    <nav id="mobileNavigation">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#new-page-section">
+                        Featured News
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#news-section">
+                        Blog
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/team">
+                TEAM
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection active">
+              <a href="/careers">
+                Careers
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+
+
+      
+    </nav>
+  </div>
+
+
+      </div>
+
+      <header id="header" role="banner">
+        <div class="header-inner">
+          <div id="siteTitleWrapper" class="title-logo-wrapper" data-content-field="site-title">
+            
+              <h1 id="siteTitle" class="site-title tmpl-loading"><a href="/">Singularity 6</a></h1>
+            
+          </div><!-- comment the linebreak between these two elements because science
+          --><label for="mobileNavToggle" class="mobile-nav-toggle-label show-on-scroll-mobile"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><!-- comment the linebreak between these two elements because science
+          --><div id="headerNav" class="tmpl-loading" >
+
+  <div id="mainNavWrapper" class="nav-wrapper desktop-nav-wrapper show-on-scroll">
+    <nav id="mainNavigation" data-content-field="navigation" >
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#new-page-section">
+                        Featured News
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#news-section">
+                        Blog
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/team">
+                TEAM
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection active">
+              <a href="/careers">
+                Careers
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      <div id="siteWrapper" class="clearfix">
+
+        <!-- Banner -->
+        
+          
+            
+              
+                
+              
+            
+          
+        
+
+        
+        
+
+        <main id="page" role="main">
+          <div id="content" class="main-content" data-content-field="main-content" data-collection-id="5d0981532005830001b2940d" data-edit-main-image="Banner">
+
+            
+              
+
+              
+            
+
+           <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1632419265754" id="page-5d0981532005830001b2940d"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1560910317399_77723"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block summary-v2-block sqs-block-summary-v2" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;collectionType&quot;:1,&quot;collectionId&quot;:&quot;5a6677820d9297e212a61067&quot;,&quot;design&quot;:&quot;carousel&quot;,&quot;headerText&quot;:&quot;Studio Highlights&quot;,&quot;textSize&quot;:&quot;medium&quot;,&quot;pageSize&quot;:10,&quot;imageAspectRatio&quot;:1.5,&quot;columnWidth&quot;:270,&quot;gutter&quot;:60,&quot;listImageSize&quot;:30,&quot;listImageAlignment&quot;:&quot;left&quot;,&quot;slidesPerRow&quot;:3,&quot;textAlignment&quot;:&quot;left&quot;,&quot;showTitle&quot;:true,&quot;showThumbnail&quot;:true,&quot;showExcerpt&quot;:true,&quot;showReadMoreLink&quot;:false,&quot;showPrice&quot;:true,&quot;productQuickViewEnabled&quot;:false,&quot;showPastOrUpcomingEvents&quot;:&quot;upcoming&quot;,&quot;metadataPosition&quot;:&quot;above-title&quot;,&quot;primaryMetadata&quot;:&quot;none&quot;,&quot;secondaryMetadata&quot;:&quot;none&quot;,&quot;filter&quot;:&#123;&quot;tag&quot;:&quot;studio culture&quot;,&quot;category&quot;:null&#125;,&quot;autoCrop&quot;:true,&quot;lightbox&quot;:false,&quot;mixedContent&quot;:true,&quot;blockId&quot;:&quot;de393594af90a7cc1816&quot;&#125;" data-block-type="55" id="block-yui_3_17_2_1_1613601414740_6752"><div class="sqs-block-content">
+
+
+
+<div class="
+  summary-block-wrapper
+
+  summary-block-collection-type-blog
+
+  summary-block-setting-text-size-medium
+  summary-block-setting-text-align-left
+
+  summary-block-setting-design-carousel
+  summary-block-setting-design-list-thumbnail-left
+
+  summary-block-setting-metadata-position-above-title
+  summary-block-setting-primary-metadata-none
+  summary-block-setting-secondary-metadata-none
+
+  summary-block-setting-show-thumbnail
+  summary-block-setting-show-title
+  summary-block-setting-show-price
+  summary-block-setting-show-excerpt
+  
+
+  
+
+  sqs-gallery-design-carousel
+
+  
+  "
+
+  
+>
+
+  <div class="summary-item-list-container sqs-gallery-container">
+
+    <header class="summary-block-header">
+      
+      <div class="summary-heading" data-animation-role="content">
+        
+          <span class="summary-header-text">Studio Highlights</span>
+        
+      </div>
+
+      
+      <div class="summary-carousel-pager sqs-gallery-controls" data-animation-role="content">
+        <span
+          class="summary-carousel-pager-prev previous"
+          tabindex="0"
+          role="button"
+          aria-label="Previous"
+        ></span>
+        <span
+          class="summary-carousel-pager-next next"
+          tabindex="0"
+          role="button"
+          aria-label="Next"
+        ></span>
+      </div>
+
+    </header>
+
+    <div class="summary-item-list sqs-gallery">
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-carousel-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/blog/2021/6/3/we-are-singularity-6"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="We are Singularity 6!"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    
+
+      
+        <!-- First Image in Post -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1622739243192-ADOYXEMAXGPVZFX45IX6/Palia_Ban_VillageCenter_m.jpg" data-image-dimensions="1500x500" data-load="false" class="summary-thumbnail-image" />
+      
+
+      
+    
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/blog/2021/6/3/we-are-singularity-6"
+                  
+                
+                class="summary-title-link">We are Singularity 6!</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-carousel-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/blog/2021/3/30/hackathon-singularity-6s-yearly-tradition"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="Hackathon: Singularity 6's Yearly Tradition"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    <!-- Main Image -->
+    <img data-src="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1617125722100-V4HNACJ0VQUIB1RKML0S/ForestRuins.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1617125722100-V4HNACJ0VQUIB1RKML0S/ForestRuins.jpg" data-image-dimensions="807x807" data-image-focal-point="0.5,0.5" alt="Hackathon: Singularity 6's Yearly Tradition"  data-load="false" class="summary-thumbnail-image"/>
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/blog/2021/3/30/hackathon-singularity-6s-yearly-tradition"
+                  
+                
+                class="summary-title-link">Hackathon: Singularity 6's Yearly Tradition</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-carousel-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/blog/2021/2/11/how-gaming-together-can-build-studio-culture"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="How Gaming Can Build Studio Culture"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    <!-- Main Image -->
+    <img data-src="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1613085096777-V9H6BE2XCSQ3E5ZF98F8/AdventureFriends.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1613085096777-V9H6BE2XCSQ3E5ZF98F8/AdventureFriends.jpg" data-image-dimensions="1030x824" data-image-focal-point="0.5,0.5" alt="How Gaming Can Build Studio Culture"  data-load="false" class="summary-thumbnail-image"/>
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/blog/2021/2/11/how-gaming-together-can-build-studio-culture"
+                  
+                
+                class="summary-title-link">How Gaming Can Build Studio Culture</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-carousel-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/blog/2021/1/11/finding-home-social-matchmaking-through-machine-learning"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="Finding Home - Social Matchmaking Through Machine Learning"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    <!-- Main Image -->
+    <img data-src="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1610400282399-JH9PO15GOOBGORNQFUMG/S6_Concept_8.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1610400282399-JH9PO15GOOBGORNQFUMG/S6_Concept_8.jpg" data-image-dimensions="2472x1390" data-image-focal-point="0.8,0.5871749769711325" alt="Finding Home - Social Matchmaking Through Machine Learning"  data-load="false" class="summary-thumbnail-image"/>
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/blog/2021/1/11/finding-home-social-matchmaking-through-machine-learning"
+                  
+                
+                class="summary-title-link">Finding Home - Social Matchmaking Through Machine Learning</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-carousel-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/blog/2020/11/11/eng-team-prototyping"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="Engineering Team - Prototyping and Hackathons"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    <!-- Main Image -->
+    <img data-src="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1605147314968-0IIZJ2NAW7PLAIKMJZTZ/S6_GWG.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1605147314968-0IIZJ2NAW7PLAIKMJZTZ/S6_GWG.jpg" data-image-dimensions="796x796" data-image-focal-point="0.5,0.5" alt="Engineering Team - Prototyping and Hackathons"  data-load="false" class="summary-thumbnail-image"/>
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/blog/2020/11/11/eng-team-prototyping"
+                  
+                
+                class="summary-title-link">Engineering Team - Prototyping and Hackathons</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-carousel-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/blog/2020/7/24/art-team-philosophy-and-new-concept-art"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="Art Team - Philosophy and New Concept Art"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    
+
+      
+        <!-- First Image in Post -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1595625787394-AU844LU9R9C1ZCDRXZSX/ADVz_release_02_recropsm.jpg" data-image-dimensions="2500x1200" data-load="false" class="summary-thumbnail-image" />
+      
+
+      
+    
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/blog/2020/7/24/art-team-philosophy-and-new-concept-art"
+                  
+                
+                class="summary-title-link">Art Team - Philosophy and New Concept Art</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-carousel-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/blog/2020/7/27/meet-our-narrative-designer-olivia"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="Meet Our Narrative Designer: Olivia"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    
+
+      
+        <!-- First Image in Post -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1595896404652-4CAC3O6UQ8M0CV3QIHQ8/Untitled%2Bdrawing.jpg" data-image-dimensions="268x356" data-load="false" class="summary-thumbnail-image" />
+      
+
+      
+    
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/blog/2020/7/27/meet-our-narrative-designer-olivia"
+                  
+                
+                class="summary-title-link">Meet Our Narrative Designer: Olivia</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-carousel-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/blog/2020/5/27/meet-our-designer-eileen-shiue"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="Meet Our Designer: Eileen Shiue"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    <!-- Main Image -->
+    <img data-src="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1590683897870-P62WW4PNGIIR2QT933WP/Eileen+Blog+Article+-+Photo+1+small.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a239b672aeba5be1ae7632a/1590683897870-P62WW4PNGIIR2QT933WP/Eileen+Blog+Article+-+Photo+1+small.jpg" data-image-dimensions="500x376" data-image-focal-point="0.5,0.5" alt="Meet Our Designer: Eileen Shiue"  data-load="false" class="summary-thumbnail-image"/>
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/blog/2020/5/27/meet-our-designer-eileen-shiue"
+                  
+                
+                class="summary-title-link">Meet Our Designer: Eileen Shiue</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1560905690447_20338"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">If you’re interested in the challenge of building a new genre, in making rewarding interactive &amp; community experiences filled with amazing art and world class technology to support this living world, join us on the journey.</p></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1560904496727_23861"><div class="sqs-block-content"><div id="grnhse_app"></div></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1560910317399_78659"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+          </div>
+        </main>
+
+        <div id="preFooter">
+          <div class="pre-footer-inner with-custom">
+  <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Pre-Footer Content" data-type="block-field" data-updated-on="1412365894482" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+</div>
+
+        </div>
+
+        <footer id="footer" role="contentinfo">
+          <div class="footer-inner">
+            <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back To Top</a></div></nav></div>
+            <div id="secondaryNavWrapper" class="nav-wrapper desktop-nav-wrapper">
+  <nav id="secondaryNavigation" data-content-field="navigation" >
+    
+      
+        
+        <div class="external">
+          <a href="/careers" target="_blank">
+            <span>Join Us</span>
+          </a>
+        </div>
+        
+
+      
+
+    
+      
+        
+
+        
+
+          
+          <div class="collection" id="id5a2468ac53450a52b500495e">
+            <a href="/contact">
+              <span>Contact</span>
+            </a>
+          </div>
+          
+
+        
+      
+      
+
+    
+  </nav>
+</div>
+
+
+            
+            <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1632265716616" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1410974958450_4735"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-white social-icons-size-medium social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.linkedin.com/company/singularity6" target="_blank" class="sqs-svg-icon--wrapper linkedin-unauth" aria-label="LinkedIn">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#linkedin-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#linkedin-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://twitter.com/singularity6" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="Twitter">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-713fe491a2c303b33937"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">Powered by Magic</p><p style="text-align:center;white-space:pre-wrap;" class="">© 2018 Singularity 6, Inc.</p></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1632265666169_6209"><div class="sqs-block-content"><script src="https://boards.greenhouse.io/embed/job_board/js?for=singularity6"></script></div></div></div></div></div>
+          </div>
+        </footer>
+
+        
+
+      </div>
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1127/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="linkedin-unauth-icon" viewBox="0 0 64 64"><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z"/></symbol><symbol id="linkedin-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M25.8,44h-5.4V26.6h5.4V44z M23.1,24.3c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1 c1.7,0,3.1,1.4,3.1,3.1C26.2,22.9,24.8,24.3,23.1,24.3z M46,44h-5.4v-8.4c0-2,0-4.6-2.8-4.6c-2.8,0-3.2,2.2-3.2,4.5V44h-5.4V26.6 h5.2V29h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.5,0,6.5,3.6,6.5,8.3V44z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol></svg>
+
+  </body>
+</html>

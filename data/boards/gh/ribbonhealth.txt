@@ -1,0 +1,634 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js no-svg ie ie6 lt-ie9 lt-ie8 lt-ie7"lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js no-svg ie ie7 lt-ie9 lt-ie8"lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js no-svg ie ie8 lt-ie9"lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js no-svg"lang="en-US">
+    <!--<![endif]-->
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="description" content="We exist to make healthcare simple">
+        <link rel="stylesheet" href="https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/style.css" type="text/css" media="screen"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="author" href="https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/humans.txt"/>
+        <link rel="pingback" href="https://www.ribbonhealth.com/xmlrpc.php"/>
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5f3f6e">
+        <meta name="msapplication-TileColor" content="#5f3f6e">
+        <meta name="theme-color" content="#ffffff">
+
+        <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0068/8453.js" async="async"></script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Careers - Ribbon Health</title>
+	<meta name="description" content="Join us to ensure every healthcare decision is high-quality, cost effective, and convenient" />
+	<link rel="canonical" href="https://www.ribbonhealth.com/careers/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Working at Ribbon" />
+	<meta property="og:description" content="Join us to ensure every healthcare decision is high-quality, cost effective, and convenient" />
+	<meta property="og:url" content="https://www.ribbonhealth.com/careers/" />
+	<meta property="og:site_name" content="Ribbon Health" />
+	<meta property="article:modified_time" content="2022-01-10T15:08:08+00:00" />
+	<meta property="og:image" content="https://www.ribbonhealth.com/wp-content/uploads/2019/02/Facebook-People.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.ribbonhealth.com/#website","url":"https://www.ribbonhealth.com/","name":"Ribbon Health","description":"We exist to make healthcare simple","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ribbonhealth.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.ribbonhealth.com/careers/#primaryimage","inLanguage":"en-US","url":"https://www.ribbonhealth.com/wp-content/uploads/2019/02/Facebook-People.jpg","contentUrl":"https://www.ribbonhealth.com/wp-content/uploads/2019/02/Facebook-People.jpg","width":1200,"height":630},{"@type":"WebPage","@id":"https://www.ribbonhealth.com/careers/#webpage","url":"https://www.ribbonhealth.com/careers/","name":"Careers - Ribbon Health","isPartOf":{"@id":"https://www.ribbonhealth.com/#website"},"primaryImageOfPage":{"@id":"https://www.ribbonhealth.com/careers/#primaryimage"},"datePublished":"2018-10-31T22:10:41+00:00","dateModified":"2022-01-10T15:08:08+00:00","description":"Join us to ensure every healthcare decision is high-quality, cost effective, and convenient","breadcrumb":{"@id":"https://www.ribbonhealth.com/careers/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.ribbonhealth.com/careers/"]}]},{"@type":"BreadcrumbList","@id":"https://www.ribbonhealth.com/careers/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ribbonhealth.com/"},{"@type":"ListItem","position":2,"name":"Careers"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Ribbon Health &raquo; Feed" href="https://www.ribbonhealth.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ribbon Health &raquo; Comments Feed" href="https://www.ribbonhealth.com/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.ribbonhealth.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.ribbonhealth.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='thumbs_rating_styles-css'  href='https://www.ribbonhealth.com/wp-content/plugins/link-library/upvote-downvote/css/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css-css'  href='https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/dist/build.863228667c4cc7554d50.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ribbonhealth.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.ribbonhealth.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='thumbs_rating_scripts-js-extra'>
+/* <![CDATA[ */
+var thumbs_rating_ajax = {"ajax_url":"https:\/\/www.ribbonhealth.com\/wp-admin\/admin-ajax.php","nonce":"faed0f4bd7"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ribbonhealth.com/wp-content/plugins/link-library/upvote-downvote/js/general.js?ver=4.0.1' id='thumbs_rating_scripts-js'></script>
+<script type='text/javascript' src='https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/src/vendor/modernizr-touchevents.js' id='modernizr-touch-js'></script>
+<link rel="https://api.w.org/" href="https://www.ribbonhealth.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.ribbonhealth.com/wp-json/wp/v2/pages/372" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ribbonhealth.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ribbonhealth.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.ribbonhealth.com/?p=372' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ribbonhealth.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ribbonhealth.com%2Fcareers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ribbonhealth.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ribbonhealth.com%2Fcareers%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v8.4.465-->
+			<script type="text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					};
+					if (!window.hbspt.forms.create) {
+						Object.defineProperty(window.hbspt.forms, 'create', {
+							configurable: true,
+							get: function() {
+								return hbspt._wpCreateForm;
+							},
+							set: function(value) {
+								hbspt._wpCreateForm = value;
+								while (hbspt._wpFormsQueue.length) {
+									var formDef = hbspt._wpFormsQueue.shift();
+									if (!document.currentScript) {
+										var formScriptId = 'leadin-forms-v2-js';
+										hubspot.utils.currentScript = document.getElementById(formScriptId);
+									}
+									hbspt._wpCreateForm.call(hbspt.forms, formDef);
+								}
+							},
+						});
+					}
+				})();
+			</script>
+		<style id='LinkLibraryStyle' type='text/css'>
+</style>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Zalo"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NKDV9F4');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->		<style type="text/css" id="wp-custom-css">
+			/* navbar responsive*/
+@media (max-width: 1132px){
+.header ul li.header__menu__item:not(.last) {
+    padding-right: 8px;
+}
+	.header ul li.header__menu__item {
+    padding-left: 8px;
+}
+}
+@media (max-width: 1100px){
+.header ul li.header__menu__item:not(.last) {
+    padding-right: 5px;
+}
+	.header ul li.header__menu__item {
+    padding-left: 5px;
+}
+}
+
+/* fix errors */
+.header__menu__wrapper .ul--unstyled {    
+    display: flex !important;
+    justify-content: end !important;
+    align-items: center !important;
+}
+.header ul li.header__menu__item {
+    padding-top: 32px;
+    padding-bottom: 26px;
+}
+.button-rh__wrapperd-md-none{
+    display: none;
+}
+.hero__text .button-rh{
+	margin-top: 30px;
+}
+.text-centered .button-rh__wrappertext-centered__button{
+	    display: inline-flex;
+}
+.masonry-cards__card-box__wrapperoffset-lg-3 {
+    min-height: 143px;
+    margin-bottom: 36px;
+}
+@media (min-width: 992px){
+.masonry-cards__card-box__wrapperoffset-lg-3 {
+    margin-left: 25%;
+}
+}
+.h4card-box--ul-dots__li--last{   
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    margin-top: 0;
+    color: #322139;
+}
+@media (min-width: 886px){
+.h4card-box--ul-dots__li--last{
+    margin-bottom: 0;    
+}}
+@media (max-width: 885.98px){
+.h4card-box--ul-dots__li--last{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 8px;    
+}}
+
+.page-careers .title-list.rh-block{
+	margin-bottom:100px !important;
+}		</style>
+		</head>
+<body class="page-template-default page page-id-372 page-parent page-careers careers" data-template="base.twig"><?php if ( function_exists( ‘gtm4wp_the_gtm_tag’ ) ) { gtm4wp_the_gtm_tag(); } ?><div class="header__wrapper">
+    <div class="header__preheader"></div>
+    <header class="header">
+
+        <div class="container container--fluid">
+            <div class="row">
+
+                <div class="col-md-1 col-lg-2 col-6 header__logo__wrapper">
+                    <a href="https://www.ribbonhealth.com" class="header__logo">
+                        <img class="d-headerMenu-up" src="https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/src/static/logo.svg" width="140">
+                        <img class="d-headerMenu-down" src="https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/src/static/logo-white.svg" width="81">
+                    </a>
+                </div>
+
+                <nav class="col-11 col-lg-10 header__menu__wrapper d-headerMenu-up"><ul class="ul--unstyled ul--inline ">        <li class="header__menu__item">                <a target="_self" href="https://www.ribbonhealth.com/" class="header__menu__item__a">Home                </a>        </li>        <li class="header__menu__item">                <a target="_self" href="https://www.ribbonhealth.com/about-us/" class="header__menu__item__a">About                </a>        </li>        <li class="header__menu__item">                <a target="_self" href="https://www.ribbonhealth.com/use-cases/" class="header__menu__item__a" data-submenu="#header-submenu-414">Use Cases                        <div class="header__menu_arrow-dropdown"></div>                </a>        </li>        <li class="header__menu__item">                <a target="_self" href="https://www.ribbonhealth.com/ribbon-data-in-action/" class="header__menu__item__a">Data                </a>        </li>        <li class="header__menu__item">                <a target="_blank" href="https://ribbon.readme.io/docs" class="header__menu__item__a">Documentation                </a>        </li>        <li class="header__menu__item">                <a target="_self" href="https://www.ribbonhealth.com/blog/" class="header__menu__item__a">Blog                </a>        </li>        <li class="header__menu__item">                <a target="_self" href="https://www.ribbonhealth.com/resources/" class="header__menu__item__a">Resources                </a>        </li>        <li class="header__menu__item">                <a target="_self" href="https://www.ribbonhealth.com/careers/" class="header__menu__item__a">Careers                </a>        </li>        <li class="header__menu__itemheader__menu__item--buttonlast"><div class="button-rh__wrapperheader__button" style="">
+    <a href="https://www.ribbonhealth.com/try-now/" class="button-rh button-rh--dark--">
+        <span>Try Ribbon</span>
+    </a>
+</div>        </li></ul>                </nav>
+                <div class="col-6 d-headerMenu-down header__menu-trigger-wrapper">
+                    <div class="header__menu-trigger">
+                        <div class="header__menu-trigger-lines">
+                            <span class="line line--1"></span>
+                            <span class="line line--2"></span>
+                            <span class="line line--3"></span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </header>        <div id="header-submenu-414" class="header-submenu">
+            <div class="container">
+                <div class="row">
+                    <div class="col-2 header-submenu__title">
+                        <div class="header-submenu__title-overflow">
+                            <a href="https://www.ribbonhealth.com/use-cases/">Use Cases</a>
+                        </div>
+                    </div>
+                    <div class="col-10 header-submenu__menu">
+                        <div class="row d-flex justify-content-end">                                <div class="col header-submenu__item">
+                                    <a href="https://www.ribbonhealth.com/use-cases/#provider-directory" class="header-submenu__item-a">                                            <div class="header-submenu__item-icon-wrapper">
+                                                <div class="header-submenu__item-icon" style="background-image:url(https://www.ribbonhealth.com/wp-content/uploads/2018/10/icon21.svg)"></div>
+                                            </div>                                        <div class="header-submenu__item-text">
+                                            <span>Provider Directory</span>
+                                        </div>
+                                    </a>
+                                </div>                                <div class="col header-submenu__item">
+                                    <a href="https://www.ribbonhealth.com/use-cases/#referral-management" class="header-submenu__item-a">                                            <div class="header-submenu__item-icon-wrapper">
+                                                <div class="header-submenu__item-icon" style="background-image:url(https://www.ribbonhealth.com/wp-content/uploads/2018/10/network.svg)"></div>
+                                            </div>                                        <div class="header-submenu__item-text">
+                                            <span>Referral Management</span>
+                                        </div>
+                                    </a>
+                                </div>                                <div class="col header-submenu__item">
+                                    <a href="https://www.ribbonhealth.com/use-cases/#care-navigation" class="header-submenu__item-a">                                            <div class="header-submenu__item-icon-wrapper">
+                                                <div class="header-submenu__item-icon" style="background-image:url(https://www.ribbonhealth.com/wp-content/uploads/2018/10/compass.svg)"></div>
+                                            </div>                                        <div class="header-submenu__item-text">
+                                            <span>Care Navigation</span>
+                                        </div>
+                                    </a>
+                                </div>                                <div class="col header-submenu__item">
+                                    <a href="https://www.ribbonhealth.com/use-cases/#insurance-enrollment" class="header-submenu__item-a">                                            <div class="header-submenu__item-icon-wrapper">
+                                                <div class="header-submenu__item-icon" style="background-image:url(https://www.ribbonhealth.com/wp-content/uploads/2018/10/Icon22.svg)"></div>
+                                            </div>                                        <div class="header-submenu__item-text">
+                                            <span>Insurance Decision</span>
+                                        </div>
+                                    </a>
+                                </div>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div></div><div class="menu-mobile">
+    <ul class="ul--unstyled ">            <li class="header__menu__item">                    <a target="_self" href="https://www.ribbonhealth.com/" class="header__menu__item__a">Home
+                    </a>            </li>            <li class="header__menu__item">                    <a target="_self" href="https://www.ribbonhealth.com/about-us/" class="header__menu__item__a">About
+                    </a>            </li>            <li class="header__menu__item">                    <a target="_self" href="https://www.ribbonhealth.com/use-cases/" class="header__menu__item__a">Use Cases
+                    </a>            </li>            <li class="header__menu__item">                    <a target="_self" href="https://www.ribbonhealth.com/ribbon-data-in-action/" class="header__menu__item__a">Data
+                    </a>            </li>            <li class="header__menu__item">                    <a target="_blank" href="https://ribbon.readme.io/docs" class="header__menu__item__a">Documentation
+                    </a>            </li>            <li class="header__menu__item">                    <a target="_self" href="https://www.ribbonhealth.com/blog/" class="header__menu__item__a">Blog
+                    </a>            </li>            <li class="header__menu__item">                    <a target="_self" href="https://www.ribbonhealth.com/resources/" class="header__menu__item__a">Resources
+                    </a>            </li>            <li class="header__menu__item">                    <a target="_self" href="https://www.ribbonhealth.com/careers/" class="header__menu__item__a">Careers
+                    </a>            </li>            <li class="header__menu__itemheader__menu__item--buttonlast"><div class="button-rh__wrapperheader__button" style="">
+    <a href="https://www.ribbonhealth.com/try-now/" class="button-rh button-rh--light--">
+        <span>Try Ribbon</span>
+    </a>
+</div>            </li>    </ul>
+</div>    <div class="content-wrapper">
+        <article class="post-type-page" id="post-372">
+            <section class="article-content">
+                <div class="container">
+                    <h1 class="page__h1 h1--hero">Careers</h1>
+                </div><div class="container">
+<figure class="wp-block-image size-full"><img loading="lazy" width="4544" height="1797" src="https://www.ribbonhealth.com/wp-content/uploads/2019/04/Cacti.png" alt="" class="wp-image-1164" srcset="https://www.ribbonhealth.com/wp-content/uploads/2019/04/Cacti.png 4544w, https://www.ribbonhealth.com/wp-content/uploads/2019/04/Cacti-300x119.png 300w, https://www.ribbonhealth.com/wp-content/uploads/2019/04/Cacti-768x304.png 768w, https://www.ribbonhealth.com/wp-content/uploads/2019/04/Cacti-1024x405.png 1024w" sizes="(max-width: 4544px) 100vw, 4544px" /></figure>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<div style="height:69px" aria-hidden="true" class="wp-block-spacer"></div>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<h2 class="has-text-align-left">We&#8217;d love to meet you!</h2>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="hero hero-- rh-block">
+    <div class="container mb-100 mb-md-80 mb-sm-50">
+        <div class="row d-flex justify-content-between">
+            <div class=" col hero__text hero__text--p1--">We are passionate about simplifying healthcare decisions and determined to build the best team possible: one that is diverse, inclusive, and deeply committed to living our values. 
+
+<p style="line-height:1.2"> <font size="3"> <br> We are looking for exceptional people who care deeply about ensuring that every healthcare decision is high-quality, cost-effective, and convenient. We are looking for people with grit and tenacity, kindness, intellectual curiosity, and a commitment to developing and improving your teammates. We are looking for people who want to grow personally and professionally as quickly as Ribbon is growing as a company. 
+
+<br> <br> We are not looking for specific degrees, or any other “right background”. If you’re hungry, driven, and motivated, and you think you have what it takes to be the best candidate in a role, we want to meet you. </p>            </div>        </div>
+    </div>
+    <div class="clear"></div>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<p></p>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class=" masonry-cards rh-block rh-block--green">
+    <div class="container">
+        <div id="our-values" class="anchor"></div>
+        <div class="row">
+            <div class="col-12 col-lg-3">
+                <h2 class="masonry-cards__title">Our Values</h2>
+            </div>
+        </div>
+        <div class="row d-flex align-items-stretch" data-subparallax="entryMasonryCards">
+                <div class="col-12 col-md-6 col-lg-3 masonry-cards__card-box__wrapper">                    <div class="card-box card-box masonry-cards__card-box masonry-cards__card-box--1" data-subparallax-from='{"y":80}' data-subparallax-to='{"y":-30}'>
+                        <div class="card-box__icon masonry-cards__card-box__index card-box__fake-icon">1
+                        </div>
+                        <h4>Run towards hard problems</h4>
+                        <div class="p3 masonry-cards__card-box__text">We are motivated by the toughest challenges. We seek out hard problems that have the most impact and solve them to help those who need it most.</div>
+
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 masonry-cards__card-box__wrapper">                    <div class="card-box card-box masonry-cards__card-box masonry-cards__card-box--2" data-subparallax-from='{"y":-10}' data-subparallax-to='{"y":80}'>
+                        <div class="card-box__icon masonry-cards__card-box__index card-box__fake-icon">2
+                        </div>
+                        <h4>Put your team first</h4>
+                        <div class="p3 masonry-cards__card-box__text">We are a family. We are all happier and healthier when we take care of each other and put each other’s needs ahead of our own.</div>
+
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 masonry-cards__card-box__wrapper">                    <div class="card-box card-box masonry-cards__card-box masonry-cards__card-box--3" data-subparallax-from='{"y":50}' data-subparallax-to='{"y":-80}'>
+                        <div class="card-box__icon masonry-cards__card-box__index card-box__fake-icon">3
+                        </div>
+                        <h4>Do what you say</h4>
+                        <div class="p3 masonry-cards__card-box__text">We are honest with each other. We are accountable to each other.</div>
+
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 masonry-cards__card-box__wrapper">                    <div class="card-box card-box masonry-cards__card-box masonry-cards__card-box--4" data-subparallax-from='{"y":10}' data-subparallax-to='{"y":75}'>
+                        <div class="card-box__icon masonry-cards__card-box__index card-box__fake-icon">4
+                        </div>
+                        <h4>Stay hungry, keep improving</h4>
+                        <div class="p3 masonry-cards__card-box__text">We are humble. We will make mistakes, learn from those mistakes, and be better because of those mistakes.</div>
+
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 masonry-cards__card-box__wrapperoffset-lg-3">                    <div class="card-box card-box masonry-cards__card-box masonry-cards__card-box--5" data-subparallax-from='{"y":-40}' data-subparallax-to='{"y":100}'>
+                        <div class="card-box__icon masonry-cards__card-box__index card-box__fake-icon">5
+                        </div>
+                        <h4>Practice habits of excellence</h4>
+                        <div class="p3 masonry-cards__card-box__text">We measure our success by the process it took to get there. We will always do our very best and we are proud of the outcome because of it.</div>
+
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 masonry-cards__card-box__wrapperoffset-lg-3">                    <div class="card-box card-box masonry-cards__card-box masonry-cards__card-box--6" data-subparallax-from='{"y":0}' data-subparallax-to='{"y":100}'>
+                        <div class="card-box__icon masonry-cards__card-box__index card-box__fake-icon">6
+                        </div>
+                        <h4>Build with empathy</h4>
+                        <div class="p3 masonry-cards__card-box__text">We are building the best healthcare experience for our users. When faced with a difficult decision, we do what’s best for people&#8217;s lives.</div>
+
+                    </div>
+                </div>
+            <div class="col-2"></div>
+
+        </div>
+    </div>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<h2 class="has-text-align-left">Our Benefits</h2>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<p class="has-text-align-left"><br><br>We care deeply about our team and strive to offer a generous benefits package to support everyone&#8217;s well-being, such as:</p>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="title-list rh-block">
+    <div class="container">
+        <div id="" class="anchor"></div>
+        <div class="row ">
+            <div class="col-12 col-md-4 col-lg-3"><div class="ribbon-icon">
+    <img src="https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/src/static/ribbon-icon-2.svg" width="138" data-scroll-entry="entryIconCross" data-scroll-offset="200">
+</div>                <h2></h2>
+            </div>
+
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="card-box card-box--ul-dots d-none d-lg-block">
+                    <div class="row">
+                        <div class="col-4 title-list__col-1 title-list__col--border title-list__col">
+                            <ul class="ul--dots">                                        <li class="h4">Fully sponsored medical, dental, and vision plan coverage</li>                                        <li class="h4card-box--ul-dots__li--last ul-dots__li-last">Unlimited paid time off and flexible hours</li>                            </ul>
+                        </div>
+                        <div class="col-4 title-list__col-2 title-list__col--border title-list__col">
+
+                            <ul class="ul--dots">                                        <li class="h4">One Medical membership and mental health support</li>                                        <li class="h4card-box--ul-dots__li--last ul-dots__li-last">Commuter support and CitiBike membership</li>                            </ul>
+                        </div>
+                        <div class="col-4 title-list__col-3 title-list__col">                            <ul class="ul--dots">                                        <li class="h4">Inclusive environment and activities to connect outside the office</li>                                        <li class="h4card-box--ul-dots__li--last ul-dots__li-last">401k sponsorship</li>                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="card-box card-box--ul-dots d-none d-md-block d-lg-none">
+                    <div class="row ">
+                        <div class="col-12 col-md-6 title-list__col-1 title-list__col--border title-list__col">
+
+                            <ul class="ul--dots">                                        <li class="h4">Fully sponsored medical, dental, and vision plan coverage</li>                                        <li class="h4">Inclusive environment and activities to connect outside the office</li>                                        <li class="h4">Commuter support and CitiBike membership</li>                            </ul>
+                        </div>
+                        <div class="col-12 col-md-6 title-list__col-2 title-list__col">
+                            <ul class="ul--dots">                                        <li class="h4">One Medical membership and mental health support</li>                                        <li class="h4">Unlimited paid time off and flexible hours</li>                                        <li class="h4card-box--ul-dots__li--last ul-dots__li-last">401k sponsorship</li>                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-box card-box--ul-dots d-md-none">
+                    <div class="row ">
+                        <div class="col-12 title-list__col">
+
+                            <ul class="ul--dots">
+                                    <li class="h4">Fully sponsored medical, dental, and vision plan coverage</li>
+                                    <li class="h4">One Medical membership and mental health support</li>
+                                    <li class="h4">Inclusive environment and activities to connect outside the office</li>
+                                    <li class="h4">Unlimited paid time off and flexible hours</li>
+                                    <li class="h4">Commuter support and CitiBike membership</li>
+                                    <li class="h4card-box--ul-dots__li--last ul-dots__li-last">401k sponsorship</li>                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<figure class="wp-block-gallery columns-4 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="434" height="606" src="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_BestPaying_NYC_FullColor2.png" alt="" data-id="2759" data-full-url="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_BestPaying_NYC_FullColor2.png" data-link="https://www.ribbonhealth.com/careers/2022bptwbadge_bestpaying_nyc_fullcolor2/" class="wp-image-2759" srcset="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_BestPaying_NYC_FullColor2.png 434w, https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_BestPaying_NYC_FullColor2-215x300.png 215w" sizes="(max-width: 434px) 100vw, 434px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="434" height="606" src="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_General_NYC_FullColor3.png" alt="" data-id="2765" data-full-url="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_General_NYC_FullColor3.png" data-link="https://www.ribbonhealth.com/careers/2022bptwbadge_general_nyc_fullcolor3/" class="wp-image-2765" srcset="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_General_NYC_FullColor3.png 434w, https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_General_NYC_FullColor3-215x300.png 215w" sizes="(max-width: 434px) 100vw, 434px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="434" height="606" src="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_Small_NYC_FullColor2.png" alt="" data-id="2762" data-full-url="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_Small_NYC_FullColor2.png" data-link="https://www.ribbonhealth.com/careers/2022bptwbadge_small_nyc_fullcolor2/" class="wp-image-2762" srcset="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_Small_NYC_FullColor2.png 434w, https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_Small_NYC_FullColor2-215x300.png 215w" sizes="(max-width: 434px) 100vw, 434px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="434" height="606" src="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_BestPaying_NYC_FullColor-CBI-2.png" alt="" data-id="2761" data-full-url="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_BestPaying_NYC_FullColor-CBI-2.png" data-link="https://www.ribbonhealth.com/careers/2022bptwbadge_bestpaying_nyc_fullcolor-cbi-2/" class="wp-image-2761" srcset="https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_BestPaying_NYC_FullColor-CBI-2.png 434w, https://www.ribbonhealth.com/wp-content/uploads/2022/01/2022BPTWBadge_BestPaying_NYC_FullColor-CBI-2-215x300.png 215w" sizes="(max-width: 434px) 100vw, 434px" /></figure></li></ul></figure>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<h2>Open Roles</h2>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<div id="grnhse_app"></div>
+</div><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container"><div class="container">
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="container">
+<script src="https://boards.greenhouse.io/embed/job_board/js?for=ribbonhealth"></script>
+</div>
+
+            </section>
+        </article>
+    </div><div class="container pre-footer">
+    <div class="row d-flex justify-content-center">
+        <div class="col-lg-8 col-md-10 col-12">
+            <img class="pre-footer__img" src="https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/src/static/doctors-footer.svg">
+        </div>
+    </div>
+</div>
+<footer id="footer" class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="footer__title">
+                    Our mission is to simplify healthcare
+                </h2>
+            </div>
+
+            <div class="col-12 col-xl-3 col-lg-3 col-md-4 col-sm-6 footer__col mb-md-50 mb-sm-30 mb-xs-25 d-none d-sm-block">
+                <ul class="ul--unstyled">        <li class="">
+            <div class="footer__col__title footer__col__title--first">
+                <a target="_self" href="https://www.ribbonhealth.com">
+                    <img src="https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/src/static/logo-white.svg" width="79">
+                </a>
+            </div>
+        </li>
+        <li>
+            <div class="p3 green-links"><p>Enterprise data platform and API layer for healthcare solutions</p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="325b5c545d72405b50505d5c5a57535e465a1c515d5f">[email&#160;protected]</a></span></p>
+
+                <div class="footer__col__title"></div>
+            </div>
+        </li></ul>
+            </div>
+
+            <div class="col-12 col-xl-5 col-lg-5 col-md-5 offset-md-3 offset-lg-0  col-sm-6 footer__col mb-md-50 mb-sm-30 mb-xs-25 d-none d-sm-block">
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <ul class="ul--unstyled">        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5footer__col__title--first">
+                <a target="_self" href="https://www.ribbonhealth.com/use-cases/" class="footer__link">Use Cases</a>
+            </h5>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/about-us/" class="footer__link">About Us</a>
+            </h5>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/careers/" class="footer__link">Careers</a>
+            </h5>
+        </li></ul>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <ul class="ul--unstyled">        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5footer__col__title--first">
+                <a target="_self" href="https://www.ribbonhealth.com/terms-of-service/" class="footer__link">Terms of service</a>
+            </h5>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/privacy-policy/" class="footer__link">Privacy Policy</a>
+            </h5>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/statement-on-job-scams/" class="footer__link">Ribbon Statement on Job Scams</a>
+            </h5>
+        </li></ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-xl-2 col-lg-3 col-sm-6 col-md-4 footer__col mb-md-50 mb-sm-30 mb-xs-25 d-sm-none">
+                <ul class="ul--unstyled">        <li class="">
+            <div class="footer__col__title footer__col__title--first">
+                <a target="_self" href="https://www.ribbonhealth.com">
+                    <img src="https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/src/static/logo-white.svg" width="79">
+                </a>
+            </div>
+        </li>
+        <li>
+            <div class="p3 green-links"><p>Enterprise data platform and API layer for healthcare solutions</p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="761f18101936041f141419181e13171a021e5815191b">[email&#160;protected]</a></span></p>
+
+                <div class="footer__col__title"></div>
+            </div>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/use-cases/" class="footer__link">Use Cases</a>
+            </h5>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/about-us/" class="footer__link">About Us</a>
+            </h5>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/careers/" class="footer__link">Careers</a>
+            </h5>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/terms-of-service/" class="footer__link">Terms of service</a>
+            </h5>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/privacy-policy/" class="footer__link">Privacy Policy</a>
+            </h5>
+        </li>        <li class="">
+            <h5 class="footer__col__title footer__col__title--h5">
+                <a target="_self" href="https://www.ribbonhealth.com/statement-on-job-scams/" class="footer__link">Ribbon Statement on Job Scams</a>
+            </h5>
+        </li></ul>
+            </div>
+
+            <div class="col-xl-4 col-lg-4 col-md-8 col-sm-12 col-12 footer__col text-center-md mb-lg-50 mb-sm-0">
+                <div class="">
+                    <div class="text-center-sm mb-sm-20 text-newsletter footer__col__title  footer__col__title--h5 footer__col__title--first">Sign up for updates on Ribbon Health.</div>
+                    <form class="mailchimp-rh" action="https://ribbonhealth.us19.list-manage.com/subscribe/post-json?u=a835154b5f1e82270e15bb9e0&id=596f633d9b&c=?" method="get">
+                        <div class="footer__newsletter row d-flex">
+                            <div class="col-12 ">
+                                <input type="text" name="NAME" value="" placeholder="Name">
+                            </div>
+                            <div class="col-12">
+                                <input type="email" name="EMAIL" value="" placeholder="Email" required="required">
+                            </div>
+                            <div class="col-12 green-links">
+                                <div class="mailchimp-rh__notification"></div>
+                            </div>
+                            <div class="col-12 col-lg-4"><input class="button-rh button-rh--dark" type="submit" value="Subscribe"></div>
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='https://www.ribbonhealth.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.ribbonhealth.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.ribbonhealth.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ribbonhealth.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.3' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/dist/static.vendor.863228667c4cc7554d50.js' id='theme-vendor-static-js'></script>
+<script type='text/javascript' id='theme-js-js-extra'>
+/* <![CDATA[ */
+var theme = {"root":"https:\/\/www.ribbonhealth.com\/wp-json\/","base_url":"https:\/\/www.ribbonhealth.com","base_path":"\/","site_url":"https:\/\/www.ribbonhealth.com","nonce":"0a6571f4af","site_name":"Ribbon Health","front_page_id":"56","stylesheet_directory_uri":"https:\/\/www.ribbonhealth.com\/wp-content\/themes\/ribbonhealth"};
+var ajaxurl = "https:\/\/www.ribbonhealth.com\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ribbonhealth.com/wp-content/themes/ribbonhealth/dist/build.863228667c4cc7554d50.js' id='theme-js-js'></script>
+</body>
+</html>

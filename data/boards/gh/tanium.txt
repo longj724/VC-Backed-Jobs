@@ -1,0 +1,1499 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Careers&nbsp;|&nbsp;Tanium</title>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<link rel="canonical" href="https://www.tanium.com/careers/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Careers at Tanium" />
+<meta property="og:description" content="Our mission is to provide manageability and security at scale for anything with a chip. We’re not just best-in-category, we define the category. Join us!" />
+<meta property="og:url" content="https://www.tanium.com/careers/" />
+<meta property="og:site_name" content="Tanium" />
+<meta property="article:modified_time" content="2021-09-10T17:19:24+00:00" />
+<meta property="og:image" content="https://www.tanium.com/wp-content/uploads/SocialCard-Careers.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Careers at Tanium" />
+<meta name="twitter:description" content="Our mission is to provide manageability and security at scale for anything with a chip. We’re not just best-in-category, we define the category. Join us!" />
+<meta name="twitter:site" content="@Tanium" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.tanium.com/#organization","name":"Tanium Inc","url":"https://www.tanium.com/","sameAs":["https://www.linkedin.com/company/tanium","https://www.youtube.com/channel/UCSnx-MZ7_CGgpeIiAM9-rzQ","https://twitter.com/Tanium"],"logo":{"@type":"ImageObject","@id":"https://www.tanium.com/#logo","inLanguage":"en-US","url":"https://www.tanium.com/wp-content/uploads/Tanium-Logo.jpg","contentUrl":"https://www.tanium.com/wp-content/uploads/Tanium-Logo.jpg","width":250,"height":45,"caption":"Tanium Inc"},"image":{"@id":"https://www.tanium.com/#logo"}},{"@type":"WebSite","@id":"https://www.tanium.com/#website","url":"https://www.tanium.com/","name":"Tanium","description":"Unified Endpoint Management and Security","publisher":{"@id":"https://www.tanium.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.tanium.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.tanium.com/careers/#primaryimage","inLanguage":"en-US","url":"https://www.tanium.com/wp-content/uploads/SocialCard-Careers.jpg","contentUrl":"https://www.tanium.com/wp-content/uploads/SocialCard-Careers.jpg","width":1200,"height":628},{"@type":"WebPage","@id":"https://www.tanium.com/careers/#webpage","url":"https://www.tanium.com/careers/","name":"Careers | Tanium","isPartOf":{"@id":"https://www.tanium.com/#website"},"primaryImageOfPage":{"@id":"https://www.tanium.com/careers/#primaryimage"},"datePublished":"2021-03-23T10:00:13+00:00","dateModified":"2021-09-10T17:19:24+00:00","breadcrumb":{"@id":"https://www.tanium.com/careers/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.tanium.com/careers/"]}]},{"@type":"BreadcrumbList","@id":"https://www.tanium.com/careers/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.tanium.com/","url":"https://www.tanium.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.tanium.com/careers/#webpage"}}]}]}</script>
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.tanium.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.tanium.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cloudflare-stream-block-style-css-css' href='https://www.tanium.com/wp-content/plugins/cloudflare-stream/dist/blocks.style.build.css?ver=1644439554' type='text/css' media='all' />
+<link rel='stylesheet' id='sti-style-css' href='https://www.tanium.com/wp-content/plugins/share-this-image/assets/css/sti.css?ver=1.54' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.tanium.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.tanium.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.tanium.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.tanium.com/wp-json/wp/v2/pages/7688" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.tanium.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.tanium.com/wp-includes/wlwmanifest.xml" />
+<link rel="alternate" type="application/json+oembed" href="https://www.tanium.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tanium.com%2Fcareers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.tanium.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tanium.com%2Fcareers%2F&#038;format=xml" />
+<script type="text/javascript">var tnNotificationBanner = {"start":1577836800,"end":1640995200,"viewed":1,"close":null,"repeat":86400}</script><link rel="icon" href="https://www.tanium.com/wp-content/uploads/Tanium-LogoBug-FullColor-Positive.png" sizes="32x32" />
+<link rel="icon" href="https://www.tanium.com/wp-content/uploads/Tanium-LogoBug-FullColor-Positive.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.tanium.com/wp-content/uploads/Tanium-LogoBug-FullColor-Positive.png" />
+<meta name="msapplication-TileImage" content="https://www.tanium.com/wp-content/uploads/Tanium-LogoBug-FullColor-Positive.png" />
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="shortcut icon" type="image/x-icon" href="/wp-content/themes/main/lib/images/favicon.ico">
+<link rel="stylesheet" href="/wp-content/themes/main/lib/css/main.min.css?v=1628500654">
+<link rel="alternate" hreflang="en" href="https://www.tanium.com" />
+<script>dataLayer = [];</script>
+</head>
+<body>
+
+<div class="skip-content">
+<a href="#content">Skip to content</a>
+</div>
+
+
+<noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZH48C" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+
+<div id="main" class="site main-wrap">
+
+<header class="site-header">
+
+<div id="main-nav" class="main-nav bg-white">
+<div class="container">
+<div class="menu-row-wrap align-content-center">
+<div class="logo-box"><a href="/" title="Tanium" class="logo"><img src="/wp-content/themes/main/lib/images/header-logo.svg" alt="Tanium"></a></div>
+<nav class="menu-box" aria-label="Tanium" role="menu">
+<div class="menu-item-search-wrap">
+<div class="search-form-box">
+<form class="navigation-search-form" method="get" action="/search/">
+<div class="search-form">
+<div class="search-input">
+<input class="search-text" type="text" name="q" value="" placeholder="Search..." tabindex="-1" />
+</div>
+<button type="submit" class="search-icon" tabindex="-1">
+<img src="/wp-content/themes/main/lib/images/site-search-icon.svg" alt="Search">
+</button>
+</div>
+</form>
+</div>
+<a href="#" class="menu-item-search">
+<img src="/wp-content/themes/main/lib/images/site-search-icon.svg" class="search-ico" alt="Search">
+<img src="/wp-content/themes/main/lib/images/icon-x-black.png" class="close-ico" alt="Close">
+</a>
+</div>
+<div class="mob-menutrigger"><span class="line"></span><span class="line"></span><span class="line"></span></div>
+<div class="mega-menu-parent">
+<div class="mega-menu-wrap new-header-menu menu">
+<ul>
+<li role="none">
+<a class="link" href="/platform/" title="Platform" role="menuitem" tabindex="0">Platform</a> <div class="submenu-main submenu-main-sec submenu-list2" role="menu" aria-label="Platform">
+<div class="container">
+<div class="submenu-main-wrap">
+<div class="submenu-main-inner">
+<div class="submenu-main-left">
+<a href="/products/tanium-platform/" title="Learn more">
+<div class="submenu-bg-img"><div class="submenu-bg-imgwrap"><span style="background-image: url(/wp-content/uploads/Megamenu-platform_overview@2x.jpg)"> </span></div></div>
+<div class="submenu-bg-img-content">
+<h2>The Tanium platform</h2>
+<p>Answer questions with high-fidelity data you never knew you could get, in seconds, to inform critical IT decisions.</p>
+<span class="text-link">Learn more</span>
+</div>
+</a>
+</div>
+<div class="submenu-main-right">
+<div class="submenu-main-col2">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Modules</h2> <p>Leverage Tanium’s suite of modules with a single agent.</p>
+</div>
+</div>
+<ul class="inner-listing-col3">
+<li class="no-icon no-content">
+<a href="/products/tanium-asset/" title="Asset" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Asset</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-comply/" title="Comply" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Comply</h3> </div>
+</div>
+ </a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-deploy/" title="Deploy" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Deploy</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-discover/" title="Discover" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Discover</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-enforce/" title="Enforce" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Enforce</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-integrity-monitor/" title="Integrity Monitor" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Integrity Monitor</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-map/" title="Map" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Map</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-patch/" title="Patch" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Patch</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-performance/" title="Performance" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Performance</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/resources/tanium-risk-data-sheet" title="Risk" class="submenu-list-wrap">
+<div class="submenu-listing">
+ <div class="submenu-menu-text">
+<h3>Risk</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-reveal/" title="Reveal" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Reveal</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/products/tanium-threat-response/" title="Threat Response" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Threat Response</h3> </div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="submenu-main-col1">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Why Tanium</h2> <p>See why organizations choose Tanium.</p>
+</div>
+</div>
+<ul class="inner-listing-col1">
+<li class="no-icon no-content">
+<a href="/platform/tanium-vs-bigfix/" title="Tanium vs. BigFix" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Tanium vs. BigFix</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/platform/tanium-vs-qualys/" title="Tanium vs. Qualys" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Tanium vs. Qualys</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/platform/tanium-vs-tenable/" title="Tanium vs. Tenable" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Tanium vs. Tenable</h3> </div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li role="none">
+<a class="link" href="#" title="Solutions" role="menuitem">Solutions</a> <div class="submenu-main submenu-main-sec submenu-list2" role="menu" aria-label="Solutions">
+<div class="container">
+<div class="submenu-main-wrap">
+ <div class="submenu-main-inner">
+<div class="submenu-main-left">
+<div class="img-with-content">
+<div class="submenu-bg-img"><div class="submenu-bg-imgwrap"><span style="background-image: url(/wp-content/uploads/Megamenu-solutions_overview@2x.jpg)"> </span></div></div>
+<div class="submenu-bg-img-content">
+<h2>Solutions overview</h2>
+<p>Tanium empowers teams to manage and protect mission-critical networks with complete, accurate and real-time data.</p>
+</div>
+</div>
+</div>
+<div class="submenu-main-right">
+<div class="submenu-main-col2">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Solutions</h2> <p>Trust Tanium solutions for every workflow that relies on endpoint data.</p>
+</div>
+</div>
+<ul class="inner-listing-col2">
+<li class="">
+<a href="/solutions/asset-discovery-and-inventory/" title="Asset Discovery & Inventory" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-icon"><img src="/wp-content/uploads/assets-discovery.png" alt=""></div> <div class="submenu-menu-text">
+<h3>Asset Discovery & Inventory</h3> <p>Track down every IT asset you own instantaneously.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="">
+<a href="/solutions/client-management/" title="Client Management" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-icon"><img src="/wp-content/uploads/client-management-1.png" alt=""></div> <div class="submenu-menu-text">
+<h3>Client Management</h3>  <p>Automate operations from discovery to management.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="">
+<a href="/solutions/risk-and-compliance-management/" title="Risk & Compliance Management" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-icon"><img src="/wp-content/uploads/risk-compliance.png" alt=""></div> <div class="submenu-menu-text">
+<h3>Risk & Compliance Management</h3> <p>Find and fix vulnerabilities at scale in seconds.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="">
+<a href="/solutions/sensitive-data-monitoring/" title="Sensitive Data Monitoring" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-icon"><img src="/wp-content/uploads/sensitive-data.png" alt=""></div> <div class="submenu-menu-text">
+<h3>Sensitive Data Monitoring</h3> <p>Index and monitor sensitive data globally in seconds.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="">
+<a href="/solutions/threat-hunting/" title="Threat Hunting" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-icon"><img src="/wp-content/uploads/threat-hunting-1.png" alt=""></div> <div class="submenu-menu-text">
+<h3>Threat Hunting</h3> <p>Hunt for sophisticated adversaries in real time.</p>
+</div>
+ </div>
+</a>
+</li>
+</ul>
+</div>
+<div class="submenu-main-col1">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Industries</h2> <p>Explore solutions for your industry.</p>
+</div>
+</div>
+<ul class="inner-listing-col1">
+<li class="no-icon no-content">
+<a href="/solutions/federal-government/" title="Federal government" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Federal government</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/solutions/state-and-local-government/" title="State & local government" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>State & local government</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/solutions/education/" title="Higher education" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Higher education</h3>  </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/solutions/financial-services/" title="Financial services" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Financial services</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/solutions/retail/" title="Retail" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Retail</h3> </div>
+</div>
+</a>
+</li>
+<li class="no-icon no-content">
+<a href="/solutions/healthcare/" title="Healthcare" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Healthcare</h3> </div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+ </div>
+</div>
+</li>
+<li role="none">
+<a class="link" href="/customers/" title="Customers" role="menuitem">Customers</a> <div class="submenu-main submenu-main-sec submenu-list2" role="menu" aria-label="Customers">
+<div class="container">
+<div class="submenu-main-wrap">
+<div class="submenu-main-inner">
+<div class="submenu-main-left">
+<a href="/customers/" title="Learn more">
+<div class="submenu-bg-img"><div class="submenu-bg-imgwrap"><span style="background-image: url(/wp-content/uploads/Megamenu-customers@2x.jpg)"> </span></div></div>
+<div class="submenu-bg-img-content">
+<h2>Our customers</h2>
+<p>The world’s most demanding organizations trust Tanium to manage, secure and protect their IT environments.</p>
+<span class="text-link">Learn more</span>
+</div>
+</a>
+</div>
+<div class="submenu-main-right">
+<div class="submenu-main-col1">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Customer success</h2> <p>See what we mean by relentless dedication.</p>
+</div>
+</div>
+<ul class="inner-listing-col1">
+<li class="no-icon">
+<a href="/customer-success-stories/" title="Success stories" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Success stories</h3> <p>Hear why customers choose Tanium.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="/training/" title="Training" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Training</h3> <p>Enhance your knowledge and get the most out of your deployment.</p>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="submenu-main-col2">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Support</h2> <p>Get support, troubleshoot and join a community of Tanium users.</p>
+</div>
+</div>
+<ul class="inner-listing-col2">
+<li class="no-icon">
+<a href="https://community.tanium.com/s/" title="Community" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Community</h3> <p>Engage with peers and experts, get technical guidance.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="https://docs.tanium.com/" title="Documentation" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Documentation</h3> <p>Read user guides and learn about modules.</p>
+</div>
+</div>
+</a>
+</li>
+ <li class="no-icon">
+<a href="https://support.tanium.com/s/support-home" title="Support portal" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Support portal</h3> <p>Create and follow support cases.</p>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li role="none">
+<a class="link" href="/partners/" title="Partners" role="menuitem">Partners</a> <div class="submenu-main submenu-main-sec submenu-list2" role="menu" aria-label="Partners">
+<div class="container">
+<div class="submenu-main-wrap">
+<div class="submenu-main-inner">
+<div class="submenu-main-left">
+<a href="/partners/" title="Learn more">
+<div class="submenu-bg-img"><div class="submenu-bg-imgwrap"><span style="background-image: url(/wp-content/uploads/Megamenu-partner_program@2x.jpg)"> </span></div></div>
+<div class="submenu-bg-img-content">
+<h2>Our partners</h2>
+<p>Get the expertise you need to make the most out of your IT investments.</p>
+<span class="text-link">Learn more</span>
+</div>
+</a>
+</div>
+<div class="submenu-main-right">
+<div class="submenu-main-col2">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Partner ecosystem</h2> <p>Tap into the power of Tanium partners.</p>
+</div>
+</div>
+<ul class="inner-listing-col2">
+<li class="no-icon">
+<a href="/partners/solution/" title="Solution partners" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Solution partners</h3> <p>Confidently evaluate, purchase and onboard Tanium solutions.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="/partners/service/" title="Managed services partners" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Managed services partners</h3> <p>Gain operational efficiency with your deployment.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="/partners/advisory/" title="Advisory partners" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Advisory partners</h3> <p>Integrate Tanium into your global IT estate.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="/partners/distributor/" title="Distributor partners" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+ <h3>Distributor partners</h3> <p>Purchase and get support for Tanium in your local markets.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="/partners/technology-alliances/" title="Technology alliances" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Technology alliances</h3> <p>Leverage best-in-class solutions — through Tanium.</p>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="submenu-main-col1">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Go farther</h2> <p>Explore the possibilities as a Tanium partner.</p>
+</div>
+</div>
+<ul class="inner-listing-col1">
+<li class="no-icon">
+<a href="/partners/become-a-partner/" title="Become a partner" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Become a partner</h3> <p>Bring new opportunities and growth to your business.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="https://partners.tanium.com/" title="Partner portal" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Partner portal</h3> <p>Access resources to help you accelerate and succeed.</p>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li role="none">
+<a class="link" href="/resources/" title="Resources" role="menuitem">Resources</a> <div class="submenu-main submenu-main-sec submenu-list3" role="menu" aria-label="Resources">
+<div class="container">
+<div class="submenu-main-wrap">
+<div class="submenu-main-inner">
+<div class="slider-navigation">
+<div class="slider-navigation-wrap">
+<a href="/resources/forrester-total-economic-impact-of-tanium" title="The Total Economic Impact™ of Tanium">
+<div class="slider-navigation-img" style="background-image: url(/wp-content/themes/main/lib/images/megamenu-resource.jpg)"></div>
+<div class="slider-navigation-text">
+<span>Resource</span>
+<h6>The Total Economic Impact™ of Tanium</h6>
+</div>
+</a>
+</div><div class="slider-navigation-wrap">
+<a href="https://endpoint.tanium.com/6-cybersecurity-priorities-for-2022/" title="6 Cybersecurity Priorities for 2022">
+<div class="slider-navigation-img" style="background-image: url(/wp-content/uploads/Large_6-Cybersecurity-Priorities-for-2022-1600x881-1.jpg)"></div>
+<div class="slider-navigation-text">
+<span>Endpoint</span>
+<h6>6 Cybersecurity Priorities for 2022</h6>
+</div>
+</a>
+</div><div class="slider-navigation-wrap">
+<a href="/log4j" title="Log4j Vulnerability Resource Center">
+ <div class="slider-navigation-img" style="background-image: url(/wp-content/uploads/Hero_LP_Log4j_Banner_Mobile.jpg)"></div>
+<div class="slider-navigation-text">
+<span>Resource</span>
+<h6>Log4j Vulnerability Resource Center</h6>
+</div>
+</a>
+</div><div class="slider-navigation-wrap">
+<a href="/blog/ring-power-ransomware-recovery-patch-management/" title="How Ring Power Partnered With Tanium on Ransomware Recovery">
+<div class="slider-navigation-img" style="background-image: url(/wp-content/uploads/ransomware-recovery-tanium-ring-power.jpg)"></div>
+<div class="slider-navigation-text">
+<span>Blog</span>
+<h6>How Ring Power Partnered With Tanium on Ransomware Recovery</h6>
+</div>
+</a>
+</div><div class="slider-navigation-wrap">
+<a href="https://endpoint.tanium.com/cyber-threats-to-k-12-remote-learning-one-district-fights-back/" title="Cyber Threats to K-12 Remote Learning: One District Fights Back">
+<div class="slider-navigation-img" style="background-image: url(/wp-content/uploads/Large_Cyber-Threats-to-K-12-Remote-Learning-One-District-Fights-Back-2048x1127-1.jpg)"></div>
+<div class="slider-navigation-text">
+<span>Endpoint</span>
+<h6>Cyber Threats to K-12 Remote Learning: One District Fights Back</h6>
+</div>
+</a>
+</div><div class="slider-navigation-wrap">
+<a href="https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell" title="How Tanium Can Help with CVE-2021-44228: Log4Shell">
+<div class="slider-navigation-img" style="background-image: url(/wp-content/uploads/Log4j-screenshot-1.png)"></div>
+<div class="slider-navigation-text">
+<span>Community</span>
+<h6>How Tanium Can Help with CVE-2021-44228: Log4Shell</h6>
+</div>
+</a>
+</div>
+</div>
+<div class="submenu-main-right">
+<div class="submenu-main-col2">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Discover</h2>  <p>the latest Tanium content.</p>
+</div>
+</div>
+<ul class="inner-listing-col2">
+<li class="no-icon">
+<a href="/resources/" title="Content library" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Content library</h3> <p>Access digital content from analyst research to webinars on demand.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="/events/" title="Events" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Events</h3> <p>Find the latest events happening near you — virtually and in person.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="/blog/" title="Blog" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Blog</h3> <p>Browse industry news, thought leadership and announcements.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="https://endpoint.tanium.com/" title="Endpoint magazine" class="submenu-list-wrap">
+ <div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Endpoint magazine</h3> <p>Unravel the business and security challenges in a distributed world.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="https://community.tanium.com/s/" title="Community" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Community</h3> <p>Explore and share knowledge with your peers.</p>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="submenu-main-col1">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Become an expert</h2> <p>and make the most of your IT investments.</p>
+</div>
+</div>
+<ul class="inner-listing-col1">
+<li class="no-icon">
+<a href="/training/" title="Training" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Training</h3> <p>Enhance your knowledge and get the most out of your deployment.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="/customers/certifications/" title="Certifications" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Certifications</h3> <p>Validate your knowledge and skills by getting Tanium certified.</p>
+</div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="/user-research/" title="User research" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>User research</h3> <p>Contribute to more effective designs and intuitive user interface.</p>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="submenu-main-col1">
+<div class="submenu-main-title">
+<div class="submenu-main-title-wrap">
+<h2>Get help</h2> <p>from a community of experts.</p>
+</div>
+</div>
+<ul class="inner-listing-col1">
+<li class="no-icon">
+<a href="https://community.tanium.com/s/knowledge" title="Knowledge base" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Knowledge base</h3> <p>Solve common issues and follow best practices.</p>
+ </div>
+</div>
+</a>
+</li>
+<li class="no-icon">
+<a href="https://support.tanium.com/s/topiccatalog" title="Discussion forum" class="submenu-list-wrap">
+<div class="submenu-listing">
+<div class="submenu-menu-text">
+<h3>Discussion forum</h3> <p>Ask questions, get answers and connect with peers.</p>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item mob-menu-item" role="none"><div class="button-box"><a href="https://try.tanium.com/" title="Get Started" class="cta-link cta-link-red"><span>Get Started</span></a></div></li> </ul>
+<div class="line-animation"></div>
+</div>
+<div class="menu-item-search-wrap">
+<a href="#" class="menu-item-search">
+<img src="/wp-content/themes/main/lib/images/site-search-icon.svg" class="search-ico" alt="Search">
+<img src="/wp-content/themes/main/lib/images/icon-x-black.png" class="close-ico" alt="Close">
+</a>
+<div class="search-form-box">
+<form class="navigation-search-form" method="get" action="/search/">
+<div class="search-form">
+<div class="search-input">
+<input class="search-text" type="text" name="q" value="" placeholder="Search..." tabindex="-1" />
+</div>
+<button type="submit" class="search-icon" tabindex="-1">
+<img src="/wp-content/themes/main/lib/images/site-search-icon.svg" alt="Search">
+</button>
+</div>
+</form>
+</div>
+<a href="#" class="menu-item-search ">
+<img src="/wp-content/themes/main/lib/images/site-search-icon.svg" class="search-ico" alt="Search">
+<img src="/wp-content/themes/main/lib/images/icon-x-black.png" class="close-ico" alt="Close">
+</a>
+</div>
+<div class="button-box"><a href="https://try.tanium.com/" title="Get Started" class="cta-link cta-link-red"><span>Get Started</span></a></div> </div>
+</nav>
+</div>
+</div>
+</div>
+
+</header>
+
+
+<div id="content" class="site-content"><p><div data-post-id='7689' class='insert-page insert-page-7689 '> 
+<section class="hero-video-sec overlay-red-purple">
+<div class="hero-bg-video">
+<div class="cover-hero-video">
+<stream src="fb484f105dda446b46b4bd1f79ae6a43" preload="auto" autoplay="" muted="" loop=""></stream>
+</div>
+<div class="hidden-cover-hero-video">
+<stream src="fb484f105dda446b46b4bd1f79ae6a43" poster="https://videodelivery.net/fb484f105dda446b46b4bd1f79ae6a43/thumbnails/thumbnail.jpg?time=117s" preload="auto" controls="" loop=""></stream>
+</div>
+<div class="container">
+<div class="hero-video-caption">
+<h1>One Team. One Mission.</h1> <p>Our mission is to provide manageability and security at scale for anything with a chip. <br />We’re not just best-in-category, we define the category. Join us!</p>
+<a href="javascript:;" title="Play" class="play-bg"><img src="/wp-content/themes/main/lib/images/play-icon.png" alt="Play"></a>
+</div>
+</div>
+</div>
+</section>
+
+</div><div data-post-id='7691' class='insert-page insert-page-7691 '> 
+<section class="copy-cta-sec">
+<div class="container">
+<div class="copy-cta-contain">
+<h2>Join Our Team</h2>
+<p><span style="font-weight: 400;">Do the best work of your career </span><span style="font-weight: 400;">helping organizations solve their most complex IT and security challenges</span><span style="font-weight: 400;">.  It’s a huge mission and your opportunity </span><span style="font-weight: 400;">to make an important impact.  </span></p>
+<a href="#jobs" class="cta-link cta-link-red" title="View Open Positions"><span>View Open Positions</span></a>
+</div>
+</div>
+</section>
+
+</div><div data-post-id='7694' class='insert-page insert-page-7694 '>
+<section class="hero-content-main" style="background-image:url(/wp-content/uploads/Hero_Careers_Hindawis-V3.png);">
+<div class="container">
+<div class="hero-content-cover">
+<div class="hero-content-mob-img" style="background-image:url(/wp-content/uploads/Hero_Careers_Hindawis-V3.png);"></div>
+<div class="hero-content-box bg-white">
+<h2>Our Vision</h2>
+<h3>When you sign on with Tanium, you sign on with family.</h3>
+<p>Working with a team of the smartest people with the deepest expertise in the market, the Hindawis spent five years developing the Tanium platform to make sure the technology would scale across the largest global networks. Today, we are transforming the way industry-leading companies are able to manage and secure their networks against ever-advancing cyber threats.</p>
+<p>Our founders also recognized that the most pressing cybersecurity and IT management issues couldn’t be solved by technology alone. They built a company that has, at its core, a deep understanding of the people, processes and technologies required to keep our most precious data secure.</p>
+</div>
+</div>
+</div>
+</section>
+
+</div><div data-post-id='7704' class='insert-page insert-page-7704 '> 
+<section class="icongrid-round-main bg-cinder bg-plain-white">
+<div class="container">
+<div class="icongrid-round-cover">
+<div class="heading">
+<h2>Our Core Values</h2>
+</div>
+<div class="icongrid-round-list">
+<div class="icongrid-round-parent">
+<div class="icongrid-round-child">
+<div class="icongrid-round-img" style="background-image:url(/wp-content/uploads/PIcture_Careers_Right-Thing-Edited.jpg);"></div>
+<h4>We do the right thing.</h4>
+</div>
+</div>
+<div class="icongrid-round-parent">
+<div class="icongrid-round-child">
+<div class="icongrid-round-img" style="background-image:url(/wp-content/uploads/PIcture_Careers_Unstoppable-scaled.jpg);"></div>
+<h4>We are unstoppable.</h4>
+</div>
+</div>
+<div class="icongrid-round-parent">
+<div class="icongrid-round-child">
+<div class="icongrid-round-img" style="background-image:url(/wp-content/uploads/PIcture_Careers_Team-scaled-e1616522129142.jpg);"></div>
+<h4>We win as a team.</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</div><div data-post-id='7708' class='insert-page insert-page-7708 '> 
+<section class="iconrows-timeline-portrait-main">
+<div class="container">
+<div class="iconrows-timeline-cover">
+<div class="heading">
+<h2>Culture of Action</h2>
+</div>
+<div class="iconrows-timeline-parent">
+<div class="iconrows-timeline-child">
+<div class="iconrows-timeline-left">
+<div class="iconrows-timeline-img" style="background-image:url(/wp-content/uploads/careers-driven-people.jpg);">
+</div>
+</div>
+<div class="iconrows-timeline-right">
+<h3>Where Our Purpose and Values Meet</h3>
+<p>At Tanium, we believe that good intentions are nothing without concrete action. When there's a challenge to solve, we roll up our sleeves instead of clicking buttons. </p>
+<p>Whether it's being there for our customers, team, or community, we show up with passion and purpose.</p>
+</div>
+</div>
+<div class="iconrows-timeline-child">
+<div class="iconrows-timeline-left">
+<div class="iconrows-timeline-img" style="background-image:url(/wp-content/uploads/careers-organization-people.jpg);">
+</div>
+</div>
+<div class="iconrows-timeline-right">
+<h3>Thrive in a Future-Focused and<br>People-Centric Organization</h3>
+<p>If you want to do the best work of your career, this is the place for you. You'll thrive in our future-focused work model, and benefit from partnerships and an investment strategy for a business that's built to last.</p>
+</div>
+</div>
+<div class="iconrows-timeline-child">
+<div class="iconrows-timeline-left">
+<div class="iconrows-timeline-img" style="background-image:url(/wp-content/uploads/PIcture_Careers_Solve-the-Unsolvable.jpg);">
+</div>
+</div>
+ <div class="iconrows-timeline-right">
+<h3>Solve the Unsolvable</h3>
+<p>We work on really hard problems. </p>
+<p>You'll make an impact with the freedom to collaborate with customers, partners and our own experts to build real-world solutions that tackle the previously unsolvable problems in cybersecurity and IT operations.</p>
+</div>
+</div>
+<div class="iconrows-timeline-child">
+<div class="iconrows-timeline-left">
+<div class="iconrows-timeline-img" style="background-image:url(/wp-content/uploads/careers-bigger-mission.jpg);">
+</div>
+</div>
+<div class="iconrows-timeline-right">
+<h3>Be a Part of a Bigger Mission</h3>
+<p>We're making the world a safer place by giving cybersecurity and IT operations teams the tools they need to succeed.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</div></p>
+
+<a id="jobs" />
+<section class="index-tiles careers">
+<div class="container">
+<div class="row-wrap">
+<div class="box-12 box-md-9">
+<div class="inner-box">
+<h2>Explore Opportunities at Tanium</h2>
+</div>
+</div>
+<div class="index-list index-tiles-list">
+<div class="item">
+<a href="/careers/g&a/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>G&A</h3>
+<h5>35 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/engineering/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>Engineering</h3>
+<h5>9 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/marketing/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>Marketing</h3>
+<h5>79 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/sales/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>Sales</h3>
+<h5>38 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/customer-engagement/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>Customer Engagement</h3>
+<h5>6 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/enterprise-&-professional-services/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>Enterprise & Professional Services</h3>
+<h5>8 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/internships/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>Internships</h3>
+<h5>11 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/technical-account-management/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>Technical Account Management</h3>
+<h5>4 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/product-management/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>Product Management</h3>
+<h5>1 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/it-&-security/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>IT & Security</h3>
+<h5>12 positions</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/careers/technical-solutions-engineers/#jobs">
+<div class="item-wrapper column-item">
+<div class="inner-box">
+<h3>Technical Solutions Engineers</h3>
+<h5>35 positions</h5>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<p><div data-post-id='7696' class='insert-page insert-page-7696 '> 
+<section class="hero-with-gradient-main">
+<div class="hero-with-gradient-head" style="background-image:url(/wp-content/uploads/careers-social-impact.jpg);">
+<div class="container">
+<div class="hero-with-gradient-caption">
+<h2>Social Impact</h2>
+<h3>#TaniumGivesBack</h3>
+</div>
+</div>
+<a href="#hero-with-gradient-blocks" class="hero-with-gradient-arrow scroll-to"></a>
+</div>
+</section>
+
+</div><div data-post-id='7714' class='insert-page insert-page-7714 '> 
+<section class="iconrows-timeline-landscape">
+<div class="container">
+<div id="hero-with-gradient-blocks" class="iconrows-timeline-landscape-cover">
+<div class="sliders-arrows"></div>
+<div class="iconrows-timeline-landscape-slider">
+<div class="slider-items">
+<div class="slider-img" style="background-image:url(/wp-content/uploads/careers-supporting-community.jpg);"></div>
+<div class="slider-text">
+<h4>Volunteer Time Off</h4>
+<p>We support the communities we live and work in through volunteer time off: a perk for all team members to serve the causes most meaningful to them. </p>
+</div>
+ </div>
+<div class="slider-items">
+<div class="slider-img" style="background-image:url(/wp-content/uploads/Picture_Careers_Working-Together-scaled-e1616522248811.jpg);"></div>
+<div class="slider-text">
+<h4>2% Giving Pledge</h4>
+<p>We partner with nonprofits to empower underserved, economically disadvantaged, at-risk or historically underrepresented individuals through education and opportunity.</p>
+</div>
+</div>
+<div class="slider-items">
+<div class="slider-img" style="background-image:url(/wp-content/uploads/careers-giving-back.jpg);"></div>
+<div class="slider-text">
+<h4>Working Together</h4>
+<p>When you join Tanium, you're joining a team that takes pride in giving back. Our Global Month of Giving is just the beginning... this is a culture of action.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</div><div data-post-id='7722' class='insert-page insert-page-7722 '>
+<section class="quotes-slider-left-main">
+<div class="quotes-slider-left-cover">
+<div class="container">
+<div class="heading">
+<h2>We Are Tanium</h2>
+<p>Hear from our employees on why they love working at Tanium.</p>
+</div>
+</div>
+<div class="quotes-slider-left-wrap">
+<div class="container">
+<div class="quotes-sliders">
+<div class="quotes-slider-item">
+<div class="quotes-slider-left">
+<div class="quotes-slider-author-detail">
+<span>Sophie Xu</span>
+<cite>Senior Manager, Operations</cite>
+</div>
+<div class="quotes-slider-content">
+<div class="quote-box">
+<img src="/wp-content/themes/main/lib/images/quote-icon-red.svg" alt="Quote Icon">
+</div>
+<p>What makes Tanium stand out is our game-changing technology, our company vision and values, and our people. In the four years that I have worked at Tanium, there's never been a dull moment. Things move fast and can quickly change directions, but it's been exciting to take on new projects and obstacles with such high caliber teammates and colleagues.</p>
+</div>
+</div>
+<div class="quotes-slider-right">
+<div class="quotes-slider-img" style="background-image:url(/wp-content/uploads/Image_Careers_Sophie-Xu.jpg);"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</div><div data-post-id='7725' class='insert-page insert-page-7725 '>
+<section class="slider-honored-sec">
+<div class="container">
+<div class="slider-honored-cover">
+<div class="heading">
+<h2>Honored Time & Time Again</h2>
+</div>
+<div class="slider-honored" data-speed="3000">
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Award-Cybercrime-Hot-150-2021-e1616522907748.png" alt="Cybercrime Magazine Hot 150 Cybersecurity Companies to watch 2021">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Award-Flexjob-100-Top-2021-e1616522915906.png" alt="Flexjobs 100 Top Companies with Remote Jobs 2021">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Fortune-Best-Workplaces-in-Technology.png" alt="Fortune Best Workplaces in Technology 2021">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Fortune-Best-Large-Workplaces-In-Technology-2021.png" alt="Fortune Best Large Workplaces In Technology 2021">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Great-Place-To-Work-Best-Workplaces-Canada-2021.png" alt="Great Place To Work Best Workplaces Canada 2021">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Great-Place-To-Work-Best-Workplaces-UK-2021.png" alt="Great Place To Work Best Workplaces UK 2021">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Great-Places-To-Work-Large-Workplaces-In-Technology-2021.png" alt="Great Places To Work Large Workplaces In Technology 2021">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Award-Fortune-Best-Millenials-2020-e1616522926175.png" alt="Fortune best workplaces for millennials 2020">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Award-Best-UK-Medium-Workplaces-2020-e1616522900989.png" alt="Best Medium Workplaces in the UK 2020">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Award-Fortune-Best-BayArea-Workplaces-2020-e1616522920627.png" alt="Fortune Best Workplaces in the Bay Area 2020">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Award-Geekwire-200-List-2020-e1616522937369.png" alt="Geekwire 200 List Most Popular and Trending Tech Companies 2020">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Award-5th-Forbes-Top-100-2020-e1616522892508.png" alt="5th Consecutive Forbes Top 100 Private Companies in Cloud Computing 2020">
+</div>
+<div class="slider-honored-items">
+<img src="/wp-content/uploads/Award-UK-Excellence-Wellbeing-2020-e1616522943911.png" alt="Recognized for Excellence in Wellbeing in the UK 2020">
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</div><div data-post-id='7731' class='insert-page insert-page-7731 '>
+
+<section class="gallery-popup-main">
+<div class="gallery-popup-cover">
+<div class="container">
+<div class="heading">
+<h2>Life at Tanium</h2>
+<p>No two days at Tanium are the same, as each day offers the opportunity to work alongside intelligent, driven colleagues who want to win as a team.</p>
+</div>
+</div>
+<div class="gallery-popup-list bg-cinder gallery-popup-logo">
+<div class="container">
+<div class="grid">
+<div class="grid-item">
+<a href="#album-1" class="album-btn" data-popup-logo="/wp-content/themes/main/lib/images/tanium-t-logo.png" data-popup-title="Working from Wifi">
+<img src="/wp-content/uploads/Picture_WFH-Laptop.jpg" alt="">
+</a>
+</div>
+<div class="grid-item">
+<a href="#album-2" class="album-btn" data-popup-logo="/wp-content/themes/main/lib/images/tanium-t-logo.png" data-popup-title="Tanium Events">
+<img src="/wp-content/uploads/Picture_Events_Converge2020.jpg" alt="">
+ </a>
+</div>
+<div class="grid-item">
+<a href="#album-3" class="album-btn" data-popup-logo="/wp-content/themes/main/lib/images/tanium-t-logo.png" data-popup-title="Giving Back">
+<img src="/wp-content/uploads/Pictures_Giving-Sewing-Masks.jpg" alt="">
+</a>
+</div>
+<div class="grid-item">
+<a href="#album-4" class="album-btn" data-popup-logo="/wp-content/themes/main/lib/images/tanium-t-logo.png" data-popup-title="Team Spirit">
+<img src="/wp-content/uploads/Pictures_Team-1000.jpg" alt="">
+</a>
+</div>
+<div class="grid-item">
+<a href="#album-5" class="album-btn" data-popup-logo="/wp-content/themes/main/lib/images/tanium-t-logo.png" data-popup-title="Life @ Tanium">
+<img src="/wp-content/uploads/Pictures_Life-Fireside-Chat.jpg" alt="">
+</a>
+</div>
+</div>
+<div id="album-1" class="gallery-hidden">
+<a href="/wp-content/uploads/Picture_WFH-Laptop.jpg"></a>
+<a href="/wp-content/uploads/Picture_WFH-Jogging.jpg"></a>
+<a href="/wp-content/uploads/Picture_WFH-Dogs.jpg"></a>
+<a href="/wp-content/uploads/Picture_WFH-Selfie-Run.jpg"></a>
+<a href="/wp-content/uploads/Picture_WFH-Selfie-Bike.jpg"></a>
+<a href="/wp-content/uploads/PIcture_Careers_Right-Thing.jpg"></a>
+<a href="/wp-content/uploads/Picture_WFH-Camping.jpg"></a>
+<a href="/wp-content/uploads/Picture_WFH-Snow.jpg"></a>
+</div>
+<div id="album-2" class="gallery-hidden">
+<a href="/wp-content/uploads/Picture_Events_Converge2020.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Giving.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-TKO-Charles-Ross.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Converge-Rooftop.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Converge-Stage.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Converge-Laptop.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Guy-Laptop.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Converge-Band.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Converge-Line.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Events-Japan-EOY-Party.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Events-Japan-Sales.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Stanley.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Holiday-Party-Hindawis.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Events-Holiday-Party-Group.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Holiday-Party-Laughing.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events-Holiday-Party-Orion-Thomas.jpg"></a>
+<a href="/wp-content/uploads/Picture_Events_Holiday-Party-Masks.jpg"></a>
+</div>
+<div id="album-3" class="gallery-hidden">
+<a href="/wp-content/uploads/Pictures_Giving-Sewing-Masks.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Yearup.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Yearup-Group.jpg"></a>
+ <a href="/wp-content/uploads/Pictures_Giving-Marketing.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Kitchen.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Book.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Environment.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Food.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Mentor.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Donate.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Christmas.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Giving-Season-Giving.jpg"></a>
+</div>
+<div id="album-4" class="gallery-hidden">
+<a href="/wp-content/uploads/Pictures_Team-1000.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Team-Dog.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Team-SLED.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Team-Mask.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Team-Represent.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Team-Marathon.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Team-Converge.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Team-Unification.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Team-Halloween.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Team-Pumpkins.jpg"></a>
+</div>
+<div id="album-5" class="gallery-hidden">
+<a href="/wp-content/uploads/Pictures_Life-Fireside-Chat.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-Marketing.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-WFH.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-Dylan-DeAnda.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-User-Research.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-Partners.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-Session-Japan.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-Recording.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-Giving.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-Meeting.jpg"></a>
+<a href="/wp-content/uploads/Pictures_Life-Converge.jpg"></a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</div></p>
+
+<section class="content-box">
+<div class="container">
+<div class="row-wrap">
+<div class="box-12 body-copy">
+<div class="inner-box">
+<p><br /></p>
+<p><i>Tanium is an Equal Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, gender identity, sexual orientation, disability, protected Veteran status, or other legally protected categories. If you require a reasonable accommodation in searching for a job opening, completing an application, interviewing, or completing any pre-employment testing or requirements, please contact <a href="/cdn-cgi/l/email-protection#cfaeacaca0a2a2a0abaebba6a0a1bc8fbbaea1a6baa2e1aca0a2"><span class="__cf_email__" data-cfemail="c5a4a6a6aaa8a8aaa1a4b1acaaabb685b1a4abacb0a8eba6aaa8">[email&#160;protected]</span></a>.</i></p>
+<p><i>Please be aware of job offers coming from people claiming to be Tanium employees. Tanium employees will only use @tanium.com email addresses to communicate with you, will have video interviews with you, and will never ask you for money.</i></p>
+<p><br /></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+
+
+<div id="video-container" class="video-container mfp-hide">
+<div id="video-modal" class="video-popup video-share" data-title="" data-summary="" data-media="" data-url="">
+<div class="video-cover video-cloudflare">
+<div class="video-code"></div>
+</div>
+<div class="video-title-box white-bg-info">
+<a href="javascript:;" class="video-play">
+<div class="cover-video-title"></div>
+</a>
+<div class="cover-share"><i class="fas fa-share"></i></div>
+</div>
+</div>
+</div>
+
+
+<footer class="footer-new">
+<div class="container">
+<div class="footer-new-cover">
+<div class="footer-top-wrap">
+<div class="footer-new-left">
+<div class="footer-new-logo">
+<a href="/" class="logo-box"><img src="/wp-content/themes/main/lib/images/logo-tanium-white.svg" alt="Tanium"></a>
+</div>
+<div class="footer-mission-statement">
+<p>Empowering the world’s largest organizations to manage and protect their mission-critical networks.</p>
+</div>
+<div class="footer-new-social">
+<ul>
+<li><a href="https://twitter.com/tanium" target="_blank"><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://www.linkedin.com/company/tanium/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+<li><a href="https://www.instagram.com/taniuminc" target="_blank"><i class="fab fa-instagram"></i></a></li>
+</ul>
+</div>
+<div class="footer-button-box">
+<a href="/contact-us/" class="cta-link"><span>Contact Us</span></a>
+</div>
+<div class="footer-event-section">
+<a href="https://converge.tanium.com/?utm_source=tanium&utm_medium=referral&utm_campaign=EV-01-GBL-FY21-16-NOV-Conference-M-Converge2021&ref=twb&utm_content=converge" title="Converge 2021" class="cta-link cta-link-white-inverted">
+<div class="event-title-text">
+<div class="event-title">Converge 2021</div>
+<div class="event-text"><p>Experience the Power of Certainty</p></div>
+</div>
+<div class="event-button button-box"><span class="cta-link-text"><span>Attend on Demand</span></span></div>
+</a>
+</div>
+</div>
+<div class="footer-new-right">
+<div class="footer-new-menu">
+<div class="wp-footer-menu"><ul id="menu-footer" class="menu"><li id="menu-item-10852" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-10852"><a href="https://www.tanium.com/about/">About Tanium</a>
+<ul class="sub-menu">
+<li id="menu-item-10853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10853"><a href="https://www.tanium.com/newsroom/">Newsroom</a></li>
+<li id="menu-item-10854" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7688 current_page_item menu-item-10854"><a href="https://www.tanium.com/careers/" aria-current="page">Careers</a></li>
+<li id="menu-item-10855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10855"><a href="https://www.tanium.com/leadership/">Leadership</a></li>
+</ul>
+</li>
+<li id="menu-item-10856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10856"><a href="/products/tanium-platform/">Tanium Platform</a>
+<ul class="sub-menu">
+<li id="menu-item-11254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11254"><a href="https://www.tanium.com/solutions/threat-hunting/">Threat Hunting</a></li>
+<li id="menu-item-11255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11255"><a href="https://www.tanium.com/solutions/asset-discovery-and-inventory/">Asset Discovery &#038; Inventory</a></li>
+<li id="menu-item-11253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11253"><a href="https://www.tanium.com/solutions/sensitive-data-monitoring/">Sensitive Data Monitoring</a></li>
+<li id="menu-item-11252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11252"><a href="https://www.tanium.com/solutions/risk-and-compliance-management/">Risk &#038; Compliance Management</a></li>
+<li id="menu-item-11251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11251"><a href="https://www.tanium.com/solutions/client-management/">Client Management</a></li>
+</ul>
+</li>
+<li id="menu-item-10876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10876"><a href="https://www.tanium.com/partners/">Partners</a>
+<ul class="sub-menu">
+<li id="menu-item-10904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10904"><a href="/partners/become-a-partner/">Become a Partner</a></li>
+</ul>
+</li>
+<li id="menu-item-10863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10863"><a href="https://support.tanium.com/s/support-home">Support</a>
+<ul class="sub-menu">
+<li id="menu-item-10864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10864"><a href="https://docs.tanium.com">User Documentation</a></li>
+<li id="menu-item-10903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10903"><a href="https://community.tanium.com/s/">Community</a></li>
+<li id="menu-item-10866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10866"><a href="https://community.tanium.com/s/support-home">Support Portal</a></li>
+</ul>
+</li>
+<li id="menu-item-10867" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10867"><a href="/resources/">Explore</a>
+<ul class="sub-menu">
+<li id="menu-item-10868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10868"><a href="https://endpoint.tanium.com">Endpoint Magazine</a></li>
+<li id="menu-item-10869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10869"><a href="https://www.tanium.com/blog/">Tanium Blog</a></li>
+<li id="menu-item-12277" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12277"><a href="https://community.tanium.com">Community</a></li>
+<li id="menu-item-10871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10871"><a href="https://www.tanium.com/resources/">Content Library</a></li>
+</ul>
+</li>
+<li id="menu-item-10872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10872"><a href="/newsroom/">What’s New</a>
+<ul class="sub-menu">
+<li id="menu-item-13169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13169"><a href="https://www.tanium.com/log4j/">Log4j Zero-Day Vulnerability</a></li>
+<li id="menu-item-10874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10874"><a href="https://www.tanium.com/biden-executive-order-cybersecurity/">CISA Binding Operational Directive</a></li>
+<li id="menu-item-10870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10870"><a href="https://www.tanium.com/events/">Events</a></li>
+</ul>
+</li>
+<li id="menu-item-10880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10880"><a href="https://www.tanium.com/legal/">Legal</a>
+<ul class="sub-menu">
+<li id="menu-item-10881" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-10881"><a href="https://www.tanium.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-10882" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-10882"><a href="https://www.tanium.com/terms-of-use/">Terms of Use</a></li>
+</ul>
+</li>
+</ul></div> </div>
+</div>
+</div>
+<div class="footer-event-section">
+<a href="https://converge.tanium.com/?utm_source=tanium&utm_medium=referral&utm_campaign=EV-01-GBL-FY21-16-NOV-Conference-M-Converge2021&ref=twb&utm_content=converge" title="Converge 2021" class="cta-link cta-link-white-inverted">
+<div class="event-title-text">
+<div class="event-title">Converge 2021</div>
+<div class="event-text"><p>Experience the Power of Certainty</p></div>
+</div>
+<div class="event-button button-box"><span class="cta-link-text"><span>Attend on Demand</span></span></div>
+</a>
+</div>
+<div class="footer-copyright-language-box">
+<div class="copy-right-box">
+<p>&copy; 2022 Tanium Inc. All rights reserved.</p>
+
+</div>
+<div class="language-box">
+<span class="earth-icon"><i class="fas fa-globe"></i></span>
+<select name="sources" id="sources" class="language-select sources" data-default="English">
+<option value="/">English</option>
+<option value="https://www.tanium.com/fr/">Français</option>
+<option value="https://www.tanium.com/de/">Deutsch</option>
+<option value="https://www.tanium.jp/">日本語</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+</div>
+
+
+<div id="cookie-notice" class="cookies-notice bg-white">
+<div id="cookie-banner-us" class="content-us">
+<div class="text">
+We use cookies on our website to support site functionality, session authentication, and to perform analytics. By continuing to use this site you are giving us your consent to do this.
+<a href="/cookie-statement/">Learn More</a> | <a href="/cookie-preferences/">Adjust Cookie Preferences</a><div id="cookie-policy-accept" style="display:none;"> | <a href="#">Accept</a></div>
+<br /><br />
+We have recently updated our Privacy Policy as of March 31, 2021. Please review it <a href="/privacy-policy/" style="padding:0;">here</a>.
+</div>
+<div class="close" id="cookie-notice-close"><img src="/wp-content/themes/main/lib/images/icon-x-black.png" border="0" alt="close" /></div>
+</div>
+<div id="cookie-banner-nonus" class="content-nonus" style="display: none;">
+<div class="text">
+<div class="message">
+Our website uses cookies, including for functionality, analytics and customization purposes. <a href="/cookie-statement/">Learn More</a>
+<br /><br />
+We have recently updated our Privacy Policy as of March 31, 2021. Please review it <a href="/privacy-policy/" style="padding:0;">here</a>.
+</div>
+<div class="actions">
+<a id="cookie-policy-agree" href="#">Agree</a> <a id="cookie-policy-decline" href="#">Do Not Agree</a>
+</div>
+<div class="prefs">
+<a href="/cookie-preferences/">Cookie Preferences</a>
+</div>
+</div>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/wp-content/themes/main/lib/js/jquery-3.4.1.min.js"></script>
+<script src="/wp-content/themes/main/lib/js/jquery.magnific-popup.js"></script>
+<script src="/wp-content/themes/main/lib/js/slick.min.js"></script>
+<script src="/wp-content/themes/main/lib/js/navigation.js"></script>
+<script src="/wp-content/themes/main/lib/js/general.js"></script>
+<script src="/wp-content/themes/main/lib/js/hls.min.js"></script>
+<script src="/wp-content/themes/main/lib/js/main.js?v=1627400654"></script>
+<script src="/wp-content/themes/main/lib/js/search.js"></script>
+<script src="/wp-content/themes/main/lib/js/chat.js"></script>
+<script type='text/javascript' src='https://www.tanium.com/wp-content/plugins/tanium-notification-banner/notification-banner.js?ver=5.8.3' id='notification-banner-js'></script>
+<script type='text/javascript' id='sti-script-js-extra'>
+/* <![CDATA[ */
+var sti_vars = {"ajaxurl":"https:\/\/www.tanium.com\/wp-admin\/admin-ajax.php","selector":".animated-bar-inner","title":"Tanium Test","summary":"Tanium description","minWidth":"25","minHeight":"25","sharer":"https:\/\/www.tanium.com\/wp-content\/plugins\/share-this-image\/sharer.php","position":"image","analytics":"","buttons":{"desktop":["facebook","twitter","linkedin"],"mobile":["facebook","twitter","linkedin"]},"twitterVia":"@Tanium","appId":"","custom_data":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.tanium.com/wp-content/plugins/share-this-image/assets/js/sti.js?ver=1.54' id='sti-script-js'></script>
+<script type='text/javascript' src='https://www.tanium.com/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>
+</body>
+</html>

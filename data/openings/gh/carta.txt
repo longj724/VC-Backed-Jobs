@@ -1,0 +1,644 @@
+
+  <a data-mapped="true" href="/carta/jobs/4913072003">Manager, Corporate Secretarial Services</a>
+  <br>
+  <span class="location">Singapore</span>
+
+  <a data-mapped="true" href="/carta/jobs/4931484003">CartaX Liquidity Operations Associate</a>
+  <br>
+  <span class="location">San Francisco, CA; Santa Clara, CA; New York City, NY; Seattle, WA; Salt Lake City, UT; Hamilton NJ </span>
+
+  <a data-mapped="true" href="/carta/jobs/4936588003">Accountant</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936587003">Accounting for Fund Administration</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936589003">Implementations Accountant</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936565003">Implementations Project Manager</a>
+  <br>
+  <span class="location">Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936521003">Implementations Project Manager, Investor Services</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936517003">Implementations Project Manager, Carta Total Compensation </a>
+  <br>
+  <span class="location">Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4274134003">Implementations Project Manager, Investor Services</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4896176003">Implementations Team Lead, Carta Total Compensation</a>
+  <br>
+  <span class="location">Rio De Janeiro, Rio De Janeiro, Brazil, Salt Lake City, Utah, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936543003">Implementations Specialist</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4901841003">Manager, Enablement</a>
+  <br>
+  <span class="location">Seattle, WA; San Francisco, CA; New York, NY;</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936590003">Onboarding Accountant</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil; Salt Lake City, UT; Seattle, WA; Hamilton, NJ; San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936569003">Onboarding Project Manager</a>
+  <br>
+  <span class="location">Salt Lake City, Utah</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936519003">Onboarding Specialist, Carta Total Compensation </a>
+  <br>
+  <span class="location">Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4955661003">Onboarding Specialist</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4927850003">Customer Success Manager, Enterprise </a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY </span>
+
+  <a data-mapped="true" href="/carta/jobs/4939903003">Pre-Close Project Manager I</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4955662003">Implementations Project Manager</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4913045003">Customer Success Manager, LLC</a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY </span>
+
+  <a data-mapped="true" href="/carta/jobs/4544800003">Customer Success Manager, Mid Market</a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY </span>
+
+  <a data-mapped="true" href="/carta/jobs/4918683003">Customer Success Manager, SMB</a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936520003">Onboarding Project Manager, Carta Total Compensation </a>
+  <br>
+  <span class="location">Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4913043003">Customer Success Programs Lead, EFS</a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY </span>
+
+  <a data-mapped="true" href="/carta/jobs/4918685003">Customer Success Programs Lead, Liquidity</a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892447003">Sr. Technical Customer Success Manager </a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936502003">Administrative Services Manager, Public Markets</a>
+  <br>
+  <span class="location">Salt Lake City, UT; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936599003">Admin Services Manager</a>
+  <br>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936600003">Admin Services Manager</a>
+  <br>
+  <span class="location">Rio De Janeiro, Rio De Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936530003">ASC 718 Financial Reporting Analyst</a>
+  <br>
+  <span class="location">Salt Lake City, UT; San Francisco, CA; Seattle, WA; Boston, MA; Charlotte, NC; New York, NY; Phoenix, AZ</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936534003">Customer Data Quality Analyst</a>
+  <br>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936573003">Customer Support Analyst</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936579003">Customer Support Analyst</a>
+  <br>
+  <span class="location">Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4955667003">Customer Support Specialist</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936580003">Customer Support Specialist</a>
+  <br>
+  <span class="location">Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936529003">Financial Reporting Analyst</a>
+  <br>
+  <span class="location">Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936531003">Financial Reporting Analyst</a>
+  <br>
+  <span class="location">Salt Lake City, UT; San Francisco, CA; Seattle, WA; Boston, MA; Charlotte, NC; New York, NY; Phoenix, AZ</span>
+
+  <a data-mapped="true" href="/carta/jobs/4955669003">Investor Services Support</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936582003">Manager, Delivery</a>
+  <br>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936584003">Onboarding Team Manager</a>
+  <br>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936505003">Public Markets Client Services Manager</a>
+  <br>
+  <span class="location">Salt Lake City, UT; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936506003">Public Markets Stock Plan Admin Support</a>
+  <br>
+  <span class="location">Salt Lake City, UT; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936504003">Public Markets Support Analyst</a>
+  <br>
+  <span class="location">salt lake city, UT; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4636723003">Senior Financial Reporting Analyst</a>
+  <br>
+  <span class="location">Salt Lake City, UT; San Francisco, CA; Seattle, WA; Boston, MA; Charlotte, NC; New York, NY; Phoenix, AZ; Atlanta, GA; </span>
+
+  <a data-mapped="true" href="/carta/jobs/4648774003">Senior Financial Reporting Analyst</a>
+  <br>
+  <span class="location">Salt Lake City, Utah, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4648775003">Senior Financial Reporting Analyst</a>
+  <br>
+  <span class="location">Seattle, Washington, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936571003">Senior Support Analyst</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936577003">Senior Support Analyst</a>
+  <br>
+  <span class="location">Salt Lake City, Utah</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936595003">Support Analyst, Channel</a>
+  <br>
+  <span class="location">Rio De Janeiro, Rio De Janeiro, Brazil, Salt Lake City, Utah, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936540003">Support Analyst II, Investor Services</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4936585003">Support Team Manager</a>
+  <br>
+  <span class="location">Salt Lake City, UT; Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892596003">Data Science Tech Lead</a>
+  <br>
+  <span class="location">San Francisco, New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892594003">Manager, Analytics Engineering</a>
+  <br>
+  <span class="location">San Francisco, Seattle, New York, Waterloo, Toronto</span>
+
+  <a data-mapped="true" href="/carta/jobs/4904907003">Senior Design Technologist</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil; San Francisco, CA; New York City, NY; Seattle, WA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4934138003">Senior Product Designer, CartaX</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4941429003">Senior Product Designer, Fundraise</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4933724003">Senior Product Designer, Public Company Experience</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4933240003">VP, Design</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4902669003">Engineering Manager, Carta Documents</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892591003">Engineering Manager, Data Products</a>
+  <br>
+  <span class="location">San Francisco, Seattle, New York, Waterloo</span>
+
+  <a data-mapped="true" href="/carta/jobs/4927964003">Engineering Manager, Investor Services</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/carta/jobs/4800118003">Engineering Manager, Issuers</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/carta/jobs/4795333003">Senior Frontend Engineer, CartaX</a>
+  <br>
+  <span class="location">New York, NY; Santa Clara, CA; San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4769159003">Engineering Manager, LLC</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/carta/jobs/4716354003">Senior Frontend Engineer, Frontend Architecture</a>
+  <br>
+  <span class="location">Seattle, WA; New York, NY; San Francisco, CA; Santa Clara, CA;</span>
+
+  <a data-mapped="true" href="/carta/jobs/4716357003">Senior Frontend Engineer, Frontend Architecture</a>
+  <br>
+  <span class="location">Waterloo, Canada; Toronto, Canada;</span>
+
+  <a data-mapped="true" href="/carta/jobs/4009925003">Senior Software Engineer, CartaX (Client Services)</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4924228003">Senior Software Engineer, Events Platform</a>
+  <br>
+  <span class="location">San Francisco, CA; Seattle, WA; Salt Lake City, UT; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4707631003">Senior Software Engineer, Growth Product</a>
+  <br>
+  <span class="location">San Francisco, CA; Santa Clara, CA; Seattle, WA; New York, NY;</span>
+
+  <a data-mapped="true" href="/carta/jobs/4626011003">Senior Front End Engineer, Growth Product</a>
+  <br>
+  <span class="location">San Francisco, CA; Seattle, WA; Santa Clara, CA; New York, NY;</span>
+
+  <a data-mapped="true" href="/carta/jobs/4955668003">Customer Support Analyst II, Investor Services</a>
+  <br>
+  <span class="location">Rio de Janeiro, Brazil</span>
+
+  <a data-mapped="true" href="/carta/jobs/4817328003">Senior Software Engineer, Money Movement, CartaX</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4952246003">Software Engineer, All Levels</a>
+  <br>
+  <span class="location">Rio de Janeiro, BR</span>
+
+  <a data-mapped="true" href="/carta/jobs/4950300003">Software Engineer, All Levels</a>
+  <br>
+  <span class="location">New York, NY; Waterloo, Canada; Toronto, Canada; San Francisco, CA; Santa Clara, CA; Seattle, WA;</span>
+
+  <a data-mapped="true" href="/carta/jobs/4739855003">Staff Execution Engineer, Trading Systems</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4590698003">iOS Engineer</a>
+  <br>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Waterloo, Canada</span>
+
+  <a data-mapped="true" href="/carta/jobs/4590702003">Senior iOS Engineer</a>
+  <br>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Waterloo, Canada</span>
+
+  <a data-mapped="true" href="/carta/jobs/4085477003">Senior Site Reliability Engineer</a>
+  <br>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; Salt Lake City, UT; New York City, NY; Waterloo, Canada; Remote</span>
+
+  <a data-mapped="true" href="/carta/jobs/4009724003">Senior Site Reliability Engineer, CartaX</a>
+  <br>
+  <span class="location">New York City, NY; San Francisco, CA; Sydney, Australia</span>
+
+  <a data-mapped="true" href="/carta/jobs/4813597003">Company Coverage Manager - CartaX </a>
+  <br>
+  <span class="location">New York, NY; San Francisco, CA </span>
+
+  <a data-mapped="true" href="/carta/jobs/4892601003">Financial Systems Manager</a>
+  <br>
+  <span class="location">San Francisco, CA; Salt Lake City, UT; Remote, USA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892603003">Payroll Associate / Sr Associate</a>
+  <br>
+  <span class="location">Salt Lake City, UT; Seattle, WA; San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4525392003">Director of GTM Finance </a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4931218003">Snr Manager Strategic Finance, GTM</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4952829003">Sr Treasury Associate</a>
+  <br>
+  <span class="location">San Francisco, Ca; Salt Lake City, UT; New York, New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4934349003">Treasury Associate</a>
+  <br>
+  <span class="location">San Francisco, CA; New York, New York; Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4914327003">Associate Fund Controller</a>
+  <br>
+  <span class="location">Hamilton, NJ; Boston, MA; San Francisco, CA; Salt Lake City, UT; Chicago, IL; Seattle, WA; New York City, NY; Dallas, TX; USA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4914309003">Fund Accountant</a>
+  <br>
+  <span class="location">Hamilton, NJ; Boston, MA; San Francisco, CA; Salt Lake City, UT; Chicago, IL; Seattle, WA; New York City, NY; Dallas, TX; USA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4914334003">Manager, Fund Controller</a>
+  <br>
+  <span class="location">Hamilton, NJ; Boston, MA; San Francisco, CA; Salt Lake City, UT; Chicago, IL; Seattle, WA; New York City, NY; Dallas, TX; USA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4914315003">Senior Fund Accountant</a>
+  <br>
+  <span class="location">Hamilton, NJ; Boston, MA; San Francisco, CA; Salt Lake City, UT; Chicago, IL; Seattle, WA; New York City, NY; Dallas, TX; USA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892432003">Security Compliance Lead </a>
+  <br>
+  <span class="location">San Francisco, CA; Seattle, WA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892735003">Senior Product Security Engineer</a>
+  <br>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Remote</span>
+
+  <a data-mapped="true" href="/carta/jobs/4762288003">Senior Software Engineer, Infrastructure</a>
+  <br>
+  <span class="location">Waterloo, Canada; Toronto, Canada;</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892737003">Senior Software Engineer, Security</a>
+  <br>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Remote</span>
+
+  <a data-mapped="true" href="/carta/jobs/4857101003">Associate Corporate Counsel; Brokerage &amp; Markets</a>
+  <br>
+  <span class="location">New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4928651003">Paralegal, General </a>
+  <br>
+  <span class="location">San Francisco, CA; New York, New York; Waterloo, ON</span>
+
+  <a data-mapped="true" href="/carta/jobs/4857092003">Senior Corporate Counsel, Brokerage &amp; Markets</a>
+  <br>
+  <span class="location">New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4847703003">Compliance Officer</a>
+  <br>
+  <span class="location">Salt Lake City, UT; Remote, USA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4876324003">Compliance Officer, Public Markets</a>
+  <br>
+  <span class="location">Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4905939003">Website Development Lead</a>
+  <br>
+  <span class="location">San Francisco, California; Santa Clara, California; New York, New York; Seattle, Washington; Washington, D.C.; Salt Lake City, Utah</span>
+
+  <a data-mapped="true" href="/carta/jobs/4896942003">Demand Generation Manager, Investor Services - Established/Upmarket</a>
+  <br>
+  <span class="location">San Francisco, California; New York, New York; Seattle, Washington</span>
+
+  <a data-mapped="true" href="/carta/jobs/4758292003">Senior Demand Generation Manager, Investor Services - First Time Fund Managers (Emerging)</a>
+  <br>
+  <span class="location">San Francisco, California; New York, New York; Seattle, Washington</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892395003">Senior Security Operations Engineer</a>
+  <br>
+  <span class="location">Seattle, WA; San Francisco, CA; Santa Clara, CA; New York, NY; Remote</span>
+
+  <a data-mapped="true" href="/carta/jobs/4922233003">Analyst/Associate, Marketing Operations</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4775571003">Senior Product Marketing Manager, Employee Financial Solutions</a>
+  <br>
+  <span class="location">San Francisco, California; New York, New York; Seattle, Washington</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892466003">People Operations Manager</a>
+  <br>
+  <span class="location">San Francisco, New York City, Salt Lake City</span>
+
+  <a data-mapped="true" href="/carta/jobs/4904305003">People Systems Lead</a>
+  <br>
+  <span class="location">San Francisco, New York, Seattle, Salt Lake City </span>
+
+  <a data-mapped="true" href="/carta/jobs/4702154003">Program Manager, People Strategy and Projects</a>
+  <br>
+  <span class="location">San Francisco, California, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892573003">Senior HRBP</a>
+  <br>
+  <span class="location">San Francisco, New York, Salt Lake City</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892577003">Learning and Development Lead (Performance and Feedback)</a>
+  <br>
+  <span class="location">San Francisco, New York City, Seattle, Salt Lake City </span>
+
+  <a data-mapped="true" href="/carta/jobs/4008111003">Business Recruiter</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4940851003">Senior Manager, Strategy &amp; Business Operations - Capital Markets</a>
+  <br>
+  <span class="location">San Francisco; New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4940086003">Content Strategy Lead</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA; Salt Lake City, UT; Remote, USA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892686003">Director, Strategy &amp; Business Operations, Corporations</a>
+  <br>
+  <span class="location">San Francisco, New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4832093003">Head of Strategic Partnerships</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4841615003">Manager / Sr. Manager, Strategy &amp; Business Operations, Public Business</a>
+  <br>
+  <span class="location">San Francisco, New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892462003">Manager, Strategy &amp; Business Operations - Corporate Development</a>
+  <br>
+  <span class="location">San Francisco, New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4943756003">Sr. Associate, Strategy &amp; Business Operations </a>
+  <br>
+  <span class="location">San Francisco, New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4653987003">Sr. Associate, Strategy &amp; Business Operations - International</a>
+  <br>
+  <span class="location">San Francisco, California, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4654328003">Sr. Associate, Strategy &amp; Business Operations - International</a>
+  <br>
+  <span class="location">New York, New York, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4827226003">Tax Advisor</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4930791003">Carta International, Lead Product Manager</a>
+  <br>
+  <span class="location">New York, NY; San Francisco, CA; Remote</span>
+
+  <a data-mapped="true" href="/carta/jobs/4921553003">Product Manager, Crypto Fund Administration</a>
+  <br>
+  <span class="location">Seattle, WA; San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4938529003">Product Manager, Investor Experience</a>
+  <br>
+  <span class="location">San Francisco, CA; Seattle, WA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4808419003">Senior Product Manager, Client Services, CartaX</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4930789003">Senior Product Manager, Financial Infrastructure (Risk/KYC)</a>
+  <br>
+  <span class="location">New York, NY; San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4924259003">Senior Product Manager, Public Markets</a>
+  <br>
+  <span class="location">New York,NY; San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4937805003">Senior Product Manager, Valuations</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892438003">Sales Enablement Manager</a>
+  <br>
+  <span class="location">San Francisco, CA; Seattle, WA; New York, NY; Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4940793003">Account Executive, Carta Total Compensation, Mid-Market</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA; Salt Lake City; UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4949607003">Account Executive, Carta Total Compensation, SMB</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY; Seattle, WA; Salt Lake City; UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4938672003">Account Executive - Emerging Managers</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4913050003">Account Executive, Investor Services, Singapore </a>
+  <br>
+  <span class="location">Singapore</span>
+
+  <a data-mapped="true" href="/carta/jobs/4938651003">Account Executive - Venture Capital</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4913048003">Mid Market Account Executive </a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY; Seattle, WA; Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4934286003">Mid Market Account Executive, LLC</a>
+  <br>
+  <span class="location">San Francisco, CA </span>
+
+  <a data-mapped="true" href="/carta/jobs/4892489003">SMB Account Executive </a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY; Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4596064003">Business Development Associate, IS, Singapore</a>
+  <br>
+  <span class="location">Singapore, Central Singapore, Singapore</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892509003">Business Development Manager, CartaX</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/carta/jobs/4940088003">Business Development Manager, Investor Services</a>
+  <br>
+  <span class="location">San Francisco, CA; Salt Lake City, UT; New York, NY; Seattle, WA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4957507003">Business Development Manager, Venture Capital</a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4935617003">Investor Services Outbound SDR</a>
+  <br>
+  <span class="location">San Francisco, CA; New York City, NY</span>
+
+  <a data-mapped="true" href="/carta/jobs/4693605003">Sales Development Representative</a>
+  <br>
+  <span class="location">San Francisco, California, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4693607003">Sales Development Representative</a>
+  <br>
+  <span class="location">Salt Lake City, Utah, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4714401003">Director, Sales Strategy &amp; Operations</a>
+  <br>
+  <span class="location">San Francisco </span>
+
+  <a data-mapped="true" href="/carta/jobs/4643071003">Sales Strategy &amp; Operations Analyst/Manager/Sr Manager</a>
+  <br>
+  <span class="location">San Francisco</span>
+
+  <a data-mapped="true" href="/carta/jobs/4725447003">Solution Architect</a>
+  <br>
+  <span class="location">San Francisco, CA; Salt Lake City, UT</span>
+
+  <a data-mapped="true" href="/carta/jobs/4009208003">Valuation Specialist</a>
+  <br>
+  <span class="location">Seattle, Washington, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4119122003">Valuation Specialist</a>
+  <br>
+  <span class="location">Salt Lake City, Utah, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4938407003">Cash Reconciliation Associate</a>
+  <br>
+  <span class="location">Hamilton Township, NJ</span>
+
+  <a data-mapped="true" href="/carta/jobs/4913056003">Director, Associate General Counsel, Personal Financial Solutions</a>
+  <br>
+  <span class="location">San Francisco, New York</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892609003">Public Policy Director; Tax, Valuation, and Corporate Governance</a>
+  <br>
+  <span class="location">Washington, DC</span>
+
+  <a data-mapped="true" href="/carta/jobs/4958837003">Manager of Customer Quality Assurance &amp; Enablement</a>
+  <br>
+  <span class="location">Salt Lake City, Utah</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892697003">Senior Manager, GTM PMO</a>
+  <br>
+  <span class="location">San Francisco </span>
+
+  <a data-mapped="true" href="/carta/jobs/4957449003">Senior Technical Program Manager</a>
+  <br>
+  <span class="location">New York City, NY; San Francisco, CA; Santa Clara, CA; Seattle, WA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4934288003">SMB Account Executive, LLC</a>
+  <br>
+  <span class="location">San Francisco; CA; New York, NY </span>
+
+  <a data-mapped="true" href="/carta/jobs/4946258003">Solution Architect</a>
+  <br>
+  <span class="location">San Francisco, California, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4958352003">Solution Architect</a>
+  <br>
+  <span class="location">San Francisco, California, United States</span>
+
+  <a data-mapped="true" href="/carta/jobs/4786326003">Senior Software Engineer, Infrastructure</a>
+  <br>
+  <span class="location">San Francisco, CA; New York, NY; Seattle, WA;</span>
+
+  <a data-mapped="true" href="/carta/jobs/4910737003">Director, Marketing Operations</a>
+  <br>
+  <span class="location">San Francisco, CA</span>
+
+  <a data-mapped="true" href="/carta/jobs/4892579003">Employee Relations</a>
+  <br>
+  <span class="location">San Francisco</span>

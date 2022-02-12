@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Deepnote</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+  
+    <meta property="og:title" content="Deepnote"></meta>
+    <meta property="og:description" content="We are explorers
+
+We started Deepnote to help data teams solve the most difficult problems. To do that, we don’t just need better algorithms, bigger datasets and more computing power. We need powerful tools that inspire us to explore, reason and collaborate. These tools do not exist yet. We need to invent them first.
+Data science is as much a scientific and creative process as it is an engineering one. It involves working together, failing, learning and going back to the drawing board. Data scientists are explorers. To make data projects successful, we need tools that are both powerful and easy to use. Tools that help us collaborate and share our work in an engaging way. Tools that make data science fun again.
+At Deepnote, we’re building a new standard in data tooling — a notebook that brings teams together to explore, analyze and present data from start to finish.
+We are building tools for explorers. Join us."></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/deepnote"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/738/200/original/deepnote-logo-padding.png?1640162938"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><img alt="Deepnote Logo" src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/738/200/resized/deepnote-logo-padding.png?1640162938" width="75" height="75" /></div>
+
+  <h1>Deepnote</h1>
+
+  <div id="content">
+    <h1 class="css-4bn096">We are explorers</h1>
+<p><img src="https://deepnote.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F99ea2312-ebed-43b5-9f34-3c2895efda38%2Fframe.png?table=block&amp;id=65d8b2aa-b7da-414e-aca1-eeeb4e149d1b&amp;spaceId=1abd522c-46d4-4834-bfae-ea2e114f2e52&amp;width=1920&amp;userId=&amp;cache=v2" alt="d" width="861" height="246"></p>
+<h3 class="css-4bn096">We started Deepnote to help data teams solve the most difficult problems. To do that, we don’t just need better algorithms, bigger datasets and more computing power. We need powerful tools that inspire us to explore, reason and collaborate. These tools do not exist yet. <em><strong>We need to invent them first.</strong></em></h3>
+<p>Data science is as much a scientific and creative process as it is an engineering one. It involves working together, failing, learning and going back to the drawing board.&nbsp;<a href="https://ieeexplore.ieee.org/document/8103446" target="_blank">Data scientists are explorers.</a>&nbsp;To make data projects successful, we need tools that are both powerful and easy to use. Tools that help us collaborate and share our work in an engaging way. Tools that make data science fun again.</p>
+<p>At Deepnote, we’re building a new standard in data tooling — a notebook that brings teams together to explore, analyze and present data from start to finish.</p>
+<h3><strong>We are building tools for explorers. Join us.</strong></h3>
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+    <div class="filter-container">
+      <label class="filter-label" for="departments-select">Department</label>
+
+    <select name="departments-select" id="departments-select">
+      <option value="">All Departments</option>
+      
+
+<option value="4039735004">
+  Design
+</option>
+
+
+
+<option value="4039733004">
+  Engineering
+</option>
+
+
+
+<option value="4039737004">
+  Marketing
+</option>
+
+
+
+<option value="4039736004">
+  People Ops
+</option>
+
+
+
+<option value="4039734004">
+  Product
+</option>
+
+
+    </select>
+  </div>
+
+  <div class="filter-container">
+      <label class="filter-label" for="offices-select">Office</label>
+
+    <select name="offices-select" id="offices-select">
+      <option value="">All Offices</option>
+      
+
+<option value="4024847004">
+  Prague
+</option>
+
+
+
+<option value="4024848004">
+  Remote
+</option>
+
+
+
+<option value="4029181004">
+  Remote - Europe 
+</option>
+
+
+
+<option value="4024846004">
+  San Francisco
+</option>
+
+
+    </select>
+  </div>
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4039735004">Design</h3>
+
+  <div class="opening" department_id="4039735004" office_id="4024847004,4029181004" data-office-4024847004="true" data-office-4029181004="true" data-department-4039735004="true">
+  <a data-mapped="true" href="/deepnote/jobs/4277858004">Senior Product Designer</a>
+  <br/>
+  <span class="location">Prague / Remote - Europe </span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4039733004">Engineering</h3>
+
+  <div class="opening" department_id="4039733004" office_id="4024846004,4024847004,4024848004" data-office-4024846004="true" data-office-4024847004="true" data-office-4024848004="true" data-department-4039733004="true">
+  <a data-mapped="true" href="/deepnote/jobs/4235573004">Frontend Engineer </a>
+  <br/>
+  <span class="location">Prague / Remote</span>
+</div><div class="opening" department_id="4039733004" office_id="4024848004,4024847004" data-office-4024848004="true" data-office-4024847004="true" data-department-4039733004="true">
+  <a data-mapped="true" href="/deepnote/jobs/4235552004">Full Stack Engineer</a>
+  <br/>
+  <span class="location">Prague / Remote</span>
+</div><div class="opening" department_id="4039733004" office_id="4024847004,4024848004" data-office-4024847004="true" data-office-4024848004="true" data-department-4039733004="true">
+  <a data-mapped="true" href="/deepnote/jobs/4235554004">Infrastructure Engineer</a>
+  <br/>
+  <span class="location">Prague / Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4039737004">Marketing</h3>
+
+  <div class="opening" department_id="4039737004" office_id="4024846004" data-office-4024846004="true" data-department-4039737004="true">
+  <a data-mapped="true" href="/deepnote/jobs/4229066004">Marketing Lead</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4039736004">People Ops</h3>
+
+  <div class="opening" department_id="4039736004" office_id="4024847004,4029181004" data-office-4024847004="true" data-office-4029181004="true" data-department-4039736004="true">
+  <a data-mapped="true" href="/deepnote/jobs/4331107004">Recruiter</a>
+  <br/>
+  <span class="location">Prague / Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4039734004">Product</h3>
+
+  <div class="opening" department_id="4039734004" office_id="4029181004,4024847004" data-office-4029181004="true" data-office-4024847004="true" data-department-4039734004="true">
+  <a data-mapped="true" href="/deepnote/jobs/4277839004">Product Manager</a>
+  <br/>
+  <span class="location">Prague / Remote - Europe </span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

@@ -1,0 +1,1600 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="icon" href="https://3dfortify.com/wp-content/uploads/2018/05/favicon.ico" type="image/gif" sizes="16x16">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>About | Fortify</title>
+	<meta name="description" content="Fortify is an advanced manufacturing company creating a new generation of high-performance products. We bring cutting-edge technology to leading companies in the manufacturing, aerospace, and automotive industries." />
+	<link rel="canonical" href="https://3dfortify.com/about/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="About | Fortify" />
+	<meta property="og:description" content="Fortify is an advanced manufacturing company creating a new generation of high-performance products. We bring cutting-edge technology to leading companies in the manufacturing, aerospace, and automotive industries." />
+	<meta property="og:url" content="https://3dfortify.com/about/" />
+	<meta property="og:site_name" content="Fortify" />
+	<meta property="article:modified_time" content="2021-10-29T18:58:19+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://3dfortify.com/#website","url":"https://3dfortify.com/","name":"Fortify","description":"Bold. Smart. Human","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://3dfortify.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://3dfortify.com/about/#webpage","url":"https://3dfortify.com/about/","name":"About | Fortify","isPartOf":{"@id":"https://3dfortify.com/#website"},"datePublished":"2018-02-27T01:07:47+00:00","dateModified":"2021-10-29T18:58:19+00:00","description":"Fortify is an advanced manufacturing company creating a new generation of high-performance products. We bring cutting-edge technology to leading companies in the manufacturing, aerospace, and automotive industries.","breadcrumb":{"@id":"https://3dfortify.com/about/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://3dfortify.com/about/"]}]},{"@type":"BreadcrumbList","@id":"https://3dfortify.com/about/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://3dfortify.com/"},{"@type":"ListItem","position":2,"name":"About"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//pro.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Fortify &raquo; Feed" href="https://3dfortify.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fortify &raquo; Comments Feed" href="https://3dfortify.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Fortify &raquo; iCal Feed" href="https://3dfortify.com/events/?ical=1" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/3dfortify.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='tribe-events-pro-mini-calendar-block-styles-css'  href='https://3dfortify.com/wp-content/plugins/events-calendar-pro/src/resources/css/tribe-events-pro-mini-calendar-block.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://3dfortify.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='megamenu-css'  href='https://3dfortify.com/wp-content/uploads/maxmegamenu/style.css?ver=97ba46' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://3dfortify.com/wp-includes/css/dashicons.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css-css'  href='https://3dfortify.com/wp-content/themes/fortify/lib/assets/css/vendor/foundation.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css-css'  href='https://3dfortify.com/wp-content/themes/fortify/lib/assets/css/vendor/owl.carousel.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-theme-css-css'  href='https://3dfortify.com/wp-content/themes/fortify/lib/assets/css/vendor/owl.theme.default.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css-css'  href='https://3dfortify.com/wp-content/themes/fortify/lib/assets/css/vendor/slick.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='https://3dfortify.com/wp-content/themes/fortify/lib/assets/css/vendor/slick-theme.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css-css'  href='https://3dfortify.com/wp-content/themes/fortify/lib/assets/css/vendor/flexslider.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='fortify-style-css'  href='https://3dfortify.com/wp-content/themes/fortify/style.css?ver=1644625200' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css'  href='https://pro.fontawesome.com/releases/v5.15.2/css/all.css' type='text/css' media='all' integrity="sha384-yJpxAFV0Ip/w63YkZfDWDTU6re/Oc3ZiVqMa97pi8uPt92y0wzeK3UFM2yQRhEom" crossorigin="anonymous" />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css'  href='https://pro.fontawesome.com/releases/v5.15.2/css/v4-shims.css' type='text/css' media='all' integrity="sha384-vfegZgYJmcP2K/VrhAwtTtU1OgvF83Y8zoQ524YvQFIGowI3tr8C6wvpWUsSLUZA" crossorigin="anonymous" />
+<style id='font-awesome-official-v4shim-inline-css' type='text/css'>
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.eot"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.eot"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.eot"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://pro.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=5.9' id='jquery-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c' id='wp-hooks-js'></script>
+<script type='text/javascript' id='say-what-js-js-extra'>
+/* <![CDATA[ */
+var say_what_data = {"replacements":{"the-events-calendar|%s onwards|":"Upcoming events","|Venue|":"Location"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/plugins/say-what/assets/build/frontend.js?ver=658db854f48fb86c32bd0f1d219c2d63' id='say-what-js-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/vendor/modernizr-custom.js?ver=5.9' id='modernizr-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/vendor/isotope.pkgd.min.js?ver=5.9' id='isotope-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/vendor/owl/owl.carousel.min.js?ver=5.9' id='owl-carousel-js-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/vendor/slick.min.js?ver=5.9' id='slick-js-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/vendor/jquery.flexslider-min.js?ver=5.9' id='flexslider-js-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/vendor/scrollreveal.min.js?ver=5.9' id='scrollreveal-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/vendor/infinite-scroll.pkgd.min.js?ver=5.9' id='infinite-scroll-js'></script>
+<link rel="https://api.w.org/" href="https://3dfortify.com/wp-json/" /><link rel="alternate" type="application/json" href="https://3dfortify.com/wp-json/wp/v2/pages/3415" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://3dfortify.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://3dfortify.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9" />
+<link rel='shortlink' href='https://3dfortify.com/?p=3415' />
+<link rel="alternate" type="application/json+oembed" href="https://3dfortify.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F3dfortify.com%2Fabout%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://3dfortify.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F3dfortify.com%2Fabout%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v8.4.628-->
+			<script type="text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					};
+					if (!window.hbspt.forms.create) {
+						Object.defineProperty(window.hbspt.forms, 'create', {
+							configurable: true,
+							get: function() {
+								return hbspt._wpCreateForm;
+							},
+							set: function(value) {
+								hbspt._wpCreateForm = value;
+								while (hbspt._wpFormsQueue.length) {
+									var formDef = hbspt._wpFormsQueue.shift();
+									if (!document.currentScript) {
+										var formScriptId = 'leadin-forms-v2-js';
+										hubspot.utils.currentScript = document.getElementById(formScriptId);
+									}
+									hbspt._wpCreateForm.call(hbspt.forms, formDef);
+								}
+							},
+						});
+					}
+				})();
+			</script>
+		<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://3dfortify.com"><link rel="alternate" href="https://3dfortify.com/wp-json/tribe/events/v1/" />   <link href="https://fonts.googleapis.com/css?family=Roboto+Slab|Roboto:300,500,700,900" rel="stylesheet">
+   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-yJpxAFV0Ip/w63YkZfDWDTU6re/Oc3ZiVqMa97pi8uPt92y0wzeK3UFM2yQRhEom" crossorigin="anonymous">
+
+   <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MHXWR9T');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Start VisitorIntel-->
+<script>
+  (function (w, d, t) {
+    _ml = w._ml || {};
+    _ml.eid = '81430';
+    _ml.cid = 'c11bb3e0-2d49-4f96-9ec0-5f78620236cc';
+    var s, cd, tag; s = d.getElementsByTagName(t)[0]; cd = new Date();
+    tag = d.createElement(t); tag.async = 1;
+    tag.src = 'https://ml314.com/tag.aspx?' + cd.getDate() + cd.getMonth();
+    s.parentNode.insertBefore(tag, s);
+  })(window, document, 'script');
+</script>
+<!-- End VisitorIntel-->
+
+<style type="text/css">/** Mega Menu CSS: fs **/</style>
+</head>
+
+<body class="page-template page-template-templates page-template-standard_tabs page-template-templatesstandard_tabs-php page page-id-3415 tribe-no-js mega-menu-header-menu page-about ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHXWR9T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="main_header">
+<div data-sticky-container>
+  <div class="sticky" data-sticky data-sticky-on="large" data-stick-to="top" data-sticky-options="marginTop:0;" style="width:100%">
+    <div class="top-bar">
+    <div class="top-bar-left">
+              <div class="logo show-for-medium">
+          <a href="/">
+            <img src="https://3dfortify.com/wp-content/uploads/2018/03/3dfortify-white.png" title="3dfortify-white" alt="3dfortify-white" />
+          </a>
+        </div><!--.logo-->
+        <div class="mobile_logo show-for-small-only">
+          <a href="/">
+            <img src="https://3dfortify.com/wp-content/uploads/2018/04/3dfortify-white-mobile.png" title="3dfortify-white-mobile" alt="3dfortify-white-mobile" />
+          </a>
+        </div><!--.logo-->
+          </div><!--.top-bar-left-->
+    <div class="top-bar-right">
+
+      <div id="mega-menu-wrap-header_menu" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-1' id='mega-toggle-block-1' tabindex='0'><span class='mega-toggle-label' role='button' aria-expanded='false'><span class='mega-toggle-label-closed'>MENU</span><span class='mega-toggle-label-open'>MENU</span></span></div></div></div><ul id="mega-menu-header_menu" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade" data-effect-speed="400" data-effect-mobile="slide" data-effect-speed-mobile="400" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="1024" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-home mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-402' id='mega-menu-item-402'><a class="mega-menu-link" href="https://3dfortify.com/" tabindex="0">Home</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-4842' id='mega-menu-item-4842'><a class="mega-menu-link" href="https://3dfortify.com/3d-printers-flux-series/" aria-haspopup="true" aria-expanded="false" tabindex="0">Printers<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-3970' id='mega-menu-item-3970'><a class="mega-menu-link" href="https://3dfortify.com/process/">Process</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-5536' id='mega-menu-item-5536'><a class="mega-menu-link" href="https://3dfortify.com/advanced-3d-printing-materials-2/" aria-haspopup="true" aria-expanded="false" tabindex="0">Materials<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5555' id='mega-menu-item-5555'><a class="mega-menu-link" href="https://3dfortify.com/flux-developer/">Flux Developer</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-3402' id='mega-menu-item-3402'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Applications<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-3795' id='mega-menu-item-3795'><a class="mega-menu-link" href="https://3dfortify.com/mold-tooling/">Mold Tooling</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-3882' id='mega-menu-item-3882'><a class="mega-menu-link" href="https://3dfortify.com/3d-printed-rf-devices/">RF and Microwave Devices</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5439' id='mega-menu-item-5439'><a class="mega-menu-link" href="https://3dfortify.com/3d-printed-technical-ceramics/">Technical Ceramics</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2512' id='mega-menu-item-2512'><a class="mega-menu-link" href="https://3dfortify.com/production-parts/">Production Parts</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-5802' id='mega-menu-item-5802'><a class="mega-menu-link" href="https://3dfortify.com/3d-printing-services/" tabindex="0">3D Printing Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-3068' id='mega-menu-item-3068'><a class="mega-menu-link" href="https://3dfortify.com/resources/" aria-haspopup="true" aria-expanded="false" tabindex="0">Resources<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5203' id='mega-menu-item-5203'><a class="mega-menu-link" href="https://3dfortify.com/tech-talks/">Tech Talks</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3105' id='mega-menu-item-3105'><a class="mega-menu-link" href="/resources/#blog">Blog</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3069' id='mega-menu-item-3069'><a class="mega-menu-link" href="/resources/#case_studies">Case Studies</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3071' id='mega-menu-item-3071'><a class="mega-menu-link" href="/resources/#documentation">Documentation</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3106' id='mega-menu-item-3106'><a class="mega-menu-link" href="/events">Events</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4662' id='mega-menu-item-4662'><a class="mega-menu-link" href="https://3dfortify.com/roi-calculator/">ROI Calculator</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-menu-item mega-page_item mega-page-item-3415 mega-current_page_item mega-current-menu-ancestor mega-current-menu-parent mega-current_page_parent mega-current_page_ancestor mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-3423' id='mega-menu-item-3423'><a class="mega-menu-link" href="https://3dfortify.com/about/" aria-haspopup="true" aria-expanded="false" tabindex="0">About<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-408' id='mega-menu-item-408'><a class="mega-menu-link" href="https://3dfortify.com/press/">Press</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-menu-item-3064' id='mega-menu-item-3064'><a class="mega-menu-link" href="/about/#story">Story</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-menu-item-3065' id='mega-menu-item-3065'><a class="mega-menu-link" href="/about/#team">Team</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-menu-item-3066' id='mega-menu-item-3066'><a class="mega-menu-link" href="/about/#careers">Careers</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-menu-item-3067' id='mega-menu-item-3067'><a class="mega-menu-link" href="/about/#investors">Investors</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-406' id='mega-menu-item-406'><a class="mega-menu-link" href="https://3dfortify.com/contact/" tabindex="0">Contact</a></li><li class="signup_btn mega-menu-item"><a href="#" tabindex="0">Subscribe now</a></li></ul></div>      <div class="btn_dropdown">
+        <p>Please stay in touch.</p>
+        <span class="dropdown_close"><i class="fal fa-times"></i></span>
+        <!--[if lte IE 8]>
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+        <![endif]-->
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+        <script>
+          hbspt.forms.create({
+          portalId: "2379788",
+          formId: "1a92a3a4-80e4-437a-a2cb-d1ac6bf851b3"
+        });
+        </script>
+      </div>
+
+  </div><!--.top-bar-right-->
+</div><!--.top-bar-->
+  </div>
+</div>
+</header>
+
+<div class="content_wrapper">
+<style>
+</style>
+<div class="standard_page_tabs" style=";">
+
+<div class="row layout_tabs expanded">
+    <div class="large-12 medium-12 small-12 columns no_col_padding">
+      
+<!--If header media is image or image/video-->
+
+<!--If header type is full-->
+
+<!--If header type is half-->
+<section  class="aspot aspot_half raw_video" style="background-image: url(https://3dfortify.com/wp-content/uploads/2018/06/About-Header.jpg);">
+      <div class="video show-for-medium"><div class="play_circle"><i class="fas fa-play fa-2x"></i></div></div>
+    <div class="video_wrapper">
+      <div class="video_display responsive-embed widescreen ">
+                  <video loop controls playsinline poster="">
+            <source src="http://3dfortify.kinsta.cloud/wp-content/uploads/2018/05/Fortify-Polished-Cut.mp4" type="video/mp4">
+          </video>
+              </div><!--.video_display-->
+      <div class="video_button">
+        <div class="button_wrap">
+          <a class="button" href="">
+            <div class="button_text">Close Video<i class="far fa-long-arrow-right show-for-medium"></i></div>
+          </a>
+        </div><!--.button_wrap-->
+      </div><!--.video_button-->
+    </div><!--.video_wrapper-->
+    <div class="overlay">
+    <div class="row">
+      <div class="large-12 medium-12 small-12 columns">
+        <div class="header_content">
+          <h1>We are</h1>          <h1 class="red">Fortify.</h1>                    <div class="video_button_mobile show-for-small-only">
+            <div class="button_wrap">
+              <a class="button" href="">
+                <div class="button_text"><i class="fas fa-play show-for-medium"></i>Play Video</div>
+              </a>
+            </div><!--.button_wrap-->
+          </div><!--.video_button_mobile-->
+                      </div><!--.header_content-->
+      <div class="down_arrow show-for-small-only"><i class="far fa-long-arrow-down"></i></div>
+      </div><!--.columns-->
+  </div><!--.row-->
+</div><!--.overlay-->
+<div class="section_down_arrow"><i class="fal fa-angle-down"></i></div>
+</section>
+
+<!--If header media is video-->
+
+<section class="tab_section"><div class="tabs_wrapper"><ul class="tabs" data-tabs id="tabs-list" data-deep-link="true">      <li class="tabs-title is-active">
+          <a href="#story">
+            <div class="text_wrapper">
+              Story            </div><!--.text_wrapper-->
+          </a>
+      </li>
+          <li class="tabs-title">
+          <a href="#team">
+            <div class="text_wrapper">
+              Team            </div><!--.text_wrapper-->
+          </a>
+      </li>
+      <li class="tabs-title">
+      <a href="#careers">
+        <div class="text_wrapper">
+          Careers        </div><!--.text_wrapper-->
+      </a>
+  </li>
+<li class="tabs-title">
+    <a href="#investors">
+      <div class="text_wrapper">
+        Investors      </div><!--.text_wrapper-->
+    </a>
+</li>
+</ul>
+</div><!--.tabs_wrapper-->
+
+
+  <div class="tabs-content" data-tabs-content="tabs-list">
+      <div class="tabs-panel is-active" id="story">
+  
+<section  class="image_right_text_left" 
+  style="
+  ;
+  ;">
+  <div class="row expanded large-collapse row_right_content_xlarge">
+    <div class="large-6 medium-12 small-12 columns large-push-6">
+                        <div class="landing_img_wrapper">
+              <div class="show-for-small-only">
+                <img width="680" height="520" src="https://3dfortify.com/wp-content/uploads/2018/10/founders2018-680x520.jpg" class="attachment-standard size-standard" alt="founders2018" loading="lazy" title="founders2018" />              </div>
+              <div class="show-for-medium-only">
+                <img width="1024" height="500" src="https://3dfortify.com/wp-content/uploads/2018/10/founders2018-1024x500.jpg" class="attachment-long_tablet size-long_tablet" alt="founders2018" loading="lazy" title="founders2018" />              </div>
+              <div class="show-for-large">
+                <img width="2560" height="1829" src="https://3dfortify.com/wp-content/uploads/2018/10/founders2018-e1579045362885.jpg" class="attachment-full size-full" alt="founders2018" loading="lazy" title="founders2018" />              </div>
+        </div><!--.landing_img_wrapper-->
+          </div><!--.columns-->
+    <div class="large-6 medium-12 small-12 columns large-pull-6">
+      <div class="tt_wrapper">
+        <div class="red_box">
+        </div><!--.red_box-->
+      <div class="text_content">
+        <h2 class="bold">Our Story</h2>                                          <p>Fortify was created to break the cycle of long lead times and inferior materials in traditional manufacturing. The company was founded on research on composite 3D printing by Randall Erb and Joshua Martin at Northeastern University. Their goal was to enable quick and seamless fabrication of composites with optimized microstructures. Through their research, they invented magnetic 3D printing, or <em>Fluxprint</em>. They established Fortify to bring optimized composites to engineers across the globe. Today, Digital Composite Manufacturing (DCM) has found success in tooling, aerospace, and automotive applications. Now, Fortify is a leader in optimized composites. DCM has transformed the DNA of materials, pushing the boundaries of what’s possible in engineering.</p>
+                                        </div><!--.text_content-->
+    </div><!--.tt_wrapper-->
+    </div><!--.columns-->
+  </div><!--.row-->
+</section>
+
+<section  class="image_left_text_right" style="">
+  <div class="row expanded large-collapse row_left_content_xlarge">
+    <div class="large-6 medium-12 small-12 columns">
+                              <div class="landing_img_wrapper">
+              <div class="show-for-small-only">
+                <img width="680" height="520" src="https://3dfortify.com/wp-content/uploads/2018/05/DSC8117-680x520.jpg" class="attachment-standard size-standard" alt="founders2018" loading="lazy" title="_DSC8117" />              </div>
+              <div class="show-for-medium-only">
+                <img width="1024" height="500" src="https://3dfortify.com/wp-content/uploads/2018/05/DSC8117-1024x500.jpg" class="attachment-long_tablet size-long_tablet" alt="founders2018" loading="lazy" title="_DSC8117" />              </div>
+              <div class="show-for-large">
+                <img width="2200" height="1457" src="https://3dfortify.com/wp-content/uploads/2018/05/DSC8117.jpg" class="attachment-full size-full" alt="founders2018" loading="lazy" title="_DSC8117" srcset="https://3dfortify.com/wp-content/uploads/2018/05/DSC8117.jpg 2200w, https://3dfortify.com/wp-content/uploads/2018/05/DSC8117-300x199.jpg 300w, https://3dfortify.com/wp-content/uploads/2018/05/DSC8117-768x509.jpg 768w, https://3dfortify.com/wp-content/uploads/2018/05/DSC8117-1024x678.jpg 1024w" sizes="(max-width: 2200px) 100vw, 2200px" />              </div>
+            </div><!--.landing_img_wrapper-->
+            </div><!--.columns-->
+    <div class="large-6 medium-12 small-12 columns">
+        <div class="tt_wrapper">
+          <div class="red_box">
+          </div><!--.red_box-->
+        <div class="text_content">
+                                              <h6 class="subheading_content bold">Fluxprint Technology</h6>              <p>Fluxprint makes high-performance materials accessible. It’s a patented magnetic 3D printing process that creates optimized composites. It combines magnetics and digital light processing (DLP) 3D printing to produce composite parts with ideal mechanical properties. As a part is additively manufactured, fibers are magnetically aligned voxel by voxel to optimize the microstructure. High-performance components are created significantly faster and at a fraction of the cost compared to traditional manufacturing. With Fluxprint, engineering teams achieve ideal mechanics and bring quality products to market faster.</p>
+                                                  </div><!--.text_content-->
+      </div><!--.tt_wrapper-->
+    </div><!--.columns-->
+  </div><!--.row-->
+</section>
+<section class="slider">
+    <div class="fortify_carousel owl-carousel owl-theme">
+              <div class="slide_item">
+          <img
+          src="https://3dfortify.com/wp-content/uploads/2018/04/DSC7189.jpg"
+          alt="_DSC7189"
+          title="_DSC7189" />
+        </div>
+              <div class="slide_item">
+          <img
+          src="https://3dfortify.com/wp-content/uploads/2018/10/founders2018-e1579045362885.jpg"
+          alt="founders2018"
+          title="founders2018" />
+        </div>
+              <div class="slide_item">
+          <img
+          src="https://3dfortify.com/wp-content/uploads/2018/04/DSC7216.jpg"
+          alt="_DSC7216"
+          title="_DSC7216" />
+        </div>
+          </div><!--.owl-carousel-->
+</section><!--.slider-->
+</div>
+  <div class="tabs-panel " id="team">
+  
+<section  class="image_left_text_right" style="">
+  <div class="row expanded large-collapse row_left_content_xlarge">
+    <div class="large-6 medium-12 small-12 columns">
+                              <div class="landing_img_wrapper">
+              <div class="show-for-small-only">
+                <img width="600" height="400" src="https://3dfortify.com/wp-content/uploads/2019/10/team-photo-sept-2019-copy.png" class="attachment-standard size-standard" alt="founders2018" loading="lazy" title="team photo sept 2019 copy" srcset="https://3dfortify.com/wp-content/uploads/2019/10/team-photo-sept-2019-copy.png 600w, https://3dfortify.com/wp-content/uploads/2019/10/team-photo-sept-2019-copy-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" />              </div>
+              <div class="show-for-medium-only">
+                <img width="600" height="400" src="https://3dfortify.com/wp-content/uploads/2019/10/team-photo-sept-2019-copy.png" class="attachment-long_tablet size-long_tablet" alt="founders2018" loading="lazy" title="team photo sept 2019 copy" srcset="https://3dfortify.com/wp-content/uploads/2019/10/team-photo-sept-2019-copy.png 600w, https://3dfortify.com/wp-content/uploads/2019/10/team-photo-sept-2019-copy-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" />              </div>
+              <div class="show-for-large">
+                <img width="600" height="400" src="https://3dfortify.com/wp-content/uploads/2019/10/team-photo-sept-2019-copy.png" class="attachment-full size-full" alt="founders2018" loading="lazy" title="team photo sept 2019 copy" srcset="https://3dfortify.com/wp-content/uploads/2019/10/team-photo-sept-2019-copy.png 600w, https://3dfortify.com/wp-content/uploads/2019/10/team-photo-sept-2019-copy-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" />              </div>
+            </div><!--.landing_img_wrapper-->
+            </div><!--.columns-->
+    <div class="large-6 medium-12 small-12 columns">
+        <div class="tt_wrapper">
+          <div class="red_box">
+          </div><!--.red_box-->
+        <div class="text_content">
+          <h2 class="bold">We move manufacturing forward.</h2>                                    <h6 class="subheading_content bold">Who We Are</h6>              <p>At Fortify, we apply our expertise across disciplines to create products that challenge the status quo. Our culture is inclusive and collaborative. We are a growing team of engineers and business leaders with years of experience in innovation. Together, we develop groundbreaking technology, redefining what’s possible in manufacturing.</p>
+                                                  </div><!--.text_content-->
+      </div><!--.tt_wrapper-->
+    </div><!--.columns-->
+  </div><!--.row-->
+</section>
+<section class="team_grid">
+  <div class="row title_row row_xlarge_content_team">
+      <div class="large-12 medium-12 small-12 columns">
+        <h2 class="bold">Our Team</h2>      </div><!--.columns-->
+  </div><!--.row-->
+  <div class="row row_xlarge_content_team team_row large-up-3 medium-up-3 small-up-2" data-equalizer data-equalize-on="medium">
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_1">
+                          <img src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8328.jpg" title="Josh Martin"
+              alt="Josh Martin"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_1" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8328.jpg" title="Josh Martin"
+                        alt="Josh Martin" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Josh Martin</h3>                      <h6>CEO, Co-Founder</h6>                      <p><p>Josh Martin is a mechanical engineer and materials scientist by training. He received a B.S. in Mechanical Engineering from the University of Delaware, where he was first exposed to composite materials. Josh worked as a materials scientist at the Army Research Labs before moving to Boston to pursue his Ph.D. at Northeastern University under a National Science Foundation Fellowship. His research spun out into Fortify, where he operates as CEO.</p>
+</p>                                              <div class="email show-for-medium">
+                          <a href="mailto:josh@3dfortify.com">
+                          <i class="fal fa-envelope"></i>josh@3dfortify.com                          </a>
+                        </div>
+                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://www.linkedin.com/in/jjmartin12345/">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_2">
+                          <img src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8287.jpg" title="Karlo Delos Reyes"
+              alt="Karlo Delos Reyes"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_2" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8287.jpg" title="Karlo Delos Reyes"
+                        alt="Karlo Delos Reyes" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Karlo Delos Reyes</h3>                      <h6>Vice President of Applications, Co-Founder</h6>                      <p><p>A chemical engineer by training, Karlo Delos Reyes runs business development and strategy at Fortify. Karlo joined the founding Fortify team during his Ph.D. program while serving as president of Origin, a program dedicated to spinning out graduate research into commercial ventures. He holds a dual Bachelor’s Degree in Chemical Engineering and Biochemistry and Cellular Biology from the University of California, San Diego. Previously, he worked at the Genomics Institute of the Novartis Research Foundation in their Advanced Automation and Robotics Department.</p>
+</p>                                              <div class="email show-for-medium">
+                          <a href="mailto:karlo@3dfortify.com">
+                          <i class="fal fa-envelope"></i>karlo@3dfortify.com                          </a>
+                        </div>
+                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://www.linkedin.com/in/karlodelosreyes/">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_3">
+                          <img src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8563.jpg" title="_DSC8563"
+              alt="_DSC8563"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_3" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8613.jpg" title="_DSC8613"
+                        alt="_DSC8613" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Dan Shores</h3>                      <h6>Software Technical Lead, Co-Founder</h6>                      <p><p>Dan is an engineer with a multi-disciplinary background in software and mechanics for the development of biomedical devices and consumer products. He joined Fortify while completing his master’s degree at Northeastern University, where he worked on computer-aided design and analysis of composite material microstructures.</p>
+</p>                                                                </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_4">
+                          <img src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8277.jpg" title="_DSC8277"
+              alt="_DSC8277"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_4" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8365.jpg" title="_DSC8365"
+                        alt="_DSC8365" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Andrew Caunter</h3>                      <h6>Mechanical Engineering Lead, Co-Founder</h6>                      <p><p>Andrew is the Mechanical Engineering Lead at Fortify. After earning a B.S. in Mechanical Engineering from Northeastern University, he began his career as a medical device product development consultant. He now serves as the Mechanical Engineering Lead at Fortify, designing 3D printer mechanisms and hardware.</p>
+</p>                                                                </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_5">
+                          <img src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8515.jpg" title="Scott Goodrich"
+              alt="Scott Goodrich"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_5" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8659.jpg" title="_DSC8659"
+                        alt="_DSC8659" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Scott Goodrich</h3>                      <h6>Director of Systems Engineering, Co-Founder</h6>                      <p><p>Scott is a mechanical engineer with product development experience across clean energy, biomedical, consumer electronic, and industrial applications. Scott began designing magnetic control systems and 3D printers with the team that became Fortify while completing his B.S. and M.S. in Mechanical Engineering at Northeastern University.</p>
+</p>                                                                </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_6">
+                          <img src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8854.jpg" title="Dr. Randy Erb"
+              alt="Dr. Randy Erb"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_6" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2018/04/DSC8866.jpg" title="_DSC8866"
+                        alt="_DSC8866" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Randy Erb</h3>                      <h6>Scientific Adviser, Co-Founder</h6>                      <p><p>Randy is a professor of mechanical and industrial engineering and the head of DAPS Lab at Northeastern University. He is an expert in colloidal science, additive manufacturing, and magnetic manipulation. He serves as the resident scientific advisor of Fortify.</p>
+</p>                                              <div class="email show-for-medium">
+                          <a href="mailto:randy@3dfortify.com">
+                          <i class="fal fa-envelope"></i>randy@3dfortify.com                          </a>
+                        </div>
+                                                                    <div class="social show-for-medium">
+                                                                              <div class="website">
+                              <a href="https://www.dapslab.com/">
+                                <i class="fal fa-desktop"></i>DAPS Lab Website                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_7">
+                          <img src="https://3dfortify.com/wp-content/uploads/2018/10/1809_team-photos_004-e1617654877906.jpg" title="Ben MacDonald"
+              alt="Ben MacDonald"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_7" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2018/10/1809_team-photos_001.jpg" title="Ben MacDonald"
+                        alt="Ben MacDonald" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Ben MacDonald</h3>                      <h6>Applications Engineer</h6>                      <p><p>Ben is a mechanical engineer at Fortify with experience in both product development and applications. Ben earned his B.S. in Mechanical Engineering from Wentworth Institute of Technology and as a student worked as a co-op for Fortify. Upon graduation he rejoined the team as an applications engineer focused on printing and injection molding.</p>
+</p>                                              <div class="email show-for-medium">
+                          <a href="mailto:ben@3dfortify.com ">
+                          <i class="fal fa-envelope"></i>ben@3dfortify.com                           </a>
+                        </div>
+                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://www.linkedin.com/in/benjamin-macdonald-a8a670b3/">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_8">
+                          <img src="https://3dfortify.com/wp-content/uploads/2018/05/DSC8243.jpg" title="_DSC8243"
+              alt="_DSC8243"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_8" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2018/05/DSC8388.jpg" title="_DSC8388"
+                        alt="_DSC8388" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Hank Goddard</h3>                      <h6>Board Observer, Advisor</h6>                      <p><p>Hank is a Managing Director at Mainspring Capital Partners, a family office that provides capital and operating expertise to growing businesses. As an active board member at Fortify, he works with the executive team on market strategy, sales, partnerships, financing and corporate governance. Hank started his career in engineering, designing composite jet engine and automotive components. Since then he has built, bought and sold a variety of companies and invested in many early-stage technology companies. Hank is also on the board of directors at Dauntless Air, an aerial firefighting company, and was previously a board member at Accurate Home Care, Oncology Services International, AL Solutions and Mainspring Healthcare Solutions.</p>
+</p>                                              <div class="email show-for-medium">
+                          <a href="mailto:hgoddard@mainspringcap.com ">
+                          <i class="fal fa-envelope"></i>hgoddard@mainspringcap.com                           </a>
+                        </div>
+                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://www.linkedin.com/in/hbgoddard/">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_9">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-10-e1571952753498.jpg" title="fortify-team-10"
+              alt="fortify-team-10"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_9" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/1905_team_series-a_029.jpg" title="1905_team_series-a_029"
+                        alt="1905_team_series-a_029" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Kyle Jonhson</h3>                      <h6>Materials Scientist</h6>                      <p><p>Kyle Johnson is a materials scientist and engineer by training. Kyle earned his B.S. in Materials Science and Engineering from Stanford University and completed his Ph.D. in Materials Science and Engineering at the University of Michigan studying polymer nanocomposites and novel polymer architectures. Upon completion of his doctorate, Kyle worked on the development of additively manufactured composites at the Air Force Research Laboratory. Kyle has experience developing materials for aerospace, biomedical and automotive applications, and enjoys the challenge of finding novel solutions to complex problems.</p>
+</p>                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://www.linkedin.com/in/kyle-johnson-22246b31">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_10">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/1907_team_series-a_111-e1571953304934.jpg" title="1907_team_series-a_111"
+              alt="1907_team_series-a_111"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_10" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/1907_team_series-a_117.jpg" title="1907_team_series-a_117"
+                        alt="1907_team_series-a_117" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Alex Quinn</h3>                      <h6>Senior Process Engineer</h6>                      <p><p>Alex joins Fortify with 7 years of experience in the Lithium-Ion battery industry, where he worked in R&amp;D prototyping and developing high-power battery cell products for automotive applications. He holds a BS degree in Mechanical Engineering from Worcester Polytechnic Institute.</p>
+</p>                                                                </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_11">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/1907_team_series-a_051-e1571953865396.jpg" title="1907_team_series-a_051"
+              alt="1907_team_series-a_051"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_11" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/1907_team_series-a_070-e1571953367634.jpg" title="1907_team_series-a_070"
+                        alt="1907_team_series-a_070" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Olivia Lau</h3>                      <h6>Software Engeineer</h6>                      <p><p>Olivia is a software engineer with experience supporting tactical defense operations for The Raytheon Company. She has a B.A. in Computer Science and Mathematics from The College of the Holy Cross, where she completed a thesis on automated medical imaging analysis for the early detection of Parkinson’s Disease.</p>
+</p>                                              <div class="email show-for-medium">
+                          <a href="mailto:olivia@3dfortify.com">
+                          <i class="fal fa-envelope"></i>olivia@3dfortify.com                          </a>
+                        </div>
+                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://www.linkedin.com/in/olivia-lau-5286b9b2/">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_12">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/1907_team_series-a_143.jpg" title="1907_team_series-a_143"
+              alt="1907_team_series-a_143"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_12" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/1907_team_series-a_159.jpg" title="1907_team_series-a_159"
+                        alt="1907_team_series-a_159" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Noah Collins</h3>                      <h6>Mechanical Engineer</h6>                      <p><p>Noah is a mechanical engineer on the Hardware team at Fortify. After graduating with a BSME from Northeastern University, he worked for three years in the 3D printing industry in applications and mechanical design roles. At Fortify, Noah designs mechanical systems that enable high-quality, reliable printing.</p>
+</p>                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://www.linkedin.com/in/noah-collins-b47a2b4a/">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_13">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/1907_team_series-a_175.jpg" title="1907_team_series-a_175"
+              alt="1907_team_series-a_175"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_13" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/1907_team_series-a_178.jpg" title="1907_team_series-a_178"
+                        alt="1907_team_series-a_178" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Mark Rabiner</h3>                      <h6>Principal Embedded Engineer</h6>                      <p><p>Mark is an embedded systems engineer at Fortify. He has over 15 years of experience developing electronics for commercial and industrial products. Prior to Fortify, Mark was the Director of Hardware Engineering at Digital Lumens where he designed industrial LED lighting systems, wireless lighting controls, and wireless sensors. Mark holds a BS and MS in Electrical Engineering from Cornell University.</p>
+</p>                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://web.https://www.linkedin.com/in/mark-rabiner-2191193/">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_14">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-13-e1572013739258.jpg" title="fortify-team-13"
+              alt="fortify-team-13"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_14" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-7.jpg" title="fortify-team-7"
+                        alt="fortify-team-7" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Danielle Kershner</h3>                      <h6>Marketing and Communications Manager</h6>                      <p><p>Danielle brings a decade of marketing and communications experience to the Fortify team. She built her career on enabling B2B tech companies to tell their stories through marcom initiatives. She kickstarted her career as a Partner at Eco Branding, a PR and marketing agency for cleantech companies. Most recently she ran marketing and communications at Terrafugia, an aviation start-up, and prior to that she led channel and marketing efforts at Yaskawa Solectria Solar. Danielle received her B.A. in Communications and Psychology with a focus in public relations at the University of Maryland.</p>
+</p>                                              <div class="email show-for-medium">
+                          <a href="mailto:danielle@3DFortify.com ">
+                          <i class="fal fa-envelope"></i>danielle@3DFortify.com                           </a>
+                        </div>
+                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://www.linkedin.com/in/dkershner/">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_15">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-18.jpg" title="fortify-team-18"
+              alt="fortify-team-18"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_15" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-16.jpg" title="fortify-team-16"
+                        alt="fortify-team-16" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Anna Weible</h3>                      <h6>Office Manager</h6>                      <p><p>Anna is an operations specialist dealing in the space of people. With a background in Fine Arts, her interests lie in merging the world of operations and culture. She joined Fortify following a move from NYC, where she was previously working to evolve internal culture in the brand design and strategy sphere.</p>
+</p>                                              <div class="email show-for-medium">
+                          <a href="mailto:anna@3DFortify.com ">
+                          <i class="fal fa-envelope"></i>anna@3DFortify.com                           </a>
+                        </div>
+                                                                </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_16">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-12.jpg" title="fortify-team-12"
+              alt="fortify-team-12"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_16" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-17.jpg" title="fortify-team-17"
+                        alt="fortify-team-17" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Chahid Ghaddar</h3>                      <h6>Principle Software Engineer</h6>                      <p><p>Chahid is the author of 4 US patents and about twenty peer reviewed publications. He holds a BS in Mechanical Engineering and MS and PhD from Massachusetts Institute of Technology with a background in computational mathematics and software engineering. During a two-decade career, Chahid has led diverse software development projects including mathematical modeling tools, computer vision, simulations, MEMS, CAD, and finance applications. He contributed to commercial engineering software including CoventorWare and Mathcad and has founded ExcelWorks LLC to empower the spreadsheet with native calculus functions.</p>
+</p>                                                                </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_17">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-15.jpg" title="fortify-team-15"
+              alt="fortify-team-15"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_17" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-14.jpg" title="fortify-team-14"
+                        alt="fortify-team-14" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Nick Provenzano</h3>                      <h6>Print Engineer</h6>                      <p><p>Nick is a Print Engineer who works closely with the applications and development of the printers. Nick earned a B.S. in Electronics Engineering and an A.S. in Robotics Engineering from JWU. Nick has been working in the additive industry for over 6 years who has experience with servicing machines and applications.</p>
+</p>                                                                </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+              <div class="column column-block text-center" data-equalizer-watch>
+          <div class="team_member" data-open="team_mem_18">
+                          <img src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-3.jpg" title="fortify-team-3"
+              alt="fortify-team-3"/>
+                      </div><!--.team_member-->
+          <div class="reveal large team_reveal" id="team_mem_18" data-reveal>
+            <button class="close-button" data-close aria-label="Close modal" type="button">
+              <span aria-hidden="true"><i class="far fa-times"></i></span>
+            </button>
+            <div class="row team_member_content">
+                <div class="team_info">
+                    <div class="large-4 medium-4 small-12 columns">
+                                              <img class="hover_image" src="https://3dfortify.com/wp-content/uploads/2019/10/fortify-team-4.jpg" title="fortify-team-4"
+                        alt="fortify-team-4" />
+                                          </div><!--.columns-->
+                    <div class="large-8 medium-8 small-12 columns">
+                      <div class="team_member_meta">
+                      <h3 class="bold">Phil Lambert</h3>                      <h6>Senior Applications Engineer</h6>                      <p><p>Phil earned both his BS and MS in mechanical engineering and spent his graduate program in the DREAMS Lab at Virginia Tech working on the development of novel projection stereolithography systems. Since entering industry, Phil has built a career in 3D printing. He has broad experience in both design and manufacturing of 3D printed goods, ranging from consumer electronics to medical devices. He is passionate about his contributions towards realizing the goal of market-ready 3D-printed products.</p>
+</p>                                                                    <div class="social show-for-medium">
+                                                                              <div class="linkedin">
+                              <a href="https://www.linkedin.com/in/philip-lambert-399a2a38/">
+                                <i class="fab fa-linkedin"></i>Linkedin                              </a>
+                            </div><!--.linkedin-->
+                                                                          </div><!--.social-->
+                                          </div><!--.team_member_meta-->
+                    </div><!--.columns-->
+                </div><!--.team_info-->
+            </div><!--.row-->
+          </div><!--.reveal-->
+        </div><!--.column-->
+        </div><!--.row-->
+</section><!--.team_grid-->
+</div>
+  <div class="tabs-panel " id="culture">
+  
+<section  class="text_content_block">
+  <div class="row row_content_xlarge">
+      <div class="large-12 medium-12 small-12 columns">
+        <h2 class="bold">Work smart, have fun.</h2><h6 class="subheading">What we do</h6><p>We work together to develop groundbreaking products, and we have fun doing it. Our workspace is decked out with sitting-to-standing desks, a kitchen stocked with snacks, a ping-pong table, rock climbing holds, and a big screen for movies and video games (and the occasional meeting). Outside of the office, you can find us at the climbing gym down the street or on the ski slopes near Boston. All teammates have excellent resources on hand. Engineers have access to a full lab, machine shop, and characterization facilities. We’re committed to professional development, providing employees with courses, books, and any other resources they need to reach their goals. Our culture is designed to help each person succeed now and in the long run.</p>
+              </div>
+  </div>
+</section>
+<section class="slider">
+    <div class="fortify_carousel owl-carousel owl-theme">
+              <div class="slide_item">
+          <img
+          src="https://3dfortify.com/wp-content/uploads/2018/04/DSC_1436-e1526614772944.jpg"
+          alt="DSC_1436"
+          title="DSC_1436" />
+        </div>
+              <div class="slide_item">
+          <img
+          src="https://3dfortify.com/wp-content/uploads/2018/05/DSC7152_Site-e1526614457613.jpg"
+          alt="_DSC7152_Site"
+          title="_DSC7152_Site" />
+        </div>
+              <div class="slide_item">
+          <img
+          src="https://3dfortify.com/wp-content/uploads/2018/04/DSC_0070-e1526614697525.jpg"
+          alt="DSC_0070"
+          title="DSC_0070" />
+        </div>
+          </div><!--.owl-carousel-->
+</section><!--.slider-->
+</div>
+  <div class="tabs-panel " id="careers">
+  
+<section  class="image_right_text_left" 
+  style="
+  ;
+  ;">
+  <div class="row expanded large-collapse row_right_content_xlarge">
+    <div class="large-6 medium-12 small-12 columns large-push-6">
+                        <div class="landing_img_wrapper">
+              <div class="show-for-small-only">
+                <img width="680" height="520" src="https://3dfortify.com/wp-content/uploads/2021/02/Scott-in-front-of-printers-in-lab-680x520.jpg" class="attachment-standard size-standard" alt="Scott in front of printers in lab" loading="lazy" title="Scott in front of printers in lab" />              </div>
+              <div class="show-for-medium-only">
+                <img width="1024" height="500" src="https://3dfortify.com/wp-content/uploads/2021/02/Scott-in-front-of-printers-in-lab-1024x500.jpg" class="attachment-long_tablet size-long_tablet" alt="Scott in front of printers in lab" loading="lazy" title="Scott in front of printers in lab" />              </div>
+              <div class="show-for-large">
+                <img width="2560" height="1707" src="https://3dfortify.com/wp-content/uploads/2021/02/Scott-in-front-of-printers-in-lab-scaled.jpg" class="attachment-full size-full" alt="Scott in front of printers in lab" loading="lazy" title="Scott in front of printers in lab" srcset="https://3dfortify.com/wp-content/uploads/2021/02/Scott-in-front-of-printers-in-lab-scaled.jpg 2560w, https://3dfortify.com/wp-content/uploads/2021/02/Scott-in-front-of-printers-in-lab-300x200.jpg 300w, https://3dfortify.com/wp-content/uploads/2021/02/Scott-in-front-of-printers-in-lab-1024x683.jpg 1024w, https://3dfortify.com/wp-content/uploads/2021/02/Scott-in-front-of-printers-in-lab-768x512.jpg 768w, https://3dfortify.com/wp-content/uploads/2021/02/Scott-in-front-of-printers-in-lab-1536x1024.jpg 1536w, https://3dfortify.com/wp-content/uploads/2021/02/Scott-in-front-of-printers-in-lab-2048x1365.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />              </div>
+        </div><!--.landing_img_wrapper-->
+          </div><!--.columns-->
+    <div class="large-6 medium-12 small-12 columns large-pull-6">
+      <div class="tt_wrapper">
+        <div class="red_box">
+        </div><!--.red_box-->
+      <div class="text_content">
+                                      <h6 class="subheading_content bold">Working at Fortify</h6>            <p>Fortify is a dynamic venture-backed 3D printing startup with a passionate team of engineers and business professionals who are at the forefront of bringing new technologies to market. Founded in 2016 and located in Boston, Fortify’s team is transforming the 3D printing industry with its patented DCM (Digital Composite Manufacturing) platform, enabling new material properties and components unattainable using other additive or traditional manufacturing processes. Fortify was recently recognized as one of the <em>BostonInno</em> companies on Fire by the <em>Boston Business Journal</em> and featured in <em>Forbes. </em>We’re hiring high-performing professionals to help build Fortify into a global leader in advanced manufacturing. Join an inclusive, collaborative team of engineers and creatives developing elegant technology that redefines how products are made.</p>
+                                        </div><!--.text_content-->
+    </div><!--.tt_wrapper-->
+    </div><!--.columns-->
+  </div><!--.row-->
+</section>
+
+<section  class="text_content_block">
+  <div class="row row_content_xlarge">
+      <div class="large-12 medium-12 small-12 columns">
+        <p style="text-align: center; font-size: 22px; color: #000000;"><strong>COVID-19 Update: </strong> Covid procedures are currently in place and include mandatory masking and social distancing in office, staggered scheduling, contact tracing, regular cleaning and flexible WFH.</p>
+              </div>
+  </div>
+</section>
+
+<section  class="text_content_block">
+  <div class="row row_content_xlarge">
+      <div class="large-12 medium-12 small-12 columns">
+        <h2 style="text-align: center; font-size: 40px;">Open Positions</h2>
+<p style="text-align: center;"><div class="button_wrap">
+            <a class="button" href="#open_positions">
+              <div class="button_text">View All Jobs<i class="far fa-long-arrow-right show-for-medium"></i></div>
+            </a>
+          </div></p>
+              </div>
+  </div>
+</section>
+
+
+<section class="employee_slider">
+  <div class="row">
+    <div class="small-12 large-10 medium-centered columns">
+              <h2><h2 style="text-align: center; font-size: 40px;">What Employees Are Saying</h2>
+</h2>
+                      <ul class="slides">
+                    <li class="row" data-equalizer>
+              <div class="small-12 medium-6 large-4 columns" data-equalizer-watch>
+                <img src="https://3dfortify.com/wp-content/uploads/2021/02/Olivia-Lau-headshot-e1613083046518.jpg" title="Olivia Lau headshot"
+                  alt="DSC_0070" />
+              </div><!--.columns-->
+              <div class="small-12 medium-6 large-8 columns" data-equalizer-watch>
+                <div class="lvslide_content">
+                  <p style="text-align: left;">&#8220;Fortify offers exciting opportunities to create industry-leading software products in a cool problem space. I am grateful to be part of an energetic and passionate team that is efficient, solution-oriented, and devoted to striking a great work/life balance.&#8221;</p>
+<p style="text-align: right;">Olivia Lau, Senior Software Engineer</p>
+                </div><!--.slide_content-->
+              </div><!--.columns-->
+            </li><!--.row-->
+                    <li class="row" data-equalizer>
+              <div class="small-12 medium-6 large-4 columns" data-equalizer-watch>
+                <img src="https://3dfortify.com/wp-content/uploads/2021/02/Phil-Lambert-headshot-e1613083076928.jpg" title="Phil Lambert headshot"
+                  alt="DSC_0070" />
+              </div><!--.columns-->
+              <div class="small-12 medium-6 large-8 columns" data-equalizer-watch>
+                <div class="lvslide_content">
+                  <p style="text-align: left;">&#8220;Every day at Fortify I work to solve industry-plaguing problems as part of small, cross-disciplinary teams of intelligent, highly motivated individuals. I value being able to see my own impact on the success of a business, and the structure and culture cultivated at Fortify provides me with concrete visibility on how my goals propel the company&#8217;s business objectives.&#8221;</p>
+<p style="text-align: right;">Phil Lambert, Senior Applications Engineer</p>
+                </div><!--.slide_content-->
+              </div><!--.columns-->
+            </li><!--.row-->
+                    <li class="row" data-equalizer>
+              <div class="small-12 medium-6 large-4 columns" data-equalizer-watch>
+                <img src="https://3dfortify.com/wp-content/uploads/2021/02/Chris-scaled-e1613771435977.jpg" title="Chris"
+                  alt="DSC_0070" />
+              </div><!--.columns-->
+              <div class="small-12 medium-6 large-8 columns" data-equalizer-watch>
+                <div class="lvslide_content">
+                  <p>&#8220;At Fortify I have been able to experience a ‘sweep the floor’ work culture, where no task is too small, and everyone is willing to pick up the broom to accomplish the next goal.&#8221;</p>
+<p style="text-align: right;">Chris Byrne, Process Engineer</p>
+                </div><!--.slide_content-->
+              </div><!--.columns-->
+            </li><!--.row-->
+                </ul><!--.slides-->
+            <div class="slider_controls">
+      </div><!--.slider_controls-->
+    </div><!--.columns-->
+  </div><!--.row-->
+</section><!--.vertical_small_image_slider-->
+<section  class="text_content_block">
+  <div class="row row_content_xlarge">
+      <div class="large-12 medium-12 small-12 columns">
+        <h2 style="text-align: center; font-size: 40px; line-height: 48px;"><strong>OUR VALUES</strong></h2>
+<h2 style="text-align: center; font-size: 40px; line-height: 48px;"><strong>Bold. Smart. Human.</strong></h2>
+              </div>
+  </div>
+</section>
+
+<section class="masonry_grid">
+  <div class="row">
+    <div class="small-12 medium-10 large-9 medium-centered">
+
+
+
+
+<div class="row two_block_text medium-collape masonry_parallax" data-equalizer data-equalize-on="medium-only">
+                              <div class="small-12 medium-5 columns" data-equalizer-watch>
+                                  <img class="show-for-small-only" src="https://3dfortify.com/wp-content/uploads/2021/02/Karlo.jpg" title="Karlo" 
+                    alt="" />
+                                    <h3><span>Adopt an Agile Mindset</span></h3>
+                   
+                                      <p>Take smart risks.<br />
+Learn from setbacks.<br />
+Adapt immediately.</p>
+                                                        <img class="show-for-medium" src="https://3dfortify.com/wp-content/uploads/2021/02/Karlo.jpg" title="Karlo" 
+                    alt="" />
+                                  </div><!--.columns-->
+                                                    <div class="small-12 medium-7 columns" data-equalizer-watch>
+                                    <img class="show-for-medium" src="https://3dfortify.com/wp-content/uploads/2021/02/Zoom.png" title="Zoom" 
+                    alt="" />
+                                  <img class="show-for-small-only" src="https://3dfortify.com/wp-content/uploads/2021/02/Zoom.png" title="Zoom" 
+                    alt="" />
+                                    <h3><span>Listen Openly</span></h3>
+                    
+                                      <p style="text-align: right;">Approach work conversations with an attitude of learning.<br />
+Receive constructive criticism with a clear mind.<br />
+Resist your ego.</p>
+                                                    </div><!--.columns-->
+              </div><!--.row-->
+
+  
+
+
+
+
+<div class="row two_block_text medium-collape masonry_parallax" data-equalizer data-equalize-on="medium-only">
+                              <div class="small-12 medium-5 columns" data-equalizer-watch>
+                                  <img class="show-for-small-only" src="https://3dfortify.com/wp-content/uploads/2021/02/Josh.jpg" title="Josh" 
+                    alt="" />
+                                    <h3><span>Speak Candidly</span></h3>
+                   
+                                      <p>In all things, tell the truth.<br />
+Solve conflict with honesty.<br />
+Communicate clearly.</p>
+                                                        <img class="show-for-medium" src="https://3dfortify.com/wp-content/uploads/2021/02/Josh.jpg" title="Josh" 
+                    alt="" />
+                                  </div><!--.columns-->
+                                                    <div class="small-12 medium-7 columns" data-equalizer-watch>
+                                    <img class="show-for-medium" src="https://3dfortify.com/wp-content/uploads/2021/02/presentation-scaled-e1614046685799.jpg" title="presentation" 
+                    alt="" />
+                                  <img class="show-for-small-only" src="https://3dfortify.com/wp-content/uploads/2021/02/presentation-scaled-e1614046685799.jpg" title="presentation" 
+                    alt="" />
+                  
+                                                    </div><!--.columns-->
+              </div><!--.row-->
+
+  
+
+
+
+
+<div class="row two_block_text medium-collape masonry_parallax" data-equalizer data-equalize-on="medium-only">
+                              <div class="small-12 medium-5 columns" data-equalizer-watch>
+                                    <img class="show-for-medium" src="https://3dfortify.com/wp-content/uploads/2021/02/group-welding-scaled.jpg" title="group welding" 
+                    alt="" />
+                                    <img class="show-for-small-only" src="https://3dfortify.com/wp-content/uploads/2021/02/group-welding-scaled.jpg" title="group welding" 
+                    alt="" />
+                 
+                                                    </div><!--.columns-->
+                                                    <div class="small-12 medium-7 columns" data-equalizer-watch>
+                                <img class="show-for-small-only" src="https://3dfortify.com/wp-content/uploads/2021/02/man-using-3software-scaled.jpg" title="man using 3software" 
+                    alt="" />
+                                    <h3><span>Build up Your Teammates</span></h3>
+                    
+                                      <p>Foster a community that people want to be in.<br />
+Give more encouragement than criticism.<br />
+Support one another in the pursuit of a common goals.</p>
+                                                        <img class="show-for-medium" src="https://3dfortify.com/wp-content/uploads/2021/02/man-using-3software-scaled.jpg" title="man using 3software" 
+                    alt="" />
+                                  </div><!--.columns-->
+                              <div class="small-12 medium-7 columns" data-equalizer-watch>
+                                <img class="show-for-small-only" src="" title="" 
+                    alt="" />
+                  
+                                                    </div><!--.columns-->
+              </div><!--.row-->
+
+  
+
+
+    <div class="row two_block_masonry"><!--check on .row_left_content_xlarge-->
+                    
+                    <div class="row masonry_parallax show-for-medium">
+            <div class="medium-6 large-8 large-push-0 columns">
+                          <h3><span>Boldly Pursue Good Work</span></h3>
+              <p>Compete against your personal best.<br />
+Be ambitious in setting goals and focused in reaching them.<br />
+Overcome obstacles with motivation by a greater purpose.</p>
+                      </div><!--.columns-->
+          <div class="medium-6 large-4 large-pull-0 columns img_col">
+                          <img src="https://3dfortify.com/wp-content/uploads/2021/02/man-with-3d-printed-materials-scaled.jpg" title="man with 3d printed materials" 
+              alt="" />
+                      </div><!--.columns-->
+          </div><!--.row-->
+          <div class="row masonry_parallax show-for-small-only">
+          <div class="small-12 columns img_col">
+                          <img src="https://3dfortify.com/wp-content/uploads/2021/02/man-with-3d-printed-materials-scaled.jpg" title="man with 3d printed materials" 
+              alt="" />
+                      </div><!--.columns-->
+          <div class="small-12 columns">
+                          <h3><span>Boldly Pursue Good Work</span></h3>
+              <p>Compete against your personal best.<br />
+Be ambitious in setting goals and focused in reaching them.<br />
+Overcome obstacles with motivation by a greater purpose.</p>
+                      </div><!--.columns-->
+          </div><!--.row-->
+          
+    
+
+
+
+    </div><!--.columns-->
+  </div><!--.row-->
+</section>
+
+
+<section class="two_columns_icons">
+  <div class="row">
+    <div class="small-12 large-8 small-centered columns">
+              <h2 style="text-align: center; font-size: 40px;">Benefits + Perks</h2>
+                    <div class="row small-up-1 medium-up-2 col_blocks" data-equalizer>
+                          <div class="column column-block icon_col_text" data-equalizer-watch>
+                <div class="row">
+                  <div class="small-3 medium-3 columns icon_col">
+                  <i class="fal fa-hand-holding-medical fa-3x"></i>                </div><!--.columns-->
+                <div class="small-9 medium-9 columns cctext_col">
+                    <p>Employer paid premium Medical and Dental</p>
+                </div><!--.columns-->
+                </div><!--.row-->
+                </div><!--.column.column-block-->
+                          <div class="column column-block icon_col_text" data-equalizer-watch>
+                <div class="row">
+                  <div class="small-3 medium-3 columns icon_col">
+                  <i class="fal fa-piggy-bank fa-3x"></i>                </div><!--.columns-->
+                <div class="small-9 medium-9 columns cctext_col">
+                    <p>FSA and Commuter Benefits available</p>
+                </div><!--.columns-->
+                </div><!--.row-->
+                </div><!--.column.column-block-->
+                          <div class="column column-block icon_col_text" data-equalizer-watch>
+                <div class="row">
+                  <div class="small-3 medium-3 columns icon_col">
+                  <i class="fal fa-hand-holding-usd fa-3x"></i>                </div><!--.columns-->
+                <div class="small-9 medium-9 columns cctext_col">
+                    <p>Competitive salary and stock options</p>
+                </div><!--.columns-->
+                </div><!--.row-->
+                </div><!--.column.column-block-->
+                          <div class="column column-block icon_col_text" data-equalizer-watch>
+                <div class="row">
+                  <div class="small-3 medium-3 columns icon_col">
+                  <i class="fal fa-baby-carriage fa-3x"></i>                </div><!--.columns-->
+                <div class="small-9 medium-9 columns cctext_col">
+                    <p>Paid parental leave</p>
+                </div><!--.columns-->
+                </div><!--.row-->
+                </div><!--.column.column-block-->
+                          <div class="column column-block icon_col_text" data-equalizer-watch>
+                <div class="row">
+                  <div class="small-3 medium-3 columns icon_col">
+                  <i class="fal fa-island-tropical fa-3x"></i>                </div><!--.columns-->
+                <div class="small-9 medium-9 columns cctext_col">
+                    <p>Unlimited PTO</p>
+                </div><!--.columns-->
+                </div><!--.row-->
+                </div><!--.column.column-block-->
+                          <div class="column column-block icon_col_text" data-equalizer-watch>
+                <div class="row">
+                  <div class="small-3 medium-3 columns icon_col">
+                  <i class="fal fa-heartbeat fa-3x"></i>                </div><!--.columns-->
+                <div class="small-9 medium-9 columns cctext_col">
+                    <p>Monthly Wellness/ Lunch Stipend</p>
+                </div><!--.columns-->
+                </div><!--.row-->
+                </div><!--.column.column-block-->
+                            </div>
+            </div><!--.columns-->
+  </div><!--.row-->
+</section><!--.vertical_small_image_slider-->
+<section  class="text_content_block">
+  <div class="row row_content_xlarge">
+      <div class="large-12 medium-12 small-12 columns">
+        <div id="open_positions"></div>
+<h3 style="text-align: center;">Open Positions</h3>
+<div id="grnhse_app"></div>
+              </div>
+  </div>
+</section>
+
+
+
+<section class="client_slider">
+  <div class="row expanded">
+    <div class="small-12 medium-11 small-centered columns">
+              <h2><h3 style="text-align: center;">Investors</h3>
+</h2>
+                      <div class="slides">
+                          <div>
+                <a href="https://www.accel.com/">
+                  <img src="https://3dfortify.com/wp-content/uploads/2019/08/Accel-Logo.png" title="Accel Logo"
+                alt="DSC_0070" />
+                </a>
+              </div>
+                         <div>
+                <a href="https://www.mainspringcap.com/">
+                  <img src="https://3dfortify.com/wp-content/uploads/2018/04/Mainspring.jpg" title="Mainspring"
+                alt="DSC_0070" />
+                </a>
+              </div>
+                         <div>
+                <a href="https://www.preludeventures.com/">
+                  <img src="https://3dfortify.com/wp-content/uploads/2018/04/Prelude.jpg" title="Prelude"
+                alt="DSC_0070" />
+                </a>
+              </div>
+                         <div>
+                <a href="https://www.carbonventures.vc/">
+                  <img src="https://3dfortify.com/wp-content/uploads/2021/02/carbon-ventures.png" title="carbon ventures"
+                alt="DSC_0070" />
+                </a>
+              </div>
+                         <div>
+                <a href="https://www.neotribe.vc/">
+                  <img src="https://3dfortify.com/wp-content/uploads/2018/04/Neotribe.jpg" title="Neotribe"
+                alt="DSC_0070" />
+                </a>
+              </div>
+                         <div>
+                <a href="http://www.oceanazulpartners.com/">
+                  <img src="https://3dfortify.com/wp-content/uploads/2018/04/OceanAzul.jpg" title="OceanAzul"
+                alt="DSC_0070" />
+                </a>
+              </div>
+                         <div>
+                <a href="http://www.rivervalleyinvestors.com/">
+                  <img src="https://3dfortify.com/wp-content/uploads/2018/04/RiverValley.jpg" title="RiverValley"
+                alt="DSC_0070" />
+                </a>
+              </div>
+                     </div><!--.slides-->
+              <div class="slider_controls">
+      </div><!--.slider_controls-->
+    </div><!--.columns-->
+  </div><!--.row-->
+</section><!--.vertical_small_image_slider--></div>
+  <div class="tabs-panel " id="investors">
+  
+<section  class="text_content_block">
+  <div class="row row_content_xlarge">
+      <div class="large-12 medium-12 small-12 columns">
+                      </div>
+  </div>
+</section>
+<section class="investors">
+  <div class="row row_content_xlarge large-up-3 medium-up-3 small-up-1">
+              <div class="column column-block investor_item_1">
+          <div class="info_box">
+          <div class="img_wrapper">
+                          <a href="https://www.accel.com/" target="_blank">
+                            <img src="https://3dfortify.com/wp-content/uploads/2021/08/accel-logo.png" alt="accel logo" title="accel logo"  />
+                          </a>
+                      </div><!--.img_wrapper-->
+      </div><!--info_box-->
+      <div class="meta">
+        <div class="meta_content">
+        <h5>Accel </h5>                      <a href="https://www.accel.com/" target="_blank">
+              <h6>Visit Website<i class="far fa-long-arrow-right"></i></h6>            </a>
+                  </div><!--.meta_content-->
+      </div><!--.investor_meta-->
+      </div><!--.column-->
+              <div class="column column-block investor_item_2">
+          <div class="info_box">
+          <div class="img_wrapper">
+                          <a href="https://www.mainspringcap.com/" target="_blank">
+                            <img src="https://3dfortify.com/wp-content/uploads/2018/04/Mainspring.jpg" alt="Mainspring" title="Mainspring"  />
+                          </a>
+                      </div><!--.img_wrapper-->
+      </div><!--info_box-->
+      <div class="meta">
+        <div class="meta_content">
+        <h5>Mainspring Capital Partners</h5>                      <a href="https://www.mainspringcap.com/" target="_blank">
+              <h6>Visit Website<i class="far fa-long-arrow-right"></i></h6>            </a>
+                  </div><!--.meta_content-->
+      </div><!--.investor_meta-->
+      </div><!--.column-->
+              <div class="column column-block investor_item_3">
+          <div class="info_box">
+          <div class="img_wrapper">
+                          <a href="https://www.preludeventures.com/" target="_blank">
+                            <img src="https://3dfortify.com/wp-content/uploads/2018/04/Prelude.jpg" alt="Prelude" title="Prelude"  />
+                          </a>
+                      </div><!--.img_wrapper-->
+      </div><!--info_box-->
+      <div class="meta">
+        <div class="meta_content">
+        <h5>Prelude Ventures</h5>                      <a href="https://www.preludeventures.com/" target="_blank">
+              <h6>Visit Website<i class="far fa-long-arrow-right"></i></h6>            </a>
+                  </div><!--.meta_content-->
+      </div><!--.investor_meta-->
+      </div><!--.column-->
+              <div class="column column-block investor_item_4">
+          <div class="info_box">
+          <div class="img_wrapper">
+                          <a href="https://www.carbonventures.vc" target="_blank">
+                            <img src="https://3dfortify.com/wp-content/uploads/2019/08/CV-1044x1044.png" alt="CV 1044x1044" title="CV 1044x1044"  />
+                          </a>
+                      </div><!--.img_wrapper-->
+      </div><!--info_box-->
+      <div class="meta">
+        <div class="meta_content">
+        <h5>Carbon Ventures</h5>                      <a href="https://www.carbonventures.vc" target="_blank">
+              <h6>Visit Website<i class="far fa-long-arrow-right"></i></h6>            </a>
+                  </div><!--.meta_content-->
+      </div><!--.investor_meta-->
+      </div><!--.column-->
+              <div class="column column-block investor_item_5">
+          <div class="info_box">
+          <div class="img_wrapper">
+                          <a href="https://www.neotribe.vc" target="_blank">
+                            <img src="https://3dfortify.com/wp-content/uploads/2021/08/neotribe.png" alt="neotribe" title="neotribe"  />
+                          </a>
+                      </div><!--.img_wrapper-->
+      </div><!--info_box-->
+      <div class="meta">
+        <div class="meta_content">
+        <h5>NeoTribe Ventures</h5>                      <a href="https://www.neotribe.vc" target="_blank">
+              <h6>Visit Website<i class="far fa-long-arrow-right"></i></h6>            </a>
+                  </div><!--.meta_content-->
+      </div><!--.investor_meta-->
+      </div><!--.column-->
+              <div class="column column-block investor_item_6">
+          <div class="info_box">
+          <div class="img_wrapper">
+                          <a href="http://www.oceanazulpartners.com/" target="_blank">
+                            <img src="https://3dfortify.com/wp-content/uploads/2018/04/OceanAzul.jpg" alt="OceanAzul" title="OceanAzul"  />
+                          </a>
+                      </div><!--.img_wrapper-->
+      </div><!--info_box-->
+      <div class="meta">
+        <div class="meta_content">
+        <h5>Ocean Azul Partners</h5>                      <a href="http://www.oceanazulpartners.com/" target="_blank">
+              <h6>Visit Website<i class="far fa-long-arrow-right"></i></h6>            </a>
+                  </div><!--.meta_content-->
+      </div><!--.investor_meta-->
+      </div><!--.column-->
+              <div class="column column-block investor_item_7">
+          <div class="info_box">
+          <div class="img_wrapper">
+                          <a href="http://www.rivervalleyinvestors.com/" target="_blank">
+                            <img src="https://3dfortify.com/wp-content/uploads/2018/04/RiverValley.jpg" alt="RiverValley" title="RiverValley"  />
+                          </a>
+                      </div><!--.img_wrapper-->
+      </div><!--info_box-->
+      <div class="meta">
+        <div class="meta_content">
+        <h5>River Valley Investors</h5>                      <a href="http://www.rivervalleyinvestors.com/" target="_blank">
+              <h6>Visit Website<i class="far fa-long-arrow-right"></i></h6>            </a>
+                  </div><!--.meta_content-->
+      </div><!--.investor_meta-->
+      </div><!--.column-->
+              <div class="column column-block investor_item_8">
+          <div class="info_box">
+          <div class="img_wrapper">
+                          <a href="https://www.cotacapital.com/" target="_blank">
+                            <img src="https://3dfortify.com/wp-content/uploads/2021/08/cota.png" alt="" title=""  />
+                          </a>
+                      </div><!--.img_wrapper-->
+      </div><!--info_box-->
+      <div class="meta">
+        <div class="meta_content">
+        <h5>Cota Capital</h5>                      <a href="https://www.cotacapital.com/" target="_blank">
+              <h6>Visit Website<i class="far fa-long-arrow-right"></i></h6>            </a>
+                  </div><!--.meta_content-->
+      </div><!--.investor_meta-->
+      </div><!--.column-->
+        </div><!--.row-->
+</section>
+</div>
+</div>
+
+</section><!--.tab_section-->
+
+</div><!--.large-12-->
+</div><!--.row-->
+</div><!--.standard_page_tabs-->
+
+
+<div class="push"></div>
+</div><!--.content_wrapper-->
+
+<footer class="">
+  <div class="row row_content_xlarge">
+    <div class="large-12 medium-12 small-12 columns">
+      <div class="footer_content text-center">
+        <div class="row">
+            <div class="large-4 medium-12 small-12 columns">
+                                                                <div class="footer_logo_black">
+                    <img class="logo_footer show-for-large" src="https://3dfortify.com/wp-content/uploads/2018/04/3dfortify-blacklogo.png" title="3D Fortify" alt="3D Fortify" />
+                    <img class="mobile_logo_footer hide-for-large" src="https://3dfortify.com/wp-content/uploads/2018/05/3dfortify-black-mobile.png" title="3dfortify-black-mobile" alt="3dfortify-black-mobile" />
+                  </div><!--.footer_logo-->
+                                <p>Fortify is a digital manufacturing company based in Boston, MA.</p>
+                <p class="copyright">Copyright 2018-2022 © 3DFortify, Inc. All Rights Reserved. <a class="privacy_link" href="/privacy-policy">Privacy</a></p>                          </div><!--.columns-->
+            <div class="large-2 medium-2 small-12 columns show-for-large">
+                              <div id="nav_menu-5" class="widget-container widget_nav_menu"><div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-1189" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1189"><a href="/about" aria-current="page">Our Story</a></li>
+<li id="menu-item-1190" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1190"><a href="/about#investors" aria-current="page">Investors</a></li>
+<li id="menu-item-1192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1192"><a href="https://3dfortify.com/?page_id=240">Blog</a></li>
+</ul></div></div>                          </div><!--.columns-->
+            <div class="large-2 medium-2 small-12 columns show-for-large no_col_padding">
+                              <div id="nav_menu-6" class="widget-container widget_nav_menu"><div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-2540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2540"><a href="https://3dfortify.com/process/">Process</a></li>
+<li id="menu-item-3819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3819"><a href="https://3dfortify.com/mold-tooling/">Mold Tooling</a></li>
+<li id="menu-item-3820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3820"><a href="https://3dfortify.com/resources/">Resources</a></li>
+</ul></div></div>                          </div><!--.columns-->
+            <div class="large-2 medium-2 small-12 columns show-for-large">
+                              <div id="nav_menu-7" class="widget-container widget_nav_menu"><div class="menu-footer-menu-3-container"><ul id="menu-footer-menu-3" class="menu"><li id="menu-item-2538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2538"><a href="https://3dfortify.com/press/">Press</a></li>
+<li id="menu-item-1197" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1197"><a href="/about#careers" aria-current="page">Careers</a></li>
+<li id="menu-item-1196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1196"><a href="https://3dfortify.com/contact/">Contact</a></li>
+</ul></div></div>                          </div><!--.columns-->
+            <div class="large-2 medium-12 small-12 columns">
+                              <div class="footer_social">
+                                  <a href="https://www.linkedin.com/company/3dfortify" target="_blank">
+                <span class="fa-stack">
+                                      <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-linkedin fa-inverse fa-stack-1x"></i>
+                    <div class="sr_only">Linkedin</div>
+                                </span>
+                </a>
+                              <a href="https://twitter.com/3dfortify" target="_blank">
+                <span class="fa-stack">
+                                      <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-twitter fa-inverse fa-stack-1x"></i>
+                    <div class="sr_only">Twitter</div>
+                                  </span>
+                </a>
+                              <a href="https://www.youtube.com/channel/UC66q5EqnDUc63GE2to-Mw6Q" target="_blank">
+                <span class="fa-stack">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-youtube fa-inverse fa-stack-1x"></i>
+                  <div class="sr_only">YouTube</div>
+                                </span>
+                </a>
+                          </div><!--.footer_social-->
+                        </div><!--.columns-->
+        </div><!--.row-->
+      </div><!--.footer_content-->
+    </div><!--.columns-->
+  </div><!--.row-->
+</footer>
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		
+      <script src="https://boards.greenhouse.io/embed/job_board/js?for=fortify"></script>
+  <script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><script type='text/javascript' id='leadin-script-loader-js-js-extra'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"page","leadinPluginVersion":"8.4.628"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://js.hs-scripts.com/2379788.js?integration=WordPress' async defer id='hs-script-loader'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/vendor/foundation.min.js?ver=6.4.1' id='foundation-js-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/vendor/fitToParent.min.js?ver=5.9' id='fitToParent-js-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/themes/fortify/lib/assets/js/fortify.js?ver=5.9' id='fortify-js-js'></script>
+<script type='text/javascript' src='https://3dfortify.com/wp-includes/js/hoverIntent.min.js?ver=1.10.1' id='hoverIntent-js'></script>
+<script type='text/javascript' id='megamenu-js-extra'>
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://3dfortify.com/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.9.5' id='megamenu-js'></script>
+  <script type="text/javascript">
+  jQuery(function($) {
+    $(document).foundation();
+  });
+  </script>
+</body>
+</html>

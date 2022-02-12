@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="es">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Public</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+  
+    <meta property="og:title" content="Public"></meta>
+    <meta property="og:description" content=""></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/public"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/553/000/original/Medium_Avatar_7.59.15_AM.png?1623266743"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><img alt="Public Logo" src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/553/000/resized/Medium_Avatar_7.59.15_AM.png?1623266743" width="75" height="75" /></div>
+
+  <h1>Public</h1>
+
+  <div id="content">
+    
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+  
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4027314003">Acquisition</h3>
+
+  <div class="opening" department_id="4027314003" office_id="4019224003" data-office-4019224003="true" data-department-4027314003="true">
+  <a data-mapped="true" href="/public/jobs/4823677003">Growth Partnerships Specialist</a>
+  <br/>
+  <span class="location">New York, New York</span>
+</div><div class="opening" department_id="4027314003" office_id="4019224003" data-office-4019224003="true" data-department-4027314003="true">
+  <a data-mapped="true" href="/public/jobs/4822109003">User Acquisition Manager - Paid Social</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4027316003">Brokerage</h3>
+
+  <div class="opening" department_id="4027316003" office_id="4019225003" data-office-4019225003="true" data-department-4027316003="true">
+  <a data-mapped="true" href="/public/jobs/4952853003">Operations Specialist, Onboarding (Series 24 required)</a>
+  <br/>
+  <span class="location">Raleigh, North Carolina</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4027315003">Customer Experience</h3>
+
+  <div class="opening" department_id="4027315003" office_id="4019225003" data-office-4019225003="true" data-department-4027315003="true">
+  <a data-mapped="true" href="/public/jobs/4827048003">Evening Customer Experience Representative</a>
+  <br/>
+  <span class="location">Raleigh, NC</span>
+</div><div class="opening" department_id="4027315003" office_id="4019225003" data-office-4019225003="true" data-department-4027315003="true">
+  <a data-mapped="true" href="/public/jobs/4917140003">Moderation Specialist</a>
+  <br/>
+  <span class="location">Raleigh, NC/ New York, New York</span>
+</div><div class="opening" department_id="4027315003" office_id="4019225003" data-office-4019225003="true" data-department-4027315003="true">
+  <a data-mapped="true" href="/public/jobs/4827193003">Weekend Customer Experience Manager</a>
+  <br/>
+  <span class="location">Raleigh, NC </span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4027311003">Engineering</h3>
+
+  <div class="opening" department_id="4027311003" office_id="4019224003" data-office-4019224003="true" data-department-4027311003="true">
+  <a data-mapped="true" href="/public/jobs/4842180003">Backend Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4027311003" office_id="4019224003" data-office-4019224003="true" data-department-4027311003="true">
+  <a data-mapped="true" href="/public/jobs/4678221003">Backend Java Engineer</a>
+  <br/>
+  <span class="location">NYC/Remote</span>
+</div><div class="opening" department_id="4027311003" office_id="4019224003" data-office-4019224003="true" data-department-4027311003="true">
+  <a data-mapped="true" href="/public/jobs/4355688003">Senior Backend Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4027311003" office_id="4019226003" data-office-4019226003="true" data-department-4027311003="true">
+  <a data-mapped="true" href="/public/jobs/4292007003">Senior Backend Engineer, Investing</a>
+  <br/>
+  <span class="location">Copenhagen, Denmark</span>
+</div><div class="opening" department_id="4027311003" office_id="4019226003" data-office-4019226003="true" data-department-4027311003="true">
+  <a data-mapped="true" href="/public/jobs/4411418003">Senior Backend Engineer, Social</a>
+  <br/>
+  <span class="location">Copenhagen, Denmark</span>
+</div><div class="opening" department_id="4027311003" office_id="4019224003" data-office-4019224003="true" data-department-4027311003="true">
+  <a data-mapped="true" href="/public/jobs/4935495003">Senior Database/DataOps Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4027311003" office_id="4019226003" data-office-4019226003="true" data-department-4027311003="true">
+  <a data-mapped="true" href="/public/jobs/4913251003">Software Tester</a>
+  <br/>
+  <span class="location">Copenhagen, Denmark</span>
+</div><div class="opening" department_id="4027311003" office_id="4019224003" data-office-4019224003="true" data-department-4027311003="true">
+  <a data-mapped="true" href="/public/jobs/4250718003">Web Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4027313003">Marketing</h3>
+
+  <div class="opening" department_id="4027313003" office_id="4019224003" data-office-4019224003="true" data-department-4027313003="true">
+  <a data-mapped="true" href="/public/jobs/4699480003">Editorial Coordinator</a>
+  <br/>
+  <span class="location">East Coast</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4035196003">Operations</h3>
+
+  <div class="opening" department_id="4035196003" office_id="4019224003" data-office-4019224003="true" data-department-4035196003="true">
+  <a data-mapped="true" href="/public/jobs/4935047003">Business &amp; Operations MBA Intern</a>
+  <br/>
+  <span class="location">New York, New York</span>
+</div><div class="opening" department_id="4035196003" office_id="4019224003" data-office-4019224003="true" data-department-4035196003="true">
+  <a data-mapped="true" href="/public/jobs/4949603003">Operations Analyst, Risk</a>
+  <br/>
+  <span class="location">New York, New York</span>
+</div><div class="opening" department_id="4035196003" office_id="4019224003" data-office-4019224003="true" data-department-4035196003="true">
+  <a data-mapped="true" href="/public/jobs/4949697003">Operations Analyst, Risk</a>
+  <br/>
+  <span class="location">Raleigh, NC</span>
+</div><div class="opening" department_id="4035196003" office_id="4019224003" data-office-4019224003="true" data-department-4035196003="true">
+  <a data-mapped="true" href="/public/jobs/4957168003">Operations Manager, Money Movement and Risk</a>
+  <br/>
+  <span class="location">New York, New York</span>
+</div><div class="opening" department_id="4035196003" office_id="4028969003" data-office-4028969003="true" data-department-4035196003="true">
+  <a data-mapped="true" href="/public/jobs/4776528003">Product Compliance Lead</a>
+  <br/>
+  <span class="location">London, UK</span>
+</div><div class="opening" department_id="4035196003" office_id="4028969003" data-office-4028969003="true" data-department-4035196003="true">
+  <a data-mapped="true" href="/public/jobs/4741430003">Product Compliance Lead</a>
+  <br/>
+  <span class="location">Amsterdam, Netherlands</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4040212003">People</h3>
+
+  <div class="opening" department_id="4040212003" office_id="4019224003" data-office-4019224003="true" data-department-4040212003="true">
+  <a data-mapped="true" href="/public/jobs/4967950003">Executive Assistant to CPO, COO, and CFO</a>
+  <br/>
+  <span class="location">New York, New York</span>
+</div><div class="opening" department_id="4040212003" office_id="4019224003" data-office-4019224003="true" data-department-4040212003="true">
+  <a data-mapped="true" href="/public/jobs/4841477003">Senior Technical Recruiter</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4027312003">Product</h3>
+
+  <div class="opening" department_id="4027312003" office_id="4028969003,4019224003" data-office-4028969003="true" data-office-4019224003="true" data-department-4027312003="true">
+  <a data-mapped="true" href="/public/jobs/4965619003">Product Manager, Global Payments</a>
+  <br/>
+  <span class="location">New York, New York</span>
+</div><div class="opening" department_id="4027312003" office_id="4028969003,4019224003" data-office-4028969003="true" data-office-4019224003="true" data-department-4027312003="true">
+  <a data-mapped="true" href="/public/jobs/4843054003">Product Manager, International</a>
+  <br/>
+  <span class="location">Amsterdam, Netherlands</span>
+</div><div class="opening" department_id="4027312003" office_id="4028969003,4019224003" data-office-4028969003="true" data-office-4019224003="true" data-department-4027312003="true">
+  <a data-mapped="true" href="/public/jobs/4843045003">Product Manager, International</a>
+  <br/>
+  <span class="location">Copenhagen, Denmark</span>
+</div><div class="opening" department_id="4027312003" office_id="4028969003,4019224003" data-office-4028969003="true" data-office-4019224003="true" data-department-4027312003="true">
+  <a data-mapped="true" href="/public/jobs/4843039003">Product Manager, International</a>
+  <br/>
+  <span class="location">New York, New York</span>
+</div><div class="opening" department_id="4027312003" office_id="4028969003,4019224003" data-office-4028969003="true" data-office-4019224003="true" data-department-4027312003="true">
+  <a data-mapped="true" href="/public/jobs/4843052003">Product Manager, International</a>
+  <br/>
+  <span class="location">London, UK </span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

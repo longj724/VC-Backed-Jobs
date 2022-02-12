@@ -1,0 +1,176 @@
+
+  <a data-mapped="true" href="/sorare/jobs/4004005101">Senior Android Engineer</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4018209101">Director of Engineering, Infrastructure</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4008701101">Senior Backend Engineer</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4002273101">Senior Backend Engineer</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009394101">Senior Backend Engineer (Remote East Coast)</a>
+  <br>
+  <span class="location">United States</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4004012101">Senior Data Scientist</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009320101">Senior Backend Engineer (Remote, France)</a>
+  <br>
+  <span class="location">France</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009323101">Senior Engineering Manager</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4018886101">Senior Engineering Manager, Security</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009384101">Senior Engineering Manager - US Sports</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003775101">Senior Frontend Engineer</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4008704101">Senior Frontend Engineer</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003782101">Senior Full Stack Engineer</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4008708101">Senior iOS Engineer</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003878101">Senior iOS Engineer</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4018252101">Senior Site Reliability Engineer</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4018223101">Senior Site Reliability Engineer</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003790101">Business Analytics Lead</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009390101">Director, Public Affairs</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009386101">Lead Counsel, Licensing &amp; Marketing</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009392101">Lead Counsel, Regulatory Compliance &amp; Litigation</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009388101">Legal Counsel, Data Protection &amp; Privacy</a>
+  <br>
+  <span class="location">New York</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003784101">Affiliate Marketing Manager</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003739101">Graphic Designer</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003639101">VP, Marketing</a>
+  <br>
+  <span class="location">Paris &amp; New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003822101">Community Manager</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003840101">Player Experience Specialist</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009596101">Social Media Manager</a>
+  <br>
+  <span class="location">New York, NY </span>
+
+  <a data-mapped="true" href="/sorare/jobs/4018532101">Business Recruiter</a>
+  <br>
+  <span class="location">New York</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003614101">Business Recruiter</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4017591101">Executive Assistant</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4007095101">Executive Assistant</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4018583101">Recruiting Coordinator</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4016620101">Recruiting Coordinator</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4002321101">Technical Recruiter</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4018527101">Technical Recruiter</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4005689101">Workplace Coordinator</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4005051101">Product Manager</a>
+  <br>
+  <span class="location">Paris &amp; New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4010721101">Head of Design</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4008719101">Product Designer</a>
+  <br>
+  <span class="location">New York City</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4003999101">Product Designer</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4004014101">Business Development Operations Manager</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4006925101">Strategic Partnership Manager</a>
+  <br>
+  <span class="location">Paris</span>
+
+  <a data-mapped="true" href="/sorare/jobs/4009188101">Director of Football Partnerships</a>
+  <br>
+  <span class="location">Paris</span>

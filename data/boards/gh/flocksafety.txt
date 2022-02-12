@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Flock Safety</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+  
+    <meta property="og:title" content="Flock Safety"></meta>
+    <meta property="og:description" content=""></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/flocksafety"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/590/500/original/Flock_Safety_icon.png?1559595073"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><img alt="Flock Safety Logo" src="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/590/500/resized/Flock_Safety_icon.png?1559595073" width="77" height="75" /></div>
+
+  <h1>Flock Safety</h1>
+
+  <div id="content">
+    
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+  
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4029283002">Customer</h3>
+
+  <div class="opening" department_id="4029283002" office_id="4015342002" data-office-4015342002="true" data-department-4029283002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5802252002">Customer Success Manager - Community Safety </a>
+  <br/>
+  <span class="location">Atlanta </span>
+</div><div class="opening" department_id="4029283002" office_id="4015342002" data-office-4015342002="true" data-department-4029283002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5631358002">Director, Government Affairs</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4029284002">Engineering</h3>
+
+  <div class="opening" department_id="4029284002" office_id="" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5537291002">DevOps Engineer </a>
+  <br/>
+  <span class="location">Atlanta</span>
+</div><div class="opening" department_id="4029284002" office_id="" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5672718002">Electrical Engineer</a>
+  <br/>
+  <span class="location">Atlanta, GA</span>
+</div><div class="opening" department_id="4029284002" office_id="" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5909803002">Electronics Technician</a>
+  <br/>
+  <span class="location">Atlanta, GA</span>
+</div><div class="opening" department_id="4029284002" office_id="" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5804366002">Engineering Manager, Firmware</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4029284002" office_id="" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5128562002">Machine Learning Engineer</a>
+  <br/>
+  <span class="location">Atlanta, GA or Remote</span>
+</div><div class="opening" department_id="4029284002" office_id="" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5141644002">MLOps Engineer</a>
+  <br/>
+  <span class="location">Atlanta, GA or Remote</span>
+</div><div class="opening" department_id="4029284002" office_id="4015342002" data-office-4015342002="true" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5848381002">NPI Hardware Engineer</a>
+  <br/>
+  <span class="location">Atlanta, GA</span>
+</div><div class="opening" department_id="4029284002" office_id="" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5853940002">Software Engineer, Delivery Experience</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4029284002" office_id="" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5713222002">Software Engineer, Detectives &amp; Dispatch</a>
+  <br/>
+  <span class="location">Atlanta, GA or Remote</span>
+</div><div class="opening" department_id="4029284002" office_id="" data-department-4029284002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5636441002">Software Engineer, Platform</a>
+  <br/>
+  <span class="location">Atlanta, GA or Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4029281002">Marketing</h3>
+
+  <div class="opening" department_id="4029281002" office_id="4015342002" data-office-4015342002="true" data-department-4029281002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5892653002">Growth Marketing Manager</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4029285002">Operations</h3>
+
+  <div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5906260002">Deployment Operations Specialist </a>
+  <br/>
+  <span class="location">REMOTE</span>
+</div><div class="opening" department_id="4029285002" office_id="4015342002" data-office-4015342002="true" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5875037002">Field Service Manager</a>
+  <br/>
+  <span class="location">Indianapolis, IN</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5840310002">Installation Technician - Campbell, CA</a>
+  <br/>
+  <span class="location">Campbell, CA</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5794082002">Installation Technician - Cicero, IL</a>
+  <br/>
+  <span class="location">Cicero, IL</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5794099002">Installation Technician - Cleveland, OH</a>
+  <br/>
+  <span class="location">Cleveland, OH</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5848333002">Installation Technician- Dallas, TX</a>
+  <br/>
+  <span class="location">Dallas, TX</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5877005002">Installation Technician - Elyria, OH</a>
+  <br/>
+  <span class="location">Elyria, OH</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5774010002">Installation Technician- Fort Worth, TX</a>
+  <br/>
+  <span class="location">Fort Worth, TX</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5840302002">Installation Technician - Fremont, CA</a>
+  <br/>
+  <span class="location">Fremont, CA</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5870032002">Installation Technician - Joliet, IL</a>
+  <br/>
+  <span class="location">Joliet, IL</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5874018002">Installation Technician- Midlothian, TX</a>
+  <br/>
+  <span class="location">Midlothian, TX</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5840320002">Installation Technician - Milpitas, CA</a>
+  <br/>
+  <span class="location">Milpitas, CA</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5794075002">Installation Technician- Naperville, IL</a>
+  <br/>
+  <span class="location">Naperville, IL</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5794054002">Installation Technician - San Jose, CA</a>
+  <br/>
+  <span class="location">San Jose, CA</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5840314002">Installation Technician - Santa Clara, CA</a>
+  <br/>
+  <span class="location">Santa Clara, CA</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5804831002">Installation Technician - Various Locations</a>
+  <br/>
+  <span class="location">USA</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5883503002">Manager, Deployment Plans &amp; Operations </a>
+  <br/>
+  <span class="location">Atlanta, GA</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5908145002">Permitting Director</a>
+  <br/>
+  <span class="location">REMOTE </span>
+</div><div class="opening" department_id="4029285002" office_id="4015342002" data-office-4015342002="true" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5878071002">Safety and Compliance Manager </a>
+  <br/>
+  <span class="location">Atlanta, GA</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5873899002">Traveling Installation Technician - Atlanta, GA</a>
+  <br/>
+  <span class="location">Atlanta, GA</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5873928002">Traveling Installation Technician - Chicago, IL</a>
+  <br/>
+  <span class="location">Chicago, IL</span>
+</div><div class="opening" department_id="4029285002" office_id="" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5873955002">Traveling Installation Technician - Las Vegas, NV</a>
+  <br/>
+  <span class="location">Las Vegas, NV</span>
+</div><div class="opening" department_id="4029285002" office_id="4015342002" data-office-4015342002="true" data-department-4029285002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5911407002">VP, Strategy and Operations</a>
+  <br/>
+  <span class="location">Atlanta, Georgia</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4029287002">People Operations</h3>
+
+  <div class="opening" department_id="4029287002" office_id="" data-department-4029287002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5907011002">Manager, Internal Communications</a>
+  <br/>
+  <span class="location">Atlanta, Georgia</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4068160002">Revenue</h3>
+
+  <div class="opening" department_id="4068160002" office_id="4015342002" data-office-4015342002="true" data-department-4068160002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5624567002">Revenue Insights Lead</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4068160002" office_id="4015342002" data-office-4015342002="true" data-department-4068160002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5811553002">Sales Operations Manager</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4029282002">Sales </h3>
+
+  <div class="opening" department_id="4029282002" office_id="4015342002" data-office-4015342002="true" data-department-4029282002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5679399002">Account Executive</a>
+  <br/>
+  <span class="location">Austin, TX</span>
+</div><div class="opening" department_id="4029282002" office_id="" data-department-4029282002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5773512002">Account Executive</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4029282002" office_id="4015342002" data-office-4015342002="true" data-department-4029282002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5891147002">Account Executive - California </a>
+  <br/>
+  <span class="location">California </span>
+</div><div class="opening" department_id="4029282002" office_id="" data-department-4029282002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5832580002">Director of Sales Engineering</a>
+  <br/>
+  <span class="location">Atlanta, GA</span>
+</div><div class="opening" department_id="4029282002" office_id="4015342002" data-office-4015342002="true" data-department-4029282002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5888214002">Territory Sales Manager</a>
+  <br/>
+  <span class="location">Atlanta, GA</span>
+</div><div class="opening" department_id="4029282002" office_id="4015342002" data-office-4015342002="true" data-department-4029282002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5351118002">Territory Sales Manager</a>
+  <br/>
+  <span class="location">Oklahoma</span>
+</div><div class="opening" department_id="4029282002" office_id="4015342002" data-office-4015342002="true" data-department-4029282002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5895895002">Territory Sales Manager</a>
+  <br/>
+  <span class="location">Chicago, IL</span>
+</div><div class="opening" department_id="4029282002" office_id="4015342002" data-office-4015342002="true" data-department-4029282002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5895973002">Territory Sales Manager</a>
+  <br/>
+  <span class="location">Houston, TX</span>
+</div><div class="opening" department_id="4029282002" office_id="4015342002" data-office-4015342002="true" data-department-4029282002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5660236002">Territory Sales Manager</a>
+  <br/>
+  <span class="location">Austin, TX</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4068159002">Strategy</h3>
+
+  <div class="opening" department_id="4068159002" office_id="" data-department-4068159002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5878811002">Business Intelligence Engineer</a>
+  <br/>
+  <span class="location">Atlanta, GA or Remote</span>
+</div><div class="opening" department_id="4068159002" office_id="4015342002" data-office-4015342002="true" data-department-4068159002="true">
+  <a data-mapped="true" href="/flocksafety/jobs/5812952002">Director of Strategy</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

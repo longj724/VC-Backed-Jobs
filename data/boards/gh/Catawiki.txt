@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Catawiki</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+        <link rel="stylesheet" media="screen" href="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/custom_css_files/000/001/469/original/greenhouse.css?1602844397" />
+
+
+
+    <meta property="og:title" content="Catawiki"></meta>
+    <meta property="og:description" content="A piece of the moon, a complete dinosaur skeleton, the Pope’s hat, the world’s smallest book - at Catawiki, we come across extraordinary objects such as these every day.
+The special object you’ve been searching for, or a new and unexpected interest you never thought you’d have: the more you look, the more you’ll find. And at Catawiki, there’s always more to the story. Our experts value, authenticate and curate everything from automobiles to vintage stamps, so everything you encounter is real and layered with meaning - waiting to be found.
+Our mission is to connect passionate enthusiasts with the objects that tell their stories. As Europe’s fastest growing online auction platform, we help over 10 million people discover new treasures every month. This means we are continually growing and always on the lookout for new talent! Born and raised in The Netherlands, we started in 2008 and have since grown to over 600 Catawikians, working across 7 international offices, while maintaining our start-up mentality every step of the way."></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/catawiki"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/001/469/original/Catawiki_Icon_Blue_White_4x_(1).png?1610361395"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><a target="_blank" href="http://www.catawiki.com/jobs/all"><img alt="Catawiki Logo" src="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/001/469/resized/Catawiki_Icon_Blue_White_4x_(1).png?1610361395" width="75" height="75" /></a></div>
+
+
+  <div id="content">
+    <p>A piece of the moon, a complete dinosaur skeleton, the Pope’s hat, the world’s smallest book - at Catawiki, we come across extraordinary objects such as these every day.</p>
+<p><br>The special object you’ve been searching for, or a new and unexpected interest you never thought you’d have: the more you look, the more you’ll find. And at Catawiki, there’s always more to the story. Our experts value, authenticate and curate everything from automobiles to vintage stamps, so everything you encounter is real and layered with meaning - waiting to be found.</p>
+<p><br>Our mission is to connect passionate enthusiasts with the objects that tell their stories. As Europe’s fastest growing online auction platform, we help over 10 million people discover new treasures every month. This means we are continually growing and always on the lookout for new talent! Born and raised in The Netherlands, we started in 2008 and have since grown to over 600 Catawikians, working across 7 international offices, while maintaining our start-up mentality every step of the way.</p>
+  </div>
+
+    <h1 id="board_title">Current Job Openings at Catawiki</h1>
+
+    <div class="filter-container">
+
+    <select name="departments-select" id="departments-select">
+      <option value="">All Departments</option>
+      
+
+<option value="8934">
+  Customer Experience
+</option>
+
+
+
+<option value="8933">
+  Data Science, Engineering &amp; Analytics
+</option>
+
+
+
+<option value="8935">
+  Development
+</option>
+
+
+
+<option value="8938">
+  Experts
+</option>
+
+
+
+<option value="19440">
+  Finance &amp; Legal
+</option>
+
+
+
+<option value="8936">
+  Marketing
+</option>
+
+
+
+<option value="10254">
+  People
+</option>
+
+
+
+<option value="16152">
+  Product Management 
+</option>
+
+
+
+<option value="8937">
+  Sales
+</option>
+
+
+
+<option value="14817">
+  UX
+</option>
+
+
+    </select>
+  </div>
+
+  <div class="filter-container">
+
+    <select name="offices-select" id="offices-select">
+      <option value="">All Offices</option>
+      
+
+<option value="11804">
+  Belgium
+</option>
+
+
+
+<option value="5853">
+  France
+</option>
+
+
+
+<option value="5852">
+  Germany
+</option>
+
+
+
+<option value="5856">
+  Italy
+</option>
+
+
+
+<option value="74479">
+  Japan Home Office
+</option>
+
+
+
+<option value="6007">
+  Netherlands
+</option>
+
+
+
+<option value="6006">
+  Netherlands (Amsterdam)
+</option>
+
+
+
+<option value="5874">
+  Netherlands (Assen)
+</option>
+
+
+
+<option value="11807">
+  Portugal
+</option>
+
+
+
+<option value="5855">
+  Spain
+</option>
+
+
+
+<option value="5854">
+  United Kingdom
+</option>
+
+
+    </select>
+  </div>
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h2 id="8934">Customer Experience</h2>
+
+  <div class="opening" department_id="8934" office_id="6006" data-office-6006="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/2769715">Customer Experience Specialist - French (Amsterdam 40 hrs p/w)</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8934" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/3277364">Customer Experience Specialist - French (Assen 40 hrs p/w)</a>
+  <br/>
+  <span class="location">Assen, Drenthe, Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="6007" data-office-6007="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/3357411">Customer Experience Specialist - French (relocation to the Netherlands)</a>
+  <br/>
+  <span class="location">France</span>
+</div><div class="opening" department_id="8934" office_id="5855" data-office-5855="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/3907020">Customer Experience Specialist - French (Remote based in Spain)</a>
+  <br/>
+  <span class="location">Spain</span>
+</div><div class="opening" department_id="8934" office_id="6007" data-office-6007="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/3277284">Customer Experience Specialist - French (remote / hybrid 40 hrs p/w)</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="5874" data-office-5874="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/2769724">Customer Experience Specialist - German (Assen 32-40 hrs p/w)</a>
+  <br/>
+  <span class="location">Assen, Drenthe, Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="5874" data-office-5874="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/1972584">Customer Experience Specialist - German (remote / hybrid 32-40 hrs p/w)</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="6006" data-office-6006="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/2248992">Customer Experience Specialist - Italian and English  (Amsterdam 32-40 hrs p/w)</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8934" office_id="5874" data-office-5874="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/2992623">Klantenservice Medewerker ( Assen 32-40 uur p/w)</a>
+  <br/>
+  <span class="location">Assen, Drenthe, Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="6006" data-office-6006="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/3277263">Klantenservice Medewerker  (werken vanuit huis 28-40 uur p/w)</a>
+  <br/>
+  <span class="location">Assen, Drenthe, Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="6007" data-office-6007="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/2443988">Open application: Catawiki Customer Experience Specialist</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="6006" data-office-6006="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/3512991">Operational Excellence Lead</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="6006" data-office-6006="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/3512996">Process Optimisation &amp; Automation Lead</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="6006" data-office-6006="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/3407538">Senior Tool Enablement &amp; Automation Lead - Customer Experience</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8934" office_id="6006" data-office-6006="true" data-department-8934="true">
+  <a data-mapped="true" href="/catawiki/jobs/3512992">Support Tools Excellence Lead</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="8933">Data Science, Engineering &amp; Analytics</h2>
+
+  <div class="opening" department_id="8933" office_id="6006,5874" data-office-6006="true" data-office-5874="true" data-department-8933="true">
+  <a data-mapped="true" href="/catawiki/jobs/2241311">Data Scientist - Insights</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8933" office_id="6006" data-office-6006="true" data-department-8933="true">
+  <a data-mapped="true" href="/catawiki/jobs/3860516">Data Scientist - Machine Learning</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8933" office_id="6006" data-office-6006="true" data-department-8933="true">
+  <a data-mapped="true" href="/catawiki/jobs/3860517">Senior Data Scientist - Machine Learning</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="8935">Development</h2>
+
+  <div class="opening" department_id="8935" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/1103952">Back-End Developer</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/3497263">Full Stack Developer </a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/3818188">Full Stack Developer (Remote)</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8935" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/3572904">Infrastructure Engineer</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/3725418">IT Support Specialist</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8935" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/1599823">Senior Android Developer</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/1103982">Senior Back-End Developer</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/3809832">Senior Back-End Developer (Remote) </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8935" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/1103987">Senior Front-End Developer</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8935" office_id="6006,5874" data-office-6006="true" data-office-5874="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/3818210">Senior Front-End Developer (Remote)</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/112248">Senior Quality Assurance Engineer </a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/1998015">Senior Ruby on Rails Developer</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8935" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/1998024">Senior Software Engineer - Capabilities Team</a>
+  <br/>
+  <span class="location">Amsterdam or Assen</span>
+</div><div class="opening" department_id="8935" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/1982456">Senior Software Engineer - Payments</a>
+  <br/>
+  <span class="location">Amsterdam or Assen</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/1004691">Site Reliability Engineer </a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/3818267">Site Reliability Engineer (Remote)</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8935" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/3572945">Software Engineer - Developer Experience</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8935" office_id="6006" data-office-6006="true" data-department-8935="true">
+  <a data-mapped="true" href="/catawiki/jobs/3814922">Threat Response Engineer</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="8938">Experts</h2>
+
+  <div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3813086">Antiques Expert, Silver - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="6007" data-office-6007="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3810276">Category Lead Antiques</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8938" office_id="5856,11804,5854,6007,5855,5852,5853" data-office-5856="true" data-office-11804="true" data-office-5854="true" data-office-6007="true" data-office-5855="true" data-office-5852="true" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3487086">Chinese Art Expert</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5856,11804,5854,6007,5855,5852,5853" data-office-5856="true" data-office-11804="true" data-office-5854="true" data-office-6007="true" data-office-5855="true" data-office-5852="true" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3500546">Chinese Art Expert - Hong Kong (Remote) </a>
+  <br/>
+  <span class="location">Hong Kong</span>
+</div><div class="opening" department_id="8938" office_id="5856,11804,5854,6007,5855,5852,5853" data-office-5856="true" data-office-11804="true" data-office-5854="true" data-office-6007="true" data-office-5855="true" data-office-5852="true" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3896347">Chinese Art Expert - United Kingdom</a>
+  <br/>
+  <span class="location">United Kingdom</span>
+</div><div class="opening" department_id="8938" office_id="5853" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3786036">Classical Art Expert - France (Maternity Cover)</a>
+  <br/>
+  <span class="location">France</span>
+</div><div class="opening" department_id="8938" office_id="5852,5853,5856" data-office-5852="true" data-office-5853="true" data-office-5856="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/548522">Designer Furniture and Objects Expert IT, DE, FR</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3078102">Disney Comics Expert - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="6007,5852" data-office-6007="true" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3813085">Expert Antiques &amp; Antique Clocks - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="6007,5852" data-office-6007="true" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3849837">Expert Antiques &amp; Antique Clocks - Netherlands</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3837583">Expert Classical Art - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5855,5856,5852,5853" data-office-5855="true" data-office-5856="true" data-office-5852="true" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3810277">Expert Decorative Objects &amp; Curio</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3184123">Experte Klassische Kunst (Deutschland)</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5853" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3238347">Expert en souvenirs de sports (FR)</a>
+  <br/>
+  <span class="location">France</span>
+</div><div class="opening" department_id="8938" office_id="5852,5853" data-office-5852="true" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3813084">Expert Handmade Decorative Objects</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3786034">Fashion Expert - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="6007" data-office-6007="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3818432">Fashion Expert - Netherlands</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8938" office_id="6007,11804,5854,5855,5856,5852,5853" data-office-6007="true" data-office-11804="true" data-office-5854="true" data-office-5855="true" data-office-5856="true" data-office-5852="true" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3321609">Fossils Expert - DE, IT, FR</a>
+  <br/>
+  <span class="location">France</span>
+</div><div class="opening" department_id="8938" office_id="6007,11804,5854,5855,5856,5852,5853" data-office-6007="true" data-office-11804="true" data-office-5854="true" data-office-5855="true" data-office-5856="true" data-office-5852="true" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3684341">Fossils Expert - Germany (Remote)</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/2562440">German Stamps Expert - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3838271">Hi-Fi Expert - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5852,5853,5855,5856,6007,11804" data-office-5852="true" data-office-5853="true" data-office-5855="true" data-office-5856="true" data-office-6007="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/2356530">Japanese Art Expert - All Countries</a>
+  <br/>
+  <span class="location">United Kingdom</span>
+</div><div class="opening" department_id="8938" office_id="5852,5853,5855,5856,6007,11804" data-office-5852="true" data-office-5853="true" data-office-5855="true" data-office-5856="true" data-office-6007="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3613505">Japanese Art Expert - Japan</a>
+  <br/>
+  <span class="location">Japan</span>
+</div><div class="opening" department_id="8938" office_id="5856" data-office-5856="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/2972687">Modern Jewellery Expert Italy</a>
+  <br/>
+  <span class="location">Italy</span>
+</div><div class="opening" department_id="8938" office_id="5852,5853,11804" data-office-5852="true" data-office-5853="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3077257">Motorcycles Expert - Frankreich, Belgien, Deutschland</a>
+  <br/>
+  <span class="location">France</span>
+</div><div class="opening" department_id="8938" office_id="5852,5853,11804" data-office-5852="true" data-office-5853="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3085242">Motorcycles Expert (FR, BE, DE)</a>
+  <br/>
+  <span class="location">Belgium</span>
+</div><div class="opening" department_id="8938" office_id="5852,5853,11804" data-office-5852="true" data-office-5853="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3085243">Motorrad Experte - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3426825">Open Application - Expert at Catawiki</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="6007,5856,5852,5853,11804" data-office-6007="true" data-office-5856="true" data-office-5852="true" data-office-5853="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3313611">Senior Category Lead Modern Jewellery</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8938" office_id="5853,11804" data-office-5853="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3693294">Senior Expert Comics (NL/BE/FR)</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8938" office_id="5853" data-office-5853="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/2549060">Sport Memorabilia Expert - France</a>
+  <br/>
+  <span class="location">France</span>
+</div><div class="opening" department_id="8938" office_id="5853,5856,5852" data-office-5853="true" data-office-5856="true" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3074153">Taxidermy Expert - DE, FR, IT, NL, BE, UK</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5853,5852" data-office-5853="true" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3859882">Toys Expert - France</a>
+  <br/>
+  <span class="location">France</span>
+</div><div class="opening" department_id="8938" office_id="5853,5852" data-office-5853="true" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3838288">Toys Expert - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="6007" data-office-6007="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/2549062">Trading Cards Expert - Remote (FR, IT)</a>
+  <br/>
+  <span class="location">Italy</span>
+</div><div class="opening" department_id="8938" office_id="5854,6007,5855,5856,5852,5853,11804" data-office-5854="true" data-office-6007="true" data-office-5855="true" data-office-5856="true" data-office-5852="true" data-office-5853="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/1917113">Tribal Art Expert</a>
+  <br/>
+  <span class="location">United Kingdom</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3078104">US Comics Expert - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3575947">Watches Expert - Belgium</a>
+  <br/>
+  <span class="location">Belgium</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/2898388">Watches Expert - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3575945">Watches Expert - Italy</a>
+  <br/>
+  <span class="location">Italy</span>
+</div><div class="opening" department_id="8938" office_id="74479" data-office-74479="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3500603">Watches Expert Japan</a>
+  <br/>
+  <span class="location">Japan</span>
+</div><div class="opening" department_id="8938" office_id="5852" data-office-5852="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3575946">Watches Expert - Netherlands</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8938" office_id="5855,11807,6007,5856,5852,5853,11804" data-office-5855="true" data-office-11807="true" data-office-6007="true" data-office-5856="true" data-office-5852="true" data-office-5853="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3772203">Whisky Expert</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8938" office_id="5855,11807,6007,5856,5852,5853,11804" data-office-5855="true" data-office-11807="true" data-office-6007="true" data-office-5856="true" data-office-5852="true" data-office-5853="true" data-office-11804="true" data-department-8938="true">
+  <a data-mapped="true" href="/catawiki/jobs/3823723">Whisky Expert - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="19440">Finance &amp; Legal</h2>
+
+  <div class="opening" department_id="19440" office_id="6006" data-office-6006="true" data-department-19440="true">
+  <a data-mapped="true" href="/catawiki/jobs/3401080">Finance Transformation Specialist </a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="19440" office_id="5874" data-office-5874="true" data-department-19440="true">
+  <a data-mapped="true" href="/catawiki/jobs/3560333">Financial Accountant</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="19440" office_id="6006" data-office-6006="true" data-department-19440="true">
+  <a data-mapped="true" href="/catawiki/jobs/3242243">Legal Counsel Corporate &amp; ESG</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="19440" office_id="6006" data-office-6006="true" data-department-19440="true">
+  <a data-mapped="true" href="/catawiki/jobs/2965135">Legal Counsel (German speaking) </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="8936">Marketing</h2>
+
+  <div class="opening" department_id="8936" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3067113">Affiliate Marketing Specialist</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8936" office_id="11804,5855,5854,5856,5853,6006,5852" data-office-11804="true" data-office-5855="true" data-office-5854="true" data-office-5856="true" data-office-5853="true" data-office-6006="true" data-office-5852="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3748642">Brand Copywriter </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="11804,5855,5854,5856,5853,6006,5852" data-office-11804="true" data-office-5855="true" data-office-5854="true" data-office-5856="true" data-office-5853="true" data-office-6006="true" data-office-5852="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3728213">Brand Copywriter (Remote)</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="11804,5856,5854,5855,5853,6006,5852" data-office-11804="true" data-office-5856="true" data-office-5854="true" data-office-5855="true" data-office-5853="true" data-office-6006="true" data-office-5852="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3748647">Brand Designer </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="11804,5856,5854,5855,5853,6006,5852" data-office-11804="true" data-office-5856="true" data-office-5854="true" data-office-5855="true" data-office-5853="true" data-office-6006="true" data-office-5852="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3728215">Brand Designer (Remote)</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3895820">Category Marketing Manager, Collectables</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3645856">CRM Specialist - France</a>
+  <br/>
+  <span class="location">France</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3645858">CRM Specialist - Germany</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3645859">CRM Specialist - Italy</a>
+  <br/>
+  <span class="location">Italy</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3563730">CRM Specialist - Netherlands</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3645860">CRM Specialist - UK</a>
+  <br/>
+  <span class="location">United Kingdom</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3645855">Customer Relationship Management Specialist </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3613508">Senior CRM Specialist </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3850953">Strategic Partnership Manager (Maternity Cover) </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3786035">Studio Coordinator</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8936" office_id="6006" data-office-6006="true" data-department-8936="true">
+  <a data-mapped="true" href="/catawiki/jobs/3849808">Studio Coordinator (Remote)</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="10254">People</h2>
+
+  <div class="opening" department_id="10254" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-10254="true">
+  <a data-mapped="true" href="/catawiki/jobs/3798504">Absence Case Specialist </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="10254" office_id="5874,6006,6007,5852" data-office-5874="true" data-office-6006="true" data-office-6007="true" data-office-5852="true" data-department-10254="true">
+  <a data-mapped="true" href="/catawiki/jobs/3575637">Business Recruiter </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="10254" office_id="5874,6006,6007,5852" data-office-5874="true" data-office-6006="true" data-office-6007="true" data-office-5852="true" data-department-10254="true">
+  <a data-mapped="true" href="/catawiki/jobs/3748403">Business Recruiter (Remote in Germany)</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="10254" office_id="6006" data-office-6006="true" data-department-10254="true">
+  <a data-mapped="true" href="/catawiki/jobs/3670898">HR Director</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="10254" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-10254="true">
+  <a data-mapped="true" href="/catawiki/jobs/3517945">International Payroll Specialist </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="10254" office_id="6006" data-office-6006="true" data-department-10254="true">
+  <a data-mapped="true" href="/catawiki/jobs/3881559">Office Manager</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="10254" office_id="6007,6006,5874" data-office-6007="true" data-office-6006="true" data-office-5874="true" data-department-10254="true">
+  <a data-mapped="true" href="/catawiki/jobs/3724392">Recruitment Manager - Business</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="10254" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-10254="true">
+  <a data-mapped="true" href="/catawiki/jobs/3420626">Senior HR Business Partner </a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="10254" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-10254="true">
+  <a data-mapped="true" href="/catawiki/jobs/3760477">Senior Learning &amp; Development Specialist</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="16152">Product Management </h2>
+
+  <div class="opening" department_id="16152" office_id="6006" data-office-6006="true" data-department-16152="true">
+  <a data-mapped="true" href="/catawiki/jobs/3791080">Group Product Manager - Supply</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="16152" office_id="6006" data-office-6006="true" data-department-16152="true">
+  <a data-mapped="true" href="/catawiki/jobs/3439888">Product Manager - Consumer Engagement </a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="16152" office_id="6006" data-office-6006="true" data-department-16152="true">
+  <a data-mapped="true" href="/catawiki/jobs/3856306">Product Manager - multiple positions / all levels</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="16152" office_id="6006" data-office-6006="true" data-department-16152="true">
+  <a data-mapped="true" href="/catawiki/jobs/3157905">Product Manager - Payments</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="8937">Sales</h2>
+
+  <div class="opening" department_id="8937" office_id="5852" data-office-5852="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3844017">Account Manager - Art &amp; Antiques - Germany (Remote)</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8937" office_id="5855,11807" data-office-5855="true" data-office-11807="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3766054">Account Manager Iberia (ES)</a>
+  <br/>
+  <span class="location">Spain</span>
+</div><div class="opening" department_id="8937" office_id="5855,11807" data-office-5855="true" data-office-11807="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3911502">Account Manager Iberia (ES)</a>
+  <br/>
+  <span class="location">Portugal</span>
+</div><div class="opening" department_id="8937" office_id="5852" data-office-5852="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3571587">Business Developer - Collectables  - Berlin (Remote)</a>
+  <br/>
+  <span class="location">Berlin, Duitsland</span>
+</div><div class="opening" department_id="8937" office_id="5852" data-office-5852="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3571659">Business Developer - Collectables  - Germany (remote)</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8937" office_id="6006,5852" data-office-6006="true" data-office-5852="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3786031">Business Developer Germany Luxury (DE)</a>
+  <br/>
+  <span class="location">Germany</span>
+</div><div class="opening" department_id="8937" office_id="6006,5852" data-office-6006="true" data-office-5852="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3790283">Business Developer Germany Luxury (NL)</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="8937" office_id="11804,5853" data-office-11804="true" data-office-5853="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3521124">Catawiki Partner Program - Independent Partner (Comics) - France &amp; Belgium</a>
+  <br/>
+  <span class="location">France</span>
+</div><div class="opening" department_id="8937" office_id="5856" data-office-5856="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3885292">Key Account Manager - Arts &amp; Antiques - Italy</a>
+  <br/>
+  <span class="location">Italy</span>
+</div><div class="opening" department_id="8937" office_id="5855" data-office-5855="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3761751">Key Account Manager - Arts &amp; Antiques - Spain</a>
+  <br/>
+  <span class="location">Spain</span>
+</div><div class="opening" department_id="8937" office_id="5852" data-office-5852="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3435791">Key Account Manager - Collectables  - Germany (remote)</a>
+  <br/>
+  <span class="location">Berlin, Duitsland</span>
+</div><div class="opening" department_id="8937" office_id="5852" data-office-5852="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3541078">Key Account Manager - Collectables  - Germany (remote) </a>
+  <br/>
+  <span class="location">Berlin, Duitsland</span>
+</div><div class="opening" department_id="8937" office_id="5855,5874,6006,6007,5856,5852,5853,11804" data-office-5855="true" data-office-5874="true" data-office-6006="true" data-office-6007="true" data-office-5856="true" data-office-5852="true" data-office-5853="true" data-office-11804="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3766056">Team lead Sales - Classic Cars (NL/BE/FR/DE/IT/ES)</a>
+  <br/>
+  <span class="location">Spain</span>
+</div><div class="opening" department_id="8937" office_id="6006" data-office-6006="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3895888">Trainee Sales Representative - German Speaking</a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div><div class="opening" department_id="8937" office_id="6006" data-office-6006="true" data-department-8937="true">
+  <a data-mapped="true" href="/catawiki/jobs/3474502">Trainee Sales Representative - German Speaking</a>
+  <br/>
+  <span class="location">Germany</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="14817">UX</h2>
+
+  <div class="opening" department_id="14817" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-14817="true">
+  <a data-mapped="true" href="/catawiki/jobs/3418665">Senior Product Designer</a>
+  <br/>
+  <span class="location">Netherlands</span>
+</div><div class="opening" department_id="14817" office_id="5874,6006" data-office-5874="true" data-office-6006="true" data-department-14817="true">
+  <a data-mapped="true" href="/catawiki/jobs/1693216">Senior UX Designer </a>
+  <br/>
+  <span class="location">Amsterdam, Nederland</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

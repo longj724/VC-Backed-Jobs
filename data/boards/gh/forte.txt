@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at FORTE</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+  
+    <meta property="og:title" content="FORTE"></meta>
+    <meta property="og:description" content="Thank you for your interest in a career with FORTE!
+FORTE is building economic technology for games. Its end-to-end platform enables the emergence of community economics, a system where the interests of game developers and players are aligned, leading to healthier, sustainable game communities. The team is composed of longtime industry members (Unity, ngmoco, Riot Games, Electronic Arts, Sony, and Rockstar Games, among others). Forte is currently working with over thirty acclaimed game developers from across the industry to reimagine the economics of games.
+If you&#39;re interested in a career with Forte, but do not see a role below that matches your area of interest and skill set, please feel free to submit a general application by emailing recruiting@forte.io."></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/forte"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/397/600/original/Forte_Primary_Black.png?1597679370"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><img alt="FORTE Logo" src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/397/600/resized/Forte_Primary_Black.png?1597679370" width="187" height="75" /></div>
+
+  <h1>FORTE</h1>
+
+  <div id="content">
+    <p>Thank you for your interest in a career with FORTE!</p>
+<p><a href="https://forte.io/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://forte.io/&amp;source=gmail&amp;ust=1630429644348000&amp;usg=AFQjCNGuSjr9M1OPsRscfcvCuMjtx8EoTg">FORTE</a> is building economic technology for games. Its end-to-end platform enables the emergence of community economics, a system where the interests of game developers and players are aligned, leading to healthier, sustainable game communities. The team is composed of longtime industry members (Unity, ngmoco, Riot Games, Electronic Arts, Sony, and Rockstar Games, among others).&nbsp;Forte is currently working with over thirty acclaimed game developers from across the industry to reimagine the economics of games.</p>
+<p>If you're interested in a career with Forte, but do not see a role below that matches your area of interest and skill set, please feel free to submit a general application by emailing <a href="mailto:recruiting@forte.io" target="_blank">recruiting@forte.io</a>.</p>
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+    <div class="filter-container">
+      <label class="filter-label" for="departments-select">Department</label>
+
+    <select name="departments-select" id="departments-select">
+      <option value="">All Departments</option>
+      
+
+<option value="4042315003">
+  Business Operations
+</option>
+
+
+
+<option value="4046206003">
+  Developer Relations
+</option>
+
+
+
+<option value="4019523003">
+  Engineering
+</option>
+
+
+
+<option value="4038207003">
+  Finance
+</option>
+
+
+
+<option value="4041116003">
+  Games / Partnerships
+</option>
+
+
+
+<option value="4041882003">
+  People Operations
+</option>
+
+
+
+<option value="4041538003">
+  Platform
+</option>
+
+
+    </select>
+  </div>
+
+  <div class="filter-container">
+      <label class="filter-label" for="offices-select">Office</label>
+
+    <select name="offices-select" id="offices-select">
+      <option value="">All Offices</option>
+      
+
+<option value="4011661003">
+  Remote
+</option>
+
+
+    </select>
+  </div>
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4042315003">Business Operations</h3>
+
+  <div class="opening" department_id="4042315003" office_id="" data-department-4042315003="true">
+  <a data-mapped="true" href="/forte/jobs/4964087003">Business Systems Integration Engineer</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4042315003" office_id="" data-department-4042315003="true">
+  <a data-mapped="true" href="/forte/jobs/4930299003">Sales Operations (Contract)</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4042315003" office_id="" data-department-4042315003="true">
+  <a data-mapped="true" href="/forte/jobs/4964123003">Senior Technical Project Manager (Contract)</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4046206003">Developer Relations</h3>
+
+  <div class="opening" department_id="4046206003" office_id="" data-department-4046206003="true">
+  <a data-mapped="true" href="/forte/jobs/4938110003">Solutions Architect, Developer Relations</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4019523003">Engineering</h3>
+
+  <div class="opening" department_id="4019523003" office_id="" data-department-4019523003="true">
+  <a data-mapped="true" href="/forte/jobs/4862571003">Director, Quality Engineering</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4019523003" office_id="" data-department-4019523003="true">
+  <a data-mapped="true" href="/forte/jobs/4826983003">Director, Security Operations</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4019523003" office_id="" data-department-4019523003="true">
+  <a data-mapped="true" href="/forte/jobs/4527554003">Technical Product Manager - Analytics</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4038207003">Finance</h3>
+
+  <div class="opening" department_id="4038207003" office_id="" data-department-4038207003="true">
+  <a data-mapped="true" href="/forte/jobs/4839061003">Controller</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4041116003">Games / Partnerships</h3>
+
+  <div class="opening" department_id="4041116003" office_id="4011661003" data-office-4011661003="true" data-department-4041116003="true">
+  <a data-mapped="true" href="/forte/jobs/4722672003">Game Designer - Economy and Monetization</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4041116003" office_id="" data-department-4041116003="true">
+  <a data-mapped="true" href="/forte/jobs/4938253003">Partner Operations Manager</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="4041116003" office_id="" data-department-4041116003="true">
+  <a data-mapped="true" href="/forte/jobs/4669407003">Product Owner</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4041116003" office_id="" data-department-4041116003="true">
+  <a data-mapped="true" href="/forte/jobs/4731314003">Senior Producer - Partner Games</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4041882003">People Operations</h3>
+
+  <div class="opening" department_id="4041882003" office_id="" data-department-4041882003="true">
+  <a data-mapped="true" href="/forte/jobs/4900482003">Head of People</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4041882003" office_id="" data-department-4041882003="true">
+  <a data-mapped="true" href="/forte/jobs/4791034003">Recruiting Coordinator</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4041882003" office_id="" data-department-4041882003="true">
+  <a data-mapped="true" href="/forte/jobs/4791008003">Senior Recruiter</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4041538003">Platform</h3>
+
+  <div class="opening" department_id="4041538003" office_id="" data-department-4041538003="true">
+  <a data-mapped="true" href="/forte/jobs/4796123003">Principal Architect - Accounts and Identity Services</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4041538003" office_id="" data-department-4041538003="true">
+  <a data-mapped="true" href="/forte/jobs/4867778003">Project Manager, Platform</a>
+  <br/>
+  <span class="location">Remote</span>
+</div><div class="opening" department_id="4041538003" office_id="" data-department-4041538003="true">
+  <a data-mapped="true" href="/forte/jobs/4867759003">Senior Project Manager, Platform</a>
+  <br/>
+  <span class="location">San Francisco</span>
+</div><div class="opening" department_id="4041538003" office_id="" data-department-4041538003="true">
+  <a data-mapped="true" href="/forte/jobs/4867856003">Senior Project Manager, Platform</a>
+  <br/>
+  <span class="location">Remote</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>

@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WCMV568');</script>
+<!-- End Google Tag Manager -->
+
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="Careers | Veterinary Practice Partners - You are the future of vet.">
+	<meta name="theme-color" content="#00aeef"/>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://careers.vetpartners.com/xmlrpc.php">
+	
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i|Pompiere" rel="stylesheet">
+	<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+
+
+	<!-- Manifest added by SuperPWA - Progressive Web Apps Plugin For WordPress -->
+<link rel="manifest" href="/superpwa-manifest.json">
+<link rel="prefetch" href="/superpwa-manifest.json">
+<meta name="theme-color" content="#D5E0EB">
+<!-- / SuperPWA.com -->
+<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Harbor Animal Hospital - Careers in Veterinary Medicine</title>
+	<meta name="description" content="We are a full-service animal hospital treating the pets and families of the Northeast Lake County, IL and SE Kenosha County, WI communities. Join our team!" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Harbor Animal Hospital - Careers in Veterinary Medicine" />
+	<meta property="og:description" content="We are a full-service animal hospital treating the pets and families of the Northeast Lake County, IL and SE Kenosha County, WI communities. Join our team!" />
+	<meta property="og:url" content="https://careers.vetpartners.com/harbor-animal-hospital/" />
+	<meta property="og:site_name" content="Careers | Veterinary Practice Partners" />
+	<meta property="article:publisher" content="https://www.facebook.com/VeterinaryPracticePartners/" />
+	<meta property="article:modified_time" content="2019-04-01T21:06:20+00:00" />
+	<meta property="og:image" content="https://careers.vetpartners.com/wp-content/uploads/exterior_harbor-min.jpg" />
+	<meta property="og:image:width" content="500" />
+	<meta property="og:image:height" content="333" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://careers.vetpartners.com/#organization","name":"Veterinary Practice Partners","url":"https://careers.vetpartners.com/","sameAs":["https://www.facebook.com/VeterinaryPracticePartners/","https://www.linkedin.com/company/veterinary-practice-partners/"],"logo":{"@type":"ImageObject","@id":"https://careers.vetpartners.com/#logo","inLanguage":"en-US","url":"https://careers.vetpartners.com/wp-content/uploads/2018/02/vpp-min.png","contentUrl":"https://careers.vetpartners.com/wp-content/uploads/2018/02/vpp-min.png","width":362,"height":150,"caption":"Veterinary Practice Partners"},"image":{"@id":"https://careers.vetpartners.com/#logo"}},{"@type":"WebSite","@id":"https://careers.vetpartners.com/#website","url":"https://careers.vetpartners.com/","name":"Careers | Veterinary Practice Partners","description":"You are the future of vet.","publisher":{"@id":"https://careers.vetpartners.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://careers.vetpartners.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://careers.vetpartners.com/harbor-animal-hospital/#primaryimage","inLanguage":"en-US","url":"https://careers.vetpartners.com/wp-content/uploads/exterior_harbor-min.jpg","contentUrl":"https://careers.vetpartners.com/wp-content/uploads/exterior_harbor-min.jpg","width":"500","height":"333"},{"@type":"WebPage","@id":"https://careers.vetpartners.com/harbor-animal-hospital/#webpage","url":"https://careers.vetpartners.com/harbor-animal-hospital/","name":"Harbor Animal Hospital - Careers in Veterinary Medicine","isPartOf":{"@id":"https://careers.vetpartners.com/#website"},"primaryImageOfPage":{"@id":"https://careers.vetpartners.com/harbor-animal-hospital/#primaryimage"},"datePublished":"2018-04-10T19:55:03+00:00","dateModified":"2019-04-01T21:06:20+00:00","description":"We are a full-service animal hospital treating the pets and families of the Northeast Lake County, IL and SE Kenosha County, WI communities. Join our team!","breadcrumb":{"@id":"https://careers.vetpartners.com/harbor-animal-hospital/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://careers.vetpartners.com/harbor-animal-hospital/"]}]},{"@type":"BreadcrumbList","@id":"https://careers.vetpartners.com/harbor-animal-hospital/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://careers.vetpartners.com/"},{"@type":"ListItem","position":2,"name":"Harbor Animal Hospital"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Careers | Veterinary Practice Partners &raquo; Feed" href="https://careers.vetpartners.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Careers | Veterinary Practice Partners &raquo; Comments Feed" href="https://careers.vetpartners.com/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/careers.vetpartners.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://careers.vetpartners.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' media='all' />
+<link rel='stylesheet' id='child-understrap-styles-css'  href='https://careers.vetpartners.com/wp-content/themes/understrap-child-master/css/child-theme.css?ver=0.5.0' media='all' />
+<link rel='stylesheet' id='wpcw-css'  href='https://careers.vetpartners.com/wp-content/plugins/contact-widgets/assets/css/style.min.css?ver=1.0.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.5.5' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.5.5' media='all' />
+<link rel='stylesheet' id='elementor-post-2437-css'  href='https://careers.vetpartners.com/wp-content/uploads/elementor/css/post-2437.css?ver=1644000854' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.5.2' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.5.5' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.5.5' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://careers.vetpartners.com/wp-content/uploads/elementor/css/global.css?ver=1644000854' media='all' />
+<link rel='stylesheet' id='elementor-post-651-css'  href='https://careers.vetpartners.com/wp-content/uploads/elementor/css/post-651.css?ver=1644004978' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Lato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.8.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<script id='wpgmza_data-js-extra'>
+var wpgmza_google_api_status = {"message":"Enqueued","code":"ENQUEUED"};
+</script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/wp-google-maps/wpgmza_data.js?ver=5.8.3' id='wpgmza_data-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/jquery-updater/js/jquery-3.6.0.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/jquery-updater/js/jquery-migrate-3.3.2.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/themes/understrap/js/popper.min.js?ver=5.8.3' id='popper-scripts-js'></script>
+<script id='lever-js-extra'>
+var script_vars = {"hospital_name":["harbor"]};
+var script_vars_long = {"hospital_longname":["harbor"]};
+</script>
+<script src='https://careers.vetpartners.com/wp-content/themes/understrap-child-master/js/lever.js?ver=5.8.3' id='lever-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.5.5' id='font-awesome-4-shim-js'></script>
+<link rel="https://api.w.org/" href="https://careers.vetpartners.com/wp-json/" /><link rel="alternate" type="application/json" href="https://careers.vetpartners.com/wp-json/wp/v2/pages/651" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://careers.vetpartners.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://careers.vetpartners.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.3" />
+<link rel='shortlink' href='https://careers.vetpartners.com/?p=651' />
+<link rel="alternate" type="application/json+oembed" href="https://careers.vetpartners.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcareers.vetpartners.com%2Fharbor-animal-hospital%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://careers.vetpartners.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcareers.vetpartners.com%2Fharbor-animal-hospital%2F&#038;format=xml" />
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Careers | Veterinary Practice Partners - You are the future of vet.">
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://careers.vetpartners.com/wp-content/uploads/vpp-site-icon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://careers.vetpartners.com/wp-content/uploads/vpp-site-icon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://careers.vetpartners.com/wp-content/uploads/vpp-site-icon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://careers.vetpartners.com/wp-content/uploads/vpp-site-icon-300x300.png" />
+</head>
+
+<body class="page-template page-template-hospitals page-template-hospitals-php page page-id-651 wp-embed-responsive understrap-no-sidebar elementor-default elementor-kit-2437 elementor-page elementor-page-651">	
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCMV568"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
+	<!-- ******************* The Navbar Area ******************* -->
+	<div class="wrapper-fluid wrapper-navbar bg-white navbar-main" id="wrapper-navbar">
+
+		<a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a>
+
+		<nav class="navbar navbar-expand-lg navbar-light harbor">
+			<div class="container justify-content-center">
+					<div class="navbar-brand col-8 col-sm-5 col-md-4 col-lg-2">	
+						<a href="#"><img src="/wp-content/uploads/harbor-logo.png" class="img-fluid" alt="Harbor Animal Hospital logo"></a>
+					</div>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+				<div id="navbarNavDropdown" class="collapse navbar-collapse justify-content-center text-uppercase"><ul id="main-menu" class="navbar-nav"><li id="menu-item-417" class="menu-item menu-item-type-custom menu-item-object-custom nav-item menu-item-417"><a title="Our Hospital" href="http://www.harboranimal.com/" #about" class="nav-link" target="_blank">Our Hospital Website</a></li><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-604" class="mx-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-604 nav-item"><a title="Our Location" href="#location" class="nav-link">Our Location</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-605" class="mx-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-605 nav-item"><a title="Benefits" href="#benefits" class="nav-link">Benefits</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-373" class="ml-lg-2 d-lg-block nav-button mx-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-373 nav-item"><a title="Open Positions" href="#jobs" class="nav-link">Open Positions</a></li>
+</ul></div>					
+					
+					
+					
+				
+					
+
+				<!-- The WordPress Menu goes here -->
+				
+			</div>
+		</nav><!-- .site-navigation -->
+		</div>
+<!-- Display page content -->
+<div class="hospital anchor harbor" id="about">
+	<div class="container-fluid">
+		<div class="row justify-content-center ">
+			<div class="col">
+			
+	<div class="entry-content">
+				<div data-elementor-type="wp-post" data-elementor-id="651" class="elementor elementor-651 elementor-bc-flex-widget" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-ee97916 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ee97916" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1e71494c" data-id="1e71494c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5d3f2fcc elementor-widget elementor-widget-heading" data-id="5d3f2fcc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Harbor Animal Hospital</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-122b8d38 elementor-widget elementor-widget-heading" data-id="122b8d38" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Join our team</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ad5b671 elementor-widget elementor-widget-text-editor" data-id="2ad5b671" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>We are a full-service animal hospital treating the pets and families of the Northeast Lake County, IL and Southeast Kenosha County, WI communities.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-48fb62ed elementor-align-center elementor-tablet-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="48fb62ed" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#jobs" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+									<i class="fa fa-caret-down" aria-hidden="true"></i>
+							</span>
+						<span class="elementor-button-text">Browse Job Openings</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6022d0b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6022d0b6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7fb922e1" data-id="7fb922e1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1acfed87 elementor-widget elementor-widget-menu-anchor" data-id="1acfed87" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="about" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-36b731b4 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="36b731b4" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+								</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Our Dedicated Team					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						On average, our doctors and staff have worked at Harbor Animal Hospital for 13 years! This shows our longstanding commitment to our team, our family-like culture, and dedication to professional growth and continuing education.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1643453f" data-id="1643453f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1c3edafa elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-image" data-id="1c3edafa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="640" height="427" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="https://careers.vetpartners.com/wp-content/uploads/featured_harbor-3-768x512.jpg" class="lazy lazy-hidden attachment-medium_large size-medium_large" alt="" loading="lazy" data-lazy-srcset="https://careers.vetpartners.com/wp-content/uploads/featured_harbor-3-768x512.jpg 768w, https://careers.vetpartners.com/wp-content/uploads/featured_harbor-3-300x200.jpg 300w, https://careers.vetpartners.com/wp-content/uploads/featured_harbor-3.jpg 1024w" data-lazy-sizes="(max-width: 640px) 100vw, 640px" /><noscript><img width="640" height="427" src="https://careers.vetpartners.com/wp-content/uploads/featured_harbor-3-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://careers.vetpartners.com/wp-content/uploads/featured_harbor-3-768x512.jpg 768w, https://careers.vetpartners.com/wp-content/uploads/featured_harbor-3-300x200.jpg 300w, https://careers.vetpartners.com/wp-content/uploads/featured_harbor-3.jpg 1024w" sizes="(max-width: 640px) 100vw, 640px" /></noscript>														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2105180d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2105180d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6b60f630" data-id="6b60f630" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-37fe85bf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37fe85bf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5bc6a183" data-id="5bc6a183" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-65f2e021 elementor-widget elementor-widget-heading" data-id="65f2e021" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Love what you do!</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5621f0c4 elementor-widget elementor-widget-text-editor" data-id="5621f0c4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<div id="Content"><div class="boxed"><div id="lipsum"><p>&#8220;I really love my job and everything it entails. Helping dogs and cats and interacting with people is a great combination, in my opinion. I also love the people I work with, which makes coming to work each day even better.&#8221;</p></div></div></div>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-68336619 elementor-align-center elementor-widget elementor-widget-button" data-id="68336619" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#jobs" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Join our team!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a2122ff elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="a2122ff" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bb2f96e" data-id="bb2f96e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4845e29 elementor-widget elementor-widget-template" data-id="4845e29" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1209" class="elementor elementor-1209 elementor-bc-flex-widget" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-3bdb749f elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3bdb749f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64e414e1" data-id="64e414e1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1df17e0f elementor-widget elementor-widget-menu-anchor" data-id="1df17e0f" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="jobs" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cd0dbe8 elementor-view-default elementor-widget elementor-widget-icon" data-id="cd0dbe8" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-search-plus" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-375684dd elementor-widget elementor-widget-heading" data-id="375684dd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">CURRENT OPENINGS</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c711874 elementor-widget elementor-widget-html" data-id="3c711874" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+<div class="container" id="jobs-container">
+    <div class="row">
+        <div class="col department-buttons text-center"></div>
+    </div>
+	<div class="row py-3 justify-content-center">
+		<div class="col">
+			<div class="jobs-teams text-left">
+			</div>
+	</div>
+</div>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-70d476e7 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="70d476e7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;none&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-50349cfe" data-id="50349cfe" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bd9d826 elementor-view-default elementor-widget elementor-widget-icon" data-id="bd9d826" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-stethoscope" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6af85b8b elementor-widget elementor-widget-heading" data-id="6af85b8b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Equipment &amp; Services</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-34235bdc elementor-widget elementor-widget-text-editor" data-id="34235bdc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>In addition to diagnostic and preventative services, our hospital is equipped with digital radiography, digital dental radiography, in-house labs, ultrasound, echocardiogram, SNAPshot Dx Analyzer, and VetStat Electrolyte and Blood Gas Analyzer. We’re focused on making sure our hospital has the right tools to allow our doctor and medical staff the ability to provide excellent service and care.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6bcdd60" data-id="6bcdd60" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-63b43f6d elementor-widget elementor-widget-spacer" data-id="63b43f6d" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2fd14b9d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="2fd14b9d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-397ab2eb" data-id="397ab2eb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4f2bfb98 elementor-widget elementor-widget-spacer" data-id="4f2bfb98" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5c83002c" data-id="5c83002c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5351796 elementor-widget elementor-widget-heading" data-id="5351796" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Meet Ivy</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-46c536f4 elementor-widget elementor-widget-text-editor" data-id="46c536f4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Brought in by a passerby, Ivy had been hit by a car and was badly injured. Dr. Bartlett could tell from looking at her that she had broken her leg very badly, and had probably suffered internal injuries as well. He was thinking through his next move (euthanize? surgery?) when she picked her head up and gave him a big lick in the face.  He knew then what he needed to do, and 5 years later Dr. Bartlett’s dog, Ivy, is full of energy and mischief.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-483be882 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="483be882" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2cec45c7" data-id="2cec45c7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-eb1e9a3 elementor-widget elementor-widget-menu-anchor" data-id="eb1e9a3" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="location" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6413f1b5 elementor-view-default elementor-widget elementor-widget-icon" data-id="6413f1b5" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-map-marker" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-723578b4 elementor-widget elementor-widget-heading" data-id="723578b4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Our Location</h3>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2e8f0033 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e8f0033" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-10265b85" data-id="10265b85" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-45e6ef36 elementor-widget elementor-widget-text-editor" data-id="45e6ef36" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>We are a full service animal hospital located in <a href="http://www.explorewinthropharbor.com/explorewinthropharbor.html">Winthrop Harbor, IL</a>, on the northern border of Illinois and directly in the middle of two beautiful cities: <a href="https://www.visitmilwaukee.org/" target="_blank" rel="noopener">Milwaukee</a> and <a href="https://www.choosechicago.com/" target="_blank" rel="noopener">Chicago</a>. Our area boasts many outdoor recreation opportunities and we have the <a href="http://npmarina.com/">largest marina</a> in the Great Lakes—<span style="font-size: 17.6px;">a boater or outdoor enthusiast&#8217;s dream come true! Additionally, our geographic proximity means candidates have their pick of cities (or states) to live in!</span></p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-1706e6e3 elementor-widget elementor-widget-google_maps" data-id="1706e6e3" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-custom-embed">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"  class="lazy lazy-hidden" data-lazy-type="iframe" data-lazy-src="&lt;iframe frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;
+					src=&quot;https://maps.google.com/maps?q=Harbor%20Animal%20Hospital%2C%20Winthrop%20Harbor%2C%20IL&#038;t=m&#038;z=14&#038;output=embed&#038;iwloc=near&quot;
+					title=&quot;Harbor Animal Hospital, Winthrop Harbor, IL&quot;
+					aria-label=&quot;Harbor Animal Hospital, Winthrop Harbor, IL&quot;
+			&gt;&lt;/iframe&gt;" alt=""><noscript><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+					src="https://maps.google.com/maps?q=Harbor%20Animal%20Hospital%2C%20Winthrop%20Harbor%2C%20IL&#038;t=m&#038;z=14&#038;output=embed&#038;iwloc=near"
+					title="Harbor Animal Hospital, Winthrop Harbor, IL"
+					aria-label="Harbor Animal Hospital, Winthrop Harbor, IL"
+			></iframe></noscript>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5dd7528 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dd7528" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4cd690fd" data-id="4cd690fd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5ddba6fc elementor-view-default elementor-widget elementor-widget-icon" data-id="5ddba6fc" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-quote-left" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1bbdfc4a elementor-widget elementor-widget-heading" data-id="1bbdfc4a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Don't just listen to us,<br>see what our clients have to say!</h3>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-abbc3dc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="abbc3dc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-328ceec6" data-id="328ceec6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7912102b elementor-widget elementor-widget-html" data-id="7912102b" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<span class="yelp-review" data-review-id="JrryVyDZ6HazeuxE0pQQ_w" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=538CDaVktt7jyzqRzIWq7A" rel="nofollow noopener">Gina D.</a>'s <a href="https://www.yelp.com/biz/harbor-animal-hospital-winthrop-harbor?hrid=JrryVyDZ6HazeuxE0pQQ_w" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/y_N3_eSf-1yhIx8rghO7Pg" rel="nofollow noopener">Harbor Animal Hospital</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script async="async" src="https://www.yelp.com/embed/widgets.js" type="text/javascript"></script></span>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3d262cce" data-id="3d262cce" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5faf340d elementor-widget elementor-widget-html" data-id="5faf340d" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<span class="yelp-review" data-review-id="5mXQxd3Uq5AJJCVKWlz8pQ" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=LA9i7HGXINAb6rONKf9NSQ" rel="nofollow noopener">K t.</a>'s <a href="https://www.yelp.com/biz/harbor-animal-hospital-winthrop-harbor?hrid=5mXQxd3Uq5AJJCVKWlz8pQ" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/y_N3_eSf-1yhIx8rghO7Pg" rel="nofollow noopener">Harbor Animal Hospital</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script async="async" src="https://www.yelp.com/embed/widgets.js" type="text/javascript"></script></span>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8a4eee3 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="8a4eee3" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ec8e5ca" data-id="ec8e5ca" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-49311fe elementor-widget elementor-widget-template" data-id="49311fe" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1228" class="elementor elementor-1228 elementor-bc-flex-widget" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-19254b30 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="19254b30" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4bb4764e" data-id="4bb4764e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6d3792a3 elementor-widget elementor-widget-menu-anchor" data-id="6d3792a3" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="benefits" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-64e16e8b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="64e16e8b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-22c557e2" data-id="22c557e2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-226c6725 elementor-widget elementor-widget-heading" data-id="226c6725" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">We've got you covered!</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5d3ac832 elementor-widget elementor-widget-text-editor" data-id="5d3ac832" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Our hospital is in partnership with Veterinary Practice Partners (VPP). VPP offers a unique co-ownership model that means we are in charge of all clinical decisions for our hospital, while they provide support and leadership for marketing, financial, operations and human resources. This means:</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2d57d588 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d57d588" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5de7a16c" data-id="5de7a16c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5781ece1 elementor-widget elementor-widget-text-editor" data-id="5781ece1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h4><i class="icon-vpp-medical-box"></i><br />We’re Practitioners</h4><p>As veterinarians, technicians, and practice staff, our goal is to treat every family and pet that walks through our doors as one of our own. We provide the highest standard of care. And we do this really well.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-79b75146" data-id="79b75146" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6bda1878 elementor-widget elementor-widget-text-editor" data-id="6bda1878" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h4><i class="icon-vpp-paw-solid"></i><br />
+And we’re partners!</h4>
+A partnership with <a href="http://www.vetpartners.com/">Veterinary Practice Partners</a> means each hospital has the support of a team of finance, human resources, operations and marketing experts.					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5bbbbdcc" data-id="5bbbbdcc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-44c341a4 elementor-widget elementor-widget-text-editor" data-id="44c341a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				
+<h4><i class="icon-vpp-stethoscope"></i><br />
+Professional Development</h4>
+We encourage professional growth through a continuing education allowance, in-house training programs, and online education.					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-eae9e0a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eae9e0a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2f678d86" data-id="2f678d86" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-75ffe42 elementor-widget elementor-widget-text-editor" data-id="75ffe42" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h4><i class="icon-vpp-house"></i><br />
+Work/Life Balance</h4>
+We structure our benefit packages to support you. This includes generous PTO, health benefits, 401(k) with match and more!					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2671148" data-id="2671148" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1a49b7a9 elementor-widget elementor-widget-text-editor" data-id="1a49b7a9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h4><i class="icon-vpp-bone"></i><br />
+Your pets are family too!</h4>
+We offer generous discounts at our hospitals for the care of employees’ pets.					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-76f3c2d7" data-id="76f3c2d7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f937015 elementor-widget elementor-widget-text-editor" data-id="f937015" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h4><i class="icon-vpp-ribbon"></i><br />Referral Bonus</h4><p>Good people know good people! Use your network to refer a colleague to a DVM position at one of our hospitals and we’ll pay you $2500 after their first 60 days of work.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+			</div><!-- .entry-content -->
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<!-- Display the Mailchimp form -->
+<div class="container-fluid" >
+		<div class="row text-center">
+			<div class="col-12 my-2 mb-5">
+					<h3>Don't see a good fit... yet?</h3>
+					<p>We're growing and constantly adding new positions. Let us know what you'd be interested in and we'll alert you of future opportunities.
+					</p>
+
+					<form action="https://vetpartners.us5.list-manage.com/subscribe/post?u=e9547c3e589f695479772905e&amp;id=913a6d7577&SIGNUP=harbor" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" class="form-inline justify-content-center">
+						<div class="form-group m-2 col-8 col-sm-auto">
+							<label class="sr-only" for="email">Email</label>
+							<input placeholder="Your Email Address" type="email" value="" name="EMAIL" id="mce-EMAIL" required="required" class="form-control">
+						</div>
+						<div class="form-group m-2 col-8 col-sm-auto">
+							<label class="sr-only" for="state">State</label>
+							<select name="STATE" class="form-control" id="mce-STATE">
+                			<option selected>State</option>
+                			<option value="Alabama">Alabama</option>
+									<option value="Alaska">Alaska</option>
+									<option value="Arizona">Arizona</option>
+									<option value="Arkansas">Arkansas</option>
+									<option value="California">California</option>
+									<option value="Colorado">Colorado</option>
+									<option value="Connecticut">Connecticut</option>
+									<option value="Delaware">Delaware</option>
+									<option value="Florida">Florida</option>
+									<option value="Georgia">Georgia</option>
+									<option value="Hawaii">Hawaii</option>
+									<option value="Idaho">Idaho</option>
+									<option value="Illinois">Illinois</option>
+									<option value="Indiana">Indiana</option>
+									<option value="Iowa">Iowa</option>
+									<option value="Kansas">Kansas</option>
+									<option value="Kentucky">Kentucky</option>
+									<option value="Louisiana">Louisiana</option>
+									<option value="Maine">Maine</option>
+									<option value="Maryland">Maryland</option>
+									<option value="Massachusetts">Massachusetts</option>
+									<option value="Michigan">Michigan</option>
+									<option value="Minnesota">Minnesota</option>
+									<option value="Mississippi">Mississippi</option>
+									<option value="Missouri">Missouri</option>
+									<option value="Montana">Montana</option>
+									<option value="Nebraska">Nebraska</option>
+									<option value="Nevada">Nevada</option>
+									<option value="New Hampshire">New Hampshire</option>
+									<option value="New Jersey">New Jersey</option>
+									<option value="New Mexico">New Mexico</option>
+									<option value="New York">New York</option>
+									<option value="North Carolina">North Carolina</option>
+									<option value="North Dakota">North Dakota</option>
+									<option value="Ohio">Ohio</option>
+									<option value="Oklahoma">Oklahoma</option>
+									<option value="Oregon">Oregon</option>
+									<option value="Pennsylvania">Pennsylvania</option>
+									<option value="Rhode Island">Rhode Island</option>
+									<option value="South Carolina">South Carolina</option>
+									<option value="South Dakota">South Dakota</option>
+									<option value="Tennessee">Tennessee</option>
+									<option value="Texas">Texas</option>
+									<option value="Utah">Utah</option>
+									<option value="Vermont">Vermont</option>
+									<option value="Virginia">Virginia</option>
+									<option value="Washington">Washington</option>
+									<option value="Washington D.C.">Washington D.C.</option>
+									<option value="West Virginia">West Virginia</option>
+									<option value="Wisconsin">Wisconsin</option>
+									<option value="Wyoming">Wyoming</option>
+							</select>
+						</div>
+						<div style="position: absolute; left: -5000px;" aria-hidden="true" class="col-8 col-md-auto"><input type="text" name="b_e9547c3e589f695479772905e_913a6d7577" tabindex="-1" value=""></div>
+<div class="col-8 col-sm-auto m-2">
+	<button type="submit" class="btn btn-primary harbor-main text-white">Sign Me Up!</button></div>
+					</form>
+			</div></div></div>
+
+<!-- And the footer -->
+
+<footer class="footer bg-light">
+		<div class="container py-4">
+			<div class="row my-4 ">
+				<div class="col-sm-12 text-center">
+					<a href="http://www.vetpartners.com/" rel="noopener" target="_blank"><img src="/wp-content/uploads/2018/02/vpp-min.png" class="img-fluid w-25" alt="Veterinary Practice Partners co-own practices with veterinarians." style="max-width: 150px;"></a>
+				</div>
+			</div>
+			<div class="row text-center my-4">
+				<div class="col-sm-12 text-center">
+					<p>601 S Henderson Rd, Ste. 155<br />King of Prussia, PA 19406-4234</p>
+				</div>
+			</div>
+			 <!-- <div class="row text-center">
+				<div class="col-lg-12 h-100 text-center">
+					<ul class="list-inline mb-0">
+						<li class="list-inline-item mr-3">
+							<a href="https://www.facebook.com/VeterinaryPracticePartners/" title="VPP on Facebook" target="_blank" rel="noopener">
+                  <i class="fab fa-facebook-f fa-2x fa-fw"></i>
+                </a>
+						</li>
+						<li class="list-inline-item mr-3">
+							<a href="https://www.linkedin.com/company/veterinary-practice-partners" title="VPP on LinkedIn" target="_blank" rel="noopener">
+                  <i class="fab fa-linkedin-in fa-2x fa-fw"></i>
+                </a>
+						</li>
+					</ul>
+				</div>
+			</div> -->
+		</div>
+	
+	</footer>
+<link rel='stylesheet' id='elementor-post-1209-css'  href='https://careers.vetpartners.com/wp-content/uploads/elementor/css/post-1209.css?ver=1644000854' media='all' />
+<link rel='stylesheet' id='elementor-post-1228-css'  href='https://careers.vetpartners.com/wp-content/uploads/elementor/css/post-1228.css?ver=1644000854' media='all' />
+<link rel='stylesheet' id='e-animations-css'  href='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.5' media='all' />
+<script id='superpwa-register-sw-js-extra'>
+var superpwa_sw = {"url":"\/superpwa-amp-sw.js","disable_addtohome":"0","enableOnDesktop":""};
+</script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js' id='superpwa-register-sw-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/themes/understrap-child-master/js/child-theme.min.js?ver=0.5.0' id='child-understrap-scripts-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/bj-lazy-load/js/bj-lazy-load.min.js?ver=2' id='BJLL-js'></script>
+<script src='https://careers.vetpartners.com/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.5.2' id='elementor-pro-webpack-runtime-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.5' id='elementor-webpack-runtime-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.5' id='elementor-frontend-modules-js'></script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/careers.vetpartners.com\/wp-admin\/admin-ajax.php","nonce":"e18c601682","urls":{"assets":"https:\/\/careers.vetpartners.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/careers.vetpartners.com\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/careers.vetpartners.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.5.2' id='elementor-pro-frontend-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://careers.vetpartners.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.5.5' id='share-link-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/careers.vetpartners.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":651,"title":"Harbor%20Animal%20Hospital%20-%20Careers%20in%20Veterinary%20Medicine","excerpt":"","featuredImage":"https:\/\/careers.vetpartners.com\/wp-content\/uploads\/exterior_harbor-min.jpg"}};
+</script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.5' id='elementor-frontend-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.5.2' id='pro-preloaded-elements-handlers-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.5.5' id='preloaded-modules-js'></script>
+<script src='https://careers.vetpartners.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.5.2' id='e-sticky-js'></script>
+
+<script type="text/javascript">
+	
+	// Hide Header on on scroll down
+	var didScroll;
+	var lastScrollTop = 0;
+	var delta = 5;
+	var navbarHeight = $('.navbar-main').outerHeight();
+
+	$(window).scroll(function(event){
+		didScroll = true;
+	});
+
+	setInterval(function() {
+		if (didScroll) {
+			hasScrolled();
+			didScroll = false;
+		}
+		else {}
+	}, 250);
+
+	function hasScrolled() {
+		
+		var st = $(this).scrollTop();
+
+		// Make sure they scroll more than delta
+		if(Math.abs(lastScrollTop - st) <= delta)
+			return;
+
+		// If they scrolled down and are past the navbar, add class .nav-up.
+		// This is necessary so you never see what is "behind" the navbar.
+		if (st > lastScrollTop && st > navbarHeight){
+			// Scroll Down
+			$('.navbar-main').removeClass('nav-down').addClass('nav-up');
+			
+		} else {
+			// Scroll Up
+			if(st + $(window).height() < $(document).height()) {
+				$('.navbar-main').removeClass('nav-up').addClass('nav-down');
+				
+			}
+		}
+
+		lastScrollTop = st;
+	};
+	
+	
+	
+</script>
+</body>
+
+</html>
+

@@ -1,0 +1,44 @@
+
+  <a data-mapped="true" href="/maven/jobs/4076252004">General Manager, Partnerships and Operations</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4138335004">Software Engineer</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4023548004">Senior Software Engineer</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4279820004">Instructor Partnerships Lead</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4312757004">Operations Lead (Instructor Onboarding)</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4314052004">Course Marketer</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4332684004">Growth Marketer</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4312623004">Marketing Manager (Instructor-side)</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4025256004">Head of Talent</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4313783004">Course Content Development Lead</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>
+
+  <a data-mapped="true" href="/maven/jobs/4314029004">Course Strategy and Operations</a>
+  <br>
+  <span class="location">Remote (Anyone within 1 hour of US time zones)</span>

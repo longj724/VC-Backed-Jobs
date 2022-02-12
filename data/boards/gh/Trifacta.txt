@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Jobs at Trifacta</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+  
+    <meta property="og:title" content="Trifacta"></meta>
+    <meta property="og:description" content=""></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/trifacta"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/362/500/original/Job-Posting-Social-v2.png?1619559575"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><img alt="Trifacta Logo" src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/362/500/resized/Job-Posting-Social-v2.png?1619559575" width="143" height="75" /></div>
+
+  <h1>Trifacta</h1>
+
+  <div id="content">
+    
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+  
+
+
+
+<h3 id="filter-count"></h3>
+
+  
+
+<section class="level-0">
+  <h3 id="4017250003">Customer Success</h3>
+
+  <div class="opening" department_id="4017250003" office_id="4009968003" data-office-4009968003="true" data-department-4017250003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4502512003">Customer Success Manager</a>
+  <br/>
+  <span class="location">Bangalore</span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4017254003">Customer Support</h4>
+
+  <div class="opening" department_id="4017250003,4017254003" office_id="4009968003" data-office-4009968003="true" data-department-4017250003="true" data-department-4017254003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4296303003">Technical Support Engineer</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4017244003">Engineering</h3>
+
+  <div class="opening" department_id="4017244003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4853117003">Full Stack Engineer (Remote)</a>
+  <br/>
+  <span class="location">United States (Remote)</span>
+</div><div class="opening" department_id="4017244003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4853106003">Full Stack Engineer (Remote)</a>
+  <br/>
+  <span class="location">United States (Remote)</span>
+</div><div class="opening" department_id="4017244003" office_id="4009968003" data-office-4009968003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4254225003">Lead/ Principal Engineer- Frontend</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div><div class="opening" department_id="4017244003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4821740003">Senior Full Stack Engineer (Remote)</a>
+  <br/>
+  <span class="location">United States (Remote)</span>
+</div><div class="opening" department_id="4017244003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4845081003">Senior Full Stack Engineer (Remote)</a>
+  <br/>
+  <span class="location">United States (Remote)</span>
+</div><div class="opening" department_id="4017244003" office_id="4009966003,4013116003" data-office-4009966003="true" data-office-4013116003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4714859003">Senior Software Engineer</a>
+  <br/>
+  <span class="location">Berlin, Germany</span>
+</div><div class="opening" department_id="4017244003" office_id="4009968003" data-office-4009968003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4820775003">Senior Software Engineer - Backend</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div><div class="opening" department_id="4017244003" office_id="4009966003,4013116003" data-office-4009966003="true" data-office-4013116003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4714861003">Software Engineer 2</a>
+  <br/>
+  <span class="location">Berlin, Germany</span>
+</div><div class="opening" department_id="4017244003" office_id="4009968003" data-office-4009968003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4473224003">Software Engineer- Full Stack</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div><div class="opening" department_id="4017244003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017244003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4802580003">Software Engineering Intern</a>
+  <br/>
+  <span class="location">United States - Remote</span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4017749003">Test &amp; Quality</h4>
+
+  <div class="opening" department_id="4017244003,4017749003" office_id="4009968003" data-office-4009968003="true" data-department-4017244003="true" data-department-4017749003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4113889003">Senior Software Engineer in Test</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4017245003">Human Resources</h3>
+
+  <div class="opening" department_id="4017245003" office_id="4009968003" data-office-4009968003="true" data-department-4017245003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4574750003">Talent Acquisition Specialist</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4017246003">Marketing</h3>
+
+  <div class="opening" department_id="4017246003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017246003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4855963003">Data Engineering Evangelist (Remote)</a>
+  <br/>
+  <span class="location">United States</span>
+</div><div class="opening" department_id="4017246003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017246003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4856129003">Senior Manager, Field Marketing (Remote)</a>
+  <br/>
+  <span class="location">United States (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4017251003">Product Management &amp; Design</h3>
+
+  
+  
+
+<section class="child level-1">
+  <h4 id="4017752003">Analytics</h4>
+
+  <div class="opening" department_id="4017251003,4017752003" office_id="4009968003" data-office-4009968003="true" data-department-4017251003="true" data-department-4017752003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4747936003">Revenue Ops Data Analyst</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4017751003">Design</h4>
+
+  <div class="opening" department_id="4017251003,4017751003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017251003="true" data-department-4017751003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4859137003">Product Designer (Remote)</a>
+  <br/>
+  <span class="location">United States (Remote)</span>
+</div><div class="opening" department_id="4017251003,4017751003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017251003="true" data-department-4017751003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4859159003">Sr. Product Designer (Remote)</a>
+  <br/>
+  <span class="location">United States (Remote)</span>
+</div><div class="opening" department_id="4017251003,4017751003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017251003="true" data-department-4017751003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4711238003">UX Research Lead</a>
+  <br/>
+  <span class="location">United States (Remote)</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4017750003">Product Management</h4>
+
+  <div class="opening" department_id="4017251003,4017750003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017251003="true" data-department-4017750003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4759922003">Product Manager</a>
+  <br/>
+  <span class="location">United States (Remote)</span>
+</div><div class="opening" department_id="4017251003,4017750003" office_id="4009968003" data-office-4009968003="true" data-department-4017251003="true" data-department-4017750003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4609879003">Product Specialist</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div><div class="opening" department_id="4017251003,4017750003" office_id="4009968003" data-office-4009968003="true" data-department-4017251003="true" data-department-4017750003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4440622003">Senior Product Manager</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div><div class="opening" department_id="4017251003,4017750003" office_id="4009968003" data-office-4009968003="true" data-department-4017251003="true" data-department-4017750003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4800377003">Senior Technical Writer</a>
+  <br/>
+  <span class="location">Bangalore, India</span>
+</div>
+  
+</section>
+</section>
+
+<section class="level-0">
+  <h3 id="4017249003">Sales</h3>
+
+  <div class="opening" department_id="4017249003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017249003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4749221003">Director of Alliances - GCP (Remote)</a>
+  <br/>
+  <span class="location">United States </span>
+</div><div class="opening" department_id="4017249003" office_id="4009967003,4012027003" data-office-4009967003="true" data-office-4012027003="true" data-department-4017249003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4701722003">Enterprise Account Executive (Remote)</a>
+  <br/>
+  <span class="location">United States</span>
+</div>
+  
+
+<section class="child level-1">
+  <h4 id="4017253003">Sales Development</h4>
+
+  <div class="opening" department_id="4017249003,4017253003" office_id="4009966003,4013117003" data-office-4009966003="true" data-office-4013117003="true" data-department-4017249003="true" data-department-4017253003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4862426003">Sales Development Representative</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4017252003">Sales Engineering</h4>
+
+  <div class="opening" department_id="4017249003,4017252003" office_id="4024165003" data-office-4024165003="true" data-department-4017249003="true" data-department-4017252003="true">
+  <a data-mapped="true" href="/trifacta/jobs/4378706003">Sales Engineer</a>
+  <br/>
+  <span class="location">Singapore</span>
+</div>
+  
+</section>
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-015e0b3e9e31256ee316ea4758e645d926f592305c25b4764bd43cf0cffd425b.js"></script>  
+
+  </body>
+</html>
