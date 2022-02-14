@@ -1,11 +1,7 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
 const fs = require('fs');
-const {
-  writeDataToFile,
-  appendDataToFile,
-} = require('../utils/fileOperations.js');
-const { findSync } = require('@prisma/client/runtime');
+const { writeDataToFile } = require('../utils/fileOperations.js');
 
 module.exports.getJobData = async (name) => {
   // Try Lever
@@ -31,11 +27,10 @@ module.exports.getJobData = async (name) => {
       const $ = cheerio.load(data);
       const openings = $('.posting');
       openings.each((_, opening) => {
-        appendDataToFile(
+        fs.appendFileSync(
           './data/openings/lever/' + name + '.txt',
-          $(opening).html()
+          $(opening).html() + '\n'
         );
-        appendDataToFile('./data/openings/lever/' + name + '.txt', '\n')
       });
     })
     .catch((err) => {
@@ -67,7 +62,7 @@ module.exports.getJobData = async (name) => {
         const $ = cheerio.load(data);
         const openings = $('.opening');
         openings.each((_, opening) => {
-          appendDataToFile(
+          fs.appendFileSync(
             './data/openings/gh/' + name + '.txt',
             $(opening).html()
           );

@@ -1,48 +1,57 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
 const fs = require('fs');
+const { writeDataToFile } = require('../utils/fileOperations');
 const { getJobData } = require('./getJobData');
 
-const getCompanies = async () => {
+const geta16zPage = async () => {
+  axios
+    .get('https://a16z.com/portfolio')
+    .then((res) => {
+      const result = writeDataToFile('./data/firms/a16z.txt', res.data);
+    })
+    .catch((err) => {
+      console.log(err);
+      return err;
+    });
+};
 
-  axios.get('https://a16z.com/portfolio/').then((res) => {
-    const $ = cheerio.load(res.data);
+// Change this to read from the local copy of the a16z file
+const getCompanies = async (filePath) => {
+  fs.readFile(filePath, (err, data) => {
+    if (err) throw err;
+
+    const $ = cheerio.load(data);
 
     const divs = $('.company__thumbnail');
 
-    const urls = divs.each((_, element) => {
-      return $(element).find('a').attr('href');
+    let companyUrls = [];
+    divs.each((_, element) => {
+      companyUrls.push($(element).find('a').attr('href'));
     });
 
-    urls.map((url) => {
-      let domain = new URL(url);
-      console.log('domain');
-      return domain;
+    const companyNames = companyUrls
+      .filter((url) => url !== undefined)
+      .map((url) => {
+        let domain = new URL(url);
+        let hostname = domain.host;
+        let split = hostname.split('.');
+        console.log(split[split.length - 2]);
+        return split[split.length - 2];
+      });
+
+    companyNames.forEach((name) => {
+      getJobData(name);
     });
   });
 };
 
-let companyNames;
+const main = async () => {
+  // await geta16zPage();
+  getCompanies('./data/firms/a16z.txt');
+};
 
-// Read from a16z companies
-fs.readFile('./data/firms/a16z.txt', function (err, data) {
-  if (err) throw err;
-
-  const urls = data.toString().replace(/\r\n/g, '\n').split('\n');
-
-  companyNames = urls
-    .filter((url) => url != 'undefined')
-    .map((url) => {
-      let domain = new URL(url);
-      let hostname = domain.host;
-      let split = hostname.split('.');
-      return split[split.length - 2];
-    });
-
-  companyNames.forEach((name) => {
-    getJobData(name);
-  });
-});
+main();
 
 // jobs.lever.com/companyname
 // Get div class = posting
