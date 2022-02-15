@@ -1,0 +1,3 @@
+const TEAMS = ['ENGINEERING', 'OPERATIONS', 'MARKETING', 'PRODUCT', 'SALES', 'PEOPLE', 'DESIGN', 'FINANCE'];
+
+module.exports = TEAMS;

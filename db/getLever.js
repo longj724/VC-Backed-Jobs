@@ -2,10 +2,11 @@ const { PrismaClient } = require('@prisma/client');
 const fs = require('fs');
 const cheerio = require('cheerio');
 const readline = require('readline');
+const TEAMS = require('./constants');
 
 const prisma = new PrismaClient();
 
-const getFiles = async (folderPath) => {
+const insertJobs = async (folderPath) => {
   await clearPostions();
   fs.readdir(folderPath, (err, files) => {
     files.forEach(async (file, _) => {
@@ -18,18 +19,23 @@ const getFiles = async (folderPath) => {
 
       for await (const line of rl) {
         if (line === null || line === '') continue;
-        console.log('line is: ', line);
         const companyName = file.split('.')[0];
-        console.log('company is', companyName);
 
         const $ = cheerio.load(line);
         const link = $('.posting-apply').find('a').attr('href');
         const role = $('h5').first().text();
         const location = $('.posting-category').first().text();
+        const team = $('.sort-by-team').text();
 
         console.log('role is', role);
         console.log('link is', link);
         console.log('location is', location);
+        console.log('team is', team);
+
+        let dbTeam = '';
+        if (TEAMS.includes(team.toUpperCase())) {
+          dbTeam = team;
+        }
 
         let companyExists = await prisma.company.findFirst({
           where: {
@@ -45,14 +51,14 @@ const getFiles = async (folderPath) => {
           });
         }
 
-        console.log('company id is', companyExists.id);
-
         await prisma.position.create({
           data: {
             role,
             link,
             location,
-            firm: 'Lever',
+            firm: '',
+            team: dbTeam,
+            board: 'Lever',
             company_id: companyExists.id,
           },
         });
@@ -62,15 +68,12 @@ const getFiles = async (folderPath) => {
 };
 
 const clearPostions = async () => {
-  const positions = await prisma.position.findMany();
-  positions.map(async (position) => {
-    await prisma.position.delete({
-      where: {
-        id: position.id,
-      },
-    });
+  await prisma.position.deleteMany({
+    where: {
+      board: 'Lever',
+    },
   });
 };
 
-// getFiles('./data/openings/lever');
-clearPostions();
+insertJobs('./data/openings/lever');
+// clearPostions();
