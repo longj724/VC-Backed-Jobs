@@ -10,23 +10,6 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-// model User {
-//   id Int @id @default(autoincrement())
-//   email String
-//   name String
-//   posts Post[]
-// }
-
-// model Post {
-//   id Int @id @default(autoincrement())
-//   title String
-//   post String @db.VarChar(500)
-//   created_at DateTime @default(now())
-//   updated_at DateTime @updatedAt
-//   user User @relation(fields: [user_id], references: [id])
-//   user_id Int 
-// }
-
 model Company {
   id Int @id @default(autoincrement())
   name String
@@ -35,6 +18,9 @@ model Company {
 
 model Position {
   id Int @id @default(autoincrement())
+  board String
+  team String
+  team_tag String
   role String
   link String
   firm String

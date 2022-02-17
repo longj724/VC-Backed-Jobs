@@ -32,9 +32,9 @@ const insertJobs = async (folderPath) => {
         console.log('location is', location);
         console.log('team is', team);
 
-        let dbTeam = '';
+        let teamTag = '';
         if (TEAMS.includes(team.toUpperCase())) {
-          dbTeam = team;
+          teamTag = team;
         }
 
         let companyExists = await prisma.company.findFirst({
@@ -57,7 +57,8 @@ const insertJobs = async (folderPath) => {
             link,
             location,
             firm: '',
-            team: dbTeam,
+            team: team,
+            team_tag: teamTag,
             board: 'Lever',
             company_id: companyExists.id,
           },

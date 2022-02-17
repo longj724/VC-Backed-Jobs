@@ -64,6 +64,7 @@ const insertJobs = async (folderPath) => {
               location,
               firm: '',
               team: '',
+              team_tag: '',
               board: 'Greenhouse',
               company_id: companyExists.id,
             },
