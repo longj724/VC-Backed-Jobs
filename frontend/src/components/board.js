@@ -3,16 +3,17 @@ import axios from 'axios';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUpRightFromSquare } from '@fortawesome/free-solid-svg-icons';
 
+import { useJobs } from '../context/JobsProvider';
+
 const Board = () => {
-  const [allJobs, setAllJobs] = useState([]);
-  const [pageJobs, setPageJobs] = useState([]);
+  const jobs = useJobs();
   const [pageNumber, setPageNumber] = useState(0);
 
   const jobsPerPage = 10;
   const pagesVisited = pageNumber * jobsPerPage;
-  const pageCount = Math.ceil(allJobs.length / jobsPerPage);
+  const pageCount = Math.ceil(jobs.length / jobsPerPage);
 
-  const displayJobs = allJobs
+  const displayJobs = jobs
     .slice(pagesVisited, pagesVisited + jobsPerPage)
     .map((job) => {
       return (
@@ -70,20 +71,20 @@ const Board = () => {
     }
   };
 
-  useEffect(() => {
-    async function getData() {
-      await axios
-        .get('/all-jobs')
-        .then((res) => {
-          return res.data;
-        })
-        .then((res) => {
-          console.log(res);
-          setAllJobs(res);
-        });
-    }
-    getData();
-  }, []);
+  // useEffect(() => {
+  //   async function getData() {
+  //     await axios
+  //       .get('/all-jobs')
+  //       .then((res) => {
+  //         return res.data;
+  //       })
+  //       .then((res) => {
+  //         console.log(res);
+  //         setAllJobs(res);
+  //       });
+  //   }
+  //   getData();
+  // }, []);
 
   return (
     <div className="p-12 rounded-md w-full row-span-2">
@@ -109,13 +110,12 @@ const Board = () => {
                 </th>
               </tr>
             </thead>
-            <tbody>
-              {displayJobs}
-            </tbody>
+            <tbody>{displayJobs}</tbody>
           </table>
           <div className="px-4 py-4 bg-white border-t flex flex-col xs:flex-row items-center xs:justify-between          ">
             <span className="text-xs xs:text-sm text-gray-900">
-              Showing page {pageNumber + 1} to {pageCount} of {allJobs.length} Entries
+              Showing page {pageNumber + 1} to {pageCount} of {jobs.length}{' '}
+              Entries
             </span>
             <div className="inline-flex mt-2 xs:mt-0">
               <button

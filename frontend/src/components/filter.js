@@ -1,16 +1,64 @@
 import { useState, useEffect } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
 import { faXmark } from '@fortawesome/free-solid-svg-icons';
 
+import { useJobs, useFilterLocation } from '../context/JobsProvider';
+
 const Filter = () => {
+  const TEAMS = [
+    'ENGINEERING',
+    'OPERATIONS',
+    'MARKETING',
+    'PRODUCT',
+    'SALES',
+    'PEOPLE',
+    'DESIGN',
+    'FINANCE',
+  ];
+
+  const jobs = useJobs();
+  const filterLocation = useFilterLocation();
+
   const [viewTeamDropdown, setViewTeamDropdown] = useState(false);
-  const [curTeamValue, setcurTeamValue] = useState('');
+  const [curTeamValue, setCurTeamValue] = useState('');
+
+  const [viewLocationDropdown, setViewLocationDropdown] = useState(false);
+  const [curLocation, setCurLocation] = useState('');
+  const [savedLocations, setSavedLocations] = useState(['New York, NY']);
 
   const roleInputChange = (e) => {
     setViewTeamDropdown(true);
-    setcurTeamValue(e.target.value);
+    setCurTeamValue(e.target.value);
+  };
+
+  const [locations, setLocations] = useState([
+    'New York City, NY',
+    'San Francisco, CA',
+    'Los Angeles, CA',
+    'Atlanta, GA',
+    'Remote',
+  ]);
+
+  const locationInputChange = (e) => {
+    setViewLocationDropdown(true);
+    setCurLocation(e.target.value);
+  };
+
+  const selectLocation = (e) => {
+    filterLocation(e.target.textContent);
+    setCurLocation(e.target.textContent);
+    setViewLocationDropdown(false);
+
+    let temp = savedLocations;
+    temp.push(e.taraget.textContent);
+    setSavedLocations(temp);
+  };
+
+  const removeSavedLocation = (e) => {
+    setSavedLocations(
+      savedLocations.filter((loc) => loc !== e.currentTarget.value)
+    );
   };
 
   return (
@@ -54,7 +102,7 @@ const Filter = () => {
                   autoComplete="off"
                 />
                 <button
-                  onClick={() => setcurTeamValue('')}
+                  onClick={() => setCurTeamValue('')}
                   className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 mr-2"
                 >
                   <FontAwesomeIcon icon={faXmark} />
@@ -85,40 +133,72 @@ const Filter = () => {
               Location:
             </label>
 
-            <div class="relative">
-              <div class="h-8 bg-white flex border-b-2 border-indigo-500  items-center">
+            <div className="relative">
+              <div className="h-8 bg-white flex border-b-2 border-indigo-500  items-center">
                 <input
-                  value={curTeamValue}
+                  value={curLocation}
                   placeholder="Select"
                   name="select"
                   id="select"
-                  class="px-4 appearance-none outline-none text-gray-800 w-full"
-                  onChange={roleInputChange}
+                  className="px-4 appearance-none outline-none text-gray-800 w-full"
+                  onChange={locationInputChange}
                   autoComplete="off"
                 />
                 <button
-                  onClick={() => setcurTeamValue('')}
+                  onClick={() => setCurLocation('')}
                   className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 mr-2"
                 >
                   <FontAwesomeIcon icon={faXmark} />
                 </button>
                 <div className="h-3 border"></div>
                 <button
-                  onClick={() => setViewTeamDropdown(false)}
+                  onClick={() => setViewLocationDropdown(!viewLocationDropdown)}
                   className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 ml-2"
                 >
                   <FontAwesomeIcon icon={faAngleDown} />
                 </button>
               </div>
               <div
-                class={`absolute rounded shadow bg-white overflow-hidden peer-checked:flex flex-col w-full mt-1 border border-gray-200 ${
-                  viewTeamDropdown ? '' : 'hidden'
+                className={`bg-white flex border-b-2 flex-wrap gap-2 justify-center p-2 ${
+                  savedLocations.length === 0 ? 'hidden' : ''
                 }`}
               >
-                <div class="cursor-pointer group">
-                  <p class="block p-2 border-transparent border-l-4 group-hover:border-blue-600 group-hover:bg-gray-100">
-                    Python
-                  </p>
+                {savedLocations.map((location) => {
+                  return (
+                    <div className="bg-indigo-200 p-1 rounded">
+                      <p
+                        className="inline mr-2 text-sm
+                        "
+                      >
+                        {location}
+                      </p>
+                      <button
+                        onClick={removeSavedLocation}
+                        value={location}
+                        className="cursor-pointer outline-none focus:outline-none transition-all text-gray-500 hover:text-gray-800 mr-2"
+                      >
+                        <FontAwesomeIcon icon={faXmark} />
+                      </button>
+                    </div>
+                  );
+                })}
+              </div>
+              <div
+                className={`absolute rounded shadow bg-white overflow-hidden peer-checked:flex flex-col w-full mt-1 border border-gray-200 ${
+                  viewLocationDropdown ? '' : 'hidden'
+                }`}
+              >
+                <div className="cursor-pointer">
+                  {locations.map((location) => {
+                    return (
+                      <p
+                        onClick={selectLocation}
+                        class="block p-1 border-transparent border-l-4 hover:border-blue-600 hover:bg-gray-100"
+                      >
+                        {location}
+                      </p>
+                    );
+                  })}
                 </div>
               </div>
             </div>
@@ -139,7 +219,7 @@ const Filter = () => {
                   autoComplete="off"
                 />
                 <button
-                  onClick={() => setcurTeamValue('')}
+                  onClick={() => setCurTeamValue('')}
                   className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 mr-2"
                 >
                   <FontAwesomeIcon icon={faXmark} />
