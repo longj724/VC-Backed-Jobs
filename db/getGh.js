@@ -2,7 +2,7 @@ const { PrismaClient } = require('@prisma/client');
 const fs = require('fs');
 const cheerio = require('cheerio');
 const readline = require('readline');
-const { TEAMS } = require('./constants');
+const TEAMS = require('./constants');
 
 const prisma = new PrismaClient();
 
@@ -22,6 +22,7 @@ const insertJobs = async (folderPath) => {
       let link = '';
       let role = '';
       let location = '';
+      let team = '';
 
       for await (const line of rl) {
         if (
@@ -57,14 +58,49 @@ const insertJobs = async (folderPath) => {
             });
           }
 
+          // Infer team by looking at words in role
+          let teamTag = '';
+          let wordsInRole = role.split(' ');
+          for (let word of wordsInRole) {
+            word = word.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');
+
+            // Manual check for some commonly used words
+            if (word.toUpperCase() === 'ENGINEER') {
+              teamTag = 'Engineering';
+              team = 'Engineering';
+              break;
+            }
+
+            if (word.toUpperCase() === 'DEVELOPER') {
+              teamTag = 'Engineering';
+              team = 'Engineering';
+              break;
+            }
+
+            if (word.toUpperCase() === 'COMMUNITY') {
+              teamTag = 'People';
+              team = 'People';
+            }
+
+            if (TEAMS.includes(word.toUpperCase())) {
+              teamTag = word;
+              team = word;
+              break;
+            }
+          }
+
+          if (team === '') {
+            console.log('no team for:', role);
+          }
+
           await prisma.position.create({
             data: {
               role,
               link,
               location,
               firm: '',
-              team: '',
-              team_tag: '',
+              team: team,
+              team_tag: teamTag,
               board: 'Greenhouse',
               company_id: companyExists.id,
             },
