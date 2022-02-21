@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
 import { faXmark } from '@fortawesome/free-solid-svg-icons';
@@ -18,14 +18,15 @@ const Filter = () => {
   ];
 
   const jobs = useJobs();
-  const filterLocation = useFilterLocation();
+  const addFilterLocation = useFilterLocation()['add'];
+  const removeFilterLocation = useFilterLocation()['remove'];
 
   const [viewTeamDropdown, setViewTeamDropdown] = useState(false);
   const [curTeamValue, setCurTeamValue] = useState('');
 
   const [viewLocationDropdown, setViewLocationDropdown] = useState(false);
   const [curLocation, setCurLocation] = useState('');
-  const [savedLocations, setSavedLocations] = useState(['New York, NY']);
+  const [savedLocations, setSavedLocations] = useState([]);
 
   const roleInputChange = (e) => {
     setViewTeamDropdown(true);
@@ -46,12 +47,12 @@ const Filter = () => {
   };
 
   const selectLocation = (e) => {
-    filterLocation(e.target.textContent);
+    addFilterLocation(e.target.textContent);
     setCurLocation(e.target.textContent);
     setViewLocationDropdown(false);
 
     let temp = savedLocations;
-    temp.push(e.taraget.textContent);
+    temp.push(e.target.textContent);
     setSavedLocations(temp);
   };
 
@@ -59,6 +60,7 @@ const Filter = () => {
     setSavedLocations(
       savedLocations.filter((loc) => loc !== e.currentTarget.value)
     );
+    removeFilterLocation(e.currentTarget.value);
   };
 
   return (
