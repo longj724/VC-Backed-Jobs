@@ -3,45 +3,91 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
 import { faXmark } from '@fortawesome/free-solid-svg-icons';
 
-import { useJobs, useFilterLocation } from '../context/JobsProvider';
+import {
+  useJobs,
+  useFilterRole,
+  useFilterLocation,
+} from '../context/JobsProvider';
 
 const Filter = () => {
-  const TEAMS = [
-    'ENGINEERING',
-    'OPERATIONS',
-    'MARKETING',
-    'PRODUCT',
-    'SALES',
-    'PEOPLE',
-    'DESIGN',
-    'FINANCE',
-  ];
-
-  const jobs = useJobs();
-  const addFilterLocation = useFilterLocation()['add'];
-  const removeFilterLocation = useFilterLocation()['remove'];
-
-  const [viewTeamDropdown, setViewTeamDropdown] = useState(false);
-  const [curTeamValue, setCurTeamValue] = useState('');
-
-  const [viewLocationDropdown, setViewLocationDropdown] = useState(false);
-  const [curLocation, setCurLocation] = useState('');
-  const [savedLocations, setSavedLocations] = useState([]);
-
-  const roleInputChange = (e) => {
-    setViewTeamDropdown(true);
-    setCurTeamValue(e.target.value);
-  };
-
-  const [locations, setLocations] = useState([
+  const DEFAULT_LOCATIONS = [
     'New York City, NY',
     'San Francisco, CA',
     'Los Angeles, CA',
     'Atlanta, GA',
     'Remote',
-  ]);
+  ];
+
+  const jobs = useJobs();
+
+  const addFilterLocation = useFilterLocation()['add'];
+  const removeFilterLocation = useFilterLocation()['remove'];
+  const addFilterRole = useFilterRole()['add'];
+  const removeFilterRole = useFilterRole()['remove'];
+
+  const [viewRoleDropdown, setViewRoleDropdown] = useState(false);
+  const [curRole, setCurRole] = useState('');
+  const [savedRoles, setSavedRoles] = useState([]);
+  const [roleOptions, setRoleOptions] = useState([]);
+  const allRoles = jobs.map((job) => job.role);
+
+  const [viewLocationDropdown, setViewLocationDropdown] = useState(false);
+  const [curLocation, setCurLocation] = useState('');
+  const [savedLocations, setSavedLocations] = useState([]);
+  const [locations, setLocations] = useState(DEFAULT_LOCATIONS);
+  const allLocations = jobs.map((job) => job.location);
+
+  const roleInputChange = (e) => {
+    roleDropdownOptions(e);
+    setViewRoleDropdown(true);
+    setCurRole(e.target.value);
+  };
+
+  const roleDropdownOptions = (e) => {
+    const entered = e.target.value.toUpperCase();
+    let options = [];
+    for (let role of allRoles) {
+      
+      if (role.toUpperCase().includes(entered) && !options.includes(role)) options.push(role);
+
+      if (options.length === 5) {
+        break;
+      }
+    }
+    setRoleOptions(options);
+  };
+
+  const selectRole = (e) => {
+    addFilterRole(e.target.textContent);
+    setCurRole(e.target.textContent);
+    setViewRoleDropdown(false);
+
+    let temp = savedRoles;
+    temp.push(e.target.textContent);
+    setSavedRoles(temp);
+  };
+
+  const removeSavedRole = (e) => {
+    setSavedRoles(savedRoles.filter((rol) => rol !== e.currentTarget.value));
+    removeFilterRole(e.currentTarget.value);
+  };
+
+  const locationDropdownOptions = (e) => {
+    const entered = e.target.value.toUpperCase();
+    let options = [];
+    for (let loc of allLocations) {
+      loc = loc.toUpper();
+      if (loc.includes(entered) && !options.includes(loc)) options.push(loc);
+
+      if (options.length === 5) {
+        break;
+      }
+    }
+    setLocations(options);
+  };
 
   const locationInputChange = (e) => {
+    locationDropdownOptions(e);
     setViewLocationDropdown(true);
     setCurLocation(e.target.value);
   };
@@ -81,7 +127,7 @@ const Filter = () => {
                 </svg>
               </span>
               <input
-                placeholder="Job Title, keywords, or company"
+                placeholder="Job title, keywords, or company"
                 class="appearance-none rounded rounded-l border border-gray-400 border-b block pl-8 pr-6 py-2 w-3/4 bg-white text-sm placeholder-gray-400 text-gray-700 focus:bg-white focus:placeholder-gray-600 focus:text-gray-700 focus:outline-none"
               />
             </div>
@@ -95,7 +141,7 @@ const Filter = () => {
             <div class="relative">
               <div class="h-8 bg-white flex border-b-2 border-indigo-500  items-center">
                 <input
-                  value={curTeamValue}
+                  value={curRole}
                   placeholder="Select"
                   name="select"
                   id="select"
@@ -104,14 +150,14 @@ const Filter = () => {
                   autoComplete="off"
                 />
                 <button
-                  onClick={() => setCurTeamValue('')}
+                  onClick={() => setCurRole('')}
                   className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 mr-2"
                 >
                   <FontAwesomeIcon icon={faXmark} />
                 </button>
                 <div className="h-3 border"></div>
                 <button
-                  onClick={() => setViewTeamDropdown(false)}
+                  onClick={() => setViewRoleDropdown(false)}
                   className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 ml-2"
                 >
                   <FontAwesomeIcon icon={faAngleDown} />
@@ -119,14 +165,10 @@ const Filter = () => {
               </div>
               <div
                 class={`absolute rounded shadow bg-white overflow-hidden peer-checked:flex flex-col w-full mt-1 border border-gray-200 ${
-                  viewTeamDropdown ? '' : 'hidden'
+                  viewRoleDropdown ? '' : 'hidden'
                 }`}
               >
-                <div class="cursor-pointer group">
-                  <p class="block p-2 border-transparent border-l-4 group-hover:border-blue-600 group-hover:bg-gray-100">
-                    Python
-                  </p>
-                </div>
+                <div class="cursor-pointer group"></div>
               </div>
             </div>
           </div>
@@ -207,12 +249,12 @@ const Filter = () => {
           </div>
           <div className="max-w-md mx-auto">
             <label for="select" class="font-semibold block py-2">
-              Team:
+              Role:
             </label>
             <div class="relative">
               <div class="h-8 bg-white flex border-b-2 border-indigo-500  items-center">
                 <input
-                  value={curTeamValue}
+                  value={curRole}
                   placeholder="Select"
                   name="select"
                   id="select"
@@ -221,28 +263,60 @@ const Filter = () => {
                   autoComplete="off"
                 />
                 <button
-                  onClick={() => setCurTeamValue('')}
+                  onClick={() => setCurRole('')}
                   className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 mr-2"
                 >
                   <FontAwesomeIcon icon={faXmark} />
                 </button>
                 <div className="h-3 border"></div>
                 <button
-                  onClick={() => setViewTeamDropdown(false)}
+                  onClick={() => setViewRoleDropdown(false)}
                   className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 ml-2"
                 >
                   <FontAwesomeIcon icon={faAngleDown} />
                 </button>
               </div>
               <div
+                className={`bg-white flex border-b-2 flex-wrap gap-2 justify-center p-2 ${
+                  savedRoles.length === 0 ? 'hidden' : ''
+                }`}
+              >
+                {savedRoles.map((role) => {
+                  return (
+                    <div className="bg-indigo-200 p-1 rounded">
+                      <p
+                        className="inline mr-2 text-sm
+                        "
+                      >
+                        {role}
+                      </p>
+                      <button
+                        onClick={removeSavedRole}
+                        value={role}
+                        className="cursor-pointer outline-none focus:outline-none transition-all text-gray-500 hover:text-gray-800 mr-2"
+                      >
+                        <FontAwesomeIcon icon={faXmark} />
+                      </button>
+                    </div>
+                  );
+                })}
+              </div>
+              <div
                 class={`absolute rounded shadow bg-white overflow-hidden peer-checked:flex flex-col w-full mt-1 border border-gray-200 ${
-                  viewTeamDropdown ? '' : 'hidden'
+                  viewRoleDropdown ? '' : 'hidden'
                 }`}
               >
                 <div class="cursor-pointer group">
-                  <p class="block p-2 border-transparent border-l-4 group-hover:border-blue-600 group-hover:bg-gray-100">
-                    Python
-                  </p>
+                  {roleOptions.map((role) => {
+                    return (
+                      <p
+                        onClick={selectRole}
+                        class="block p-1 border-transparent border-l-4 hover:border-blue-600 hover:bg-gray-100"
+                      >
+                        {role}
+                      </p>
+                    );
+                  })}
                 </div>
               </div>
             </div>

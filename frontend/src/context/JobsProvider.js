@@ -3,6 +3,7 @@ import axios from 'axios';
 
 const JobsContext = createContext();
 const LocationFilterContext = createContext();
+const RoleFilterContext = createContext();
 
 export function useJobs() {
   return useContext(JobsContext);
@@ -12,11 +13,15 @@ export function useFilterLocation() {
   return useContext(LocationFilterContext);
 }
 
+export function useFilterRole() {
+  return useContext(RoleFilterContext);
+}
+
 const JobsProvider = ({ children }) => {
   const [allJobs, setAllJobs] = useState([]);
   const [jobs, setJobs] = useState([]);
   const [curLocationFilter, setCurLocationFilter] = useState([]);
-  const [curTeamFilter, setCurTeamFilter] = useState([]);
+  const [curRoleFilter, setCurRoleFilter] = useState([]);
   const [curCompanyFilter, setCurCompanyFilter] = useState([]);
 
   async function getData() {
@@ -48,8 +53,24 @@ const JobsProvider = ({ children }) => {
     let temp = curLocationFilter.filter((loc) => {
       return loc !== location;
     });
-    
+
     setCurLocationFilter(temp);
+  };
+
+  const addRoleFilter = (role) => {
+    setJobs(jobs.filter((job) => job.role.includes(role)));
+
+    let temp = curRoleFilter;
+    temp.push(role);
+    setCurRoleFilter(temp);
+  };
+
+  const removeRoleFilter = (role) => {
+    let temp = curRoleFilter.filter((rl) => {
+      return rl !== role;
+    });
+
+    setCurRoleFilter(temp);
   };
 
   const reapplyFilters = () => {
@@ -60,7 +81,7 @@ const JobsProvider = ({ children }) => {
           curLocationFilter.includes(job.location)) &&
         (curCompanyFilter.length === 0 ||
           curCompanyFilter.includes(job.name)) &&
-        (curTeamFilter.length === 0 || curTeamFilter.includes(job.teamTag))
+        (curRoleFilter.length === 0 || curRoleFilter.includes(job.teamTag))
       ) {
         temp.push(job);
       }
@@ -70,14 +91,18 @@ const JobsProvider = ({ children }) => {
 
   useEffect(() => {
     reapplyFilters();
-  }, [curLocationFilter, curCompanyFilter, curTeamFilter]);
+  }, [curLocationFilter, curCompanyFilter, curRoleFilter]);
 
   return (
     <JobsContext.Provider value={jobs}>
       <LocationFilterContext.Provider
         value={{ add: addLocationFilter, remove: removeLocationFilter }}
       >
-        {children}
+        <RoleFilterContext.Provider
+          value={{ add: addRoleFilter, remove: removeRoleFilter }}
+        >
+          {children}
+        </RoleFilterContext.Provider>
       </LocationFilterContext.Provider>
     </JobsContext.Provider>
   );
