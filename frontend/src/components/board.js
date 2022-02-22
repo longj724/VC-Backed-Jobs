@@ -42,7 +42,7 @@ const Board = () => {
                 aria-hidden
                 className="absolute inset-0 bg-green-200 opacity-50 rounded-full"
               ></span>
-              <span className="relative">
+              <span className="relative hover:cursor-pointer" >
                 <a
                   href={job.link}
                   target="_blank"
