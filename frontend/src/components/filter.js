@@ -76,8 +76,7 @@ const Filter = () => {
     const entered = e.target.value.toUpperCase();
     let options = [];
     for (let loc of allLocations) {
-      loc = loc.toUpper();
-      if (loc.includes(entered) && !options.includes(loc)) options.push(loc);
+      if (loc.toUpperCase().includes(entered) && !options.includes(loc)) options.push(loc);
 
       if (options.length === 5) {
         break;
@@ -134,44 +133,6 @@ const Filter = () => {
           </div>
         </div>
         <div className="row-span-1 grid grid-cols-3">
-          <div className="max-w-md mx-auto">
-            <label for="select" class="font-semibold block py-2">
-              Company:
-            </label>
-            <div class="relative">
-              <div class="h-8 bg-white flex border-b-2 border-indigo-500  items-center">
-                <input
-                  value={curRole}
-                  placeholder="Select"
-                  name="select"
-                  id="select"
-                  class="px-4 appearance-none outline-none text-gray-800 w-full"
-                  onChange={roleInputChange}
-                  autoComplete="off"
-                />
-                <button
-                  onClick={() => setCurRole('')}
-                  className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 mr-2"
-                >
-                  <FontAwesomeIcon icon={faXmark} />
-                </button>
-                <div className="h-3 border"></div>
-                <button
-                  onClick={() => setViewRoleDropdown(false)}
-                  className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 ml-2"
-                >
-                  <FontAwesomeIcon icon={faAngleDown} />
-                </button>
-              </div>
-              <div
-                class={`absolute rounded shadow bg-white overflow-hidden peer-checked:flex flex-col w-full mt-1 border border-gray-200 ${
-                  viewRoleDropdown ? '' : 'hidden'
-                }`}
-              >
-                <div class="cursor-pointer group"></div>
-              </div>
-            </div>
-          </div>
           <div className="max-w-md mx-auto">
             <label for="select" class="font-semibold block py-2">
               Location:

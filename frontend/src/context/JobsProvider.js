@@ -22,7 +22,6 @@ const JobsProvider = ({ children }) => {
   const [jobs, setJobs] = useState([]);
   const [curLocationFilter, setCurLocationFilter] = useState([]);
   const [curRoleFilter, setCurRoleFilter] = useState([]);
-  const [curCompanyFilter, setCurCompanyFilter] = useState([]);
 
   async function getData() {
     await axios
@@ -78,10 +77,8 @@ const JobsProvider = ({ children }) => {
     for (let job of allJobs) {
       if (
         (curLocationFilter.length === 0 ||
-          curLocationFilter.includes(job.location)) &&
-        (curCompanyFilter.length === 0 ||
-          curCompanyFilter.includes(job.name)) &&
-        (curRoleFilter.length === 0 || curRoleFilter.includes(job.teamTag))
+          curLocationFilter.some((loc) => job.location.includes(loc))) &&
+        (curRoleFilter.length === 0 || curRoleFilter.some((role) => job.role.includes(role)))
       ) {
         temp.push(job);
       }
@@ -90,8 +87,9 @@ const JobsProvider = ({ children }) => {
   };
 
   useEffect(() => {
+    console.log('in useEffect');
     reapplyFilters();
-  }, [curLocationFilter, curCompanyFilter, curRoleFilter]);
+  }, [curLocationFilter, curRoleFilter]);
 
   return (
     <JobsContext.Provider value={jobs}>
