@@ -1,12 +1,11 @@
-import { useState, useEffect } from 'react';
-import axios from 'axios';
+import { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUpRightFromSquare } from '@fortawesome/free-solid-svg-icons';
 
 import { useJobs } from '../context/JobsProvider';
 
 const Board = () => {
-  const jobs = useJobs();
+  const jobs = useJobs()['filteredJobs'];
   const [pageNumber, setPageNumber] = useState(0);
 
   const jobsPerPage = 10;

@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
 import { faXmark } from '@fortawesome/free-solid-svg-icons';
@@ -18,7 +18,7 @@ const Filter = () => {
     'Remote',
   ];
 
-  const jobs = useJobs();
+  const jobs = useJobs()['filteredJobs'];
 
   const addFilterLocation = useFilterLocation()['add'];
   const removeFilterLocation = useFilterLocation()['remove'];
@@ -29,13 +29,13 @@ const Filter = () => {
   const [curRole, setCurRole] = useState('');
   const [savedRoles, setSavedRoles] = useState([]);
   const [roleOptions, setRoleOptions] = useState([]);
-  const allRoles = jobs.map((job) => job.role);
+  const allRoles = useJobs()['allJobs'].map((job) => job.role);
 
   const [viewLocationDropdown, setViewLocationDropdown] = useState(false);
   const [curLocation, setCurLocation] = useState('');
   const [savedLocations, setSavedLocations] = useState([]);
   const [locations, setLocations] = useState(DEFAULT_LOCATIONS);
-  const allLocations = jobs.map((job) => job.location);
+  let allLocations = useJobs()['allJobs'].map((job) => job.location);
 
   const roleInputChange = (e) => {
     roleDropdownOptions(e);
@@ -59,7 +59,7 @@ const Filter = () => {
 
   const selectRole = (e) => {
     addFilterRole(e.target.textContent);
-    setCurRole(e.target.textContent);
+    setCurRole('');
     setViewRoleDropdown(false);
 
     let temp = savedRoles;
@@ -93,7 +93,7 @@ const Filter = () => {
 
   const selectLocation = (e) => {
     addFilterLocation(e.target.textContent);
-    setCurLocation(e.target.textContent);
+    setCurLocation('');
     setViewLocationDropdown(false);
 
     let temp = savedLocations;
@@ -158,7 +158,7 @@ const Filter = () => {
                 <div className="h-3 border"></div>
                 <button
                   onClick={() => setViewLocationDropdown(!viewLocationDropdown)}
-                  className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 ml-2"
+                  className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 ml-2 mr-2"
                 >
                   <FontAwesomeIcon icon={faAngleDown} />
                 </button>
@@ -232,7 +232,7 @@ const Filter = () => {
                 <div className="h-3 border"></div>
                 <button
                   onClick={() => setViewRoleDropdown(false)}
-                  className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 ml-2"
+                  className="cursor-pointer outline-none focus:outline-none transition-all text-gray-300 hover:text-gray-600 ml-2 mr-2"
                 >
                   <FontAwesomeIcon icon={faAngleDown} />
                 </button>

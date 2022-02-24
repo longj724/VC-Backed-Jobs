@@ -40,12 +40,13 @@ const JobsProvider = ({ children }) => {
   }, []);
 
   const addLocationFilter = (location) => {
-    setJobs(jobs.filter((job) => job.location.includes(location)));
+    // setJobs(jobs.filter((job) => job.location.includes(location)));
 
     // Update location filter state
     let temp = curLocationFilter;
     temp.push(location);
     setCurLocationFilter(temp);
+    reapplyFilters();
   };
 
   const removeLocationFilter = (location) => {
@@ -57,11 +58,12 @@ const JobsProvider = ({ children }) => {
   };
 
   const addRoleFilter = (role) => {
-    setJobs(jobs.filter((job) => job.role.includes(role)));
+    // setJobs(jobs.filter((job) => job.role.includes(role)));
 
     let temp = curRoleFilter;
     temp.push(role);
     setCurRoleFilter(temp);
+    reapplyFilters();
   };
 
   const removeRoleFilter = (role) => {
@@ -73,14 +75,29 @@ const JobsProvider = ({ children }) => {
   };
 
   const reapplyFilters = () => {
+    if (curRoleFilter.length === 0 && curLocationFilter.length === 0) {
+      setJobs(allJobs);
+      return;
+    }
+
     let temp = [];
+
     for (let job of allJobs) {
-      if (
-        (curLocationFilter.length === 0 ||
-          curLocationFilter.some((loc) => job.location.includes(loc))) &&
-        (curRoleFilter.length === 0 || curRoleFilter.some((role) => job.role.includes(role)))
-      ) {
-        temp.push(job);
+      if (curLocationFilter.length === 0) {
+        if (curRoleFilter.some((role) => job.role.includes(role))) {
+          temp.push(job);
+        }
+      } else if (curRoleFilter.length === 0) {
+        if (curLocationFilter.some((loc) => job.location.includes(loc))) {
+          temp.push(job);
+        }
+      } else {
+        if (
+          curLocationFilter.some((loc) => job.location.includes(loc)) &&
+          curRoleFilter.some((role) => job.role.includes(role))
+        ) {
+          temp.push(job);
+        }
       }
     }
     setJobs(temp);
@@ -92,7 +109,7 @@ const JobsProvider = ({ children }) => {
   }, [curLocationFilter, curRoleFilter]);
 
   return (
-    <JobsContext.Provider value={jobs}>
+    <JobsContext.Provider value={{ allJobs: allJobs, filteredJobs: jobs}}>
       <LocationFilterContext.Provider
         value={{ add: addLocationFilter, remove: removeLocationFilter }}
       >
