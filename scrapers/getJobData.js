@@ -3,7 +3,7 @@ const axios = require('axios');
 const fs = require('fs');
 const { writeDataToFile } = require('../utils/fileOperations.js');
 
-module.exports.getJobData = async (name) => {
+module.exports.getJobData = async (name, firm) => {
   // Try Lever
   let leverUrl = 'https://jobs.lever.co/' + name;
   let success = true;
@@ -26,6 +26,7 @@ module.exports.getJobData = async (name) => {
 
       const $ = cheerio.load(data);
       const openings = $('.posting');
+      fs.appendFileSync('./data/openings/lever/' + name + '.txt', firm + '\n');
       openings.each((_, opening) => {
         fs.appendFileSync(
           './data/openings/lever/' + name + '.txt',
@@ -61,6 +62,7 @@ module.exports.getJobData = async (name) => {
 
         const $ = cheerio.load(data);
         const openings = $('.opening');
+        fs.appendFileSync('./data/openings/gh/' + name + '.txt', firm);
         openings.each((_, opening) => {
           fs.appendFileSync(
             './data/openings/gh/' + name + '.txt',

@@ -17,7 +17,16 @@ const insertJobs = async (folderPath) => {
         crlfDelay: Infinity,
       });
 
+      let firm = '';
+      let curLine = -1;
+
       for await (const line of rl) {
+        curLine++;
+        if (curLine === 0) {
+          firm = line;
+          continue;
+        }
+
         if (line === null || line === '') continue;
         const companyName = file.split('.')[0];
 
@@ -56,7 +65,7 @@ const insertJobs = async (folderPath) => {
             role,
             link,
             location,
-            firm: '',
+            firm: firm,
             team: team,
             team_tag: teamTag,
             board: 'Lever',

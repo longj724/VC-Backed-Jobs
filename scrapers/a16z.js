@@ -16,39 +16,42 @@ const geta16zPage = async () => {
     });
 };
 
-// Change this to read from the local copy of the a16z file
-const getCompanies = async (filePath) => {
-  fs.readFile(filePath, (err, data) => {
-    if (err) throw err;
 
-    const $ = cheerio.load(data);
+const getCompaniesFroma16z = async (filePath) => {
+  const data = await fs.promises.readFile(filePath);
 
-    const divs = $('.company__thumbnail');
+  const $ = cheerio.load(data);
 
-    let companyUrls = [];
-    divs.each((_, element) => {
-      companyUrls.push($(element).find('a').attr('href'));
+  const divs = $('.company__thumbnail');
+
+  let companyUrls = [];
+  divs.each((_, element) => {
+    companyUrls.push($(element).find('a').attr('href'));
+  });
+
+  const companyNames = companyUrls
+    .filter((url) => url !== undefined)
+    .map((url) => {
+      let domain = new URL(url);
+      let hostname = domain.host;
+      let split = hostname.split('.');
+      console.log(split[split.length - 2]);
+      return split[split.length - 2];
     });
 
-    const companyNames = companyUrls
-      .filter((url) => url !== undefined)
-      .map((url) => {
-        let domain = new URL(url);
-        let hostname = domain.host;
-        let split = hostname.split('.');
-        console.log(split[split.length - 2]);
-        return split[split.length - 2];
-      });
+  return companyNames;
+};
 
-    companyNames.forEach((name) => {
-      getJobData(name);
-    });
+const getJobs = async () => {
+  let companies = await getCompaniesFroma16z('./data/firms/a16z.txt');
+  companies.forEach((name) => {
+    getJobData(name, 'a16z');
   });
 };
 
 const main = async () => {
   // await geta16zPage();
-  getCompanies('./data/firms/a16z.txt');
+  getJobs();
 };
 
 main();

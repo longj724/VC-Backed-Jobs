@@ -33,7 +33,7 @@ const getCompaniesFromAccel = async () => {
 const getJobs = async () => {
   let companies = await getCompaniesFromAccel();
   companies.forEach((name) => {
-    getJobData(name);
+    getJobData(name, 'Accel');
   });
 };
 

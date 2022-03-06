@@ -23,8 +23,15 @@ const insertJobs = async (folderPath) => {
       let role = '';
       let location = '';
       let team = '';
+      let firm = '';
 
       for await (const line of rl) {
+        if (curLine == 0) {
+          firm = line;
+          curLine++;
+          continue;
+        }
+
         if (
           line === null ||
           line === '' ||
@@ -98,7 +105,7 @@ const insertJobs = async (folderPath) => {
               role,
               link,
               location,
-              firm: '',
+              firm: firm,
               team: team,
               team_tag: teamTag,
               board: 'Greenhouse',
