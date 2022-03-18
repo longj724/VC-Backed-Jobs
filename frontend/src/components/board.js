@@ -36,6 +36,9 @@ const Board = () => {
             <p className="text-gray-900 whitespace-no-wrap">{job.location}</p>
           </td>
           <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
+            <p className="text-gray-900 whitespace-no-wrap">{job.firm}</p>
+          </td>
+          <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
             <span className="relative inline-block px-3 py-1 font-semibold text-green-900 leading-tight">
               <span
                 aria-hidden
@@ -70,21 +73,6 @@ const Board = () => {
     }
   };
 
-  // useEffect(() => {
-  //   async function getData() {
-  //     await axios
-  //       .get('/all-jobs')
-  //       .then((res) => {
-  //         return res.data;
-  //       })
-  //       .then((res) => {
-  //         console.log(res);
-  //         setAllJobs(res);
-  //       });
-  //   }
-  //   getData();
-  // }, []);
-
   return (
     <div className="p-12 rounded-md w-full row-span-2">
       <div className="-mx-4 sm:-mx-8 px-4 sm:px-8 py-4 overflow-x-auto">
@@ -103,6 +91,9 @@ const Board = () => {
                 </th>
                 <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
                   Location
+                </th>
+                <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                  Funded By
                 </th>
                 <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
                   Application Link

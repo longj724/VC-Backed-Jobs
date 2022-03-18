@@ -115,8 +115,8 @@ const Filter = () => {
           <h2 className="justify-self-center self-center font-bold text-xl">
             Search for jobs
           </h2>
-          <div className="self-center">
-            <div className="block relative">
+          {/* <div className="self-center"> */}
+            {/* <div className="block relative">
               <span class="h-full absolute inset-y-0 left-0 flex items-center pl-2">
                 <svg
                   viewBox="0 0 24 24"
@@ -129,8 +129,8 @@ const Filter = () => {
                 placeholder="Job title, keywords, or company"
                 class="appearance-none rounded rounded-l border border-gray-400 border-b block pl-8 pr-6 py-2 w-3/4 bg-white text-sm placeholder-gray-400 text-gray-700 focus:bg-white focus:placeholder-gray-600 focus:text-gray-700 focus:outline-none"
               />
-            </div>
-          </div>
+            </div> */}
+          {/* </div> */}
         </div>
         <div className="row-span-1 grid grid-cols-3">
           <div className="max-w-md mx-auto">
