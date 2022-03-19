@@ -7,6 +7,7 @@ app.use(express.json());
 app.use('/api/user', require('./routes/user'));
 app.use('/api/post', require('./routes/post'));
 app.use(require('./routes/jobs'));
+app.use(require('./routes/google'));
 
 app.get('/', (req, res) => {
   res.send('Hello World!');

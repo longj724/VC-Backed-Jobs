@@ -50,6 +50,8 @@ const JobsProvider = ({ children }) => {
   };
 
   const removeLocationFilter = (location) => {
+    console.log(curLocationFilter);
+    console.log(location);
     let temp = curLocationFilter.filter((loc) => {
       return loc !== location;
     });
@@ -75,6 +77,7 @@ const JobsProvider = ({ children }) => {
   };
 
   const reapplyFilters = () => {
+    console.log('calling reapply filters');
     if (curRoleFilter.length === 0 && curLocationFilter.length === 0) {
       setJobs(allJobs);
       return;
@@ -104,12 +107,11 @@ const JobsProvider = ({ children }) => {
   };
 
   useEffect(() => {
-    console.log('in useEffect');
     reapplyFilters();
   }, [curLocationFilter, curRoleFilter]);
 
   return (
-    <JobsContext.Provider value={{ allJobs: allJobs, filteredJobs: jobs}}>
+    <JobsContext.Provider value={{ allJobs: allJobs, filteredJobs: jobs }}>
       <LocationFilterContext.Provider
         value={{ add: addLocationFilter, remove: removeLocationFilter }}
       >

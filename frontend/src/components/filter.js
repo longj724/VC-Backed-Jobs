@@ -2,12 +2,14 @@ import { useEffect, useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
 import { faXmark } from '@fortawesome/free-solid-svg-icons';
+import _ from 'lodash';
 
 import {
   useJobs,
   useFilterRole,
   useFilterLocation,
 } from '../context/JobsProvider';
+import axios from 'axios';
 
 const Filter = () => {
   const DEFAULT_LOCATIONS = [
@@ -35,7 +37,7 @@ const Filter = () => {
   const [curLocation, setCurLocation] = useState('');
   const [savedLocations, setSavedLocations] = useState([]);
   const [locations, setLocations] = useState(DEFAULT_LOCATIONS);
-  let allLocations = useJobs()['allJobs'].map((job) => job.location);
+  // let allLocations = useJobs()['allJobs'].map((job) => job.location);
 
   const roleInputChange = (e) => {
     roleDropdownOptions(e);
@@ -47,8 +49,8 @@ const Filter = () => {
     const entered = e.target.value.toUpperCase();
     let options = [];
     for (let role of allRoles) {
-      
-      if (role.toUpperCase().includes(entered) && !options.includes(role)) options.push(role);
+      if (role.toUpperCase().includes(entered) && !options.includes(role))
+        options.push(role);
 
       if (options.length === 5) {
         break;
@@ -72,27 +74,29 @@ const Filter = () => {
     removeFilterRole(e.currentTarget.value);
   };
 
-  const locationDropdownOptions = (e) => {
-    const entered = e.target.value.toUpperCase();
-    let options = [];
-    for (let loc of allLocations) {
-      if (loc.toUpperCase().includes(entered) && !options.includes(loc)) options.push(loc);
-
-      if (options.length === 5) {
-        break;
-      }
-    }
+  const locationDropdownOptions = async (value) => {
+    const response = await axios.get('/location-options/' + value);
+    const data = await response.data;
+    let options = data.predictions.map((opt) => opt.description);
     setLocations(options);
   };
 
+  const debounceLDO = _.debounce(locationDropdownOptions, 500);
+
   const locationInputChange = (e) => {
-    locationDropdownOptions(e);
+    debounceLDO(e.target.value);
     setViewLocationDropdown(true);
     setCurLocation(e.target.value);
   };
 
   const selectLocation = (e) => {
-    addFilterLocation(e.target.textContent);
+    // New York City, NY, USA -> New York City, NY
+    const removeCountryName = e.target.textContent
+      .split(',')
+      .slice(0, -1)
+      .join();
+    addFilterLocation(removeCountryName);
+
     setCurLocation('');
     setViewLocationDropdown(false);
 
@@ -105,7 +109,13 @@ const Filter = () => {
     setSavedLocations(
       savedLocations.filter((loc) => loc !== e.currentTarget.value)
     );
-    removeFilterLocation(e.currentTarget.value);
+
+    const removeCountryName = e.currentTarget.value
+      .split(',')
+      .slice(0, -1)
+      .join();
+    console.log('rCn is', removeCountryName);
+    removeFilterLocation(removeCountryName);
   };
 
   return (
@@ -116,7 +126,7 @@ const Filter = () => {
             Search for jobs
           </h2>
           {/* <div className="self-center"> */}
-            {/* <div className="block relative">
+          {/* <div className="block relative">
               <span class="h-full absolute inset-y-0 left-0 flex items-center pl-2">
                 <svg
                   viewBox="0 0 24 24"
