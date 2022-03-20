@@ -90,18 +90,24 @@ const Filter = () => {
   };
 
   const selectLocation = (e) => {
+    const value = e.key === 'Enter' ? e.target.value : e.target.textContent;
+
+    let modifyInput = '';
     // New York City, NY, USA -> New York City, NY
-    const removeCountryName = e.target.textContent
-      .split(',')
-      .slice(0, -1)
-      .join();
-    addFilterLocation(removeCountryName);
+    if (value.includes(',')) {
+      modifyInput = value.split(',').slice(0, -1).join();
+    } else {
+      modifyInput = value;
+    }
+
+    console.log(modifyInput);
+    addFilterLocation(modifyInput);
 
     setCurLocation('');
     setViewLocationDropdown(false);
 
     let temp = savedLocations;
-    temp.push(e.target.textContent);
+    temp.push(value);
     setSavedLocations(temp);
   };
 
@@ -121,13 +127,11 @@ const Filter = () => {
     <div className="rounded-md w-full row-span-1 grid grid-rows-1 bg-gray-100">
       <div className="w-5/6 justify-self-center grid grid-rows-3">
         <div className="row-span-1 mt-5">
-          <h1 className="font-bold text-xl inline">
-            VC Backed Jobs
-          </h1>
+          <h1 className="font-bold text-xl inline">VC Backed Jobs</h1>
           <p className="mt-1">Jobs at companies funded by Accel and a16z</p>
         </div>
         <div className="row-span-1 flex justify-start gap-20 mt-5">
-          <h2 className="justify-self-center self-center font-bold text-lg">
+          <h2 className="justify-self-center self-center font-bold text-lg mt-5">
             Search for jobs
           </h2>
           <div className="">
@@ -138,6 +142,7 @@ const Filter = () => {
             <div className="relative">
               <div className="h-8 bg-white flex border-b-2 border-indigo-500 rounded-sm items-center">
                 <input
+                  onKeyPress={(e) => e.key === 'Enter' && selectLocation(e)}
                   value={curLocation}
                   placeholder="Select"
                   name="select"
