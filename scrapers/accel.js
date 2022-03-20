@@ -15,8 +15,6 @@ const getAccelPage = async () => {
     });
 };
 
-// getAccelPage();
-
 const getCompaniesFromAccel = async () => {
   let compList = [];
   const data = await fs.promises.readFile('./data/firms/accel.txt');
@@ -37,4 +35,9 @@ const getJobs = async () => {
   });
 };
 
-getJobs();
+const main = async () => {
+  await getAccelPage();
+  getJobs();
+};
+
+main();

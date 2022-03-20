@@ -50,7 +50,7 @@ const getJobs = async () => {
 };
 
 const main = async () => {
-  // await geta16zPage();
+  await geta16zPage();
   getJobs();
 };
 
