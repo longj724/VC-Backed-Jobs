@@ -121,9 +121,12 @@ const Filter = () => {
     <div className="rounded-md w-full row-span-1 grid grid-rows-1 bg-gray-100">
       <div className="w-5/6 justify-self-center grid grid-rows-3">
         <div className="row-span-1 mt-5">
-          <h1 className="font-bold text-xl inline">VC Backed Jobs</h1>
+          <h1 className="font-bold text-xl inline">
+            VC Backed Jobs
+          </h1>
+          <p className="mt-1">Jobs at companies funded by Accel and a16z</p>
         </div>
-        <div className="row-span-1 flex justify-start gap-20">
+        <div className="row-span-1 flex justify-start gap-20 mt-5">
           <h2 className="justify-self-center self-center font-bold text-lg">
             Search for jobs
           </h2>
@@ -133,7 +136,7 @@ const Filter = () => {
             </label>
 
             <div className="relative">
-              <div className="h-8 bg-white flex border-b-2 border-indigo-500  items-center">
+              <div className="h-8 bg-white flex border-b-2 border-indigo-500 rounded-sm items-center">
                 <input
                   value={curLocation}
                   placeholder="Select"
@@ -207,7 +210,7 @@ const Filter = () => {
               Role:
             </label>
             <div className="relative">
-              <div className="h-8 bg-white flex border-b-2 border-indigo-500  items-center">
+              <div className="h-8 bg-white flex border-b-2 border-indigo-500 rounded-sm items-center">
                 <input
                   value={curRole}
                   placeholder="Select"
