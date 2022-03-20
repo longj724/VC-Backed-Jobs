@@ -114,37 +114,21 @@ const Filter = () => {
       .split(',')
       .slice(0, -1)
       .join();
-    console.log('rCn is', removeCountryName);
     removeFilterLocation(removeCountryName);
   };
 
   return (
     <div className="rounded-md w-full row-span-1 grid grid-rows-1 bg-gray-100">
       <div className="w-5/6 justify-self-center grid grid-rows-3">
-        <div className="grid grid-cols-2 row-span-1">
-          <h2 className="justify-self-center self-center font-bold text-xl">
+        <div className="row-span-1 mt-5">
+          <h1 className="font-bold text-xl inline">VC Backed Jobs</h1>
+        </div>
+        <div className="row-span-1 flex justify-start gap-20">
+          <h2 className="justify-self-center self-center font-bold text-lg">
             Search for jobs
           </h2>
-          {/* <div className="self-center"> */}
-          {/* <div className="block relative">
-              <span class="h-full absolute inset-y-0 left-0 flex items-center pl-2">
-                <svg
-                  viewBox="0 0 24 24"
-                  class="h-4 w-4 fill-current text-gray-500"
-                >
-                  <path d="M10 4a6 6 0 100 12 6 6 0 000-12zm-8 6a8 8 0 1114.32 4.906l5.387 5.387a1 1 0 01-1.414 1.414l-5.387-5.387A8 8 0 012 10z"></path>
-                </svg>
-              </span>
-              <input
-                placeholder="Job title, keywords, or company"
-                class="appearance-none rounded rounded-l border border-gray-400 border-b block pl-8 pr-6 py-2 w-3/4 bg-white text-sm placeholder-gray-400 text-gray-700 focus:bg-white focus:placeholder-gray-600 focus:text-gray-700 focus:outline-none"
-              />
-            </div> */}
-          {/* </div> */}
-        </div>
-        <div className="row-span-1 grid grid-cols-3">
-          <div className="max-w-md mx-auto">
-            <label for="select" class="font-semibold block py-2">
+          <div className="">
+            <label for="select" className="font-semibold block py-2">
               Location:
             </label>
 
@@ -208,7 +192,7 @@ const Filter = () => {
                     return (
                       <p
                         onClick={selectLocation}
-                        class="block p-1 border-transparent border-l-4 hover:border-blue-600 hover:bg-gray-100"
+                        className="block p-1 border-transparent border-l-4 hover:border-blue-600 hover:bg-gray-100"
                       >
                         {location}
                       </p>
@@ -218,18 +202,18 @@ const Filter = () => {
               </div>
             </div>
           </div>
-          <div className="max-w-md mx-auto">
-            <label for="select" class="font-semibold block py-2">
+          <div className="">
+            <label for="select" className="font-semibold block py-2">
               Role:
             </label>
-            <div class="relative">
-              <div class="h-8 bg-white flex border-b-2 border-indigo-500  items-center">
+            <div className="relative">
+              <div className="h-8 bg-white flex border-b-2 border-indigo-500  items-center">
                 <input
                   value={curRole}
                   placeholder="Select"
                   name="select"
                   id="select"
-                  class="px-4 appearance-none outline-none text-gray-800 w-full"
+                  className="px-4 appearance-none outline-none text-gray-800 w-full"
                   onChange={roleInputChange}
                   autoComplete="off"
                 />
@@ -273,16 +257,16 @@ const Filter = () => {
                 })}
               </div>
               <div
-                class={`absolute rounded shadow bg-white overflow-hidden peer-checked:flex flex-col w-full mt-1 border border-gray-200 ${
+                className={`absolute rounded shadow bg-white overflow-hidden peer-checked:flex flex-col w-full mt-1 border border-gray-200 ${
                   viewRoleDropdown ? '' : 'hidden'
                 }`}
               >
-                <div class="cursor-pointer group">
+                <div className="cursor-pointer group">
                   {roleOptions.map((role) => {
                     return (
                       <p
                         onClick={selectRole}
-                        class="block p-1 border-transparent border-l-4 hover:border-blue-600 hover:bg-gray-100"
+                        className="block p-1 border-transparent border-l-4 hover:border-blue-600 hover:bg-gray-100"
                       >
                         {role}
                       </p>
@@ -293,7 +277,7 @@ const Filter = () => {
             </div>
           </div>
         </div>
-        <div class="row-span-1"></div>
+        <div className="row-span-1"></div>
       </div>
     </div>
   );

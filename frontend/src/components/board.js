@@ -46,7 +46,7 @@ const Board = () => {
               ></span>
               <span className="relative hover:cursor-pointer" >
                 <a
-                  href={job.link}
+                  href={job.board === 'Greenhouse' ? 'boards.greenhouse.io' + job.link : job.link}
                   target="_blank"
                   rel="noreferrer"
                   className="mr-2"
