@@ -47,12 +47,12 @@ const Filter = () => {
 
   const roleDropdownOptions = (e) => {
     const entered = e.target.value.toUpperCase();
-    let options = [];
+    let options = [ e.target.value ];
     for (let role of allRoles) {
       if (role.toUpperCase().includes(entered) && !options.includes(role))
         options.push(role);
 
-      if (options.length === 5) {
+      if (options.length === 4) {
         break;
       }
     }
@@ -128,7 +128,7 @@ const Filter = () => {
       <div className="w-5/6 justify-self-center grid grid-rows-3">
         <div className="row-span-1 mt-5">
           <h1 className="font-bold text-xl inline">VC Backed Jobs</h1>
-          <p className="mt-1">Jobs at companies funded by Accel, a16z, and Bessemer Venture</p>
+          <p className="mt-1">Jobs at companies funded by top VC firms</p>
         </div>
         <div className="row-span-1 flex justify-start gap-20 mt-5">
           <h2 className="justify-self-center self-center font-bold text-lg mt-5">

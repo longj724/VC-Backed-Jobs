@@ -42,6 +42,44 @@ const Board = () => {
             <span className="relative inline-block px-3 py-1 font-semibold text-green-900 leading-tight">
               <span
                 aria-hidden
+                className="absolute inset-0 bg-blue-200 opacity-50 rounded-full"
+              ></span>
+              <span className="relative hover:cursor-pointer" >
+                <a
+                  href={'https://crunchbase.com/organization/' + job.name}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="mr-2"
+                >
+                  Crunchbase
+                </a>
+                <FontAwesomeIcon icon={faUpRightFromSquare} />
+              </span>
+            </span>
+          </td>
+          <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
+            <span className="relative inline-block px-3 py-1 font-semibold text-green-900 leading-tight">
+              <span
+                aria-hidden
+                className="absolute inset-0 bg-blue-200 opacity-50 rounded-full"
+              ></span>
+              <span className="relative hover:cursor-pointer" >
+                <a
+                  href={'https://linkedin.com/company/' + job.name.toLowerCase() + '/'}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="mr-2"
+                >
+                  LinkedIn
+                </a>
+                <FontAwesomeIcon icon={faUpRightFromSquare} />
+              </span>
+            </span>
+          </td>
+          <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
+            <span className="relative inline-block px-3 py-1 font-semibold text-green-900 leading-tight">
+              <span
+                aria-hidden
                 className="absolute inset-0 bg-green-200 opacity-50 rounded-full"
               ></span>
               <span className="relative hover:cursor-pointer" >
@@ -94,6 +132,12 @@ const Board = () => {
                 </th>
                 <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
                   Funded By
+                </th>
+                <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                  Crunchbase
+                </th>
+                <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                  LinkedIn
                 </th>
                 <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
                   Application Link
