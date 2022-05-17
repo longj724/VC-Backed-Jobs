@@ -44,16 +44,21 @@ const Board = () => {
                 aria-hidden
                 className="absolute inset-0 bg-blue-200 opacity-50 rounded-full"
               ></span>
-              <span className="relative hover:cursor-pointer" >
+              <span className="relative hover:cursor-pointer">
                 <a
                   href={'https://crunchbase.com/organization/' + job.name}
                   target="_blank"
                   rel="noreferrer"
-                  className="mr-2"
+                  className="mr-2 text-blue-600"
                 >
                   Crunchbase
                 </a>
-                <FontAwesomeIcon icon={faUpRightFromSquare} />
+                <a
+                  href={'https://crunchbase.com/organization/' + job.name}
+                  className="text-blue-600"
+                >
+                  <FontAwesomeIcon icon={faUpRightFromSquare} />
+                </a>
               </span>
             </span>
           </td>
@@ -63,16 +68,29 @@ const Board = () => {
                 aria-hidden
                 className="absolute inset-0 bg-blue-200 opacity-50 rounded-full"
               ></span>
-              <span className="relative hover:cursor-pointer" >
+              <span className="relative hover:cursor-pointer">
                 <a
-                  href={'https://linkedin.com/company/' + job.name.toLowerCase() + '/'}
+                  href={
+                    'https://linkedin.com/company/' +
+                    job.name.toLowerCase() +
+                    '/'
+                  }
                   target="_blank"
                   rel="noreferrer"
-                  className="mr-2"
+                  className="mr-2 text-blue-600"
                 >
                   LinkedIn
                 </a>
-                <FontAwesomeIcon icon={faUpRightFromSquare} />
+                <a
+                  href={
+                    'https://linkedin.com/company/' +
+                    job.name.toLowerCase() +
+                    '/'
+                  }
+                  className="text-blue-600"
+                >
+                  <FontAwesomeIcon icon={faUpRightFromSquare} />
+                </a>
               </span>
             </span>
           </td>
@@ -82,9 +100,13 @@ const Board = () => {
                 aria-hidden
                 className="absolute inset-0 bg-green-200 opacity-50 rounded-full"
               ></span>
-              <span className="relative hover:cursor-pointer" >
+              <span className="relative hover:cursor-pointer">
                 <a
-                  href={job.board === 'Greenhouse' ? 'https://boards.greenhouse.io' + job.link : job.link}
+                  href={
+                    job.board === 'Greenhouse'
+                      ? 'https://boards.greenhouse.io' + job.link
+                      : job.link
+                  }
                   target="_blank"
                   rel="noreferrer"
                   className="mr-2"
@@ -133,10 +155,10 @@ const Board = () => {
                 <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
                   Funded By
                 </th>
-                <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-center text-xs font-semibold text-gray-600 uppercase tracking-wider">
                   Crunchbase
                 </th>
-                <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-center text-xs font-semibold text-gray-600 uppercase tracking-wider">
                   LinkedIn
                 </th>
                 <th className="px-5 py-3 border-b-2 border-gray-300 bg-gray-200 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">

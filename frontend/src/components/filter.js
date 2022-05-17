@@ -100,7 +100,6 @@ const Filter = () => {
       modifyInput = value;
     }
 
-    console.log(modifyInput);
     addFilterLocation(modifyInput);
 
     setCurLocation('');
