@@ -36,7 +36,7 @@ const getJobs = async () => {
 };
 
 const main = async () => {
-  await getAccelPage();
+  // await getAccelPage();
   getJobs();
 };
 

@@ -36,11 +36,6 @@ const insertJobs = async (folderPath) => {
         const location = $('.posting-category').first().text();
         const team = $('.sort-by-team').text();
 
-        console.log('role is', role);
-        console.log('link is', link);
-        console.log('location is', location);
-        console.log('team is', team);
-
         let teamTag = '';
         if (TEAMS.includes(team.toUpperCase())) {
           teamTag = team;
